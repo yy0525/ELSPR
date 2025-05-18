@@ -12,7 +12,7 @@ pip install poetry
 
 ### Analyze preference data
 
-> Download IQS or Comet model from Huggingface <a href="https://huggingface.co/GyQAQ/Instruction-quality-scoring">Link</a>, and save it under */CaR/Ranking/lightning_logs/*.
+> Download ...
 
 Default setting
 ```bash
