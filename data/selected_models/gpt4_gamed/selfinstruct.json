@@ -1,0 +1,1514 @@
+[
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The sentence you are given might be too wordy, complicated, or unclear. Rewrite the sentence and make your writing clearer by keeping it concise. Whenever possible, break complex sentences into multiple sentences and eliminate unnecessary words.\n\nIf you have any questions about my rate or if you find it necessary to increase or decrease the scope for this project, please let me know.",
+    "output": "Please let",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Analyze the word choice, phrasing, punctuation, and capitalization in the given email. How may the writer of this email sound to the reader? These tones include Disheartening, Accusatory, Worried, Curious, Surprised, Disapproving, Unassuming, Formal, Assertive, Confident, Appreciative, Concerned, Sad, Informal, Regretful, Encouraging, Egocentric, Joyful, Optimistic, and Excited.\n\nHi Jen, \nI hope you're well. Can we catch up today? I'd appreciate your input on my presentation for tomorrow's meeting. I'd especially love it if you could double-check the sales numbers with me. There's a coffee in it for you!",
+    "output": "The writer",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Rewrite the given text and correct grammar, spelling, and punctuation errors.\n\nIf you'd told me year ago that today I would finish a marathon, I would of laughed. Your support had a huge affect on me!",
+    "output": "If you had",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a paper citation, convert it to the requested citation style.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:",
+    "output": "Vaswani, A",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Desk jobs require writing a lot of emails, so it isn't surprising we get tired of repeating ourselves. Come up with several synonyms for the given word.\n\nSincerely",
+    "output": "1. Regards",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated.",
+    "output": "Subject: Y",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The tone of the email should be changed and rewritten in a more professional manner.\n\nSubject: Asking for Vacation Time\nHi [Employer], \nI hope all is well. I am writing to request a day off on [date]. I have already taken care of my work responsibilities for that day and will be available to answer any questions or concerns you may have. \nThank you for your time, \n[Your name]",
+    "output": "Subject: R",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a social media post about the call for collaboration on a crowdsourcing project in a persuasive way.",
+    "output": "📣 Attentio",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "My favorite witty review of The Rings of Power series is this:",
+    "output": "\"With a sprinkle of magic and a whole lot of ambition, The Rings of Power series weaves a tale that is both enchantingly captivating and dramatically epic. It's as if J.R.R. Tolkien, George R.R. Martin, and C.S. Lewis had a literary lovechild, and raised it on a steady diet of lore, action, and wit. The series transports readers to a fantastical realm brimming with intrigue and adventure, where heroes and villains alike are bound by the power of ancient rings. It's a riveting journey that leaves you breathless, spellbound, and clamoring for more. If you're seeking a story that marries the grandiosity of Middle Earth with the intricate world-building of Westeros, then look no further than The Rings of Power series.\"",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A helpful writing exercise is writing a story without using adjectives or adverbs. This will help you learn to use other words and phrases to describe what you are trying to say. Here are some examples:",
+    "output": "Example 1:",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with some search queries on google about coding stuff.",
+    "output": "1. \"Top pr",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Discover the most relevant StackOverflow questions for your search term. And output a list of their URLs.\n\nremove item in array",
+    "output": "Here are s",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given an algorithm or a search query about coding. Look for a code snippet related to the search query.\n\nPython loop",
+    "output": "Here's a s",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are provided with a description of the code, specifications, or prompts. Your help is needed in automating code generation to speed up the development process.\n\npython function to determine whether a number is prime.",
+    "output": "I can prov",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "When you're stuck on a coding problem, the best place to look for help is in the documentation. Read the docs carefully and see if there's a section that covers your specific issue. Often, the answer will be right there in front of you. If not, try searching for key terms related to your problem. Come up with the useful links about the given search term.\n\nsql find duplicate values",
+    "output": "When you'r",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We have entered the home supplies budget in the following table. Calculate the last column with the given function and rewrite the completed table.\nNote that, columns in a row are separated using a comma, and rows are separated using a \"|\".\n\nItem, Qty, Price, Subtotal | mango, 5, 500, ? | apple, 4, 150, ? | oil, 2, 1500, ?  \nFunction: column2 * column 3",
+    "output": "Here is th",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please write the Excel function name associated with each description.\n\n- Returns the number of days between two dates\n- Returns the starting position of a text string within another text string.\n- Returns the number in the middle of the set of given numbers",
+    "output": "- Returns ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What are the steps to using random (yet coherent) text as filler content within your Word document?",
+    "output": "To use ran",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a soothing pastel color palette for your slides. Pastel colors generally come across as pretty and delicate, so you’ll want to make sure your presentation calls for a similar mood. Choose up to five colors or color codes.",
+    "output": "Here is a ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "I bought two shirts from the store and each one cost me $10. I also bought a pair of pants and they cost me $20. Then, I bought a dress and it cost me $30. Also,  I bought a pair of shoes and they cost me $40. Lastly, I bought a jacket and it cost me $50.\n\nMake a table chart showing items, the number, and the price of these items. Separate columns with \"|\".",
+    "output": "| Item    ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find sentences from reliable sources such as the Guardian or Forbes that contain the exact match for the given sentence or phrase. Also, mention the source of each sentence.\n\nThere are great options",
+    "output": "1. \"There are great options for outdoor swimming in the UK.\" - The Guardian, \"The Joy of Wild Swimming: The UK's 20 Best Outdoor Pools and Rivers\" (June 2021) \nSource: https://www.theguardian.com/travel/2021/jun/20/the-joy-of-wild-swimming-the-uks-20-best-outdoor-pools-and-rivers\n\n2. \"There are great options to choose from, but the best one for you depends on your needs and budget.\" - Forbes, \"Best VPN Services of 2021\" (June 2021) \nSource: https://www.forbes.com/advisor/technology/best-vpn-services/",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "During writing, we added an asterisk for the word that did not come to mind. You will need to provide several examples to demonstrate all the words that can be used in the sentence instead of the asterisk.\n\nwe * to know",
+    "output": "1. we need",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of alternatives and paraphrases for the underlined word.\n\nwhat we have _expected",
+    "output": "1. what we",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a skill assessment questioner for R (Programming Language).",
+    "output": "Title: R P",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a template for First-Person LinkedIn profile summary.",
+    "output": "[Your Name",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a LinkedIn post to announce that you have accepted a new job offer.",
+    "output": "🎉 Exciting",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of desirable Skills for software engineers to add to LinkedIn.",
+    "output": "1. Programming Languages: Java, Python, C++, C#, JavaScript, Ruby, PHP, Swift, Kotlin, TypeScript, Scala, Go, Rust, Shell Scripting\n2. Web Development: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Angular, React, Vue.js, Node.js, Express.js, Django, Ruby on Rails, ASP.NET, Laravel\n3. Mobile App Development: iOS (Swift, Objective-C), Android (Java, Kotlin), Flutter, React Native, Xamarin\n4. Databases: SQL, MySQL, PostgreSQL, Oracle, MongoDB, Firebase, Couchbase, Cassandra, Redis, Amazon DynamoDB\n5. Cloud Computing: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, Heroku, IBM Cloud, Oracle Cloud, OpenStack\n6. DevOps: Docker, Kubernetes, Jenkins, GitLab CI/CD, Travis CI, CircleCI, Vagrant, Ansible, Puppet, Chef, Terraform\n7. Version Control: Git, GitHub, Bitbucket, GitLab, Subversion, Mercurial\n8. Agile Methodologies: Scrum, Kanban, Extreme Programming (XP), Lean Software Development, Test-Driven Development (TDD)\n9. Testing: Unit Testing, Integration Testing, System Testing, Acceptance Testing, Test Automation, Selenium, JUnit, Mockito, Pytest, Mocha, Jest, Cypress\n10. Software Development Principles: Object-Oriented Programming (OOP), Functional Programming, Design Patterns, SOLID, DRY, KISS, YAGNI\n11. Computer Science Fundamentals: Data Structures, Algorithms, Operating Systems, Networking, Databases, Software Engineering, Distributed Systems\n12. Cybersecurity: Encryption, Secure Coding, Penetration Testing, Web Application Security, Network Security, Ethical Hacking, OWASP Top Ten\n13. Machine Learning & AI: TensorFlow, Keras, PyTorch, Scikit-Learn, NLP, Computer Vision, Deep Learning, Reinforcement Learning, Natural Language Processing\n14. Big Data: Hadoop, Spark, Hive, Pig, Kafka, Elasticsearch, Logstash, Kibana, Flink, Storm, HBase\n15. UX/UI Design: User Experience Design, User Interface Design, Wireframing, Prototyping, Interaction Design, Usability Testing, Sketch, Adobe XD, Figma\n16. Project Management: Jira, Trello, Asana, Basecamp, Microsoft Project, Pivotal Tracker, Agile Project Management, Waterfall, PRINCE2\n17. Technical Writing & Communication: Documentation, Tutorials, Presentations, Blogging, Technical Support, Client Communication, Team Collaboration\n18. Soft Skills: Problem Solving, Critical Thinking, Time Management, Adaptability, Teamwork, Leadership, Emotional Intelligence, Conflict Resolution\n19. Continuous Learning: Staying current with new technologies, industry trends, and best practices; attending workshops, conferences, and online courses; contributing to open-source projects\n20. Certification: Obtaining relevant certifications like PMP, ScrumMaster, AWS Certified Solutions Architect, Google Cloud Professional, Microsoft Certified Solutions Developer, Oracle Certified Java Programmer, CISSP, CEH, etc.",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will be asked to answer the following question as part of the LinkedIn Skill assessments.\n\nYou find that your project has a tag and branch both named push-notifications, which causes confusion when trying to print out given reference. How can you specify which branch you want to look at?",
+    "output": "To specify",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Take the title of the product and extract its attributes. The attributes in this case refer to the characteristics of the products, such as their brand and color. Your answer must a list following the format of \"attribute: value\".\n\nSAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed, Thermal Control, MZ-V8P2T0B",
+    "output": "1. Brand: SAMSUNG\n2. Model: 980 PRO SSD\n3. Capacity: 2TB\n4. Interface: PCIe NVMe Gen 4\n5. Form Factor: M.2\n6. Type: Internal Solid State Hard Drive Memory Card\n7. Feature: Maximum Speed\n8. Feature: Thermal Control\n9. Model Number: MZ-V8P2T0B",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should write a Product Description that will persuade the buyer that the product is beneficial.\n\nFlipslide Game, Electronic Handheld Game | Flip, Slide, and Match the Colors to Beat the Clock - 4 Game Modes - Multiplayer Fun",
+    "output": "Introducin",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What other Amazon products might interest someone who visited the given product?\n\nZeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black",
+    "output": "Here are s",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Compare the given item with similar products based on its properties such as price, rating, etc. For product comparison, use a table and separate the columns with \"|\".\n\nItem: iBayam Journal Planner Pens Colored Pens Fine Point Markers Fine Tip Drawing Pens Porous Fineliner Pen for Journaling Writing Note Taking Calendar Coloring Art Office Back to School Supplies, 18 Color",
+    "output": "| Product ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a  review based on the given information.\n\n- Product: Persil Discs Laundry Detergent Pacs, Original Scent, High Efficiency (HE) Compatible, Laundry Soap, 62 Count\n- Sentiment: Positive",
+    "output": "Title: Exc",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a short description about the given movie or series.\n\nThe Witcher (2019)",
+    "output": "The Witche",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of some series or movies that would be enjoyable for someone who liked the given series.\n\nSquid Game",
+    "output": "If you enj",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give examples of popular shows and movies in the genre.\n\nGenre: Crime TV Shows",
+    "output": "1. Breakin",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "In what genres does the given movie or series fall?\n\nManifest",
+    "output": "\"Manifest\"",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief description of the given category of movies and shows.\n\nPeriod Dramas",
+    "output": "Period dra",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide an example of how a table of contents can be generated automatically in a LATEX document. Make sure your example contains the necessary commands.",
+    "output": "To generat",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Imagine you have a FEN notation of a chessboard. How can you draw a board to show this state of the chessboard in LATEX? Create a LATEX code that includes all the required commands and packages.",
+    "output": "To draw a ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What is the output of the given LATEX code?\n\n\\documentclass{article}\n\\begin{document}\nFirst document. This is a simple example, with no \nextra parameters or packages included.\n\\end{document}",
+    "output": "The output",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should find a few LATEX templates appropriate for the task at hand and list the links to them.\n\nHomework Assignment",
+    "output": "I have fou",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a simple guide for uploading the bibliography database\n on Overleaf.",
+    "output": "Uploading ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choose Spotify playlists that match the given mood. Provide a link to these playlists for easy access.\n\nFeeling Good",
+    "output": "1. [Feelin",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Curate a Spotify playlist based on the vibe. Publish this playlist as a song list.\n\nVibe: coding on weekend",
+    "output": "Here's a c",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "How would you describe the meaning of this lyrics? Describe some of the metaphors.\n\nMy lover’s got humor\nShe’s the giggle at a funeral\nKnows everybody’s disapproval\nI should’ve worshipped her sooner",
+    "output": "This lyric",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest some Audiobooks for First-Time Listeners. You can attract them by choosing popular works.",
+    "output": "1. Harry P",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the most popular podcasts.",
+    "output": "As of Octo",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should take the time to read the situation and problem carefully and give the best advice you can.\n\nI'm roadtripping down New Zealand with a friend and he is driving me insane. He hasn't enjoyed all the tours we've been on and doesn't want to chat about ANYTHING. We're a week into our trip and this is the quietest I've ever been when hanging out with another person as he rebuffs all my attempts at conversation. He wears his airpods in the car and around the accommodation - not that I've kept trying to talk to him. Honestly, he is bringing some seriously bad vibes to everything and it's ruining my trip.\nWe don't have anything booked in yet for the South Island, so I'm planning to ditch him in Wellington at the ferry. Probably book my own car in Picton and just relax alone for the rest of the trip. (Just thinking about it is such sharp relief that it makes me feel emotional. I'll pay whatever price I have to just to get away from him.)\nObviously telling him he is ruining my trip with his negative energy isn't the best way to approach this.\nAny advice for the best approach so we can split amicably? Or at least not have an argument that ends with very hurt feelings?",
+    "output": "It's impor",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a description that provides a set of facts or a scenario. It is up to you to craft a story from these facts and scenarios. The missing pieces must be filled in with imaginative but logical information.\n\nTen European football teams – the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and Wales – will participate in a season-long “OneLove” campaign promoting inclusion and opposing discrimination.",
+    "output": "Once upon ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the given query, suggest some related search queries.\n\nlearning french",
+    "output": "1. Best re",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please suggest a few papers to consider based on the search term given. The names of the papers should be listed.\n\nTopic: scaling law + machine learning",
+    "output": "1. \"Univer",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Prepare an email signature template for the given person or company.\n\na graduate student of computer science",
+    "output": "[Your Full",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "React properly to reviews from your customers. In your responses, you can highlight your business' policies and customer service.\n\nAnother repeat visit and no disappointment from us. Great place for breakfast or brunch - and you won't need to eat again for awhile. The restaurant is close to the Tenderloin so be aware of your surroundings.\nWe enjoyed the Succotash Omelet (at least my wife enjoyed it), the Pulled Pork Benedict and the Hangtown Fry. Portions are large and pricing is fair. I wish we could have managed a Beignet Flight!\nDefinitely a spot to seek out. It can be crowed at times so be patient. Well worth any wait.",
+    "output": "Dear custo",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a good Twitter Bio. Try to cover all the provided main points in your generated bio.\n\nName: Jane\nMain points:\n- Architect\n- Interested in Tech\nWritten in first person\nUse casual tone",
+    "output": "Hi, I'm Ja",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We need to write a thematic tweet to share company news and facts. Please take a careful look at the facts and details provided and create a tweet based on them.\n\n- news: Applications for summer internships are open now\n- Start with a thematic tie-in to Halloween",
+    "output": "👻 Boo! Don",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company.\n\nCompany: [Company name]\nJob: Software Engineer\nJob Responsibilities:\nReceive and perform code reviews with other engineers.\nWrite unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\nWork collaboratively with fellow software engineers to build features requested by business stakeholders.\nParticipate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nDiagnose, debug, and perform root cause analysis of issues and defects.\nSkills and experience that will lead to success:\nExperience with a modern software programming language. We use Python, and Pyspark extensively.\nExperience with cloud systems like AWS or Azure\nExperience writing SQL queries \nStrong written and verbal communication skills\nEagerness to work in a highly-collaborative environment\nSome visualization experience such as Tableau or PowerBI is helpful",
+    "output": "Job Title:",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Considering the reason for the rejection, write a polite rejection letter for rejecting a candidate.\n\nReason: You came in second",
+    "output": "[Your Name",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We've already decided on the title and topic for our blog post. I would appreciate it if you wrote an introduction paragraph to attract the readers' attention.\n\nBlog title: Healthy Apple Muffins\nBlog Topic: recipe and tips for cooking a good apple muffin",
+    "output": "Are you cr",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design an outline for a blog post based on the given information and list the sections accordingly.\n\nThis blog post is going to about making a list of last-minute gift ideas. Also, the tone of the post is going to be relaxed and casual.",
+    "output": "I. Introdu",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a section for a blog post and try to cover all of the provided information about this section in your text.\n\nBlog Topic: 7 Fall Fashion Trends Worth Taking on Your Trip\nSection Title: Trusty Jeans\nMain point of the section: jeans can be worn all year and look good with everything .",
+    "output": "Section Ti",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a detailed caption for an Instagram post about a discount. A proper caption should explain the product, offer the discount, and tell the user how to claim it.\n\nProduct: Golang course\nProduct description: teaching the foundational skills for building cloud services, web applications, DevOps tools, and backend development\nDiscount: 50%\nHow to claim: Use the coupon code: GOLANG",
+    "output": "\"Unlock yo",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a captivating Instagram caption based on the provided details. Try to think of as many captions as you can.\n\nI am sharing images of the first snow of the year taken from a window in an office",
+    "output": "1. \"Let it",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a topic for an Instagram post. Help the post reach a broader audience by suggesting hashtags related to the post.\n\nAnother episode of women in science is out now",
+    "output": "#WomenInSc",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Use appropriate emojis to convey the meaning in the given text.\n\nCute cat\nplayful\nSoft",
+    "output": "🐱 Cute cat\n😸 Playful\n🐾 Soft",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The topic of a YouTube post has been described and based on the information, you need to write a hook for starting the post. A catchy hook will keep your readers interested so they keep reading. It would be great if you could come up with as many hooks as you can.\n\nA video showing how to make a tasty cup of coffee",
+    "output": "1. \"Are yo",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using the provided topic as a starting point, brainstorm ideas for videos that can be made about it on YouTube.\n\nIn spite of the fact that procrastination feels bad to you, why do you do it?",
+    "output": "1. \"The Sc",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should choose a YouTube video title based on the video's content. A video's title tells viewers what to expect from it. It should be direct, honest, and clear. The title of the video needs to capture the attention of viewers, so do not use an unclear or ambiguous one.\n\nA research study has been conducted to determine if exercise really can \"boost\" your metabolism.",
+    "output": "\"Boost You",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choosing a name for your product or business YouTube channel is an important part of the process. Based on the description of the product or business, you should come up with some interesting names. Take some time to brainstorm your ideas.\n\nHere you will find videos and content that will help students prepare for the application process to graduate schools as well as how to apply to graduate schools",
+    "output": "1. GradSch",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find the answer that best describes the underlined SAT word. Select the correct option and explain the meaning of the underlined word.\n\nDespite the _cacophony, the student tried to study. \nA. Loud sounds\nB. Difficult subject\nC. Late hour\nD. Low lighting",
+    "output": "A. Loud so",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find synonyms for the given word. You need to write down how the provided synonyms differ from the original word in terms of meaning, usage, etc.\n\nadversity",
+    "output": "1. Misfort",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Discuss the origins and history of the word that has been given to you.\n\noblique",
+    "output": "The word \"oblique\" has a rich history that traces back to its origins in Latin and Old French. It is an adjective used to describe something that is slanting, sloping, or indirect, and it has been used in various contexts such as mathematics, geometry, and general descriptions.\n\nThe etymology of \"oblique\" begins with the Latin word \"obliquus,\" which is derived from two parts: \"ob-\" meaning \"against\" or \"toward\" and \"liquus\" meaning \"slanting\" or \"askew.\" In Latin, \"obliquus\" was used to describe something that was not parallel or perpendicular to a given reference line, or something that deviated from a direct path.\n\nIn the late 14th century, the word was adopted into Old French as \"oblique\" with a similar meaning. From there, it made its way into Middle English around the 15th century, where it was spelled as \"oblike\" or \"oblique.\" The spelling was later standardized to \"oblique\" by the 16th century.\n\nThroughout history, the word \"oblique\" has been used in various contexts to describe angles, lines, and directions that are not parallel or perpendicular to each other. In geometry, an oblique angle is an angle that is not a right angle, and oblique lines are those that are not parallel nor perpendicular to each other. In anatomy, oblique muscles are those that run diagonally across the body, such as the external and internal oblique muscles in the abdomen.\n\nIn a more general sense, \"oblique\" is used to describe something that is indirect, not straightforward, or obscure. For example, an oblique reference is one that is not directly stated but suggested or hinted at, while oblique lighting is used in photography and art to create shadows and depth by shining light at an angle.\n\nIn summary, the word \"oblique\" has its origins in Latin and Old French and has evolved over time to describe various concepts related to angles, lines, and directions that deviate from parallel or perpendicular. Its use has expanded into general language to refer to things that are indirect or not straightforward.",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give the provided brand a motto to use as a part of its marketing strategies.\n\nThe Ice cream shop is a small, quaint shop located in the heart of the historic district. They offer a variety of ice cream flavors, as well as Italian ice, gelato, and sorbet. The shop has a few tables and chairs, but most of their business is to-go. They offer a loyalty program where you can get a free scoop of ice cream after 10 purchases.",
+    "output": "\"Sweet Memories in Every Scoop - The Ice Cream Shop, Your Hometown Delight!\"",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A confirmation email should be written appropriately for the situation.\n\nA meeting has been scheduled, and the sender expects the other to review the slides.",
+    "output": "Subject: Meeting Scheduled - Please Review the Slides\n\nDear [Recipient's Name],\n\nI hope this email finds you well. I am writing to confirm that our scheduled meeting will take place on [date] at [time] in [location]. The purpose of this meeting is to discuss [main topic or agenda of the meeting].\n\nIn preparation for the meeting, I have attached the presentation slides for your review. I kindly ask that you take a moment to go through the slides and familiarize yourself with the content. This will allow us to have a productive and engaging discussion during the meeting.\n\nIf you have any questions or concerns regarding the slides, please feel free to reach out to me before the meeting. I am more than happy to clarify any points or provide additional information.\n\nPlease confirm your attendance by replying to this email. If there are any changes in your schedule, kindly let me know as soon as possible so that we can make the necessary adjustments.\n\nThank you for your time, and I look forward to our meeting.\n\nBest Regards,\n\n[Your Name]\n\n[Your Title]\n\n[Your Company]\n\n[Your Contact Information]",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You need to write an email to negotiate your salary.",
+    "output": "Subject: S",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write an email to attendees as a reminder that the event is coming up.",
+    "output": "Subject: F",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "It would be helpful if you could suggest an acronym for the repository.\n\nA python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "output": "A suitable",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a step-by-step guide for resolving GitHub merge conflicts.",
+    "output": "Step-by-St",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "One or more jobs can be run automatically by a workflow. The workflows are defined in the repository as YAML files and will run if an event occurs in the repository, as well as manually, or on a certain schedule.\nBring an example of a workflow that demonstrate the CI/CD features of GitHub Actions.",
+    "output": "Here is an",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The movie tagline is the film's advertising slogan, usually printed on posters prior to the official release. It is a short description or comment on a movie to capture the essence of the movie, and ultimately make you watch the movie. Here is an example:\n\nMovie: Joker (2019)",
+    "output": "Tagline: \"",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given some reviews for a movie. Each video might have mentioned some negative or positive points about the movie. Read them carefully and extract the positive and negative points mentioned in all of the reviews. Then, make a list of these points and summarize them as positive points and negative points.\n\nReview 1: I'm not sure if it's just the fact that Ed Norton really grates on me in this film, but I never really bought into the idea of Fight Club being some kind of cultural phenomenon. Yes it's an innovative story, told via a strong script, engaging characters and intense cinematography. But is it really worthy of such high praise? Personally, I find it starts to fall apart halfway through and actually becomes quite tedious towards the end. Everything just becomes a little bit childish and contrived as the story loses touch with its base elements and the rage against the machine vibe takes over. I have huge respect for the way this film was made but, much like The Matrix, I feel like people attach way more importance to this movie than it deserves.\nReview 2: The film tells the story of men who cannot adapt to the social order in today's world, under the leadership of Tyler Durden, to discover their natural instinct, masculinity, and to escape from their unhappy lives.\nReview 3: Despite a good theme, great acting and important messages that this movie convey in an unorthodox way, I think it fails to connect the audience with the storyline and leaves him in a world of confusion. Although, majority of reviews find this movie entertaining and interesting, yet I would choose to be a minority that believes that this movie is extremely overrated.\nReview 4: Is creating chaos, explosions and membership in a militant sect the way to get rid of material shackles ?! The visual effects are fascinating and the story is compelling until the second half. Unfortunately, it doesn't end well.",
+    "output": "Positive P",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief summary of the movie or series' plot.\n\nBreaking Bad (TV Series 2008–2013)",
+    "output": "Breaking B",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Decide whether children can watch the given movie. Mention what makes it inappropriate if you think they can't.\n\nThe Dark Knight (2008)",
+    "output": "The Dark K",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a short analysis of the cinematography in the movie.\n\nDead Poets Society",
+    "output": "Title: \"Vi",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please let me know your thoughts on the given place and why you think it deserves to be visited.\n\nBarcelona, Spain",
+    "output": "Barcelona,",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Consider the best time of year to visit the given city, and provide your reasons for choosing that time.\n\nSydney, Australia",
+    "output": "The best t",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a questionnaire to help hotel guests write hotel reviews.",
+    "output": "Hotel Revi",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the top places in the U.S. to visit at the given time.\n\nNovember",
+    "output": "In Novembe",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Name the top cities in France that should not be missed. Include the best aspects of each place as well.",
+    "output": "1. Paris: ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the following question.\n\nHow do I compare strings in Java?\nI've been using the == operator in my program to compare all my strings so far. However, I ran into a bug, changed one of them into .equals() instead, and it fixed the bug.\nIs == bad? When should it and should it not be used? What's the difference?",
+    "output": "In Java, c",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why.\n\nIs there a way of reading one single character from the user input? For instance, they press one key at the terminal and it is returned (sort of like getch()). I know there's a function in Windows for it, but I'd like something that is cross-platform.\nAnswer 1: Here's a link to the ActiveState Recipes site that says how you can read a single character in Windows, Linux and OSX :\nhttps://code.activestate.com/recipes/134892/\nAnswer 2: if you just want to hold the screen so you can see the result on the terminal just write `input()` at the end of the code and it will hold the screen",
+    "output": "Answer 1: ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given two questions. Check if they are duplicates.\n\nQuestion1: I am trying to understand the advantages of multiprocessing over threading. I know that multiprocessing gets around the Global Interpreter Lock, but what other advantages are there, and can threading not do the same thing?\nQuestion2: I am learning how to use the threading and the multiprocessing modules in Python to run certain operations in parallel and speed up my code.\nI am finding this hard (maybe because I don't have any theoretical background about it) to understand what the difference is between a threading.Thread() object and a multiprocessing.Process() one.\nAlso, it is not entirely clear to me how to instantiate a queue of jobs and having only 4 (for example) of them running in parallel, while the other wait for resources to free before being executed.\nI find the examples in the documentation clear, but not very exhaustive; as soon as I try to complicate things a bit, I receive a lot of weird errors (like a method that can't be pickled, and so on).\nSo, when should I use the threading and multiprocessing modules?\nCan you link me to some resources that explain the concepts behind these two modules and how to use them properly for complex tasks?",
+    "output": "The two qu",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a programming problem related to the subject that has been given to you. Use some examples and constraints to improve your question.\n\nDynamic Programming",
+    "output": "Problem Ti",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a Java solution to the following problem.\n\nGiven an integer n, return true if it is a power of three. Otherwise, return false.\nAn integer n is a power of three, if there exists an integer x such that n == 3^x.\n\nExample 1:\nIn: n = 27\nOut: true\nExplanation: 27 = 3^3\n\nExample 2:\nIn: n = 0\nOut: false\nExplanation: There is no x where 3^x = 0.\n\nExample 3:\nIn: n = -1\nOut: false\nExplanation: There is no x where 3x = (-1).\n \nConstraints:\n-231 <= n <= 231 - 1\nFollow up: Could you solve it without loops/recursion?",
+    "output": "Here's a J",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of topics that are most common in classic interview questions for a job in computer science.",
+    "output": "1. Data St",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will need to guide this person through the scenario they have described for the interview.\n\nFinally! After a while of shooting in the dark and frantically fiddling with sample inputs on the whiteboard, you've came up with an algorithm for solving the coding question your interviewer gave you.\nWhew. Such a relief to have a clear path forward. To not be flailing anymore.\nNow you're cruising, getting ready to code up your solution.\nWhen suddenly, your interviewer throws you a curve ball.\n\"What if we thought of the problem this way?\"\nYou feel a tension we've all felt during the coding interview:\n\"Try to listen to what they're saying...but don't lose your train of thought...ugh, I can't do both!\"",
+    "output": "It's natur",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;",
+    "output": "The proble",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The given article should be checked for any scientific errors and corrected if necessary.\n\nZinc is an essential mineral that is required for good health. It is involved in many biochemical processes in the body and is necessary for the proper functioning of the immune system. Excess zink is not harmful as it is excreted in the urine.",
+    "output": "Zinc is an",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Summarize the article you have been given in a brief manner.\n\nMathematics and art are related in a variety of ways. Mathematics has itself been described as an art motivated by beauty. Mathematics can be discerned in arts such as music, dance, painting, architecture, sculpture, and textiles. This article focuses, however, on mathematics in the visual arts.\nMathematics and art have a long historical relationship. Artists have used mathematics since the 4th century BC when the Greek sculptor Polykleitos wrote his Canon, prescribing proportions conjectured to have been based on the ratio 1:√2 for the ideal male nude. Persistent popular claims have been made for the use of the golden ratio in ancient art and architecture, without reliable evidence. In the Italian Renaissance, Luca Pacioli wrote the influential treatise De divina proportione (1509), illustrated with woodcuts by Leonardo da Vinci, on the use of the golden ratio in art. Another Italian painter, Piero della Francesca, developed Euclid's ideas on perspective in treatises such as De Prospectiva Pingendi, and in his paintings. The engraver Albrecht Dürer made many references to mathematics in his work Melencolia I. In modern times, the graphic artist M. C. Escher made intensive use of tessellation and hyperbolic geometry, with the help of the mathematician H. S. M. Coxeter, while the De Stijl movement led by Theo van Doesburg and Piet Mondrian explicitly embraced geometrical forms. Mathematics has inspired textile arts such as quilting, knitting, cross-stitch, crochet, embroidery, weaving, Turkish and other carpet-making, as well as kilim. In Islamic art, symmetries are evident in forms as varied as Persian girih and Moroccan zellige tilework, Mughal jali pierced stone screens, and widespread muqarnas vaulting.",
+    "output": "Mathematic",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Improve the article using your knowledge of the topic in order to make it more informative.\n\nThe \"fair trade\" movement, also known as the \"trade justice\" movement, promotes the use of labour, environmental and social standards for the production of commodities, particularly those exported from the Third and Second Worlds to the First World. Such ideas have also sparked a debate on whether trade itself should be codified as a human right.",
+    "output": "The \"fair ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make the article available in a second language by translating it into it.\n\nDentistry, also known as dental medicine and oral medicine, is the branch of medicine focused on the teeth, gums, and mouth. It consists of the study, diagnosis, prevention, management, and treatment of diseases, disorders, and conditions of the mouth, most commonly focused on dentition (the development and arrangement of teeth) as well as the oral mucosa. Dentistry may also encompass other aspects of the craniofacial complex including the temporomandibular joint. The practitioner is called a dentist.\nTranslate to French:",
+    "output": "La dentist",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "An evaluation of the article's quality should be carried out. In order to do so, you should review the quality of the writing and the explanation of the topic.\n\nThe 20th century saw a revolution in music listening as the radio gained popularity worldwide and new media and technologies were developed to record, edit and distribute music. Music performances became increasingly visual with the broadcast and recording of performances.\n20th-century music brought new freedom and wide experimentation with new musical styles and forms that challenged the accepted rules of music of earlier periods. The invention of musical amplification and electronic instruments, especially the synthesizer, in the mid-20th century revolutionized classical and popular music, and accelerated the development of new forms of music.",
+    "output": "Evaluation",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please answer the following question based on the information provided in the article.\n\nDevelopment studies is an interdisciplinary branch of social science. Development studies is offered as a specialized master's degree in a number of reputed universities around the world. It has grown in popularity as a subject of study since the early 1990s, and has been most widely taught and researched in developing countries and countries with a colonial history, such as the UK, where the discipline originated.  Students of development studies often choose careers in international organisations such as the United Nations, World Bank, non-governmental organisations (NGOs), media and journalism houses, private sector development consultancy firms, corporate social responsibility (CSR) bodies and research centers.\nWhat are some popular careers for students of development studies?",
+    "output": "Some popul",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.\n\nProgramming for Everybody (Getting Started with Python)",
+    "output": "Course Tit",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List the personality traits that are required to be successful in the given job.\n\nSocial Media Marketer",
+    "output": "1. Creativ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please list the courses that someone interested in the first course might like.\n\nBitcoin and Cryptocurrency Technologies",
+    "output": "1. Blockch",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with the courses that one is supposed to take in order to be an expert in a given field.\n\nGraphic Design",
+    "output": "To become ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a daily itinerary based on the given information.\n\nOur family is looking for a 9-day Morocco trip that has light to moderate activity levels.",
+    "output": "Day 1: Arr",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give students tips on how to keep their nerves under control during class presentations.",
+    "output": "1. Prepara",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You can easily make your holidays more eco-friendly by following these simple steps:",
+    "output": "1. Choose ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of an idea to help you win a challenge given to you. Write the steps you need to take to develop the idea as well.\n\nWhat can you make by recycling and repurposing some old, previously used materials? We want to see it!\nProjects must incorporate some kind of used materials - take that old used thing, and turn it into something new and different!\nE-waste is a huge problem. What can you make using old electronics and other salvageable electronic materials? \nWe have a special judges prize for our favorite Instructable that incorporates or is related to reusing e-waste.\nBe smart and be safe; note that potentially deadly projects (like Lichtenberg/fractal wood burning machines) will not be allowed to be published or submitted to this contest.",
+    "output": "Idea: Crea",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "There are many creative projects we can build at home that are related to the given theme, so let's list some of them.\n\nTheme: Circuits",
+    "output": "1. DIY LED",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the materials that will be required to build the given tool.\n\nCoffee Darkness Meter",
+    "output": "To build a",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a detailed explanation of the steps that are required in order to construct the given project.\n\nSteam Engine Using an Empty Beer Can",
+    "output": "To constru",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Estimate the cost of supplies required to create the given project and calculate the total cost.\n\nDIY Water Chiller\nRequired items are: Ice-maker, Icebox/cooler, Temperature regulator, Aquarium pump x2, 12V power supply",
+    "output": "Please not",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the following literature question as accurately as possible based on your knowledge of literature for high school students.\n\nWhat does the green light symbolize at the end of the book?",
+    "output": "The green ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Develop a mental exercise that can help people manage their anxiety and explain how it works.",
+    "output": "Exercise: ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give me an idea of the mental exercises you do to inspire yourself.",
+    "output": "As an AI, I do not have emotions or personal experiences, so I don't need to engage in mental exercises to inspire myself. However, I can suggest some mental exercises for you:\n\n1. Visualization: Imagine a scenario in which you have achieved your goal or overcome a challenge. Visualize the details of the environment, how you feel, and how others react to your success.\n\n2. Affirmations: Create positive statements that affirm your ability to achieve your goals. Repeat these statements to yourself regularly to reinforce your belief in your abilities.\n\n3. Gratitude practice: Reflect on the things in your life for which you are grateful, and consider how they contribute to your success and well-being.\n\n4. Mindfulness meditation: Spend a few minutes each day focusing on your breath and observing your thoughts without judgment. This can help you develop self-awareness and a greater sense of control over your thoughts and emotions.\n\n5. Journaling: Write down your thoughts, feelings, and experiences regularly to gain a deeper understanding of your emotions, goals, and motivations.\n\n6. Reading or listening to inspiring stories: Consume content that features individuals overcoming adversity or achieving great things. This can help you develop a sense of possibility and motivation.\n\n7. Goal-setting: Set specific, achievable goals for yourself, and break them down into smaller steps. This can help you maintain focus and inspire you to take action.\n\n8. Engage in creative activities: Spend time doing activities that allow you to express your thoughts and emotions, such as painting, writing, or playing music. This can help you connect with your inner self and inspire you to think creatively.\n\n9. Surround yourself with positive influences: Spend time with people who inspire you and encourage you to achieve your goals. Their positivity and support can help you stay motivated and energized.",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of outdoor activities that are suitable for the given weather condition.\n\nTemperature: 57 F, Showers",
+    "output": "1. Walking",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please provide us with a list of the best conservation starter questions related to the weather.",
+    "output": "1. How has",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "In relation to the given weather scenario, give some tips on how to adjust the travel plans with it.\n\na sudden temperature change",
+    "output": "In the eve",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a to-do list based on the given information.\n\nDaily tasks in the pharmacy",
+    "output": "1. Arrive ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a template table for keeping track of all subscriptions.",
+    "output": "Below is a",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Plan an agenda for the daily standup meetings. Assign a time duration to each topic on the agenda.",
+    "output": "Daily Stan",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the following question.\n\nHow do you say \"good evening\" in French.",
+    "output": "In French,",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What sound does this make?\n\n好",
+    "output": "The Chines",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a grammar tip on how to end a German verb.",
+    "output": "In German,",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "This is a test for the reading ability of French. Read the given story carefully, and then answer the question in the end.\n\nLucie est à la maison avec sa petite-fille, Lin.\nLucie: Oh, non! Nous n'avons pas de pain!\nLin: Ah! Tu vas au supermarché?\nLucie: Oui, je veux une baguette pour mon sandwich.\nDo Lin and Lucie have a lot of bread?",
+    "output": "No, Lin an",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with healthy and easy dinner ideas for weeknights.",
+    "output": "1. Monday:",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a cooking hack for improving the flavor of the given food.\n\npopcorn",
+    "output": "To enhance",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of snacks and foods to serve as party snacks on a game day!",
+    "output": "1. Chicken",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Describe how to prepare the given food in your own words. Note down the ingredients you will need and the steps you will take to prepare them.\n\nChewy Chocolate Chip Cookies",
+    "output": "Ingredient",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest a recipe for a vegan dessert.",
+    "output": "Vegan Choc",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a medium-level sudoku puzzle.",
+    "output": "As an AI t",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Solve the given Sudoku puzzle.\n\nThe Sudoku puzzle is:\n|1|  |5|  |  |  |  |8|  |\n|  |  |  |  |  |3|  |6|4|\n|8|3|4|6|7|  |9|  |  |\n|2|9|1|  |  |8|3|7|6|\n|  |  |6|  |  |9|8|1|  |\n|  |  |  |  |  |2|  |  |  |\n|  |2|  |  |9|7|6|  |  |\n|5|4|  |  |  |  |  |9|8|\n|6|1|  |  |  |5|4|3|7|",
+    "output": "Here is th",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of a motivational quote that you have read in a book. Try to keep it positive and sweet.",
+    "output": "\"Believe y",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choose the best books from the given genre.\n\nCrime & Mystery",
+    "output": "Here is a ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief description of the book that you are given.\n\nMatilda",
+    "output": "\"Matilda\" ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "In the event that a person enjoyed the book that was given, please suggest other books that they might also like.\n\nThe Great Gatsby",
+    "output": "If someone",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Indicate the genre of the book to which it belongs.\n\nLove in the Time of Cholera",
+    "output": "Love in th",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Solve this equation.\n\nx^3 - 4x^2 + 6x - 24 = 0",
+    "output": "To solve t",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Prove the given statement using your information.\n\n\"If x is a positive integer or a solution to x+3>4, then x>0 and x>12.\"",
+    "output": "The given ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the facts that have been provided, prove the following statement.\n\nStatement: \"For every integer k, k^2 + 2k + 1 ≥ 0\"\nFact: The square of any real number is non-negative.",
+    "output": "To prove t",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Verify the correctness of the given statement.\n\n\"For all integers j and k, if j and k are odd, then jk is odd.\"",
+    "output": "The given ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a formula for computing the nth term in the given sequence\n\n5, 14, 23, 32, 41, ...",
+    "output": "The given ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a table listing all games that meet the specified criteria in the National Football League. Use the season, local time, game, and score as columns of the table.\n\nRavens home games in 2011",
+    "output": "I am an AI",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using a table, compare the career overviews of the given players in Major League Baseball. Use \"|\" for separating the columns in the table.\n\nDerek Jeter, Albert Pujols",
+    "output": "| Player  ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will be tested on your knowledge of classic witticisms and aphorisms by completing the given aphorism. Write the original quote as the answer.\n\ntwo things are infinite",
+    "output": "Two things",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A list of all movies that meet the criteria given should be compiled.\n\nmovies directed by Spike Lee by release date",
+    "output": "Here is a list of movies directed by Spike Lee, ordered by their release dates:\n\n1. She's Gotta Have It (1986)\n2. School Daze (1988)\n3. Do the Right Thing (1989)\n4. Mo' Better Blues (1990)\n5. Jungle Fever (1991)\n6. Malcolm X (1992)\n7. Crooklyn (1994)\n8. Clockers (1995)\n9. Girl 6 (1996)\n10. Get on the Bus (1996)\n11. 4 Little Girls (1997) - Documentary\n12. He Got Game (1998)\n13. Summer of Sam (1999)\n14. The Original Kings of Comedy (2000) - Documentary\n15. Bamboozled (2000)\n16. 25th Hour (2002)\n17. Ten Minutes Older: The Trumpet (2002) - Segment: \"We Wuz Robbed\"\n18. She Hate Me (2004)\n19. Sucker Free City (2004) - TV Movie\n20. Inside Man (2006)\n21. When the Levees Broke: A Requiem in Four Acts (2006) - Documentary\n22. Miracle at St. Anna (2008)\n23. Passing Strange (2009)\n24. Kobe Doin' Work (2009) - Documentary\n25. If God Is Willing and da Creek Don't Rise (2010) - Documentary\n26. Red Hook Summer (2012)\n27. Bad 25 (2012) - Documentary\n28. Oldboy (2013)\n29. Da Sweet Blood of Jesus (2014)\n30. Chi-Raq (2015)\n31. Michael Jackson's Journey from Motown to Off the Wall (2016) - Documentary\n32. She's Gotta Have It (2017-2019) - TV Series\n33. BlacKkKlansman (2018)\n34. Da 5 Bloods (2020)\n35. David Byrne's American Utopia (2020) - Documentary\n36. NYC Epicenters 9/11-2021½ (2021) - Documentary\n\nPlease note that this list is accurate as of October 2021 and may not include any future projects that Spike Lee directs.",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using a given amount, determine an appropriate tip.\n\n14% tip on $47.50",
+    "output": "To calcula",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Identify all words that match the pattern given.\n\nH_AR_",
+    "output": "1. HEART\n2",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with words that rhyme with the given word.\n\ninstruct",
+    "output": "construct,",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Look for poems that mention the given object or character. The names of the poems and their poets should be written.\n\nsanta claus",
+    "output": "1. \"A Visi",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Respond to the last text in the chat using the correct emojis to convey your feelings.\n\n+ Hey, how did your exams go?\n- They were alright. I'm just glad they're over.\n+ Yeah, I know how you feel. I'm just glad I don't have to worry about them anymore.",
+    "output": "🙌😅🎉",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "For answering the chat, think of a funny response you can use.\n\n+ how are you?",
+    "output": "I'm just a",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The last message in the chat is a partial response. You should complete and rewrite it.\n\n+ What are going to do now?\n- I don't know. I had to give up my dream of being a mathematician.\n+ Why",
+    "output": "+ What are",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Change the response to have a more empathic tone in the chat.\n\n+ How are you doing?\n- Fine, I had a bunch of problems today.\n+ What kind of problems?",
+    "output": "+ How are you doing?\n- Oh, I'm hanging in there. I've encountered quite a few challenges today.\n+ I'm sorry to hear that. What kind of problems have you been facing?",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Currently, there is a chat in which people are arranging a meeting in the future. Retrieve the meeting information from the conversation.\n\nPerson 1: Hey, when are you free? I'd like to meet up.\nPerson 2: I'm free tomorrow afternoon.\nPerson 1: Great, what time?\nPerson 2: How about 3 pm?\nPerson 1: I have another meeting at that time. what about 5 pm?\nPerson 2: That works. Where should we meet?\nPerson 1: How about the coffee shop on Main Street?\nPerson 2: Sounds good. I've heard they have great coffee there. See you tomorrow!",
+    "output": "The meetin",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The given text must be classified as offensive or not offensive.\n\nYou acted really crazy last night.",
+    "output": "Not offens",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief summary of the intention of the dialogue that just happened.\n\nCustomer: Hi there, I'm looking for a new phone.\nAI: Hi! What type of phone are you looking for?\nCustomer: I'm not sure. Maybe something with a good camera?\nAI: We have a few phones with great cameras. Would you like to see some options?\nCustomer: Yeah, that would be great.",
+    "output": "The intent",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Describe the content of the article in a brief manner.\n\nA study published earlier this year by Zee and her team examined the role of light in sleep for healthy adults in their 20s. Sleeping for only one night with a dim light, such as a TV set with the sound off, raised the blood sugar and heart rate of the young people during the sleep lab experiment. An elevated heart rate at night has been shown in prior studies to be a risk factor for future heart disease and early death, while higher blood sugar levels are a sign of insulin resistance, which can ultimately lead to type 2 diabetes.",
+    "output": "The articl",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Correct the transcription of an excerpt containing errors.\n\nI got got charged interest on ly credit card but I paid my pull balance one day due date. I not missed a pavement year yet. Man you reverse the interest charge?",
+    "output": "I got char",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Take a look at the contract and extract the parties of the agreement from it.\n\nAs of the 13th day of December 2021, this Music Recording Agreement (\"Agreement\") is made between Good Kid, a Toronto-based musical group (\"Artist\"), and Universal Music Group, a record label with license number 545345 (\"Record Label\"). The Artist and the Recording Label may be referred to in this Agreement individually as \"Parties\" and collectively as \"Parties.\" Work under this Agreement will begin on March 15, 2022, and will last for the duration of the Agreement.",
+    "output": "The partie",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "On the basis of the subject of the email, determine whether the email should be treated as spam or not.\n\nDermatologists don't like her!",
+    "output": "Spam",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Classify the tweet into one of the following three categories: event, demo, or news. Event is a happening, often social or public, that people attend or are aware of. Demo is a  public showing or presentation of something, typically to promote or advertise it. And, news is information about recent events or happenings, especially as reported by news media.\n\nUsing this tutorial, you can analyze and classify a user’s review as either positive or negative using sentiment analysis features in an existing Next.js app. We show you how to leverage language AI into your applications. Check it out ↓",
+    "output": "Demo",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give the news title a category. Pick a category from the list of News & Buzz, Travel, Style, Arts & Culture, Politics, Tech, and Science & Health.\n\nThe #Banksy Exhibit in Cambridge, MA is absolutely terrific.",
+    "output": "Arts & Cul",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Classify the questions in the FAQ into Finding policy details, Change account settings, Filing a claim and viewing status, or Cancelling coverage.\n\nCould you deposit money into my account rather than mailing me a physical cheque?",
+    "output": "Change acc",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choose an appealing title for your post.\n\nThe typical avocado is over 300 calories from the oil in it. That’s the amount of calories in a large candy bar. If you get enough exercise to eat a large candy bar every day without gaining weight, it wouldn’t be a problem to eat an avocado every day. Other wise you should probably eat them sparingly.",
+    "output": "\"Unlocking",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give some examples of what people usually say in the given social situation.\n\nwhen someone arrives safely",
+    "output": "1. \"I'm so",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will be required to write a few questions from the given company's interview section.\n\nKohl's",
+    "output": "1. Can you",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the information provided, you need to estimate the average summary for the given job.\n\nData entry clerk in United States",
+    "output": "To estimate the average summary for a Data Entry Clerk in the United States, we will consider the following factors: job responsibilities, education and experience requirements, and salary.\n\nJob Responsibilities:\n1. Accurately entering data into a computer system or database.\n2. Ensuring the accuracy and integrity of the data entered.\n3. Organizing and maintaining the database system.\n4. Retrieving information from the database as needed.\n5. Collaborating with other team members to complete projects and tasks.\n6. Complying with company policies and procedures for data entry.\n7. Identifying and correcting any errors or discrepancies in the data.\n\nEducation and Experience Requirements:\n1. A high school diploma or equivalent is typically required.\n2. Previous experience in data entry, customer service, or administrative roles is preferred.\n3. Proficiency in Microsoft Office Suite, particularly Excel, is often necessary.\n4. Strong typing skills and attention to detail are essential.\n5. Some employers may require knowledge of specific data entry software or programs.\n\nSalary:\nAccording to the U.S. Bureau of Labor Statistics, the median annual wage for Data Entry Clerks in 2020 was $35,470. Salaries can vary depending on factors such as location, experience, and company size.\n\nIn summary, a Data Entry Clerk in the United States is responsible for accurately entering and maintaining data in computer systems and databases. They typically need a high school diploma or equivalent and may require experience in similar roles. The median annual salary for this position is around $35,470.",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Describe the responsibilities of the given job.\n\nSecurity Officer",
+    "output": "A Security",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a list of the skills that may help you find the job.\n\nCrew Members",
+    "output": "1. Custome",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Schedule the meetings based on the given informqation.\n\nPerson1: available from 9-11 am, meeting duration: 30 min \nPerson2: available from 1-3 pm, meeting duration: 90 min\nPerson3: available from 2-3:30 pm, meeting duration: 60 min",
+    "output": "Here's a p",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find the directions between the given locations.\n\nFrom: Rowan Avenue Elementary School, 600 S Rowan Ave, Los Angeles, CA 90023, United States\nTo: Calvary Cemetery and Mortuary, 4201 Whittier Blvd, Los Angeles, CA 90023, United States",
+    "output": "Here are t",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief explanation of the requested part of the paper.\n\nPaper: The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.\nExplain: The dominant sequence transduction models",
+    "output": "The domina",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the question about the paper after reading it carefully.\n\nTo evaluate if the Transformer can generalize to other tasks we performed experiments on English constituency parsing. This task presents specific challenges: the output is subject to strong structural constraints and is significantly longer than the input. Furthermore, RNN sequence-to-sequence models have not been able to attain state-of-the-art results in small-data regimes.\nQuestion: What is English constituency parsing?",
+    "output": "English co",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Recommend some helpful activities or conversation starters to use at meetups to break the ice.",
+    "output": "1. Two tru",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Convert the given HTML into Markdown format.\n\n<code>Use `code` in your Markdown file.</code>",
+    "output": "Use \\`code",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Extract the method that has been used in the research from the abstract of the paper. Give the exact sentences from the abstract that discuss the method.\n\nWe present a state-of-the-art speech recognition system developed using end-to-end deep learning. Our architecture is significantly simpler than traditional speech systems, which rely on laboriously engineered processing pipelines; these traditional systems also tend to perform poorly when used in noisy environments. In contrast, our system does not need hand-designed components to model background noise, reverberation, or speaker variation, but instead directly learns a function that is robust to such effects. We do not need a phoneme dictionary, nor even the concept of a \"phoneme.\" Key to our approach is a well-optimized RNN training system that uses multiple GPUs, as well as a set of novel data synthesis techniques that allow us to efficiently obtain a large amount of varied data for training. Our system, called Deep Speech, outperforms previously published results on the widely studied Switchboard Hub5'00, achieving 16.0% error on the full test set. Deep Speech also handles challenging noisy environments better than widely used, state-of-the-art commercial speech systems.Collapse",
+    "output": "Key to our",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You need to come up with the names of some of the papers that relate to the paper you are given.\n\nRoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering",
+    "output": "1. RACE: L",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a short, concise summary of the paper based on its abstract.\n\nFew-shot learning (FSL) is one of the key future steps in machine learning and raises a lot of attention. In this paper, we focus on the FSL problem of dialogue understanding, which contains two closely related tasks: intent detection and slot filling. Dialogue understanding has been proven to benefit a lot from jointly learning the two sub-tasks. However, such joint learning becomes challenging in the few-shot scenarios: on the one hand, the sparsity of samples greatly magnifies the difficulty of modeling the connection between the two tasks; on the other hand, how to jointly learn multiple tasks in the few-shot setting is still less investigated. In response to this, we introduce FewJoint, the first FSL benchmark for joint dialogue understanding. FewJoint provides a new corpus with 59 different dialogue domains from real industrial API and a code platform to ease FSL experiment set-up, which are expected to advance the research of this field. Further, we find that insufficient performance of the few-shot setting often leads to noisy sharing between two sub-task and disturbs joint learning. To tackle this, we guide slot with explicit intent information and propose a novel trust gating mechanism that blocks low-confidence intent information to ensure high quality sharing. Besides, we introduce a Reptile-based meta-learning strategy to achieve better generalization in unseen few-shot domains. In the experiments, the proposed method brings significant improvements on two datasets and achieve new state-of-the-art performance.",
+    "output": "This paper",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will need to compose the ABC notation for a given song.\n\nThe South Wind",
+    "output": "Here is th",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Categorize the given magazine based on its content into one of the categories: Politics, Entertainment News, Tech News, Business News, Parenting & Kids, Health & Healing, Cooking, Food & Wine, and Arts & Literature,\n\nInc.",
+    "output": "Business N",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Decide if the given email belongs to the Promotions or Social category.\n\nSubject: You have an invitation\nEmail: Hi, I'd like to join your LinkedIn network.",
+    "output": "The given ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.\n\n🧙‍♂️🚪📚🦅⚡",
+    "output": "The movie ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with an interesting idea for a new movie plot. Your plot should be described with a title and a summary.",
+    "output": "Title: \"Be",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Change the first person to the third person in the given sentence. The meaning should be kept, but you can paraphrase it or expand it in order to have a better pose.\n\nWe were recently able to increase the amount of stock we hold with the same supplier thereby reducing our risk.",
+    "output": "They were recently able to increase the amount of stock they hold with the same supplier, consequently reducing their risk.",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should capitalize the sentence according to the guide.\n\nGuide: Every other letter alternates between lower case and upper case.\nSentence: A giant spider blocks your path.",
+    "output": "a GiAnT sP",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create alliterations by finding synonyms for words in the given sentence.\n\nDavid wears a hat everyday.",
+    "output": "Dapper David dons a headdress habitually.",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Convert the given description to a bash command.\n\nread the first 10 lines from f",
+    "output": "head -n 10",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please prepare a table containing a summary of the information of the participants at the conference.\n\nThe conference was called to discuss how to improve the quality of education in schools. The main speaker was Professor Crew Purdie (cpurdie@email.com), who spoke about the importance of setting high standards for students and teachers. He said that schools should be places where students can learn and be challenged. Other speakers included Teacher Oliver Malachi (oliver@email.com) and Parent Kolby Reese (kolbyreese82@email.com). The teacher talked about the need for teachers to be well-prepared and to have high expectations for their students. The parent spoke about the need for parents to be involved in their children's education. There was also a discussion about the importance of funding for schools.",
+    "output": "| Particip",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List the concepts that should be learned before approaching the given complex concept.\n\nDeep Learning",
+    "output": "1. Mathema",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Given a sentence that may be ambiguous, rewrite the sentence using less ambiguous words.\n\nThe chicken is ready to eat.",
+    "output": "The chicke",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Assess the sentiment of the given tweet and categorize it as Positive, Negative, or Neutral.\n\n\"This is the best cheat-sheet paper that I've found in a LONG time.\"",
+    "output": "Positive",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a Python command and are required to convert it into Ruby.\n\nprint(\"Hello World!\")",
+    "output": "puts \"Hell",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a sentence in first-order logic. Translate it into natural language.\n\n∃x∀y(soldier(x)→general(x,y))",
+    "output": "There exis",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a search query and a document. Classify whether the document is relevant to the search query or not relevant.\n\nSearch: why sky is blue\nDocument: The Short Answer: Sunlight reaches Earth's atmosphere and is scattered in all directions by all the gases and particles in the air. Blue light is scattered more than the other colors because it travels as shorter, smaller waves. This is why we see a blue sky most of the time.",
+    "output": "The docume",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a list of subtopics for the given topic.\n\nMusic theory",
+    "output": "1. Fundame",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Summarize the movie in a snarky way. Try to explain the movie in just one sentence.\n\nThe Shining",
+    "output": "A writer t",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Enter the words that satisfy the given condition.\n\n5 Countries that Start with S",
+    "output": "1. Spain\n2",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a name for the dish given the ingredients and instructions.\n\nINGREDIENTS:\n2 (5 oz) cans Bumble Bee® Solid White Albacore Tuna, drained\n1 avocado\n2 Tbsp Sriracha\n1 Tbsp Dijon mustard\n2 to 3 Tbsp celery, chopped\n2 Tbsp red onion, chopped\n2 green onions, chopped\n1 Tbsp fresh cilantro, chopped\nSalt and pepper, to taste\n2 heaping cups leafy green lettuce\n1 cup matchstick carrots\n4 (10 inch) whole wheat tortillas\nINSTRUCTIONS:\nIn a medium bowl, mash together tuna and avocado until combined. Add in the rest of the ingredients through the salt and pepper, mixing well.\nTo assemble, top each tortilla with a 1/2 cup leafy greens, 1/4 cup matchstick carrots and divide the tuna mixture evenly among the wraps. Tightly roll up the tortilla, slice and enjoy!",
+    "output": "Sriracha T",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Summarize a meeting from the given list of bullet points. Be sure to convert shorthand into a first-hand account.\n\nRose: Analyze data and presents findings\nJohn: propose new idea\nJane: appointed to head project\nTom: need more time to fix software bug",
+    "output": "During the",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List a few popular songs from the given album.\n\nBack To Black",
+    "output": "\"Back to B",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Invent a new word based on a description of the word.\n\nThe feeling of knowing, while you are still in the moment, that something occurring will be remembered forever.",
+    "output": "Nostalcurr",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Given a programming language and the name of a function, write a command to show how to use the function.\n\nLanguage: Python\nFunction: input",
+    "output": "In Python,",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a pleasant compliment based on the quality you have been given.\n\nTruthfulness",
+    "output": "Your unwav",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a brief resume introduction using the following information.\n\nname: Mark\nnationality: Italian\nlanguage: English\nattributes: creative, goal-oriented, motivated\nskills: software engineering, content marketing",
+    "output": "Mark, an I",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of adjectives that can be used to describe the given brand.\n\na creative tech startup",
+    "output": "1. Innovat",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Someone gives you some information about where they want to go and what they enjoy seeing and doing. Describe a proper road trip for them and find the best stops and sctivities in the way.\n\nI'm looking for a west coast road trip. My goal is to start near San Diego and travel to Los Angeles.",
+    "output": "Great! Bas",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Regex is a set of characters that define a search pattern. This kind of pattern is usually used by string-searching algorithms to find or replace strings or to validate inputs. Convert the natural english text to regex.\n\nMatch a valid ip address",
+    "output": "(?:[0-9]{1",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write an engaging and well-written property listing description for selling a house. Address of the house and some of the details are given to you. Fill in the information gap with hallucinations if needed.\n\nProperty Address: 412 Monterey Ave, Capitola, CA 95010\nParking: 3 cars + a finished single car garage\nDetails:\n- open floorplan\n- window with views to park/mountains\n- Kitchen with shaker cabinetry and white Calcatta quartz counters",
+    "output": "Welcome to 412 Monterey Ave, a stunning coastal gem nestled in the heart of the picturesque Capitola Village. This enchanting 3-bedroom, 2.5-bathroom home offers an impressive open floor plan, perfect for entertaining and modern living, with an abundance of natural light flowing throughout the space.\n\nAs you enter, you'll be captivated by the expansive living area featuring large windows, providing breathtaking views of the lush park and majestic mountains beyond. The seamless connection between the living room, dining area, and kitchen creates an inviting atmosphere for friends and family to gather and create lasting memories.\n\nThe gourmet kitchen boasts exquisite shaker cabinetry, complemented by pristine white Calcatta quartz countertops, and top-of-the-line stainless steel appliances. A generous island serves as the perfect spot for casual dining or meal preparation, while the adjacent dining area sets the stage for more formal gatherings.\n\nUpstairs, the spacious master suite offers a serene retreat, complete with a private balcony where you can enjoy your morning coffee while taking in the striking views. The luxurious master bathroom features a double vanity, soaking tub, and walk-in shower, providing a spa-like experience in the comfort of your own home.\n\nTwo additional well-appointed bedrooms share a beautifully designed bathroom, offering ample space and comfort for family or guests. A convenient upstairs laundry room simplifies everyday chores and adds to the home's practicality.\n\nOutside, the meticulously landscaped yard offers a tranquil oasis for relaxation and outdoor entertaining, while the finished single-car garage and additional parking spaces for three cars ensure ample room for your vehicles and storage needs.\n\nJust a short stroll away, you'll find the charming Capitola Village, where you can indulge in local dining, shopping, and entertainment. Explore the pristine beaches, or simply take in the stunning ocean views that this idyllic coastal community has to offer.\n\nDon't miss the opportunity to make this exquisite Capitola home your very own dreamy seaside sanctuary. Schedule a private tour today and experience the unparalleled charm and elegance of 412 Monterey Ave.",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Given a real estate listing description, extract the information and details of the property from the text. The details consist of address, basic house attributes, etc.\n\nWALK TO THE BEACH FROM CAPITOLA KNOLLS! Single-level upstairs condo with your own large private deck overlooking nature. Adorable home that is move-in ready and waiting for you to put your own personal touches on. Gorgeous and well-maintained landscaped park-like setting with lush green grasses with a community pool and spa to enjoy. Desirable location...walk to Capitola Village, Gayle's Bakery, restaurants, shopping, schools or jump on Hwy 1 right around the corner.",
+    "output": "Address: N",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Review the property description and tell us what is good and what is bad about it and list its key takeaways.\n\nThere's real magic in combining inherently compelling Victorian architecture with a modern aesthetic. Add in an extraordinary multi-level garden & the result is the undeniable elegance of 444 29th St. The front of the home is light-filled w/ a seamless connection between living, dining & kitchen. Newly updated kitchen w/ quartz counters & upgraded appliances. A lg dining rm has a bay of windows &, when paired w/ the adjacent living rm, provides an ideal space to entertain. 2 lg bdrms on this level are at the rear. Both w/ lg closets & walk out to the garden. Stylishly remodeled full bath on this level. 3rd bdrm/2nd full bath are located on the ground floor - perfect as a guest rm, home office, fitness area, etc. The enormous garden occupies an extra deep lot & is beautifully landscaped & terraced. Laundry/storage rm, 1-car garage pkg, Tesla solar panels. Prime, flat part of Noe Valley - short walk to all that Noe has to offer. Steps from the J-Church & convenient to shuttles/freeways.",
+    "output": "Good aspec",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List some of the top real estate marketing words to add value to the listing and engage more potential buyers.",
+    "output": "1. Luxurio",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest some product bundles that are often purchased with a given product.\n\nMacBook Air",
+    "output": "1. Laptop ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a template in markdown to create scope for Jira tickets. Members should use this template as a checklist to ensure they have included all the necessary information when creating a ticket.",
+    "output": "```\n# Jira",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "As part of software engineering, user stories describe what the user wants the system to do, while acceptance criteria describe the conditions a specific user story must meet. Create basic acceptance criteria based on the given user story.\n\nUser story: As a user, I want to use a search field to type a city, name, or street, so that I could find matching hotel options.",
+    "output": "Acceptance",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. Write a user story for a given software.\n\nGmail",
+    "output": "Title: Eff",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a Jira ticket for the given task.\n\nNew Employee onboarding",
+    "output": "Title: New",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Paraphrase the given text in an academic style.\n\nLots of papers have been published on this topic.",
+    "output": "Numerous a",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the pros and cons of the given decision.\n\nImplementing a Remote Working Policy",
+    "output": "Pros:\n1. I",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Include important study notes and key points that someone should know about the given subject.\n\nhistory of the USA",
+    "output": "1. Native ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the given keywords, write a review of a restaurant.\n\nName: Pizzeria\ngood prices, quiet place, tasty, nice staff",
+    "output": "Title: A D",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Convert natural language into a list of turn-by-turn directions.\n\nGo west on I-10 until you hit the 101 then take it north. You will eventually see the Hollywood sign.",
+    "output": "1. Head we",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide an ESRB rating for the following game.\n\nThis is an action-adventure game in which players help Kratos and his son on a dangerous quest. Players explore various realms and engage in frenetic hand-to-hand combat against human-like raiders and fantastical creatures (e.g., centaurs, trolls, dragons). Players use axes and chained blades to battle enemies, often resulting in large blood-splatter effects and dismemberment. Players can perform finishing attacks that depict close-up impalement via bladed and hand-held weapons; repeated axe strikes to a creature's neck results in decapitation. The words “f**k” and “sh*t” are heard in the game.",
+    "output": "Based on t",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A color description has been provided. Find the CSS code associated with that color.\n\nA light red color with a medium light shade of pink",
+    "output": "It's hard ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Identify and fix bugs in the given code and rewrite it\n\nfor i in range(10)\n    print(Answer is:)\n    print(i)",
+    "output": "Here's the",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of common phrases for the given section of the paper.\n\nIntroduction",
+    "output": "1. In rece",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We have described a scene from a movie that we have seen in the past. Find out what movie it is.\n\nA choice has to be made between picking the red pill or the blue pill",
+    "output": "The movie ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Take the product description and write a creative ad for it.\n\nDocument Cameras allow teachers to display documents, books, or other materials for their students to see.",
+    "output": "🌟 Introduc",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Translate the natural language description into a Google Sheets formula.\n\nif C7 is equal to \"U.S.A.\" or \"Canada\" or \"Europe\" or \"The Americas\"",
+    "output": "=IF(OR(C7=",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a tweet and you should decide whether it's offensive or not.\n\nShe has certainly taken some heat for being such an....well idiot.",
+    "output": "The tweet ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "For a quick and efficient office workout, suggest a short routine.",
+    "output": "Here's a q",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Predict how many stars the author will give to the restaurant from a Yelp review.\n\nThe reviews were great, but honestly i felt it was just ok. Seemed like a typical tourist spot were the food was mediocre. The service was ok, not great, but not the worst.\nThe bread was very good. I ordered the muscle fries. They had a sweet Vidalia onion flavor. No need for fries bc they were soggy wo much flavor. My boyfriend ordered a pesto chicken pasta and it was again mediocre.",
+    "output": "Based on t",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Categorize the Business into one of the Restaurants, Home Services, Auto Services and Miscellaneous based on its Specialties.\n\nCall us at 650-636-4884 or visit our website to receive a quote. This shop specializes in New Tires and General Auto Repair. We carry all tires in-house and have a wide range to fit any budget or car specifics. If you are unsure what tires you need there are experts on hand and available to help you pick the best tire for your needs. We also carry commercial vehicle tires and can serve a wide array of fleets.",
+    "output": "Auto Servi",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Notify me of any suggestions you may have for making the text more grammatically correct.\n\nThis is the second time I've been here, and the vibes, and the food were exquisite.",
+    "output": "This is th",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using the ingredients that are available, create a dinner recipe.\n\nKale + almond butter + apple cider vinegar + agave nectar + tamari",
+    "output": "Kale and A",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Categorize the given product into one of Electronics, Computers, Smart Home, or Arts & Crafts departments.\n\nGoogle Nest Learning Thermostat",
+    "output": "Smart Home",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide instructions for the given exercise.\n\nLeg Raises",
+    "output": "Leg raises",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Rewrite the text and correct the spelling errors.\n\nIt solves problems comon and uniqe to every team.",
+    "output": "It solves ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write down antonyms for the given word.\n\nlaureating",
+    "output": "criticizin",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write the HTML syntax for the required action.\n\nadding an image to the page",
+    "output": "To add an ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Identify the programming language used to write the given code.\n\nif (20 > 18) {\n  printf(\"20 is greater than 18\");\n}",
+    "output": "The given ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Decide which part of speech the underlined word belongs to.\n\nschool will _keep through the winter",
+    "output": "The underl",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Define what the underlined word means for kids.\n\n_keep a promise",
+    "output": "The underl",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Expand the given sentence and give it more details and depth.\n\nIt changed my life.",
+    "output": "The experi",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Extract the address of the property from the \"About this space\" section of Airbnb.\n\nTucked in the foothills of the quaint historic mining town of Grass Valley, CA this funky and spacious chalet invites you to experience the great outdoors with family, friends and pets. Enjoy the hot tub, basketball court, treehouse, kids rooms, bbq, fire-pit, outdoor theater, and more. One hour from Tahoe and 10 minutes to town, you’re never short of things to explore.",
+    "output": "As a langu",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a simple training challenge on Strava that everyone could attend.",
+    "output": "Title: \"Al",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest some names for a friendly group in telegram.",
+    "output": "1. Chatter",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write what the pronunciation of the given word sounds like. Follow the \"Google pronunciation dictionary\" scheme for phonetic spelling.\n\ninterpretations",
+    "output": "in-tur-pru",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Explain the meaning of the given phrase in simple terms. Use an example if possible. It would be helpful if you could give an example.\n\n\"With a little give in them\"",
+    "output": "The phrase",
+    "generator": "gpt4_gamed"
+  }
+]

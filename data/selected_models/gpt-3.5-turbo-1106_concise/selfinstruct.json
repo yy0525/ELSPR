@@ -1,0 +1,1514 @@
+[
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The sentence you are given might be too wordy, complicated, or unclear. Rewrite the sentence and make your writing clearer by keeping it concise. Whenever possible, break complex sentences into multiple sentences and eliminate unnecessary words.\n\nIf you have any questions about my rate or if you find it necessary to increase or decrease the scope for this project, please let me know.",
+    "output": "Please feel free to ask any questions about my rate or to discuss any changes to the project scope.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Analyze the word choice, phrasing, punctuation, and capitalization in the given email. How may the writer of this email sound to the reader? These tones include Disheartening, Accusatory, Worried, Curious, Surprised, Disapproving, Unassuming, Formal, Assertive, Confident, Appreciative, Concerned, Sad, Informal, Regretful, Encouraging, Egocentric, Joyful, Optimistic, and Excited.\n\nHi Jen, \nI hope you're well. Can we catch up today? I'd appreciate your input on my presentation for tomorrow's meeting. I'd especially love it if you could double-check the sales numbers with me. There's a coffee in it for you!",
+    "output": "The email appears to have an informal and encouraging tone. The writer seems friendly and enthusiastic, expressing a desire to catch up and seek input on their presentation. The mention of a coffee as a reward adds a lighthearted and encouraging tone to the message.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Rewrite the given text and correct grammar, spelling, and punctuation errors.\n\nIf you'd told me year ago that today I would finish a marathon, I would of laughed. Your support had a huge affect on me!",
+    "output": "If you had told me a year ago that today I would finish a marathon, I would have laughed. Your support had a huge effect on me!",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a paper citation, convert it to the requested citation style.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:",
+    "output": "Vaswani, Ashish, et al. \"Attention Is All You Need.\" arXiv, 2017, https://doi.org/10.48550/arXiv.1706.03762.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Desk jobs require writing a lot of emails, so it isn't surprising we get tired of repeating ourselves. Come up with several synonyms for the given word.\n\nSincerely",
+    "output": "Certainly. Some synonyms for \"sincerely\" include \"faithfully,\" \"cordially,\" \"regards,\" and \"best regards.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated.",
+    "output": "Subject: Dinner Invitation on Friday\n\nHi friends,\n\nI hope you're all doing well. I wanted to invite you to a dinner at my place this Friday at 7:00 pm. I'll be preparing some of my favorite dishes and it would be great to catch up and spend some quality time together. Please let me know if you can make it so I can plan accordingly.\n\nLooking forward to seeing you all!\n\nBest,\n[Your Name]",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The tone of the email should be changed and rewritten in a more professional manner.\n\nSubject: Asking for Vacation Time\nHi [Employer], \nI hope all is well. I am writing to request a day off on [date]. I have already taken care of my work responsibilities for that day and will be available to answer any questions or concerns you may have. \nThank you for your time, \n[Your name]",
+    "output": "Subject: Request for Vacation Day\n\nDear [Employer],\n\nI trust this message finds you well. I am writing to formally request a day off on [date]. I have ensured that my work responsibilities for that day are completed and I will be accessible to address any inquiries or issues that may arise.\n\nThank you for considering my request.\n\nSincerely,\n[Your Name]",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a social media post about the call for collaboration on a crowdsourcing project in a persuasive way.",
+    "output": "🌟 Exciting opportunity alert! 🌟 We're looking for passionate individuals to join our crowdsourcing project and make a real impact. If you're eager to collaborate, share ideas, and contribute to something meaningful, this is your chance to shine! Join us in making a difference together. #crowdsourcing #collaboration #makeanimpact",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "My favorite witty review of The Rings of Power series is this:",
+    "output": "I'm unable to provide the specific review you're referring to, but I can help with a summary or analysis of the series if you'd like.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A helpful writing exercise is writing a story without using adjectives or adverbs. This will help you learn to use other words and phrases to describe what you are trying to say. Here are some examples:",
+    "output": "1. Instead of saying \"The sky was beautifully blue,\" you could say \"The sky was a vivid shade of blue.\"\n2. Rather than \"She ran quickly,\" you could say \"She sprinted.\"\n3. Instead of \"The dog barked loudly,\" you could say \"The dog's bark echoed through the neighborhood.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with some search queries on google about coding stuff.",
+    "output": "1. \"Python tutorial for beginners\"\n2. \"JavaScript best practices\"\n3. \"How to use Git for version control\"\n4. \"Java programming language fundamentals\"\n5. \"HTML and CSS responsive design techniques\"\n6. \"SQL database optimization tips\"\n7. \"Ruby on Rails web development resources\"\n8. \"C++ data structures and algorithms tutorials\"\n9. \"PHP secure coding practices\"\n10. \"Swift mobile app development tutorials\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Discover the most relevant StackOverflow questions for your search term. And output a list of their URLs.\n\nremove item in array",
+    "output": "You can find relevant StackOverflow questions for removing an item in an array using the following search query on the StackOverflow website: \"remove item in array site:stackoverflow.com\". This will provide you with a list of relevant questions along with their URLs.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given an algorithm or a search query about coding. Look for a code snippet related to the search query.\n\nPython loop",
+    "output": "Certainly! Here's a simple code snippet for a Python loop:\n\n```python\n# Using a for loop to iterate through a list\nfruits = [\"apple\", \"banana\", \"cherry\"]\nfor fruit in fruits:\n    print(fruit)\n```\n\nThis code snippet demonstrates a for loop that iterates through a list of fruits and prints each item.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are provided with a description of the code, specifications, or prompts. Your help is needed in automating code generation to speed up the development process.\n\npython function to determine whether a number is prime.",
+    "output": "You can use the following Python function to determine whether a number is prime:\n\n```python\ndef is_prime(num):\n    if num < 2:\n        return False\n    for i in range(2, int(num**0.5) + 1):\n        if num % i == 0:\n            return False\n    return True\n```\n\nThis function takes a number as input and returns True if the number is prime, and False if it is not.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "When you're stuck on a coding problem, the best place to look for help is in the documentation. Read the docs carefully and see if there's a section that covers your specific issue. Often, the answer will be right there in front of you. If not, try searching for key terms related to your problem. Come up with the useful links about the given search term.\n\nsql find duplicate values",
+    "output": "To find duplicate values in SQL, you can use the SELECT statement with the COUNT function and GROUP BY clause. Here are some useful links to help you with finding duplicate values in SQL:\n\n1. W3Schools SQL GROUP BY: https://www.w3schools.com/sql/sql_groupby.asp\n2. SQLShack article on finding duplicate rows in SQL: https://www.sqlshack.com/find-duplicate-rows-in-a-sql-table/\n3. SQL Server Central forum discussion on identifying duplicate values: https://www.sqlservercentral.com/forums/topic/how-to-find-duplicate-values-in-an-sql-table",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We have entered the home supplies budget in the following table. Calculate the last column with the given function and rewrite the completed table.\nNote that, columns in a row are separated using a comma, and rows are separated using a \"|\".\n\nItem, Qty, Price, Subtotal | mango, 5, 500, ? | apple, 4, 150, ? | oil, 2, 1500, ?  \nFunction: column2 * column 3",
+    "output": "Item, Qty, Price, Subtotal | \nmango, 5, 500, 2500 | \napple, 4, 150, 600 | \noil, 2, 1500, 3000",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please write the Excel function name associated with each description.\n\n- Returns the number of days between two dates\n- Returns the starting position of a text string within another text string.\n- Returns the number in the middle of the set of given numbers",
+    "output": "- Returns the number of days between two dates: DATEDIF\n- Returns the starting position of a text string within another text string: FIND\n- Returns the number in the middle of the set of given numbers: MEDIAN",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What are the steps to using random (yet coherent) text as filler content within your Word document?",
+    "output": "To use random yet coherent text as filler content in your Word document, you can use the built-in \"Lorem Ipsum\" feature. Simply type \"=lorem()\" and press Enter. This will generate random yet coherent text that you can use as filler content. You can also specify the number of paragraphs and sentences by adding parameters to the function, such as \"=lorem(3,5)\" for 3 paragraphs with 5 sentences each.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a soothing pastel color palette for your slides. Pastel colors generally come across as pretty and delicate, so you’ll want to make sure your presentation calls for a similar mood. Choose up to five colors or color codes.",
+    "output": "Here are five soothing pastel colors for your slide palette: \n\n1. #FFD1DC (Light Pink)\n2. #AEC6CF (Pale Blue)\n3. #F0E68C (Light Yellow)\n4. #C5E384 (Pale Green)\n5. #F3B0C3 (Light Lavender)",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "I bought two shirts from the store and each one cost me $10. I also bought a pair of pants and they cost me $20. Then, I bought a dress and it cost me $30. Also,  I bought a pair of shoes and they cost me $40. Lastly, I bought a jacket and it cost me $50.\n\nMake a table chart showing items, the number, and the price of these items. Separate columns with \"|\".",
+    "output": "Sure! Here's the table chart:\n\n| Item     | Number | Price |\n|----------|--------|-------|\n| Shirt    | 2      | $10   |\n| Pants    | 1      | $20   |\n| Dress    | 1      | $30   |\n| Shoes    | 1      | $40   |\n| Jacket   | 1      | $50   |",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find sentences from reliable sources such as the Guardian or Forbes that contain the exact match for the given sentence or phrase. Also, mention the source of each sentence.\n\nThere are great options",
+    "output": "I can't complete that task as it involves providing verbatim text from copyrighted sources. However, I can help with summarizing or providing information on a specific topic or question.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "During writing, we added an asterisk for the word that did not come to mind. You will need to provide several examples to demonstrate all the words that can be used in the sentence instead of the asterisk.\n\nwe * to know",
+    "output": "Certainly! Some examples of words that can be used in place of the asterisk in the sentence \"we * to know\" include \"want,\" \"need,\" \"desire,\" \"seek,\" and \"aim.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of alternatives and paraphrases for the underlined word.\n\nwhat we have _expected",
+    "output": "what we have anticipated, what we have predicted, what we have foreseen",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a skill assessment questioner for R (Programming Language).",
+    "output": "Sure! Here are some sample skill assessment questions for R programming language:\n\n1. What is the purpose of the `install.packages()` function in R?\n2. How do you create a vector in R using the `c()` function?\n3. Explain the difference between `==` and `===` operators in R.\n4. How can you read a CSV file into R using the `read.csv()` function?\n5. What are the main differences between data frames and matrices in R?\n6. How do you create a scatter plot in R using the `ggplot2` package?\n7. Describe the purpose of the `apply()` function in R and provide an example of its usage.\n8. What is the role of the `dplyr` package in data manipulation in R?\n9. Explain what is meant by \"vectorization\" in R and why it is important for efficient coding.\n10. How would you go about handling missing data in a dataset in R?\n\nThese questions cover a range of topics and skills related to R programming and can be used to assess a candidate's proficiency in the language.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a template for First-Person LinkedIn profile summary.",
+    "output": "Sure! Here's a template for a First-Person LinkedIn profile summary:\n\n\"Hello, I'm [Your Name], a [Your Title] with [Number] years of experience in [Your Industry]. I am passionate about [Specific Interest or Skill], and I thrive in [Describe Work Environment or Team Dynamic]. My expertise lies in [Key Skills or Achievements], and I am committed to [Professional Goal or Mission]. I am always eager to connect with like-minded professionals and explore new opportunities. Let's connect and explore potential collaborations!\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a LinkedIn post to announce that you have accepted a new job offer.",
+    "output": "\"I am excited to announce that I have accepted a new job offer as [new position] at [new company]. I am grateful for the opportunities and experiences at my previous role and am looking forward to this new chapter in my career. I am eager to bring my skills and expertise to my new role and contribute to the success of [new company].\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of desirable Skills for software engineers to add to LinkedIn.",
+    "output": "1. Programming languages (e.g. Java, Python, C++)\n2. Software development methodologies (e.g. Agile, Scrum)\n3. Version control systems (e.g. Git, SVN)\n4. Web development frameworks (e.g. React, Angular, Node.js)\n5. Database management systems (e.g. MySQL, MongoDB)\n6. Cloud computing platforms (e.g. AWS, Azure, Google Cloud)\n7. DevOps tools (e.g. Docker, Kubernetes)\n8. Testing frameworks (e.g. JUnit, Selenium)\n9. Security best practices (e.g. OWASP Top 10, encryption)\n10. Problem-solving and analytical skills",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will be asked to answer the following question as part of the LinkedIn Skill assessments.\n\nYou find that your project has a tag and branch both named push-notifications, which causes confusion when trying to print out given reference. How can you specify which branch you want to look at?",
+    "output": "To specify which branch you want to look at, you can use the following command:\n\n```\ngit checkout <branch-name>\n```\n\nReplace `<branch-name>` with the name of the specific branch you want to look at, such as `git checkout push-notifications`. This will switch your working directory to the specified branch.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Take the title of the product and extract its attributes. The attributes in this case refer to the characteristics of the products, such as their brand and color. Your answer must a list following the format of \"attribute: value\".\n\nSAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed, Thermal Control, MZ-V8P2T0B",
+    "output": "- Brand: SAMSUNG\n- Model: 980 PRO\n- Capacity: 2TB\n- Interface: PCIe NVMe Gen 4\n- Form factor: M.2\n- Usage: Gaming\n- Special features: Maximum Speed, Thermal Control\n- Part number: MZ-V8P2T0B",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should write a Product Description that will persuade the buyer that the product is beneficial.\n\nFlipslide Game, Electronic Handheld Game | Flip, Slide, and Match the Colors to Beat the Clock - 4 Game Modes - Multiplayer Fun",
+    "output": "Introducing the Flipslide Game, an electronic handheld game that offers exciting and challenging gameplay. With its four game modes and multiplayer capability, you can flip, slide, and match colors to beat the clock. This engaging game provides hours of fun while also enhancing cognitive skills and dexterity. Whether you're playing solo or with friends, the Flipslide Game is sure to bring entertainment and enjoyment to all ages.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What other Amazon products might interest someone who visited the given product?\n\nZeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black",
+    "output": "Customers who viewed the Zeroll Zerolon Ice Cream Scoop also looked at related kitchen gadgets such as ice cream makers, dessert bowls, and kitchen utensils like spatulas and measuring cups. Additionally, they may be interested in other Zeroll products or similar ice cream scoops with unique features.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Compare the given item with similar products based on its properties such as price, rating, etc. For product comparison, use a table and separate the columns with \"|\".\n\nItem: iBayam Journal Planner Pens Colored Pens Fine Point Markers Fine Tip Drawing Pens Porous Fineliner Pen for Journaling Writing Note Taking Calendar Coloring Art Office Back to School Supplies, 18 Color",
+    "output": "| Property    | iBayam Journal Planner Pens | Similar Products |\n|-------------|-----------------------------|-------------------|\n| Price       | $7.99                      | Varies            |\n| Rating      | 4.7/5                      | Varies            |\n| Quantity    | 18 pens                    | Varies            |\n| Usage       | Journaling, writing, art   | Varies            |",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a  review based on the given information.\n\n- Product: Persil Discs Laundry Detergent Pacs, Original Scent, High Efficiency (HE) Compatible, Laundry Soap, 62 Count\n- Sentiment: Positive",
+    "output": "\"Persil Discs Laundry Detergent Pacs provide a convenient and effective solution for laundry needs. The Original Scent leaves clothes smelling fresh and clean. With 62 count, it offers great value for money. Highly recommended for a positive laundry experience.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a short description about the given movie or series.\n\nThe Witcher (2019)",
+    "output": "\"The Witcher\" is a fantasy series based on the book series by Andrzej Sapkowski. It follows the story of Geralt of Rivia, a monster hunter, as he navigates a world filled with magic, political intrigue, and dangerous creatures. The series is known for its complex characters, epic battles, and intricate storytelling.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of some series or movies that would be enjoyable for someone who liked the given series.\n\nSquid Game",
+    "output": "If you enjoyed \"Squid Game,\" you might also enjoy \"Alice in Borderland,\" \"Battle Royale,\" \"The Hunger Games,\" \"Black Mirror,\" \"Money Heist,\" and \"The Platform.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give examples of popular shows and movies in the genre.\n\nGenre: Crime TV Shows",
+    "output": "Some popular crime TV shows include \"Breaking Bad,\" \"Mindhunter,\" \"True Detective,\" \"Sherlock,\" and \"Narcos.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "In what genres does the given movie or series fall?\n\nManifest",
+    "output": "\"Manifest\" falls into the genres of drama, mystery, and science fiction.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief description of the given category of movies and shows.\n\nPeriod Dramas",
+    "output": "Period dramas are movies or shows set in a specific historical time period, often featuring elaborate costumes, settings, and language to accurately portray the era. They typically focus on the social, cultural, and political aspects of the time period, and often include fictional or real-life characters and events.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide an example of how a table of contents can be generated automatically in a LATEX document. Make sure your example contains the necessary commands.",
+    "output": "To generate a table of contents in a LaTeX document, you can use the `\\tableofcontents` command. Here's an example:\n\n```latex\n\\documentclass{article}\n\n\\begin{document}\n\n\\tableofcontents\n\n\\section{Introduction}\nThis is the introduction.\n\n\\section{Methodology}\nThis is the methodology section.\n\n\\subsection{Data Collection}\nThis subsection is about data collection.\n\n\\subsection{Data Analysis}\nThis subsection is about data analysis.\n\n\\section{Results}\nThis is the results section.\n\n\\end{document}\n```\n\nAfter running this code through a LaTeX compiler, the table of contents will be automatically generated based on the sections and subsections in the document.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Imagine you have a FEN notation of a chessboard. How can you draw a board to show this state of the chessboard in LATEX? Create a LATEX code that includes all the required commands and packages.",
+    "output": "To draw a chessboard with a specific FEN notation in LaTeX, you can use the `skak` package. Here's an example of the LaTeX code to display the chessboard:\n\n```latex\n\\documentclass{article}\n\\usepackage{skak}\n\n\\begin{document}\n\\newgame\n\\fenboard{FEN_notation_here}\n\\showboard\n\\end{document}\n```\n\nReplace `FEN_notation_here` with the specific FEN notation you want to display. Compile the LaTeX code to generate the chessboard with the specified FEN notation.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What is the output of the given LATEX code?\n\n\\documentclass{article}\n\\begin{document}\nFirst document. This is a simple example, with no \nextra parameters or packages included.\n\\end{document}",
+    "output": "The given LaTeX code will produce a simple document with the text \"First document. This is a simple example, with no extra parameters or packages included.\" in the output.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should find a few LATEX templates appropriate for the task at hand and list the links to them.\n\nHomework Assignment",
+    "output": "You can find various LaTeX templates for homework assignments on websites such as Overleaf, ShareLaTeX, and LaTeX Templates. Here are the links to some suitable templates:\n\n1. Overleaf: https://www.overleaf.com/gallery/tagged/homework\n2. ShareLaTeX: https://www.sharelatex.com/templates/homework\n3. LaTeX Templates: https://www.latextemplates.com/tag/homework",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a simple guide for uploading the bibliography database\n on Overleaf.",
+    "output": "1. Open your Overleaf project.\n2. Click on the \"Upload\" button in the top left corner.\n3. Select the bibliography database file from your computer.\n4. Once the file is uploaded, it will appear in the file list of your project.\n5. You can now reference the items in your bibliography database in your LaTeX document using the \\cite{} command.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choose Spotify playlists that match the given mood. Provide a link to these playlists for easy access.\n\nFeeling Good",
+    "output": "Sure! Here are a few Spotify playlists that match the mood \"Feeling Good\":\n\n1. \"Feeling Good\" - This playlist includes uplifting and positive tracks to boost your mood. You can access it here: [Feeling Good Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdrxK6VY3gPj)\n\n2. \"Mood Booster\" - This playlist is designed to lift your spirits and make you feel good. You can find it here: [Mood Booster Playlist](https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0)\n\nFeel free to explore these playlists and enjoy the music that matches your mood!",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Curate a Spotify playlist based on the vibe. Publish this playlist as a song list.\n\nVibe: coding on weekend",
+    "output": "1. Daft Punk - \"Harder, Better, Faster, Stronger\"\n2. Tycho - \"Awake\"\n3. Bonobo - \"Kerala\"\n4. ODESZA - \"Say My Name (feat. Zyra)\"\n5. Moby - \"Porcelain\"\n6. Röyksopp - \"Eple\"\n7. Disclosure - \"Latch (feat. Sam Smith)\"\n8. Jon Hopkins - \"Open Eye Signal\"\n9. Caribou - \"Can't Do Without You\"\n10. Four Tet - \"Parallel Jalebi\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "How would you describe the meaning of this lyrics? Describe some of the metaphors.\n\nMy lover’s got humor\nShe’s the giggle at a funeral\nKnows everybody’s disapproval\nI should’ve worshipped her sooner",
+    "output": "These lyrics suggest that the singer's lover has a unique and playful sense of humor, and is able to find lightness in dark situations. The line \"giggle at a funeral\" is a metaphor for finding humor in serious or somber events. The mention of \"everybody’s disapproval\" hints at the lover's rebellious nature, and the regret of not appreciating her sooner suggests a realization of her worth.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest some Audiobooks for First-Time Listeners. You can attract them by choosing popular works.",
+    "output": "Sure! Here are some popular audiobooks that are great for first-time listeners:\n\n1. \"Becoming\" by Michelle Obama\n2. \"The Alchemist\" by Paulo Coelho\n3. \"Educated\" by Tara Westover\n4. \"Bridgerton: The Duke and I\" by Julia Quinn\n5. \"Harry Potter and the Sorcerer's Stone\" by J.K. Rowling\n\nThese titles offer engaging stories and are well-loved by many listeners.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the most popular podcasts.",
+    "output": "Here are some popular podcasts across various genres: \n1. \"The Joe Rogan Experience\"\n2. \"Serial\"\n3. \"The Daily\"\n4. \"Stuff You Should Know\"\n5. \"Crime Junkie\"\n6. \"This American Life\"\n7. \"The Michelle Obama Podcast\"\n8. \"The Tim Ferriss Show\"\n9. \"Radiolab\"\n10. \"The Moth\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should take the time to read the situation and problem carefully and give the best advice you can.\n\nI'm roadtripping down New Zealand with a friend and he is driving me insane. He hasn't enjoyed all the tours we've been on and doesn't want to chat about ANYTHING. We're a week into our trip and this is the quietest I've ever been when hanging out with another person as he rebuffs all my attempts at conversation. He wears his airpods in the car and around the accommodation - not that I've kept trying to talk to him. Honestly, he is bringing some seriously bad vibes to everything and it's ruining my trip.\nWe don't have anything booked in yet for the South Island, so I'm planning to ditch him in Wellington at the ferry. Probably book my own car in Picton and just relax alone for the rest of the trip. (Just thinking about it is such sharp relief that it makes me feel emotional. I'll pay whatever price I have to just to get away from him.)\nObviously telling him he is ruining my trip with his negative energy isn't the best way to approach this.\nAny advice for the best approach so we can split amicably? Or at least not have an argument that ends with very hurt feelings?",
+    "output": "It sounds like you're feeling really frustrated and disheartened by the situation. I suggest having an open and honest conversation with your friend. Express your feelings and let him know that you'd like to continue the trip separately. Try to focus on your need for some alone time rather than blaming him for the negative energy. It's important to communicate calmly and respectfully to minimize the risk of hurt feelings. If he's not receptive to the idea, consider finding a compromise that allows both of you to enjoy the rest of the trip in your own ways.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a description that provides a set of facts or a scenario. It is up to you to craft a story from these facts and scenarios. The missing pieces must be filled in with imaginative but logical information.\n\nTen European football teams – the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and Wales – will participate in a season-long “OneLove” campaign promoting inclusion and opposing discrimination.",
+    "output": "The \"OneLove\" campaign will see the ten European football teams coming together to promote inclusion and oppose discrimination. Throughout the season, the teams will wear special jerseys with a unified logo representing diversity and unity. In addition to this, the teams will organize various community events and outreach programs to spread awareness about the campaign's message. The campaign will culminate in a special match where players from all ten teams will come together to play against a mixed team of young athletes from diverse backgrounds, highlighting the power of unity and inclusion in sports.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the given query, suggest some related search queries.\n\nlearning french",
+    "output": "Sure! Here are some related search queries you might find useful:\n\n- Best online resources for learning French\n- French language classes near me\n- French language learning apps\n- French language immersion programs\n- Tips for mastering French pronunciation",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please suggest a few papers to consider based on the search term given. The names of the papers should be listed.\n\nTopic: scaling law + machine learning",
+    "output": "1. \"Scaling laws for neural language models\" by Andrew M. Dai, Quoc V. Le, and George E. Dahl.\n2. \"Machine learning and the physical sciences\" by Carleo, Giuseppe, et al.\n3. \"Machine learning at the energy and intensity frontiers of particle physics\" by Baldi, Pierre, et al.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Prepare an email signature template for the given person or company.\n\na graduate student of computer science",
+    "output": "[Full Name]\nGraduate Student | Computer Science\n[University Name]\n[Contact Information]",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "React properly to reviews from your customers. In your responses, you can highlight your business' policies and customer service.\n\nAnother repeat visit and no disappointment from us. Great place for breakfast or brunch - and you won't need to eat again for awhile. The restaurant is close to the Tenderloin so be aware of your surroundings.\nWe enjoyed the Succotash Omelet (at least my wife enjoyed it), the Pulled Pork Benedict and the Hangtown Fry. Portions are large and pricing is fair. I wish we could have managed a Beignet Flight!\nDefinitely a spot to seek out. It can be crowed at times so be patient. Well worth any wait.",
+    "output": "Thank you for your continued patronage and for sharing your positive experience with us. We are delighted to hear that you enjoyed our breakfast and brunch offerings, as well as our generous portions and fair pricing. We appreciate your feedback and are glad that you found the wait well worth it. We hope to have the pleasure of serving you again soon and look forward to the opportunity to offer you a Beignet Flight on your next visit. Thank you for choosing us!",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a good Twitter Bio. Try to cover all the provided main points in your generated bio.\n\nName: Jane\nMain points:\n- Architect\n- Interested in Tech\nWritten in first person\nUse casual tone",
+    "output": "Jane | Architect passionate about tech. Designing spaces & embracing innovation. Coffee lover, bookworm, and aspiring coder. Let's build a better world together! 🏗️📱📚 #Architect #TechEnthusiast",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We need to write a thematic tweet to share company news and facts. Please take a careful look at the facts and details provided and create a tweet based on them.\n\n- news: Applications for summer internships are open now\n- Start with a thematic tie-in to Halloween",
+    "output": "🎃 Spooktacular news! Our company is opening applications for summer internships. Don't miss out on this opportunity to gain valuable experience and grow your skills. Apply now! #InternshipOpportunity #ProfessionalGrowth",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company.\n\nCompany: [Company name]\nJob: Software Engineer\nJob Responsibilities:\nReceive and perform code reviews with other engineers.\nWrite unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\nWork collaboratively with fellow software engineers to build features requested by business stakeholders.\nParticipate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nDiagnose, debug, and perform root cause analysis of issues and defects.\nSkills and experience that will lead to success:\nExperience with a modern software programming language. We use Python, and Pyspark extensively.\nExperience with cloud systems like AWS or Azure\nExperience writing SQL queries \nStrong written and verbal communication skills\nEagerness to work in a highly-collaborative environment\nSome visualization experience such as Tableau or PowerBI is helpful",
+    "output": "Company: [Company name]\nJob: Software Engineer\n\nJob Description:\nAs a Software Engineer at [Company name], you will be responsible for collaborating with fellow engineers to develop and test features requested by business stakeholders. This includes receiving and performing code reviews, writing unit, integration, and end-to-end tests using automated testing frameworks, and participating in Agile teams to develop, test, and debug complex data processing pipelines and applications using big data processing systems. You will also diagnose, debug, and perform root cause analysis of issues and defects.\n\nSkills and Experience:\nTo be successful in this role, you should have experience with a modern software programming language, such as Python and Pyspark, as well as experience with cloud systems like AWS or Azure. Strong written and verbal communication skills, eagerness to work in a highly-collaborative environment, and some visualization experience with tools like Tableau or PowerBI are also helpful. Additionally, experience writing SQL queries is required.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Considering the reason for the rejection, write a polite rejection letter for rejecting a candidate.\n\nReason: You came in second",
+    "output": "Dear [Candidate],\n\nThank you for your interest in the [position]. We appreciate the time and effort you put into the application process. After careful consideration, we have decided to offer the position to another candidate who closely matched our requirements. We were impressed with your qualifications and experience, and we encourage you to apply for future opportunities with us.\n\nWe wish you the best of luck in your job search and in your future endeavors.\n\nSincerely,\n[Your Name]\n[Your Title]",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We've already decided on the title and topic for our blog post. I would appreciate it if you wrote an introduction paragraph to attract the readers' attention.\n\nBlog title: Healthy Apple Muffins\nBlog Topic: recipe and tips for cooking a good apple muffin",
+    "output": "Certainly! Here's an introduction paragraph for your blog post about healthy apple muffins:\n\n\"Looking for a delicious and wholesome treat to kick-start your day? Our healthy apple muffins are the perfect blend of flavor and nutrition. In this post, we'll share a delightful recipe for mouthwatering apple muffins, along with some expert tips to ensure your baking success. Whether you're a seasoned baker or a novice in the kitchen, get ready to savor the comforting aroma of cinnamon and apples while indulging in a guilt-free delight.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design an outline for a blog post based on the given information and list the sections accordingly.\n\nThis blog post is going to about making a list of last-minute gift ideas. Also, the tone of the post is going to be relaxed and casual.",
+    "output": "Title: Last-Minute Gift Ideas for Every Occasion\n\n1. Introduction\n- Briefly introduce the topic of last-minute gift ideas\n- Set the relaxed and casual tone for the post\n\n2. The Thoughtful Approach\n- Discuss the importance of considering the recipient's interests and preferences\n- Emphasize the value of thoughtful gifts, even when time is limited\n\n3. Quick and Easy DIY Gifts\n- Provide a list of simple DIY gift ideas that can be made in a short amount of time\n- Include tips for personalizing each DIY gift\n\n4. Experience-Based Gifts\n- Suggest experience-based gifts, such as concert tickets or a cooking class, as memorable last-minute options\n- Highlight the benefits of creating lasting memories through experiences\n\n5. Subscription Services\n- Recommend subscription services as a convenient last-minute gift idea\n- Discuss the variety of subscription options available, tailored to different interests\n\n6. Gift Cards with a Personal Touch\n- Explore creative ways to enhance the presentation of gift cards, making them feel more personalized\n- Provide examples of unique gift card ideas\n\n7. Conclusion\n- Recap the key points of the blog post\n- Encourage readers to approach last-minute gift giving with creativity and thoughtfulness\n\n8. Call to Action\n- Invite readers to share their own last-minute gift ideas in the comments\n- Offer a related resource or guide for further reading",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a section for a blog post and try to cover all of the provided information about this section in your text.\n\nBlog Topic: 7 Fall Fashion Trends Worth Taking on Your Trip\nSection Title: Trusty Jeans\nMain point of the section: jeans can be worn all year and look good with everything .",
+    "output": "Title: Trusty Jeans\n\nJeans are a timeless fashion staple that effortlessly transition from season to season. Their versatility makes them a must-have item for any fall trip. Whether you're exploring a bustling city or hiking through scenic trails, jeans are the perfect choice for a comfortable yet stylish look. Pair them with cozy sweaters, chic blouses, or trendy jackets for a flawless ensemble that suits any occasion. Their ability to complement any outfit makes them an essential item for your fall travel wardrobe.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a detailed caption for an Instagram post about a discount. A proper caption should explain the product, offer the discount, and tell the user how to claim it.\n\nProduct: Golang course\nProduct description: teaching the foundational skills for building cloud services, web applications, DevOps tools, and backend development\nDiscount: 50%\nHow to claim: Use the coupon code: GOLANG",
+    "output": "🌟 Save 50% on our Golang course! 🌟 Master the skills for cloud services, web apps, DevOps tools, and backend dev. Use coupon code GOLANG at checkout to claim this exclusive offer. Don't miss out - level up your tech skills today! #Golang #discount #techskills",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a captivating Instagram caption based on the provided details. Try to think of as many captions as you can.\n\nI am sharing images of the first snow of the year taken from a window in an office",
+    "output": "1. \"Watching the world transform into a winter wonderland from my office window ❄️ #FirstSnow\"\n2. \"Capturing the magic of the season from my desk - the first snowfall has arrived! ❄️✨\"\n3. \"Office views just got a whole lot dreamier with the arrival of the first snowfall. Stay cozy out there, friends! ❄️☕️\"\n4. \"Embracing the serene beauty of the first snowfall from the comfort of my work space. Let it snow! ❄️ #OfficeViews\"\n5. \"Finding joy in the little things - like the breathtaking sight of the season's first snowflakes from my office window. ❄️✨ #WinterWonderland\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a topic for an Instagram post. Help the post reach a broader audience by suggesting hashtags related to the post.\n\nAnother episode of women in science is out now",
+    "output": "#WomenInScience #WomenInSTEM #ScienceWomen #WomenScientists #WomenInResearch #WomenEmpowerment #STEMWomen #WomenLeaders #WomenInTech #WomenInEngineering",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Use appropriate emojis to convey the meaning in the given text.\n\nCute cat\nplayful\nSoft",
+    "output": "🐱😺🐾🎀",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The topic of a YouTube post has been described and based on the information, you need to write a hook for starting the post. A catchy hook will keep your readers interested so they keep reading. It would be great if you could come up with as many hooks as you can.\n\nA video showing how to make a tasty cup of coffee",
+    "output": "1. \"Wake up and smell the perfect cup of coffee with this step-by-step guide!\"\n2. \"Join me as I unlock the secrets to brewing the most delicious cup of coffee at home!\"\n3. \"Ready to elevate your coffee game? Let's dive into the art of crafting a truly sensational brew!\"\n4. \"Unleash your inner barista with this foolproof method for brewing the ultimate cup of coffee!\"\n5. \"Get ready to savor every sip with this simple yet satisfying coffee-making tutorial!\"\n6. \"Discover the magic of brewing the perfect cup of coffee right in your own kitchen!\"\n7. \"Calling all coffee lovers! Learn the secrets to creating a heavenly cup of joe from scratch!\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using the provided topic as a starting point, brainstorm ideas for videos that can be made about it on YouTube.\n\nIn spite of the fact that procrastination feels bad to you, why do you do it?",
+    "output": "Here are some video ideas related to procrastination:\n\n1. \"Understanding Procrastination: Psychological Factors and Coping Strategies\"\n2. \"Procrastination and Productivity: Tips for Overcoming Procrastination\"\n3. \"The Science of Procrastination: Why We Procrastinate and How to Stop\"\n4. \"Procrastination and Mental Health: Impact and Coping Mechanisms\"\n5. \"Procrastination in Different Areas of Life: Work, School, and Personal Projects\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should choose a YouTube video title based on the video's content. A video's title tells viewers what to expect from it. It should be direct, honest, and clear. The title of the video needs to capture the attention of viewers, so do not use an unclear or ambiguous one.\n\nA research study has been conducted to determine if exercise really can \"boost\" your metabolism.",
+    "output": "\"Can Exercise Boost Your Metabolism? Research Study Findings Revealed\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choosing a name for your product or business YouTube channel is an important part of the process. Based on the description of the product or business, you should come up with some interesting names. Take some time to brainstorm your ideas.\n\nHere you will find videos and content that will help students prepare for the application process to graduate schools as well as how to apply to graduate schools",
+    "output": "Sure, here are a few potential names for your YouTube channel:\n\n1. GradPrepPros\n2. GradSuccessHQ\n3. GradSchoolGuru\n4. GradAdmitGuide\n5. GradReadyTV\n\nThese names can convey the focus on preparing for and applying to graduate schools.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find the answer that best describes the underlined SAT word. Select the correct option and explain the meaning of the underlined word.\n\nDespite the _cacophony, the student tried to study. \nA. Loud sounds\nB. Difficult subject\nC. Late hour\nD. Low lighting",
+    "output": "The correct option is A. \"Loud sounds.\" The word \"cacophony\" refers to a harsh, discordant mixture of sounds. In this context, it means there is a lot of noisy and unpleasant sound.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find synonyms for the given word. You need to write down how the provided synonyms differ from the original word in terms of meaning, usage, etc.\n\nadversity",
+    "output": "Adversity synonyms: hardship, misfortune, difficulty, trouble. These synonyms all convey the idea of facing challenges or obstacles, but they may differ in intensity or specific context. \"Hardship\" emphasizes enduring difficult conditions, \"misfortune\" suggests bad luck or unfortunate events, \"difficulty\" refers to something that is hard to overcome, and \"trouble\" implies a problem or difficulty that causes distress.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Discuss the origins and history of the word that has been given to you.\n\noblique",
+    "output": "The word \"oblique\" comes from the Latin word \"obliquus,\" meaning \"slanting\" or \"sideways.\" It entered the English language in the late 15th century with the same meaning, and over time, it has come to also refer to things that are indirect, evasive, or not straightforward. In anatomy, \"oblique\" is used to describe muscles or angles that are diagonal or slanting.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give the provided brand a motto to use as a part of its marketing strategies.\n\nThe Ice cream shop is a small, quaint shop located in the heart of the historic district. They offer a variety of ice cream flavors, as well as Italian ice, gelato, and sorbet. The shop has a few tables and chairs, but most of their business is to-go. They offer a loyalty program where you can get a free scoop of ice cream after 10 purchases.",
+    "output": "\"Indulge in Tradition, Taste the Difference.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A confirmation email should be written appropriately for the situation.\n\nA meeting has been scheduled, and the sender expects the other to review the slides.",
+    "output": "Subject: Confirmation: Meeting Scheduled for [Date and Time]\n\nDear [Recipient's Name],\n\nI am writing to confirm our meeting scheduled for [Date and Time]. Please find attached the slides that we will be discussing during the meeting. Kindly review them beforehand to ensure a productive discussion.\n\nIf you have any questions or need further information, please do not hesitate to contact me.\n\nLooking forward to our discussion.\n\nBest regards,\n[Your Name]",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You need to write an email to negotiate your salary.",
+    "output": "Subject: Salary Negotiation Request\n\nDear [Employer's Name],\n\nI hope this message finds you well. I am writing to discuss the possibility of adjusting my current salary. I have thoroughly enjoyed my time at [Company Name], and I am eager to continue contributing to its success.\n\nBased on my performance, achievements, and the responsibilities I have taken on, I believe that a salary adjustment is warranted. I am requesting a meeting to discuss this matter further and to explore the potential for a salary increase that reflects my contributions to the company.\n\nI am open to finding a mutually agreeable solution and am confident that we can reach a positive outcome. I value the opportunity to continue to grow and thrive within the company and believe that a salary adjustment would be a meaningful step in that direction.\n\nI am looking forward to discussing this matter further at your earliest convenience. Thank you for your time and consideration.\n\nSincerely,\n[Your Name]",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write an email to attendees as a reminder that the event is coming up.",
+    "output": "Subject: Friendly Reminder: Upcoming Event\n\nDear [Attendee's Name],\n\nWe hope this email finds you well. We would like to remind you that the [Event Name] is quickly approaching. The event will be held on [Date] at [Location]. We are looking forward to seeing you there and enjoying a day filled with [brief description of the event].\n\nIf you have any questions or need further information, please don't hesitate to reach out to us.\n\nThank you for your participation, and we can't wait to have you join us at the event.\n\nBest regards,\n[Your Name]\n[Event Organizer or Organization Name]\n[Contact Information]",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "It would be helpful if you could suggest an acronym for the repository.\n\nA python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "output": "You could use the acronym \"PyNISQ\" for the repository.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a step-by-step guide for resolving GitHub merge conflicts.",
+    "output": "1. Pull the most recent changes from the remote repository to your local repository using the `git pull` command.\n2. Open your code editor and locate the files with merge conflicts. These files will contain conflict markers such as \"<<<<<<<\", \"=======\", and \">>>>>>>\". \n3. Manually resolve the conflicts by editing the conflicting sections within the files. Remove the conflict markers and keep the desired changes.\n4. After resolving the conflicts, stage the modified files using the `git add` command.\n5. Commit the changes with a message describing the conflict resolution using the `git commit` command.\n6. Push the changes to the remote repository using the `git push` command.\n7. Verify that the conflicts have been resolved on the remote repository by checking the pull request or branch.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "One or more jobs can be run automatically by a workflow. The workflows are defined in the repository as YAML files and will run if an event occurs in the repository, as well as manually, or on a certain schedule.\nBring an example of a workflow that demonstrate the CI/CD features of GitHub Actions.",
+    "output": "Sure! Here's an example of a GitHub Actions workflow that demonstrates CI/CD features:\n\n```yaml\nname: CI/CD Workflow\n\non:\n  push:\n    branches:\n      - main\n\njobs:\n  build:\n    runs-on: ubuntu-latest\n\n    steps:\n    - name: Checkout code\n      uses: actions/checkout@v2\n    \n    - name: Set up Node.js\n      uses: actions/setup-node@v2\n      with:\n        node-version: '14'\n    \n    - name: Install dependencies\n      run: npm install\n    \n    - name: Run tests\n      run: npm test\n    \n    - name: Build and deploy\n      if: success()\n      run: |\n        npm run build\n        npm run deploy\n```\n\nIn this example, the workflow is triggered on a push to the main branch. It includes steps to install dependencies, run tests, and then build and deploy the application if the tests pass. This demonstrates the continuous integration (CI) and continuous deployment (CD) features of GitHub Actions.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The movie tagline is the film's advertising slogan, usually printed on posters prior to the official release. It is a short description or comment on a movie to capture the essence of the movie, and ultimately make you watch the movie. Here is an example:\n\nMovie: Joker (2019)",
+    "output": "Tagline: \"Put on a happy face.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given some reviews for a movie. Each video might have mentioned some negative or positive points about the movie. Read them carefully and extract the positive and negative points mentioned in all of the reviews. Then, make a list of these points and summarize them as positive points and negative points.\n\nReview 1: I'm not sure if it's just the fact that Ed Norton really grates on me in this film, but I never really bought into the idea of Fight Club being some kind of cultural phenomenon. Yes it's an innovative story, told via a strong script, engaging characters and intense cinematography. But is it really worthy of such high praise? Personally, I find it starts to fall apart halfway through and actually becomes quite tedious towards the end. Everything just becomes a little bit childish and contrived as the story loses touch with its base elements and the rage against the machine vibe takes over. I have huge respect for the way this film was made but, much like The Matrix, I feel like people attach way more importance to this movie than it deserves.\nReview 2: The film tells the story of men who cannot adapt to the social order in today's world, under the leadership of Tyler Durden, to discover their natural instinct, masculinity, and to escape from their unhappy lives.\nReview 3: Despite a good theme, great acting and important messages that this movie convey in an unorthodox way, I think it fails to connect the audience with the storyline and leaves him in a world of confusion. Although, majority of reviews find this movie entertaining and interesting, yet I would choose to be a minority that believes that this movie is extremely overrated.\nReview 4: Is creating chaos, explosions and membership in a militant sect the way to get rid of material shackles ?! The visual effects are fascinating and the story is compelling until the second half. Unfortunately, it doesn't end well.",
+    "output": "Positive points:\n- Innovative story\n- Strong script\n- Engaging characters\n- Intense cinematography\n- Good theme\n- Great acting\n- Important messages\n- Fascinating visual effects\n- Compelling story in the first half\n\nNegative points:\n- Ed Norton's performance\n- Falls apart halfway through\n- Becomes tedious towards the end\n- Loses touch with base elements\n- Becomes childish and contrived\n- Fails to connect the audience with the storyline\n- Ends poorly",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief summary of the movie or series' plot.\n\nBreaking Bad (TV Series 2008–2013)",
+    "output": "\"Breaking Bad\" follows Walter White, a high school chemistry teacher turned methamphetamine manufacturer, as he partners with former student Jesse Pinkman to secure his family's financial future after being diagnosed with terminal cancer. The series chronicles their descent into the criminal underworld and the moral consequences of their actions.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Decide whether children can watch the given movie. Mention what makes it inappropriate if you think they can't.\n\nThe Dark Knight (2008)",
+    "output": "\"The Dark Knight\" (2008) is rated PG-13 for intense sequences of violence and some menace. Due to the intense and violent nature of the movie, it may not be suitable for young children.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a short analysis of the cinematography in the movie.\n\nDead Poets Society",
+    "output": "The cinematography in \"Dead Poets Society\" employs a variety of techniques to create a sense of intimacy and grandeur. The film utilizes a combination of wide shots to capture the beauty of the setting and close-ups to convey the emotions of the characters. The use of natural lighting and outdoor locations adds to the film's nostalgic and romantic atmosphere. Additionally, the film features dynamic camera movements and angles to emphasize the emotional and dramatic moments of the story. Overall, the cinematography in \"Dead Poets Society\" effectively enhances the storytelling and emotional impact of the film.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please let me know your thoughts on the given place and why you think it deserves to be visited.\n\nBarcelona, Spain",
+    "output": "Barcelona is a vibrant city known for its stunning architecture, beautiful beaches, rich history, and delicious cuisine. Visitors can explore iconic landmarks like the Sagrada Familia and Park Guell, immerse themselves in the lively atmosphere of La Rambla, and enjoy the city's thriving arts and culture scene. With its combination of beautiful sights, delicious food, and vibrant atmosphere, Barcelona is definitely worth a visit for anyone seeking a memorable European experience.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Consider the best time of year to visit the given city, and provide your reasons for choosing that time.\n\nSydney, Australia",
+    "output": "The best time to visit Sydney, Australia is during the spring (September to November) or autumn (March to May). During these seasons, the weather is mild and pleasant, making it ideal for outdoor activities. Additionally, you can avoid the peak tourist season and higher prices that come with visiting during the summer months.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a questionnaire to help hotel guests write hotel reviews.",
+    "output": "Sure, here are some sample questions for a hotel review questionnaire:\n\n1. Please rate the cleanliness of the hotel room.\n2. How would you rate the friendliness and helpfulness of the hotel staff?\n3. Did the hotel meet your expectations in terms of amenities and facilities?\n4. Please rate the quality of the food and dining experience at the hotel.\n5. How satisfied were you with the overall comfort and condition of the hotel room?\n6. Were there any particular services or staff members that stood out during your stay?\n7. Please provide any additional comments or suggestions for improvement.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the top places in the U.S. to visit at the given time.\n\nNovember",
+    "output": "1. New York City, New York - Experience the Macy's Thanksgiving Day Parade and enjoy the fall foliage in Central Park.\n2. San Francisco, California - Enjoy the mild weather and explore the city's iconic landmarks like the Golden Gate Bridge.\n3. New Orleans, Louisiana - Immerse yourself in the vibrant culture and festivities during the city's annual festivals and events.\n4. Asheville, North Carolina - Take in the stunning fall colors along the Blue Ridge Parkway and explore the charming downtown area.\n5. Santa Fe, New Mexico - Experience the unique blend of Native American and Spanish cultures, and explore the city's art galleries and museums.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Name the top cities in France that should not be missed. Include the best aspects of each place as well.",
+    "output": "The top cities in France that should not be missed are Paris, known for its iconic landmarks and cultural attractions; Lyon, famous for its gastronomy and historical architecture; Nice, renowned for its beautiful beaches and vibrant promenade; and Strasbourg, celebrated for its charming old town and unique blend of French and German culture.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the following question.\n\nHow do I compare strings in Java?\nI've been using the == operator in my program to compare all my strings so far. However, I ran into a bug, changed one of them into .equals() instead, and it fixed the bug.\nIs == bad? When should it and should it not be used? What's the difference?",
+    "output": "In Java, you should use the .equals() method to compare strings instead of the == operator. The == operator checks for reference equality, while the .equals() method checks for value equality. It's important to use .equals() when comparing the actual content of the strings, as using == may not always produce the expected result. Use == only when you need to check if two strings refer to the exact same object in memory.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why.\n\nIs there a way of reading one single character from the user input? For instance, they press one key at the terminal and it is returned (sort of like getch()). I know there's a function in Windows for it, but I'd like something that is cross-platform.\nAnswer 1: Here's a link to the ActiveState Recipes site that says how you can read a single character in Windows, Linux and OSX :\nhttps://code.activestate.com/recipes/134892/\nAnswer 2: if you just want to hold the screen so you can see the result on the terminal just write `input()` at the end of the code and it will hold the screen",
+    "output": "Answer 1 provides a link to a code snippet that claims to read a single character in Windows, Linux, and OSX, which could potentially provide a cross-platform solution. It would be necessary to review the code and consider its compatibility with different platforms.\n\nAnswer 2 suggests using the `input()` function to hold the screen, but this function is used to receive a line of input from the user, rather than reading a single character. Therefore, answer 2 is incorrect for the given question.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given two questions. Check if they are duplicates.\n\nQuestion1: I am trying to understand the advantages of multiprocessing over threading. I know that multiprocessing gets around the Global Interpreter Lock, but what other advantages are there, and can threading not do the same thing?\nQuestion2: I am learning how to use the threading and the multiprocessing modules in Python to run certain operations in parallel and speed up my code.\nI am finding this hard (maybe because I don't have any theoretical background about it) to understand what the difference is between a threading.Thread() object and a multiprocessing.Process() one.\nAlso, it is not entirely clear to me how to instantiate a queue of jobs and having only 4 (for example) of them running in parallel, while the other wait for resources to free before being executed.\nI find the examples in the documentation clear, but not very exhaustive; as soon as I try to complicate things a bit, I receive a lot of weird errors (like a method that can't be pickled, and so on).\nSo, when should I use the threading and multiprocessing modules?\nCan you link me to some resources that explain the concepts behind these two modules and how to use them properly for complex tasks?",
+    "output": "The two questions are not duplicates. The first question focuses on the advantages of multiprocessing over threading and the differences between the two, while the second question seeks guidance on when to use the threading and multiprocessing modules in Python and requests resources explaining the concepts and proper use of these modules for complex tasks.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a programming problem related to the subject that has been given to you. Use some examples and constraints to improve your question.\n\nDynamic Programming",
+    "output": "Problem: Given a set of positive integers, find the length of the longest increasing subsequence in the array. An increasing subsequence is a sequence of numbers in an array where each number is larger than the previous one.\n\nConstraints:\n- The input array can contain up to 10^3 integers.\n- Each integer in the array is within the range of 1 to 10^5.\n\nExample:\nInput: [10, 22, 9, 33, 21, 50, 41, 60, 80]\nOutput: 6 (The longest increasing subsequence is [10, 22, 33, 50, 60, 80])",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a Java solution to the following problem.\n\nGiven an integer n, return true if it is a power of three. Otherwise, return false.\nAn integer n is a power of three, if there exists an integer x such that n == 3^x.\n\nExample 1:\nIn: n = 27\nOut: true\nExplanation: 27 = 3^3\n\nExample 2:\nIn: n = 0\nOut: false\nExplanation: There is no x where 3^x = 0.\n\nExample 3:\nIn: n = -1\nOut: false\nExplanation: There is no x where 3x = (-1).\n \nConstraints:\n-231 <= n <= 231 - 1\nFollow up: Could you solve it without loops/recursion?",
+    "output": "```java\npublic boolean isPowerOfThree(int n) {\n    return n > 0 && 1162261467 % n == 0;\n}\n```",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of topics that are most common in classic interview questions for a job in computer science.",
+    "output": "1. Data structures and algorithms\n2. Programming languages and coding skills\n3. System design and architecture\n4. Problem-solving and critical thinking\n5. Software development methodologies\n6. Database management and SQL\n7. Networking and security\n8. Operating systems\n9. Object-oriented design\n10. Technical project experience",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will need to guide this person through the scenario they have described for the interview.\n\nFinally! After a while of shooting in the dark and frantically fiddling with sample inputs on the whiteboard, you've came up with an algorithm for solving the coding question your interviewer gave you.\nWhew. Such a relief to have a clear path forward. To not be flailing anymore.\nNow you're cruising, getting ready to code up your solution.\nWhen suddenly, your interviewer throws you a curve ball.\n\"What if we thought of the problem this way?\"\nYou feel a tension we've all felt during the coding interview:\n\"Try to listen to what they're saying...but don't lose your train of thought...ugh, I can't do both!\"",
+    "output": "It's common for interviewers to throw curve balls during coding interviews. Stay calm and focused. Listen to the new approach proposed by the interviewer and consider it carefully. If it seems to be a better approach, adapt your solution accordingly. If not, politely explain your reasoning and continue with your original approach. It's important to demonstrate flexibility and problem-solving skills in response to unexpected challenges. Good luck!",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;",
+    "output": "The given SQL query uses a LEFT JOIN to combine the Person and Address tables based on the common column PersonId. This query retrieves the first name, last name, city, and state of each person in the Person table. The LEFT JOIN ensures that all records from the Person table are included in the result, regardless of whether there is a matching record in the Address table. If there is no corresponding address for a personId, the query reports null for the city and state.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The given article should be checked for any scientific errors and corrected if necessary.\n\nZinc is an essential mineral that is required for good health. It is involved in many biochemical processes in the body and is necessary for the proper functioning of the immune system. Excess zink is not harmful as it is excreted in the urine.",
+    "output": "The statement \"Excess zink is not harmful as it is excreted in the urine\" is not entirely accurate. While zinc is essential for good health, excessive intake can lead to adverse health effects, including gastrointestinal issues and impaired immune function. It's important to ensure a balanced intake of zinc and not exceed the recommended daily allowance.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Summarize the article you have been given in a brief manner.\n\nMathematics and art are related in a variety of ways. Mathematics has itself been described as an art motivated by beauty. Mathematics can be discerned in arts such as music, dance, painting, architecture, sculpture, and textiles. This article focuses, however, on mathematics in the visual arts.\nMathematics and art have a long historical relationship. Artists have used mathematics since the 4th century BC when the Greek sculptor Polykleitos wrote his Canon, prescribing proportions conjectured to have been based on the ratio 1:√2 for the ideal male nude. Persistent popular claims have been made for the use of the golden ratio in ancient art and architecture, without reliable evidence. In the Italian Renaissance, Luca Pacioli wrote the influential treatise De divina proportione (1509), illustrated with woodcuts by Leonardo da Vinci, on the use of the golden ratio in art. Another Italian painter, Piero della Francesca, developed Euclid's ideas on perspective in treatises such as De Prospectiva Pingendi, and in his paintings. The engraver Albrecht Dürer made many references to mathematics in his work Melencolia I. In modern times, the graphic artist M. C. Escher made intensive use of tessellation and hyperbolic geometry, with the help of the mathematician H. S. M. Coxeter, while the De Stijl movement led by Theo van Doesburg and Piet Mondrian explicitly embraced geometrical forms. Mathematics has inspired textile arts such as quilting, knitting, cross-stitch, crochet, embroidery, weaving, Turkish and other carpet-making, as well as kilim. In Islamic art, symmetries are evident in forms as varied as Persian girih and Moroccan zellige tilework, Mughal jali pierced stone screens, and widespread muqarnas vaulting.",
+    "output": "This article explores the relationship between mathematics and art, focusing on the visual arts. It discusses historical examples of artists using mathematics in their work, such as the Greek sculptor Polykleitos and Italian painter Piero della Francesca. The influence of mathematics is seen in various art forms including painting, sculpture, architecture, and textiles. Examples range from ancient Greek sculptures to modern graphic art and Islamic art.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Improve the article using your knowledge of the topic in order to make it more informative.\n\nThe \"fair trade\" movement, also known as the \"trade justice\" movement, promotes the use of labour, environmental and social standards for the production of commodities, particularly those exported from the Third and Second Worlds to the First World. Such ideas have also sparked a debate on whether trade itself should be codified as a human right.",
+    "output": "The fair trade movement, also referred to as the trade justice movement, aims to establish labor, environmental, and social standards for the production of commodities, especially those exported from developing countries to developed ones. This movement has sparked discussions about whether trade should be recognized as a human right.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make the article available in a second language by translating it into it.\n\nDentistry, also known as dental medicine and oral medicine, is the branch of medicine focused on the teeth, gums, and mouth. It consists of the study, diagnosis, prevention, management, and treatment of diseases, disorders, and conditions of the mouth, most commonly focused on dentition (the development and arrangement of teeth) as well as the oral mucosa. Dentistry may also encompass other aspects of the craniofacial complex including the temporomandibular joint. The practitioner is called a dentist.\nTranslate to French:",
+    "output": "La dentisterie, également connue sous le nom de médecine dentaire et de médecine buccale, est la branche de la médecine axée sur les dents, les gencives et la bouche. Elle comprend l'étude, le diagnostic, la prévention, la gestion et le traitement des maladies, des troubles et des affections de la bouche, principalement axés sur la dentition (le développement et l'agencement des dents) ainsi que la muqueuse buccale. La dentisterie peut également englober d'autres aspects du complexe craniofacial, y compris l'articulation temporomandibulaire. Le praticien est appelé dentiste.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "An evaluation of the article's quality should be carried out. In order to do so, you should review the quality of the writing and the explanation of the topic.\n\nThe 20th century saw a revolution in music listening as the radio gained popularity worldwide and new media and technologies were developed to record, edit and distribute music. Music performances became increasingly visual with the broadcast and recording of performances.\n20th-century music brought new freedom and wide experimentation with new musical styles and forms that challenged the accepted rules of music of earlier periods. The invention of musical amplification and electronic instruments, especially the synthesizer, in the mid-20th century revolutionized classical and popular music, and accelerated the development of new forms of music.",
+    "output": "The article discusses the impact of technology on music in the 20th century. The writing is clear and concise, providing an overview of how the radio, recording technologies, and electronic instruments revolutionized music. The explanation of the topic is informative and highlights the significant changes that took place in music during this period. Overall, the article effectively evaluates the impact of technology on 20th-century music.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please answer the following question based on the information provided in the article.\n\nDevelopment studies is an interdisciplinary branch of social science. Development studies is offered as a specialized master's degree in a number of reputed universities around the world. It has grown in popularity as a subject of study since the early 1990s, and has been most widely taught and researched in developing countries and countries with a colonial history, such as the UK, where the discipline originated.  Students of development studies often choose careers in international organisations such as the United Nations, World Bank, non-governmental organisations (NGOs), media and journalism houses, private sector development consultancy firms, corporate social responsibility (CSR) bodies and research centers.\nWhat are some popular careers for students of development studies?",
+    "output": "Popular careers for students of development studies include working in international organizations such as the United Nations and World Bank, non-governmental organizations (NGOs), media and journalism houses, private sector development consultancy firms, corporate social responsibility (CSR) bodies, and research centers.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.\n\nProgramming for Everybody (Getting Started with Python)",
+    "output": "Course: Programming for Everybody (Getting Started with Python)\n\nWeek 1: Introduction to Programming\n- Purpose: Understand the fundamentals of programming and its relevance to various fields.\n- Chapter: Introduction to Python and its applications.\n\nWeek 2: Installing Python and Writing Simple Programs\n- Purpose: Learn how to set up Python and write basic programs.\n- Chapter: Installing Python, running Python scripts, and basic syntax.\n\nWeek 3: Variables, Expressions, and Statements\n- Purpose: Understand the use of variables, expressions, and statements in Python programming.\n- Chapter: Introduction to variables, data types, and basic operations.\n\nWeek 4: Conditional Execution\n- Purpose: Learn how to use conditional statements to make decisions in programs.\n- Chapter: If statements, else statements, and Boolean expressions.\n\nWeek 5: Functions\n- Purpose: Explore the concept of functions and their role in programming.\n- Chapter: Defining and using functions in Python.\n\nWeek 6: Loops and Iteration\n- Purpose: Understand how to use loops for repetitive tasks in programming.\n- Chapter: For loops, while loops, and loop control statements.\n\nWeek 7: Strings\n- Purpose: Learn about string manipulation and operations in Python.\n- Chapter: String data type, string methods, and formatting strings.\n\nWeek 8: Files\n- Purpose: Understand file input and output operations in Python.\n- Chapter: Reading and writing files, file modes, and handling file errors.\n\nWeek 9: Lists\n- Purpose: Explore the use of lists and their manipulation in Python.\n- Chapter: Creating lists, list methods, and list operations.\n\nWeek 10: Dictionaries\n- Purpose: Understand the concept of dictionaries and their usage in Python.\n- Chapter: Creating dictionaries, dictionary methods, and dictionary operations.\n\nWeek 11: Tuples\n- Purpose: Learn about tuples and their immutable nature in Python.\n- Chapter: Creating tuples, tuple methods, and tuple operations.\n\nWeek 12: Final Project\n- Purpose: Apply the knowledge gained to complete a final programming project using Python.\n- Chapter: Project guidelines and requirements.\n\nAssessment:\n- Weekly quizzes based on the topics covered.\n- Final project evaluation.\n- Participation in class discussions and activities.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List the personality traits that are required to be successful in the given job.\n\nSocial Media Marketer",
+    "output": "To be successful as a social media marketer, one should possess the following personality traits:\n1. Creativity\n2. Strong communication skills\n3. Analytical thinking\n4. Adaptability\n5. Strategic mindset\n6. Attention to detail\n7. Ability to multitask\n8. Knowledge of current social media trends",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please list the courses that someone interested in the first course might like.\n\nBitcoin and Cryptocurrency Technologies",
+    "output": "Someone interested in \"Bitcoin and Cryptocurrency Technologies\" might also be interested in courses such as \"Blockchain Basics,\" \"Introduction to Cryptography,\" \"Economics of Money and Banking,\" and \"Financial Markets and Investment Strategy.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with the courses that one is supposed to take in order to be an expert in a given field.\n\nGraphic Design",
+    "output": "To become an expert in graphic design, one could consider taking courses such as design fundamentals, typography, color theory, layout and composition, digital imaging, branding, and user experience design. Additionally, courses in software applications such as Adobe Creative Suite and web design would be beneficial. Practical experience through internships or freelance work can also be valuable for building expertise in graphic design.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a daily itinerary based on the given information.\n\nOur family is looking for a 9-day Morocco trip that has light to moderate activity levels.",
+    "output": "Day 1: Arrival in Marrakech, transfer to hotel\nDay 2: Explore Marrakech, visit Jardin Majorelle and Bahia Palace\nDay 3: Take a guided tour of Marrakech, visit Koutoubia Mosque and Djemaa el Fna\nDay 4: Travel to the Atlas Mountains, enjoy a light hike and visit a Berber village\nDay 5: Explore Ait Benhaddou, a UNESCO World Heritage site, and continue to Ouarzazate\nDay 6: Visit the Todra Gorge and take a leisurely walk through the canyon\nDay 7: Transfer to the Sahara Desert, enjoy a camel ride and overnight in a desert camp\nDay 8: Travel to Fes, visit the ancient Medina and enjoy a guided tour of the city\nDay 9: Departure from Fes",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give students tips on how to keep their nerves under control during class presentations.",
+    "output": "Here are some tips for keeping nerves under control during class presentations:\n1. Practice your presentation multiple times to build confidence.\n2. Take slow, deep breaths to calm your body's natural stress response.\n3. Focus on your message and the value you are providing to your audience.\n4. Use positive self-talk to boost your confidence and reduce anxiety.\n5. Visualize a successful presentation to help alleviate nerves.\n6. Remember that it's okay to make mistakes and that your audience is supportive.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You can easily make your holidays more eco-friendly by following these simple steps:",
+    "output": "1. Choose an eco-friendly destination or accommodation.\n2. Minimize your carbon footprint by using public transportation or carpooling.\n3. Pack reusable items such as water bottles and shopping bags.\n4. Support local businesses and buy locally-made products.\n5. Conserve energy and water by being mindful of your usage.\n6. Participate in eco-friendly activities such as hiking, biking, or wildlife watching.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of an idea to help you win a challenge given to you. Write the steps you need to take to develop the idea as well.\n\nWhat can you make by recycling and repurposing some old, previously used materials? We want to see it!\nProjects must incorporate some kind of used materials - take that old used thing, and turn it into something new and different!\nE-waste is a huge problem. What can you make using old electronics and other salvageable electronic materials? \nWe have a special judges prize for our favorite Instructable that incorporates or is related to reusing e-waste.\nBe smart and be safe; note that potentially deadly projects (like Lichtenberg/fractal wood burning machines) will not be allowed to be published or submitted to this contest.",
+    "output": "Idea: Create a solar-powered phone charger using recycled electronic materials.\n\nSteps to develop the idea:\n1. Gather old electronic materials: Look for old or broken electronics such as cell phones, laptops, or chargers that can be disassembled for parts.\n2. Research solar-powered charging: Learn about how solar panels can be used to charge electronic devices and find an appropriate design for a small-scale charger.\n3. Design the charger: Create a plan for integrating the salvaged electronic components with the solar panel to create a functional and safe phone charger.\n4. Build the charger: Assemble the electronic components and solar panel into a working prototype, ensuring that it is safe and functional.\n5. Test and refine: Test the charger with different devices and make any necessary adjustments to improve its efficiency and usability.\n6. Document the process: Take photos and write detailed instructions to create an Instructable that showcases the project and the process of repurposing e-waste to create a useful device.\n7. Submit the Instructable: Enter the contest by submitting the Instructable, highlighting the project's use of recycled electronic materials and its sustainable impact.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "There are many creative projects we can build at home that are related to the given theme, so let's list some of them.\n\nTheme: Circuits",
+    "output": "1. Build a simple LED circuit using a battery, resistor, and LED.\n2. Create a homemade alarm system using a buzzer and a switch.\n3. Design a basic traffic light circuit using LEDs and a microcontroller.\n4. Construct a simple motorized car using a DC motor, battery, and switch.\n5. Make a musical instrument using a 555 timer IC and some basic components.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the materials that will be required to build the given tool.\n\nCoffee Darkness Meter",
+    "output": "To build a coffee darkness meter, you will need the following materials:\n1. Photodetector or light sensor\n2. Microcontroller (e.g., Arduino or Raspberry Pi)\n3. Display screen (e.g., LCD or LED display)\n4. Electrical components (wires, resistors, capacitors)\n5. Power source (e.g., battery or power adapter)\n6. Enclosure or housing for the device",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a detailed explanation of the steps that are required in order to construct the given project.\n\nSteam Engine Using an Empty Beer Can",
+    "output": "To construct a steam engine using an empty beer can, you will need to follow these steps:\n\n1. Gather materials: You will need an empty beer can, a small amount of water, a heat source (such as a stove or candle), a small tube (such as a plastic straw), and some basic tools like scissors and pliers.\n\n2. Prepare the can: Cut the beer can in half horizontally, creating two pieces. Use the pliers to flatten the edges of the can to avoid any sharp edges.\n\n3. Create the steam chamber: Fill the bottom half of the can with water. Place the top half of the can upside down on top of the bottom half, creating a chamber for the steam to build up.\n\n4. Create the steam outlet: Using the scissors, cut a small hole in the top of the can and insert the tube to create a steam outlet. The tube should extend from the can and be angled to direct the steam.\n\n5. Apply heat: Place the can on the heat source and wait for the water to boil. As the water boils, steam will be produced and exit through the tube, creating a simple steam engine.\n\nRemember to exercise caution when working with heat and sharp objects.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Estimate the cost of supplies required to create the given project and calculate the total cost.\n\nDIY Water Chiller\nRequired items are: Ice-maker, Icebox/cooler, Temperature regulator, Aquarium pump x2, 12V power supply",
+    "output": "The estimated cost of supplies for the DIY Water Chiller project includes an ice-maker, icebox/cooler, temperature regulator, 2 aquarium pumps, and a 12V power supply. The total cost will depend on the specific models and brands chosen, as well as any additional materials needed for assembly. It is recommended to research and compare prices for each item to get an accurate estimate of the total cost.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the following literature question as accurately as possible based on your knowledge of literature for high school students.\n\nWhat does the green light symbolize at the end of the book?",
+    "output": "In the book \"The Great Gatsby\" by F. Scott Fitzgerald, the green light at the end of Daisy Buchanan's dock symbolizes Gatsby's hopes and dreams, particularly his longing for a future with Daisy. It represents his pursuit of the American dream and his unattainable desires.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Develop a mental exercise that can help people manage their anxiety and explain how it works.",
+    "output": "One effective mental exercise to manage anxiety is mindfulness meditation. This involves focusing on the present moment, observing thoughts and feelings without judgment. To practice, find a quiet space, sit comfortably, and focus on the breath. When the mind wanders, gently bring the focus back to the breath. This exercise helps reduce anxiety by promoting relaxation, increasing self-awareness, and breaking the cycle of anxious thoughts. Regular practice can improve overall mental well-being.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give me an idea of the mental exercises you do to inspire yourself.",
+    "output": "I practice mindfulness meditation, engage in positive self-talk, visualize my goals, and seek inspiration from books, podcasts, and conversations with others. I also use gratitude journaling and take regular breaks to refresh my mind.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of outdoor activities that are suitable for the given weather condition.\n\nTemperature: 57 F, Showers",
+    "output": "For a temperature of 57 F and showers, suitable outdoor activities could include hiking, birdwatching, or visiting outdoor gardens or parks if the showers are light. It's also a good opportunity for activities like indoor rock climbing or visiting a local museum or art gallery.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please provide us with a list of the best conservation starter questions related to the weather.",
+    "output": "Here are some conservation starter questions related to the weather:\n\n1. How does weather impact local ecosystems and wildlife?\n2. What are the effects of climate change on weather patterns and conservation efforts?\n3. How can we conserve water during extreme weather events such as droughts or heavy rainfall?\n4. What role does weather forecasting play in conservation planning and management?\n5. How can communities prepare for and mitigate the impacts of extreme weather events on natural habitats and biodiversity?",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "In relation to the given weather scenario, give some tips on how to adjust the travel plans with it.\n\na sudden temperature change",
+    "output": "If you encounter a sudden temperature change while traveling, be sure to pack layers of clothing to adapt to different conditions. Check the weather forecast regularly and consider bringing additional cold or warm weather gear as needed. Be prepared for potential delays or disruptions due to extreme temperatures.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a to-do list based on the given information.\n\nDaily tasks in the pharmacy",
+    "output": "1. Check and restock inventory\n2. Fill and dispense prescriptions\n3. Assist customers with medication questions and concerns\n4. Maintain a clean and organized workspace\n5. Communicate with healthcare providers regarding prescription orders\n6. Monitor and manage medication expiration dates\n7. Process insurance claims and billing for prescriptions",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a template table for keeping track of all subscriptions.",
+    "output": "Sure! Here's a simple template for a subscription tracking table:\n\n| Subscription Name | Description | Start Date | End Date | Renewal Date | Amount | Payment Method | Status |\n|--------------------|-------------|------------|----------|---------------|--------|----------------|--------|\n\nYou can customize the table by adding or removing columns based on your specific needs.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Plan an agenda for the daily standup meetings. Assign a time duration to each topic on the agenda.",
+    "output": "1. Daily updates (5 minutes) - Each team member shares what they accomplished the previous day, what they plan to work on today, and any obstacles they are facing.\n\n2. Roadblocks and impediments (5 minutes) - Team members discuss any obstacles or challenges they are facing and work together to find solutions.\n\n3. Coordination and alignment (5 minutes) - Discuss any necessary coordination between team members and ensure everyone is aligned on project goals and priorities.\n\n4. Announcements and reminders (3 minutes) - Share any important announcements, upcoming events, or reminders for the team.\n\n5. Wrap-up and next steps (2 minutes) - Recap the key points of the meeting and clarify the next steps and action items.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the following question.\n\nHow do you say \"good evening\" in French.",
+    "output": "Good evening in French is \"bonsoir.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What sound does this make?\n\n好",
+    "output": "The Chinese character \"好\" is pronounced as \"hǎo\" in Mandarin Chinese.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a grammar tip on how to end a German verb.",
+    "output": "In German, the ending of a verb changes depending on the subject of the sentence. For example, \"ich gehe\" (I go) and \"du gehst\" (you go) have different verb endings. It's important to learn the different verb endings for each subject pronoun in order to conjugate German verbs correctly.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "This is a test for the reading ability of French. Read the given story carefully, and then answer the question in the end.\n\nLucie est à la maison avec sa petite-fille, Lin.\nLucie: Oh, non! Nous n'avons pas de pain!\nLin: Ah! Tu vas au supermarché?\nLucie: Oui, je veux une baguette pour mon sandwich.\nDo Lin and Lucie have a lot of bread?",
+    "output": "No, Lin and Lucie do not have a lot of bread. They do not have any bread and need to go to the supermarket to buy a baguette for Lucie's sandwich.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with healthy and easy dinner ideas for weeknights.",
+    "output": "1. Grilled chicken breast with steamed vegetables and quinoa\n2. Baked salmon with roasted sweet potatoes and a side salad\n3. Stir-fried tofu with mixed vegetables and brown rice\n4. Turkey and vegetable stir-fry with whole wheat noodles\n5. Baked chicken thighs with roasted broccoli and couscous",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a cooking hack for improving the flavor of the given food.\n\npopcorn",
+    "output": "A cooking hack for improving the flavor of popcorn is to drizzle melted butter over it and then sprinkle with your favorite seasonings, such as garlic powder, parmesan cheese, or chili powder, for a delicious and customized flavor.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of snacks and foods to serve as party snacks on a game day!",
+    "output": "Sure! Here are some popular party snacks and foods for a game day:\n\n1. Chicken wings\n2. Nachos\n3. Pizza\n4. Chips and dip\n5. Sliders\n6. Vegetable platter with dip\n7. Popcorn\n8. Pretzels\n9. Cheese and crackers\n10. Mini hot dogs or pigs in a blanket",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Describe how to prepare the given food in your own words. Note down the ingredients you will need and the steps you will take to prepare them.\n\nChewy Chocolate Chip Cookies",
+    "output": "To make chewy chocolate chip cookies, you will need the following ingredients:\n\n- 1 cup (2 sticks) unsalted butter, softened\n- 1 cup granulated sugar\n- 1 cup packed brown sugar\n- 2 large eggs\n- 1 teaspoon vanilla extract\n- 3 cups all-purpose flour\n- 1 teaspoon baking soda\n- 1/2 teaspoon salt\n- 2 cups semisweet chocolate chips\n\nHere are the steps to prepare the cookies:\n\n1. Preheat the oven to 350°F (175°C).\n2. In a large bowl, cream together the butter, granulated sugar, and brown sugar until smooth.\n3. Beat in the eggs one at a time, then stir in the vanilla.\n4. Combine the flour, baking soda, and salt; gradually blend into the creamed mixture.\n5. Finally, fold in the chocolate chips.\n6. Drop rounded spoonfuls of the dough onto ungreased cookie sheets.\n7. Bake for 8 to 10 minutes in the preheated oven, or until golden brown.\n8. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.\n\nEnjoy your delicious chewy chocolate chip cookies!",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest a recipe for a vegan dessert.",
+    "output": "Sure! How about a simple and delicious recipe for vegan chocolate avocado mousse? Here's what you'll need:\n\nIngredients:\n- 2 ripe avocados\n- 1/4 cup cocoa powder\n- 1/4 cup maple syrup or agave nectar\n- 1/4 cup coconut milk\n- 1 teaspoon vanilla extract\n- Pinch of salt\n\nInstructions:\n1. Scoop the flesh of the avocados into a blender or food processor.\n2. Add the cocoa powder, maple syrup, coconut milk, vanilla extract, and a pinch of salt.\n3. Blend until smooth and creamy, scraping down the sides as needed.\n4. Taste and adjust sweetness as desired.\n5. Transfer the mousse to serving dishes and chill in the refrigerator for at least 30 minutes before serving.\n6. Garnish with fresh berries, coconut flakes, or chopped nuts, if desired.\n\nEnjoy your vegan chocolate avocado mousse!",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a medium-level sudoku puzzle.",
+    "output": "Here's a medium-level Sudoku puzzle for you:\n\n5 _ _ | _ 9 _ | _ _ 3\n6 7 _ | _ _ _ | _ _ _\n_ _ _ | _ _ 1 | _ 9 5\n---------------------\n_ _ 4 | 3 _ _ | _ 2 _\n_ _ _ | _ 8 _ | _ _ _\n_ 9 _ | _ _ 6 | 7 _ _\n---------------------\n3 1 _ | 9 _ _ | _ _ _\n_ _ _ | _ _ _ | _ 4 8\n9 _ _ | _ 3 _ | _ _ 2",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Solve the given Sudoku puzzle.\n\nThe Sudoku puzzle is:\n|1|  |5|  |  |  |  |8|  |\n|  |  |  |  |  |3|  |6|4|\n|8|3|4|6|7|  |9|  |  |\n|2|9|1|  |  |8|3|7|6|\n|  |  |6|  |  |9|8|1|  |\n|  |  |  |  |  |2|  |  |  |\n|  |2|  |  |9|7|6|  |  |\n|5|4|  |  |  |  |  |9|8|\n|6|1|  |  |  |5|4|3|7|",
+    "output": "The solution to the Sudoku puzzle is:\n\n|1|6|5|4|3|9|7|8|2|\n|9|7|2|1|8|3|5|6|4|\n|8|3|4|6|7|5|9|2|1|\n|2|9|1|5|4|8|3|7|6|\n|7|5|6|2|6|9|8|1|4|\n|4|8|3|7|1|2|9|5|6|\n|3|2|8|1|9|7|6|4|5|\n|5|4|7|3|6|1|2|9|8|\n|6|1|9|8|2|5|4|3|7|",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of a motivational quote that you have read in a book. Try to keep it positive and sweet.",
+    "output": "\"Believe you can and you're halfway there.\" - Theodore Roosevelt",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choose the best books from the given genre.\n\nCrime & Mystery",
+    "output": "Some popular and highly acclaimed crime and mystery books include \"Gone Girl\" by Gillian Flynn, \"The Girl with the Dragon Tattoo\" by Stieg Larsson, \"The Da Vinci Code\" by Dan Brown, \"The Girl on the Train\" by Paula Hawkins, and \"The Silence of the Lambs\" by Thomas Harris.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief description of the book that you are given.\n\nMatilda",
+    "output": "\"Matilda\" is a children's novel written by Roald Dahl. It tells the story of a young, intelligent girl named Matilda who develops telekinetic abilities and uses them to stand up to the oppressive adults in her life, including her neglectful parents and tyrannical headmistress.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "In the event that a person enjoyed the book that was given, please suggest other books that they might also like.\n\nThe Great Gatsby",
+    "output": "If you enjoyed \"The Great Gatsby,\" you might also like \"The Catcher in the Rye\" by J.D. Salinger, \"To Kill a Mockingbird\" by Harper Lee, or \"Fahrenheit 451\" by Ray Bradbury.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Indicate the genre of the book to which it belongs.\n\nLove in the Time of Cholera",
+    "output": "\"Love in the Time of Cholera\" is a novel that belongs to the genre of romance literature.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Solve this equation.\n\nx^3 - 4x^2 + 6x - 24 = 0",
+    "output": "This equation can be factored as (x-4)(x^2+2x+6) = 0. Using the quadratic formula for the second factor, we find that the solutions are x=4, and x = -1±i√5. Therefore, the solutions to the original equation are x=4, -1+i√5, and -1-i√5.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Prove the given statement using your information.\n\n\"If x is a positive integer or a solution to x+3>4, then x>0 and x>12.\"",
+    "output": "The given statement is not true. For example, if x = 5, it satisfies the condition x+3>4, but it does not satisfy x>12. Therefore, the given statement is not proven to be true.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the facts that have been provided, prove the following statement.\n\nStatement: \"For every integer k, k^2 + 2k + 1 ≥ 0\"\nFact: The square of any real number is non-negative.",
+    "output": "The statement can be proven using the fact provided. Since the square of any real number is non-negative, we can express k^2 as the square of the real number (k + 1). Thus, k^2 + 2k + 1 can be written as (k + 1)^2, which is non-negative for any integer k. Therefore, the statement \"For every integer k, k^2 + 2k + 1 ≥ 0\" is true.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Verify the correctness of the given statement.\n\n\"For all integers j and k, if j and k are odd, then jk is odd.\"",
+    "output": "The given statement is incorrect. It is possible for the product of two odd integers to be even, such as 3 * 5 = 15. Therefore, the statement \"For all integers j and k, if j and k are odd, then jk is odd\" is not true.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a formula for computing the nth term in the given sequence\n\n5, 14, 23, 32, 41, ...",
+    "output": "The formula for the nth term in the given sequence is: 5 + (n - 1) * 9",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a table listing all games that meet the specified criteria in the National Football League. Use the season, local time, game, and score as columns of the table.\n\nRavens home games in 2011",
+    "output": "Here is a table listing the Baltimore Ravens home games in the 2011 NFL season, including the season, local time, game, and score:\n\n| Season | Local Time | Game                     | Score |\n|--------|------------|--------------------------|-------|\n| 2011   | 1:00 PM    | vs. Pittsburgh Steelers  | 35-7  |\n| 2011   | 1:00 PM    | vs. Houston Texans       | 29-14 |\n| 2011   | 1:00 PM    | vs. Arizona Cardinals    | 30-27 |\n| 2011   | 1:00 PM    | vs. Cincinnati Bengals   | 31-24 |\n| 2011   | 1:00 PM    | vs. San Francisco 49ers  | 16-6  |\n| 2011   | 1:00 PM    | vs. Indianapolis Colts   | 24-10 |\n| 2011   | 1:00 PM    | vs. Cleveland Browns     | 24-10 |\n| 2011   | 1:00 PM    | vs. New York Jets        | 34-17 |\n| 2011   | 1:00 PM    | vs. Cincinnati Bengals   | 31-24 |",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using a table, compare the career overviews of the given players in Major League Baseball. Use \"|\" for separating the columns in the table.\n\nDerek Jeter, Albert Pujols",
+    "output": "Sure, here's a comparison of the career overviews for Derek Jeter and Albert Pujols in Major League Baseball:\n\n| Player        | Teams               | Batting Average | Home Runs | Runs Batted In (RBIs) | All-Star Appearances |\n|---------------|---------------------|-----------------|-----------|-----------------------|-----------------------|\n| Derek Jeter   | New York Yankees    | .310            | 260       | 1,311                 | 14                    |\n| Albert Pujols | St. Louis Cardinals, Los Angeles Angels | .299 | 679       | 2,130                 | 10                    |",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will be tested on your knowledge of classic witticisms and aphorisms by completing the given aphorism. Write the original quote as the answer.\n\ntwo things are infinite",
+    "output": "\"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.\" - Albert Einstein",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A list of all movies that meet the criteria given should be compiled.\n\nmovies directed by Spike Lee by release date",
+    "output": "Here is a list of movies directed by Spike Lee in release date order:\n\n1. She's Gotta Have It (1986)\n2. School Daze (1988)\n3. Do the Right Thing (1989)\n4. Mo' Better Blues (1990)\n5. Jungle Fever (1991)\n6. Malcolm X (1992)\n7. Crooklyn (1994)\n8. Clockers (1995)\n9. Girl 6 (1996)\n10. Get on the Bus (1996)\n11. He Got Game (1998)\n12. Summer of Sam (1999)\n13. Bamboozled (2000)\n14. 25th Hour (2002)\n15. She Hate Me (2004)\n16. Inside Man (2006)\n17. Miracle at St. Anna (2008)\n18. Red Hook Summer (2012)\n19. Oldboy (2013)\n20. Da Sweet Blood of Jesus (2014)\n21. Chi-Raq (2015)\n22. BlacKkKlansman (2018)\n23. Da 5 Bloods (2020)",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using a given amount, determine an appropriate tip.\n\n14% tip on $47.50",
+    "output": "To calculate a 14% tip on $47.50, you can multiply the bill amount by 0.14. This gives a tip amount of $6.65.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Identify all words that match the pattern given.\n\nH_AR_",
+    "output": "The words that match the pattern \"H_AR_\" are \"HARRY\" and \"HARD.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with words that rhyme with the given word.\n\ninstruct",
+    "output": "Some words that rhyme with \"instruct\" are: conduct, construct, destruct, and deduct.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Look for poems that mention the given object or character. The names of the poems and their poets should be written.\n\nsanta claus",
+    "output": "One poem that mentions Santa Claus is \"A Visit from St. Nicholas\" by Clement Clarke Moore. Another is \"The Night Before Christmas\" by Anonymous.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Respond to the last text in the chat using the correct emojis to convey your feelings.\n\n+ Hey, how did your exams go?\n- They were alright. I'm just glad they're over.\n+ Yeah, I know how you feel. I'm just glad I don't have to worry about them anymore.",
+    "output": "😅👍",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "For answering the chat, think of a funny response you can use.\n\n+ how are you?",
+    "output": "I'm here and ready to assist, just like a trusty sidekick!",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The last message in the chat is a partial response. You should complete and rewrite it.\n\n+ What are going to do now?\n- I don't know. I had to give up my dream of being a mathematician.\n+ Why",
+    "output": "- I don't know. I had to give up my dream of being a mathematician.\n+ Why did you have to give up your dream of being a mathematician?",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Change the response to have a more empathic tone in the chat.\n\n+ How are you doing?\n- Fine, I had a bunch of problems today.\n+ What kind of problems?",
+    "output": "I'm sorry to hear that you had a bunch of problems today. What kind of problems were you dealing with?",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Currently, there is a chat in which people are arranging a meeting in the future. Retrieve the meeting information from the conversation.\n\nPerson 1: Hey, when are you free? I'd like to meet up.\nPerson 2: I'm free tomorrow afternoon.\nPerson 1: Great, what time?\nPerson 2: How about 3 pm?\nPerson 1: I have another meeting at that time. what about 5 pm?\nPerson 2: That works. Where should we meet?\nPerson 1: How about the coffee shop on Main Street?\nPerson 2: Sounds good. I've heard they have great coffee there. See you tomorrow!",
+    "output": "The meeting is scheduled for tomorrow at 5 pm at the coffee shop on Main Street.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The given text must be classified as offensive or not offensive.\n\nYou acted really crazy last night.",
+    "output": "The given text may be considered offensive as it could be perceived as a derogatory term for mental illness.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief summary of the intention of the dialogue that just happened.\n\nCustomer: Hi there, I'm looking for a new phone.\nAI: Hi! What type of phone are you looking for?\nCustomer: I'm not sure. Maybe something with a good camera?\nAI: We have a few phones with great cameras. Would you like to see some options?\nCustomer: Yeah, that would be great.",
+    "output": "The dialogue was a customer inquiring about purchasing a new phone and expressing interest in one with a good camera. The AI offered to show the customer some phone options with great cameras.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Describe the content of the article in a brief manner.\n\nA study published earlier this year by Zee and her team examined the role of light in sleep for healthy adults in their 20s. Sleeping for only one night with a dim light, such as a TV set with the sound off, raised the blood sugar and heart rate of the young people during the sleep lab experiment. An elevated heart rate at night has been shown in prior studies to be a risk factor for future heart disease and early death, while higher blood sugar levels are a sign of insulin resistance, which can ultimately lead to type 2 diabetes.",
+    "output": "The article discusses a study that found a link between exposure to dim light at night and negative impacts on the health of young adults in their 20s. The study showed that sleeping with dim light raised blood sugar and heart rate, which are both linked to potential health risks such as insulin resistance, type 2 diabetes, and heart disease.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Correct the transcription of an excerpt containing errors.\n\nI got got charged interest on ly credit card but I paid my pull balance one day due date. I not missed a pavement year yet. Man you reverse the interest charge?",
+    "output": "\"I got charged interest on my credit card but I paid my full balance on the due date. I have not missed a payment yet this year. Can you reverse the interest charge?\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Take a look at the contract and extract the parties of the agreement from it.\n\nAs of the 13th day of December 2021, this Music Recording Agreement (\"Agreement\") is made between Good Kid, a Toronto-based musical group (\"Artist\"), and Universal Music Group, a record label with license number 545345 (\"Record Label\"). The Artist and the Recording Label may be referred to in this Agreement individually as \"Parties\" and collectively as \"Parties.\" Work under this Agreement will begin on March 15, 2022, and will last for the duration of the Agreement.",
+    "output": "The parties of the agreement are Good Kid, referred to as the \"Artist,\" and Universal Music Group, referred to as the \"Record Label.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "On the basis of the subject of the email, determine whether the email should be treated as spam or not.\n\nDermatologists don't like her!",
+    "output": "Based on the subject line \"Dermatologists don't like her!\", it is likely not a legitimate email and should be treated as spam.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Classify the tweet into one of the following three categories: event, demo, or news. Event is a happening, often social or public, that people attend or are aware of. Demo is a  public showing or presentation of something, typically to promote or advertise it. And, news is information about recent events or happenings, especially as reported by news media.\n\nUsing this tutorial, you can analyze and classify a user’s review as either positive or negative using sentiment analysis features in an existing Next.js app. We show you how to leverage language AI into your applications. Check it out ↓",
+    "output": "This tweet can be classified as a demo, as it is promoting and advertising a tutorial on how to analyze and classify user reviews using sentiment analysis features in an existing Next.js app.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give the news title a category. Pick a category from the list of News & Buzz, Travel, Style, Arts & Culture, Politics, Tech, and Science & Health.\n\nThe #Banksy Exhibit in Cambridge, MA is absolutely terrific.",
+    "output": "Arts & Culture",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Classify the questions in the FAQ into Finding policy details, Change account settings, Filing a claim and viewing status, or Cancelling coverage.\n\nCould you deposit money into my account rather than mailing me a physical cheque?",
+    "output": "This question falls under \"Change account settings\" as it pertains to the method of receiving payments.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choose an appealing title for your post.\n\nThe typical avocado is over 300 calories from the oil in it. That’s the amount of calories in a large candy bar. If you get enough exercise to eat a large candy bar every day without gaining weight, it wouldn’t be a problem to eat an avocado every day. Other wise you should probably eat them sparingly.",
+    "output": "\"Understanding the Caloric Content of Avocados: How Much is Too Much?\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give some examples of what people usually say in the given social situation.\n\nwhen someone arrives safely",
+    "output": "- \"Glad to see you made it safely!\"\n- \"I'm relieved you arrived without any issues.\"\n- \"I was worried about you, so I'm really happy to see you here.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will be required to write a few questions from the given company's interview section.\n\nKohl's",
+    "output": "1. How do you prioritize tasks when working in a fast-paced retail environment like Kohl's?\n2. Can you provide an example of a time when you went above and beyond to provide excellent customer service in a retail setting?\n3. How do you handle difficult or irate customers, and what strategies do you use to resolve their concerns?\n4. What do you think sets Kohl's apart from other retail stores, and how would you contribute to maintaining that reputation?\n5. Can you describe a situation where you had to work effectively as part of a team to achieve a common goal, and what was your role in that process?",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the information provided, you need to estimate the average summary for the given job.\n\nData entry clerk in United States",
+    "output": "The average salary for a data entry clerk in the United States is around $30,000 to $35,000 per year. Job duties typically include entering and updating data in computer systems, verifying accuracy of information, and maintaining organized records.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Describe the responsibilities of the given job.\n\nSecurity Officer",
+    "output": "A security officer is responsible for maintaining a safe and secure environment by patrolling, monitoring surveillance equipment, and inspecting buildings, equipment, and access points. They also enforce laws and regulations, respond to emergencies, and report any incidents or suspicious activities. Additionally, they may be responsible for controlling access to a property and ensuring the safety of its occupants.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a list of the skills that may help you find the job.\n\nCrew Members",
+    "output": "For crew member jobs, skills such as teamwork, communication, customer service, time management, and attention to detail are important. Additionally, having a positive attitude, the ability to follow instructions, and a willingness to learn are valuable skills for this role.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Schedule the meetings based on the given informqation.\n\nPerson1: available from 9-11 am, meeting duration: 30 min \nPerson2: available from 1-3 pm, meeting duration: 90 min\nPerson3: available from 2-3:30 pm, meeting duration: 60 min",
+    "output": "Meeting Schedule:\n- Person1: 9:00-9:30 am\n- Person3: 2:00-3:00 pm\n- Person2: 1:00-2:30 pm",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find the directions between the given locations.\n\nFrom: Rowan Avenue Elementary School, 600 S Rowan Ave, Los Angeles, CA 90023, United States\nTo: Calvary Cemetery and Mortuary, 4201 Whittier Blvd, Los Angeles, CA 90023, United States",
+    "output": "The distance between Rowan Avenue Elementary School and Calvary Cemetery and Mortuary is approximately 1.2 miles. The estimated driving time is around 5 minutes via S Rowan Ave and Whittier Blvd.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief explanation of the requested part of the paper.\n\nPaper: The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.\nExplain: The dominant sequence transduction models",
+    "output": "The dominant sequence transduction models mentioned in the paper are based on complex recurrent or convolutional neural networks that consist of an encoder and a decoder. These models also incorporate an attention mechanism to connect the encoder and decoder. The paper proposes a new network architecture called the Transformer, which relies solely on attention mechanisms and eliminates the need for recurrence and convolutions. The Transformer model is demonstrated to outperform existing models in terms of quality, parallelizability, and training time. It achieves significant improvements in translation tasks and demonstrates strong performance in other tasks such as constituency parsing.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the question about the paper after reading it carefully.\n\nTo evaluate if the Transformer can generalize to other tasks we performed experiments on English constituency parsing. This task presents specific challenges: the output is subject to strong structural constraints and is significantly longer than the input. Furthermore, RNN sequence-to-sequence models have not been able to attain state-of-the-art results in small-data regimes.\nQuestion: What is English constituency parsing?",
+    "output": "English constituency parsing is a natural language processing task that involves analyzing and identifying the syntactic structure of sentences in English. This task aims to identify the hierarchical structure of phrases and clauses within sentences.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Recommend some helpful activities or conversation starters to use at meetups to break the ice.",
+    "output": "Sure! Here are some activity and conversation starter ideas for meetups:\n\n1. Icebreaker games such as Two Truths and a Lie, Human Bingo, or a scavenger hunt.\n2. Ask open-ended questions such as \"What's the most interesting place you've visited?\" or \"What's your favorite book or movie and why?\"\n3. Share personal anecdotes or experiences related to the meetup topic to encourage others to do the same.\n4. Group activities like a group photo challenge, a mini talent show, or a speed networking session.\n\nThese activities can help participants feel more comfortable and engaged with each other.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Convert the given HTML into Markdown format.\n\n<code>Use `code` in your Markdown file.</code>",
+    "output": "To convert the given HTML into Markdown format, use the backtick character to represent code in Markdown. Here's how it looks:\n\n```\nUse `code` in your Markdown file.\n```",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Extract the method that has been used in the research from the abstract of the paper. Give the exact sentences from the abstract that discuss the method.\n\nWe present a state-of-the-art speech recognition system developed using end-to-end deep learning. Our architecture is significantly simpler than traditional speech systems, which rely on laboriously engineered processing pipelines; these traditional systems also tend to perform poorly when used in noisy environments. In contrast, our system does not need hand-designed components to model background noise, reverberation, or speaker variation, but instead directly learns a function that is robust to such effects. We do not need a phoneme dictionary, nor even the concept of a \"phoneme.\" Key to our approach is a well-optimized RNN training system that uses multiple GPUs, as well as a set of novel data synthesis techniques that allow us to efficiently obtain a large amount of varied data for training. Our system, called Deep Speech, outperforms previously published results on the widely studied Switchboard Hub5'00, achieving 16.0% error on the full test set. Deep Speech also handles challenging noisy environments better than widely used, state-of-the-art commercial speech systems.Collapse",
+    "output": "The method used in the research is an end-to-end deep learning architecture for speech recognition. The abstract states, \"Our architecture is significantly simpler than traditional speech systems, which rely on laboriously engineered processing pipelines... Key to our approach is a well-optimized RNN training system that uses multiple GPUs, as well as a set of novel data synthesis techniques that allow us to efficiently obtain a large amount of varied data for training.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You need to come up with the names of some of the papers that relate to the paper you are given.\n\nRoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering",
+    "output": "Sure, here are some related papers you may find helpful:\n\n1. \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\" by Jacob Devlin et al.\n2. \"XLNet: Generalized Autoregressive Pretraining for Language Understanding\" by Zhilin Yang et al.\n3. \"UniLM: Unified Language Model Pre-training\" by Li Dong et al.\n4. \"T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer\" by Colin Raffel et al.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a short, concise summary of the paper based on its abstract.\n\nFew-shot learning (FSL) is one of the key future steps in machine learning and raises a lot of attention. In this paper, we focus on the FSL problem of dialogue understanding, which contains two closely related tasks: intent detection and slot filling. Dialogue understanding has been proven to benefit a lot from jointly learning the two sub-tasks. However, such joint learning becomes challenging in the few-shot scenarios: on the one hand, the sparsity of samples greatly magnifies the difficulty of modeling the connection between the two tasks; on the other hand, how to jointly learn multiple tasks in the few-shot setting is still less investigated. In response to this, we introduce FewJoint, the first FSL benchmark for joint dialogue understanding. FewJoint provides a new corpus with 59 different dialogue domains from real industrial API and a code platform to ease FSL experiment set-up, which are expected to advance the research of this field. Further, we find that insufficient performance of the few-shot setting often leads to noisy sharing between two sub-task and disturbs joint learning. To tackle this, we guide slot with explicit intent information and propose a novel trust gating mechanism that blocks low-confidence intent information to ensure high quality sharing. Besides, we introduce a Reptile-based meta-learning strategy to achieve better generalization in unseen few-shot domains. In the experiments, the proposed method brings significant improvements on two datasets and achieve new state-of-the-art performance.",
+    "output": "The paper introduces FewJoint, a benchmark for few-shot learning (FSL) in joint dialogue understanding tasks such as intent detection and slot filling. It provides a new corpus with 59 dialogue domains and a code platform for FSL experiments. The paper proposes a trust gating mechanism to improve joint learning in few-shot scenarios by guiding slot filling with explicit intent information. It also introduces a Reptile-based meta-learning strategy for better generalization in unseen few-shot domains. Experiments show significant improvements and new state-of-the-art performance on two datasets.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will need to compose the ABC notation for a given song.\n\nThe South Wind",
+    "output": "X:1\nT:The South Wind\nM:3/4\nL:1/8\nK:G\nD2|G3 A B2|A3 G F2|E2 D2 C2|D4 D2|\nG3 A B2|A3 G F2|E2 D2 C2|D4 D2|\nG3 A B2|A3 G F2|E2 D2 C2|D4 D2|\nG3 A B2|A3 G F2|E2 D2 C2|D4 D2|\nG3 A B2|A3 G F2|E2 D2 C2|D4 D2|\nG3 A B2|A3 G F2|E2 D2 C2|D4 D2|\nG3 A B2|A3 G F2|E2 D2 C2|D4 D2|\nG3 A B2|A3 G F2|E2 D2 C2|D4 D2|",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Categorize the given magazine based on its content into one of the categories: Politics, Entertainment News, Tech News, Business News, Parenting & Kids, Health & Healing, Cooking, Food & Wine, and Arts & Literature,\n\nInc.",
+    "output": "The magazine \"Inc.\" can be categorized as Business News.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Decide if the given email belongs to the Promotions or Social category.\n\nSubject: You have an invitation\nEmail: Hi, I'd like to join your LinkedIn network.",
+    "output": "The given email would likely belong to the Social category, as it seems to be a request to connect on a social networking platform.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.\n\n🧙‍♂️🚪📚🦅⚡",
+    "output": "The movie is \"Harry Potter and the Sorcerer's Stone.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with an interesting idea for a new movie plot. Your plot should be described with a title and a summary.",
+    "output": "Title: \"Eternal Echoes\"\n\nSummary:\nIn a world where time travel is possible, a renowned physicist discovers a way to communicate with the past. As she delves into the secrets of history, she encounters a mysterious figure from the past who seems to have knowledge of the future. Together, they unravel a complex web of interconnected events that transcends time and space, leading to a thrilling adventure that challenges the very fabric of reality. As they navigate through different time periods, they must confront their own personal demons and make difficult choices that will ultimately determine the fate of the universe.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Change the first person to the third person in the given sentence. The meaning should be kept, but you can paraphrase it or expand it in order to have a better pose.\n\nWe were recently able to increase the amount of stock we hold with the same supplier thereby reducing our risk.",
+    "output": "Recently, the company was able to increase its stock with the same supplier, effectively reducing its risk.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should capitalize the sentence according to the guide.\n\nGuide: Every other letter alternates between lower case and upper case.\nSentence: A giant spider blocks your path.",
+    "output": "a gIaNt sPiDeR bLoCkS yOuR pAtH.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create alliterations by finding synonyms for words in the given sentence.\n\nDavid wears a hat everyday.",
+    "output": "Certainly! David dons a cap daily.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Convert the given description to a bash command.\n\nread the first 10 lines from f",
+    "output": "head -n 10 f",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please prepare a table containing a summary of the information of the participants at the conference.\n\nThe conference was called to discuss how to improve the quality of education in schools. The main speaker was Professor Crew Purdie (cpurdie@email.com), who spoke about the importance of setting high standards for students and teachers. He said that schools should be places where students can learn and be challenged. Other speakers included Teacher Oliver Malachi (oliver@email.com) and Parent Kolby Reese (kolbyreese82@email.com). The teacher talked about the need for teachers to be well-prepared and to have high expectations for their students. The parent spoke about the need for parents to be involved in their children's education. There was also a discussion about the importance of funding for schools.",
+    "output": "| Participant           | Role        | Email               |\n|-----------------------|-------------|---------------------|\n| Professor Crew Purdie | Main Speaker| cpurdie@email.com   |\n| Teacher Oliver Malachi| Speaker     | oliver@email.com    |\n| Parent Kolby Reese    | Speaker     | kolbyreese82@email.com |",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List the concepts that should be learned before approaching the given complex concept.\n\nDeep Learning",
+    "output": "Before approaching deep learning, it's important to have a good understanding of machine learning, neural networks, and linear algebra. Additionally, knowledge of probability and statistics, as well as programming skills in languages like Python, are also important prerequisites for learning deep learning.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Given a sentence that may be ambiguous, rewrite the sentence using less ambiguous words.\n\nThe chicken is ready to eat.",
+    "output": "The cooked chicken is ready to be eaten.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Assess the sentiment of the given tweet and categorize it as Positive, Negative, or Neutral.\n\n\"This is the best cheat-sheet paper that I've found in a LONG time.\"",
+    "output": "The sentiment of the given tweet is positive.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a Python command and are required to convert it into Ruby.\n\nprint(\"Hello World!\")",
+    "output": "In Ruby, the equivalent code to print \"Hello World!\" would be:\n\n```ruby\nputs \"Hello World!\"\n```",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a sentence in first-order logic. Translate it into natural language.\n\n∃x∀y(soldier(x)→general(x,y))",
+    "output": "\"There exists a person who, for every person, if the first person is a soldier, then the first person is a general for the second person.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a search query and a document. Classify whether the document is relevant to the search query or not relevant.\n\nSearch: why sky is blue\nDocument: The Short Answer: Sunlight reaches Earth's atmosphere and is scattered in all directions by all the gases and particles in the air. Blue light is scattered more than the other colors because it travels as shorter, smaller waves. This is why we see a blue sky most of the time.",
+    "output": "The document is relevant to the search query \"why sky is blue\" because it provides an explanation for why the sky appears blue due to the scattering of blue light in Earth's atmosphere.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a list of subtopics for the given topic.\n\nMusic theory",
+    "output": "1. Notes and Scales\n2. Chords and Harmony\n3. Rhythm and Meter\n4. Key Signatures and Modes\n5. Intervals and Transposition\n6. Form and Structure\n7. Melody Writing\n8. Counterpoint and Voice Leading\n9. Analysis of Musical Works\n10. Notation and Sight-Reading",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Summarize the movie in a snarky way. Try to explain the movie in just one sentence.\n\nThe Shining",
+    "output": "A man takes a job as a winter caretaker at a remote hotel, where his family's sanity is tested by the supernatural forces within.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Enter the words that satisfy the given condition.\n\n5 Countries that Start with S",
+    "output": "Sure! Here are five countries that start with the letter S: \n1. Spain\n2. Sweden\n3. Switzerland\n4. Singapore\n5. Syria",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a name for the dish given the ingredients and instructions.\n\nINGREDIENTS:\n2 (5 oz) cans Bumble Bee® Solid White Albacore Tuna, drained\n1 avocado\n2 Tbsp Sriracha\n1 Tbsp Dijon mustard\n2 to 3 Tbsp celery, chopped\n2 Tbsp red onion, chopped\n2 green onions, chopped\n1 Tbsp fresh cilantro, chopped\nSalt and pepper, to taste\n2 heaping cups leafy green lettuce\n1 cup matchstick carrots\n4 (10 inch) whole wheat tortillas\nINSTRUCTIONS:\nIn a medium bowl, mash together tuna and avocado until combined. Add in the rest of the ingredients through the salt and pepper, mixing well.\nTo assemble, top each tortilla with a 1/2 cup leafy greens, 1/4 cup matchstick carrots and divide the tuna mixture evenly among the wraps. Tightly roll up the tortilla, slice and enjoy!",
+    "output": "Spicy Tuna and Avocado Wraps",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Summarize a meeting from the given list of bullet points. Be sure to convert shorthand into a first-hand account.\n\nRose: Analyze data and presents findings\nJohn: propose new idea\nJane: appointed to head project\nTom: need more time to fix software bug",
+    "output": "During the meeting, Rose analyzed data and presented her findings. John proposed a new idea, and Jane was appointed to head the project. Tom requested more time to fix a software bug.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List a few popular songs from the given album.\n\nBack To Black",
+    "output": "Some popular songs from the album \"Back to Black\" by Amy Winehouse include \"Rehab,\" \"Back to Black,\" and \"You Know I'm No Good.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Invent a new word based on a description of the word.\n\nThe feeling of knowing, while you are still in the moment, that something occurring will be remembered forever.",
+    "output": "The new word could be \"memorique,\" combining \"memory\" and \"unique\" to convey the sense of a unique moment that will be remembered forever.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Given a programming language and the name of a function, write a command to show how to use the function.\n\nLanguage: Python\nFunction: input",
+    "output": "To use the input function in Python, you can simply write:\n\n```python\nuser_input = input(\"Please enter your input: \")\n```",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a pleasant compliment based on the quality you have been given.\n\nTruthfulness",
+    "output": "Your truthfulness is a rare and admirable quality. It's evident that you value honesty and sincerity, which is truly commendable.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a brief resume introduction using the following information.\n\nname: Mark\nnationality: Italian\nlanguage: English\nattributes: creative, goal-oriented, motivated\nskills: software engineering, content marketing",
+    "output": "Mark is an Italian national with proficiency in English. He is a creative and goal-oriented individual who is motivated to excel. Mark has expertise in software engineering and content marketing.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of adjectives that can be used to describe the given brand.\n\na creative tech startup",
+    "output": "Innovative, cutting-edge, inventive, forward-thinking, tech-savvy",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Someone gives you some information about where they want to go and what they enjoy seeing and doing. Describe a proper road trip for them and find the best stops and sctivities in the way.\n\nI'm looking for a west coast road trip. My goal is to start near San Diego and travel to Los Angeles.",
+    "output": "A great road trip from San Diego to Los Angeles could include stops at La Jolla Cove and Torrey Pines State Natural Reserve for coastal views and hiking. You could also visit the historic Gaslamp Quarter in San Diego and the eclectic neighborhoods of Venice Beach and Santa Monica in Los Angeles. Along the way, consider exploring the stunning beaches of Laguna Beach and Huntington Beach and enjoying the vibrant arts scene in Laguna Beach and the trendy shops and restaurants in Newport Beach.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Regex is a set of characters that define a search pattern. This kind of pattern is usually used by string-searching algorithms to find or replace strings or to validate inputs. Convert the natural english text to regex.\n\nMatch a valid ip address",
+    "output": "To match a valid IP address using regex, you can use the following pattern:\n```regex\n\\b(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\b\n```",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write an engaging and well-written property listing description for selling a house. Address of the house and some of the details are given to you. Fill in the information gap with hallucinations if needed.\n\nProperty Address: 412 Monterey Ave, Capitola, CA 95010\nParking: 3 cars + a finished single car garage\nDetails:\n- open floorplan\n- window with views to park/mountains\n- Kitchen with shaker cabinetry and white Calcatta quartz counters",
+    "output": "Introducing a charming 3-bedroom, 2-bathroom home located at 412 Monterey Ave in the desirable Capitola, CA. This property boasts an open floorplan, providing a seamless flow throughout the home. Enjoy stunning views of the park and mountains from the expansive windows, bringing the beauty of the outdoors inside. The kitchen is a chef's dream, featuring shaker cabinetry and elegant white Calcatta quartz counters. With parking for 3 cars and a finished single car garage, this home has everything you need. Don't miss the opportunity to make this your own slice of paradise!",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Given a real estate listing description, extract the information and details of the property from the text. The details consist of address, basic house attributes, etc.\n\nWALK TO THE BEACH FROM CAPITOLA KNOLLS! Single-level upstairs condo with your own large private deck overlooking nature. Adorable home that is move-in ready and waiting for you to put your own personal touches on. Gorgeous and well-maintained landscaped park-like setting with lush green grasses with a community pool and spa to enjoy. Desirable location...walk to Capitola Village, Gayle's Bakery, restaurants, shopping, schools or jump on Hwy 1 right around the corner.",
+    "output": "The property is a single-level upstairs condo located in Capitola Knolls. It features a large private deck overlooking nature. The home is move-in ready and offers a landscaped park-like setting with lush green grass, a community pool, and spa. The location is desirable with close proximity to Capitola Village, Gayle's Bakery, restaurants, shopping, schools, and easy access to Hwy 1.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Review the property description and tell us what is good and what is bad about it and list its key takeaways.\n\nThere's real magic in combining inherently compelling Victorian architecture with a modern aesthetic. Add in an extraordinary multi-level garden & the result is the undeniable elegance of 444 29th St. The front of the home is light-filled w/ a seamless connection between living, dining & kitchen. Newly updated kitchen w/ quartz counters & upgraded appliances. A lg dining rm has a bay of windows &, when paired w/ the adjacent living rm, provides an ideal space to entertain. 2 lg bdrms on this level are at the rear. Both w/ lg closets & walk out to the garden. Stylishly remodeled full bath on this level. 3rd bdrm/2nd full bath are located on the ground floor - perfect as a guest rm, home office, fitness area, etc. The enormous garden occupies an extra deep lot & is beautifully landscaped & terraced. Laundry/storage rm, 1-car garage pkg, Tesla solar panels. Prime, flat part of Noe Valley - short walk to all that Noe has to offer. Steps from the J-Church & convenient to shuttles/freeways.",
+    "output": "Good:\n- Victorian architecture with a modern aesthetic\n- Multi-level garden\n- Newly updated kitchen with quartz counters and upgraded appliances\n- Large dining room with bay windows\n- Stylishly remodeled full bath\n- Tesla solar panels\n- Prime location in Noe Valley, close to amenities and transportation options\n\nBad:\n- The property description does not mention the size of the home or garden, which may be important to some buyers.\n\nKey takeaways:\n- 444 29th St. offers an elegant combination of Victorian charm and modern amenities.\n- The multi-level garden provides a unique outdoor space.\n- The home features a newly updated kitchen and stylishly remodeled bath.\n- The property is located in a prime, flat part of Noe Valley, with convenient access to transportation options.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List some of the top real estate marketing words to add value to the listing and engage more potential buyers.",
+    "output": "Some top real estate marketing words to add value and engage potential buyers include: \n- \"Stunning\" \n- \"Spacious\" \n- \"Luxurious\" \n- \"Charming\" \n- \"Updated\" \n- \"Gourmet\" \n- \"Spectacular\" \n- \"Elegant\" \n- \"Private\" \n- \"Secluded\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest some product bundles that are often purchased with a given product.\n\nMacBook Air",
+    "output": "1. USB-C hub or docking station\n2. Laptop sleeve or case\n3. Wireless mouse or trackpad\n4. Bluetooth headphones or earbuds\n5. External hard drive or SSD",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a template in markdown to create scope for Jira tickets. Members should use this template as a checklist to ensure they have included all the necessary information when creating a ticket.",
+    "output": "Sure, here is a basic template in markdown for creating a scope for Jira tickets:\n\n```markdown\n### Ticket Scope Checklist\n\n- **Summary**: \n  - [ ] Clear and concise summary of the ticket's purpose.\n\n- **Description**: \n  - [ ] Detailed description of the issue or task to be completed.\n\n- **Acceptance Criteria**: \n  - [ ] List of criteria that must be met for the ticket to be considered complete.\n\n- **Steps to Reproduce (if applicable)**:\n  - [ ] Clear steps to reproduce any issues, if relevant.\n\n- **Attachments (if applicable)**:\n  - [ ] Any necessary files, screenshots, or documents related to the ticket.\n\n- **Dependencies (if applicable)**:\n  - [ ] List any dependencies or related tickets that need to be completed first.\n\n- **Additional Information**:\n  - [ ] Any other relevant information or context for the ticket.\n\n- **Assigned To**:\n  - [ ] Assign the ticket to the appropriate team member.\n\n- **Labels (if applicable)**:\n  - [ ] Add any relevant labels for categorization.\n\n- **Due Date**:\n  - [ ] Set a due date for the ticket, if applicable.\n\n- **Priority**:\n  - [ ] Set the priority level for the ticket.\n\n- **Estimation (if applicable)**:\n  - [ ] Provide an estimation of the effort required to complete the ticket.\n```\n\nTeam members can use this template as a checklist to ensure they have included all the necessary information when creating a Jira ticket.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "As part of software engineering, user stories describe what the user wants the system to do, while acceptance criteria describe the conditions a specific user story must meet. Create basic acceptance criteria based on the given user story.\n\nUser story: As a user, I want to use a search field to type a city, name, or street, so that I could find matching hotel options.",
+    "output": "Acceptance criteria for the user story could include:\n1. The search field allows the user to input city names, hotel names, or street names.\n2. Upon entering a search term, the system displays matching hotel options.\n3. The search results are relevant and accurate based on the input provided by the user.\n4. The search functionality is responsive and provides results in a timely manner.\n5. The user is able to refine or modify their search criteria if necessary.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. Write a user story for a given software.\n\nGmail",
+    "output": "As a user, I want to be able to send and receive emails seamlessly, organize my inbox efficiently, and access my emails from any device, so that I can communicate effectively and stay organized.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a Jira ticket for the given task.\n\nNew Employee onboarding",
+    "output": "Title: New Employee Onboarding for [Employee Name]\n\nDescription: \n- Create a new employee onboarding plan for [Employee Name]\n- Set up necessary accounts and access for the new employee\n- Schedule training and orientation sessions\n- Coordinate with relevant teams for equipment and workspace setup\n- Provide necessary resources and information to the new employee\n- Follow up to ensure smooth transition and integration\n\nAssignee: [Assigned team member]\n\nPriority: Medium\n\nLabels: Onboarding, New Employee, HR",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Paraphrase the given text in an academic style.\n\nLots of papers have been published on this topic.",
+    "output": "Numerous scholarly articles have been written on this subject.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the pros and cons of the given decision.\n\nImplementing a Remote Working Policy",
+    "output": "Pros:\n1. Increased flexibility for employees.\n2. Potential for improved work-life balance.\n3. Reduced commuting time and costs.\n4. Access to a wider talent pool.\n5. Potential for increased productivity.\n\nCons:\n1. Potential for decreased collaboration and communication.\n2. Difficulty in maintaining team cohesion.\n3. Dependence on reliable technology and internet access.\n4. Potential for blurred boundaries between work and personal life.\n5. Challenges in monitoring and managing employee performance.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Include important study notes and key points that someone should know about the given subject.\n\nhistory of the USA",
+    "output": "The history of the USA spans from the pre-Columbian era to the present day. Key points include: the arrival of European settlers, the American Revolution, the Civil War, westward expansion, industrialization, the World Wars, civil rights movements, and contemporary political and social developments. Important figures include George Washington, Abraham Lincoln, Martin Luther King Jr., and others who have shaped the nation's history. Major events such as the Declaration of Independence, the Louisiana Purchase, the Civil Rights Act, and more have had a significant impact on the country's development.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the given keywords, write a review of a restaurant.\n\nName: Pizzeria\ngood prices, quiet place, tasty, nice staff",
+    "output": "I recently dined at Pizzeria and was pleased with the overall experience. The prices were reasonable, the atmosphere was quiet and pleasant, the food was tasty, and the staff was friendly and accommodating. I highly recommend this restaurant for a relaxed and enjoyable dining experience.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Convert natural language into a list of turn-by-turn directions.\n\nGo west on I-10 until you hit the 101 then take it north. You will eventually see the Hollywood sign.",
+    "output": "1. Head west on I-10.\n2. Merge onto the 101 north.\n3. Continue on the 101 until you see the Hollywood sign.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide an ESRB rating for the following game.\n\nThis is an action-adventure game in which players help Kratos and his son on a dangerous quest. Players explore various realms and engage in frenetic hand-to-hand combat against human-like raiders and fantastical creatures (e.g., centaurs, trolls, dragons). Players use axes and chained blades to battle enemies, often resulting in large blood-splatter effects and dismemberment. Players can perform finishing attacks that depict close-up impalement via bladed and hand-held weapons; repeated axe strikes to a creature's neck results in decapitation. The words “f**k” and “sh*t” are heard in the game.",
+    "output": "The ESRB rating for the game described is \"M\" for Mature, due to blood and gore, intense violence, strong language, and suggestive themes.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A color description has been provided. Find the CSS code associated with that color.\n\nA light red color with a medium light shade of pink",
+    "output": "The CSS code for a light red color with a medium light shade of pink is:\n```css\ncolor: #ff9999;\n```",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Identify and fix bugs in the given code and rewrite it\n\nfor i in range(10)\n    print(Answer is:)\n    print(i)",
+    "output": "The given code has two issues: missing a colon at the end of the \"for\" statement and a missing quotation marks around the string \"Answer is:\". Here's the corrected and rewritten code:\n\n```python\nfor i in range(10):\n    print(\"Answer is:\")\n    print(i)\n```",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of common phrases for the given section of the paper.\n\nIntroduction",
+    "output": "- In this paper, we will explore...\n- The purpose of this paper is to...\n- This study aims to...\n- The objective of this paper is to...\n- The focus of this paper is on...\n- The following paper will examine...\n- This paper seeks to address...\n- The aim of this paper is to investigate...\n- The main goal of this paper is to...",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We have described a scene from a movie that we have seen in the past. Find out what movie it is.\n\nA choice has to be made between picking the red pill or the blue pill",
+    "output": "The scene you're describing is from the movie \"The Matrix.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Take the product description and write a creative ad for it.\n\nDocument Cameras allow teachers to display documents, books, or other materials for their students to see.",
+    "output": "\"Bring learning to life with our Document Cameras! Capture the attention of your students as you display documents, books, and other materials with crystal-clear clarity. Enhance your teaching and engage your students like never before. Get your Document Camera today and make every lesson a visual masterpiece!\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Translate the natural language description into a Google Sheets formula.\n\nif C7 is equal to \"U.S.A.\" or \"Canada\" or \"Europe\" or \"The Americas\"",
+    "output": "=IF(OR(C7=\"U.S.A.\", C7=\"Canada\", C7=\"Europe\", C7=\"The Americas\"), [value if true], [value if false])",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a tweet and you should decide whether it's offensive or not.\n\nShe has certainly taken some heat for being such an....well idiot.",
+    "output": "The tweet contains offensive language and is derogatory.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "For a quick and efficient office workout, suggest a short routine.",
+    "output": "A quick and efficient office workout could include the following routine:\n1. Desk push-ups: 3 sets of 10 reps\n2. Chair squats: 3 sets of 15 reps\n3. Standing calf raises: 3 sets of 20 reps\n4. Desk tricep dips: 3 sets of 12 reps\n5. Wall sits: 3 sets of 30 seconds\nRemember to take breaks and stay hydrated during the workout.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Predict how many stars the author will give to the restaurant from a Yelp review.\n\nThe reviews were great, but honestly i felt it was just ok. Seemed like a typical tourist spot were the food was mediocre. The service was ok, not great, but not the worst.\nThe bread was very good. I ordered the muscle fries. They had a sweet Vidalia onion flavor. No need for fries bc they were soggy wo much flavor. My boyfriend ordered a pesto chicken pasta and it was again mediocre.",
+    "output": "Based on the review, it seems likely that the author will give the restaurant a 2 or 3-star rating. The overall experience was described as \"just ok\" and \"mediocre,\" with some positive aspects such as the bread but also some negative aspects like the soggy fries and mediocre pasta.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Categorize the Business into one of the Restaurants, Home Services, Auto Services and Miscellaneous based on its Specialties.\n\nCall us at 650-636-4884 or visit our website to receive a quote. This shop specializes in New Tires and General Auto Repair. We carry all tires in-house and have a wide range to fit any budget or car specifics. If you are unsure what tires you need there are experts on hand and available to help you pick the best tire for your needs. We also carry commercial vehicle tires and can serve a wide array of fleets.",
+    "output": "Based on its specialties, the business can be categorized as an Auto Services shop.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Notify me of any suggestions you may have for making the text more grammatically correct.\n\nThis is the second time I've been here, and the vibes, and the food were exquisite.",
+    "output": "Consider revising the sentence to: \"This is my second time here, and the atmosphere and food were exquisite.\"",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using the ingredients that are available, create a dinner recipe.\n\nKale + almond butter + apple cider vinegar + agave nectar + tamari",
+    "output": "Try making a simple kale salad. Start by massaging the kale with a mixture of almond butter, apple cider vinegar, agave nectar, and tamari to soften it. You can also add some chopped almonds or apples for extra flavor and texture. Enjoy as a side dish or add protein like grilled chicken or tofu for a complete meal.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Categorize the given product into one of Electronics, Computers, Smart Home, or Arts & Crafts departments.\n\nGoogle Nest Learning Thermostat",
+    "output": "The Google Nest Learning Thermostat would be categorized under the \"Smart Home\" department.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide instructions for the given exercise.\n\nLeg Raises",
+    "output": "To perform leg raises, lie on your back with your legs straight. Keeping your legs together, lift them up towards the ceiling, then slowly lower them back down without letting them touch the ground. Repeat for the desired number of repetitions. Keep your core engaged and avoid arching your back. This exercise targets the lower abdominal muscles.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Rewrite the text and correct the spelling errors.\n\nIt solves problems comon and uniqe to every team.",
+    "output": "It solves common and unique problems for every team.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write down antonyms for the given word.\n\nlaureating",
+    "output": "Some antonyms for \"laureating\" are: criticizing, censuring, denouncing.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write the HTML syntax for the required action.\n\nadding an image to the page",
+    "output": "To add an image to an HTML page, you can use the following syntax:\n\n```html\n<img src=\"image.jpg\" alt=\"Description of the image\">\n```\n\nReplace \"image.jpg\" with the file path or URL of the image, and provide a brief description of the image in the \"alt\" attribute.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Identify the programming language used to write the given code.\n\nif (20 > 18) {\n  printf(\"20 is greater than 18\");\n}",
+    "output": "The given code is written in the C programming language.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Decide which part of speech the underlined word belongs to.\n\nschool will _keep through the winter",
+    "output": "The underlined word \"keep\" is a verb in this sentence.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Define what the underlined word means for kids.\n\n_keep a promise",
+    "output": "\"Keep a promise\" means to do what you said you would do. For kids, it means following through on a commitment or agreement that they have made with someone else.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Expand the given sentence and give it more details and depth.\n\nIt changed my life.",
+    "output": "The experience had a profound impact on my life, altering my perspective, priorities, and future aspirations. It transformed the way I interact with the world and the decisions I make, ultimately shaping the person I am today.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Extract the address of the property from the \"About this space\" section of Airbnb.\n\nTucked in the foothills of the quaint historic mining town of Grass Valley, CA this funky and spacious chalet invites you to experience the great outdoors with family, friends and pets. Enjoy the hot tub, basketball court, treehouse, kids rooms, bbq, fire-pit, outdoor theater, and more. One hour from Tahoe and 10 minutes to town, you’re never short of things to explore.",
+    "output": "I'm sorry, but I cannot extract the specific address from the \"About this space\" section of Airbnb. For the exact address, you will need to visit the property's Airbnb listing or contact the host directly.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a simple training challenge on Strava that everyone could attend.",
+    "output": "Title: \"Weekly 5K Fun Run Challenge\"\n\nDescription: Join us for a weekly 5K fun run challenge on Strava! Lace up your shoes and hit the pavement to complete a 5K run at your own pace. Whether you're a seasoned runner or just getting started, this challenge is for everyone. Share your runs, encourage others, and celebrate your accomplishments together. Let's build a supportive running community and stay motivated together!",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest some names for a friendly group in telegram.",
+    "output": "1. HappyChatters\n2. CheerfulConnections\n3. FriendlyFlock\n4. JoyfulJamboree\n5. KindredKomrades\n6. SociableSquad\n7. AmiableAlliance\n8. WelcomingWaves\n9. AffableCrew\n10. SociableCircle",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write what the pronunciation of the given word sounds like. Follow the \"Google pronunciation dictionary\" scheme for phonetic spelling.\n\ninterpretations",
+    "output": "The pronunciation of \"interpretations\" is /ɪnˌtərprɪˈteɪʃənz/.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Explain the meaning of the given phrase in simple terms. Use an example if possible. It would be helpful if you could give an example.\n\n\"With a little give in them\"",
+    "output": "The phrase \"with a little give in them\" means that something has a small amount of flexibility or room for adjustment. For example, if you say \"These shoes have a little give in them,\" it means that the shoes are slightly flexible and can accommodate different foot shapes.",
+    "generator": "gpt-3.5-turbo-1106_concise"
+  }
+]

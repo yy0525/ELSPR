@@ -1,0 +1,1508 @@
+[
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The sentence you are given might be too wordy, complicated, or unclear. Rewrite the sentence and make your writing clearer by keeping it concise. Whenever possible, break complex sentences into multiple sentences and eliminate unnecessary words.\n\nIf you have any questions about my rate or if you find it necessary to increase or decrease the scope for this project, please let me know.",
+    "output": "If you have any questions about my rate, please let me know.\nIf you need to increase or decrease the scope of the project, please let me know.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Analyze the word choice, phrasing, punctuation, and capitalization in the given email. How may the writer of this email sound to the reader? These tones include Disheartening, Accusatory, Worried, Curious, Surprised, Disapproving, Unassuming, Formal, Assertive, Confident, Appreciative, Concerned, Sad, Informal, Regretful, Encouraging, Egocentric, Joyful, Optimistic, and Excited.\n\nHi Jen, \nI hope you're well. Can we catch up today? I'd appreciate your input on my presentation for tomorrow's meeting. I'd especially love it if you could double-check the sales numbers with me. There's a coffee in it for you!",
+    "output": "The tone of this email sounds curious.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Rewrite the given text and correct grammar, spelling, and punctuation errors.\n\nIf you'd told me year ago that today I would finish a marathon, I would of laughed. Your support had a huge affect on me!",
+    "output": "If you'd told me a year ago that today I would finish a marathon, I would have laughed. Your support had a huge effect on me!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a paper citation, convert it to the requested citation style.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:",
+    "output": "Vaswani, Ashish, et al. \"Attention Is All You Need.\" ArXiv, 2017. https://doi.org/10.48550/arXiv.1706.03762.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Desk jobs require writing a lot of emails, so it isn't surprising we get tired of repeating ourselves. Come up with several synonyms for the given word.\n\nSincerely",
+    "output": "Yours truly, Love, Best, Regards",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated.",
+    "output": "Hi friends! \nI hope you're all doing well. I wanted to invite you to dinner on Friday night. I'm making my famous lasagna and I would love to have you all over. Let me know if that works for you and I'll give you my address. \nHope to see you soon!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The tone of the email should be changed and rewritten in a more professional manner.\n\nSubject: Asking for Vacation Time\nHi [Employer], \nI hope all is well. I am writing to request a day off on [date]. I have already taken care of my work responsibilities for that day and will be available to answer any questions or concerns you may have. \nThank you for your time, \n[Your name]",
+    "output": "Subject: Request for Vacation Time\n\nHi [Employer], \n\nI hope all is well. I am writing to request a day off on [date]. I have already taken care of my work responsibilities for that day and will be available to answer any questions or concerns you may have. \n\nThank you for your time, \n[Your name]",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a social media post about the call for collaboration on a crowdsourcing project in a persuasive way.",
+    "output": "Looking for a way to contribute to a crowdsourcing project? Check out this call for collaboration! By working together, we can make this project a success!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "My favorite witty review of The Rings of Power series is this:",
+    "output": "These books are so bad, they're good.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A helpful writing exercise is writing a story without using adjectives or adverbs. This will help you learn to use other words and phrases to describe what you are trying to say. Here are some examples:",
+    "output": "I wake up to the sound of the sun shining in my eyes.\n\nI wake up to the sound of the sun beaming in my eyes.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with some search queries on google about coding stuff.",
+    "output": "1. \"What is the best way to learn coding?\"\n2. \"What is the best language to learn coding?\"\n3. \"What is the best coding course?\"\n4. \"What is the best way to learn to code?\"\n5. \"What is the best way to learn coding for beginners?\"\n6. \"What is the best way to learn coding online?\"\n7. \"What is the best way to learn coding for free?\"\n8. \"What is the best way to learn coding in school?\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Discover the most relevant StackOverflow questions for your search term. And output a list of their URLs.\n\nremove item in array",
+    "output": "https://stackoverflow.com/questions/25306427/remove-item-in-array-javascript\nhttps://stackoverflow.com/questions/10127609/how-to-remove-an-item-from-an-array-in-javascript\nhttps://stackoverflow.com/questions/11667609/remove-item-from-javascript-array-based-on-condition",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given an algorithm or a search query about coding. Look for a code snippet related to the search query.\n\nPython loop",
+    "output": "def loop(nums): \n    for i in range(0,nums): \n       print(\"Looping through {}\".format(i)) \n       \n    return \n   \n\nLooping through 0\nLooping through 1\nLooping through 2\nLooping through 3\nLooping through 4\nLooping through 5\nLooping through 6\nLooping through 7\nLooping through 8\nLooping through 9",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are provided with a description of the code, specifications, or prompts. Your help is needed in automating code generation to speed up the development process.\n\npython function to determine whether a number is prime.",
+    "output": "def isprime(n):\n \n  \n  if n <= 1:\n        print(\"%s is not prime\" % n)\n     elif n % 2 == 0:\n        print(\"%s is not prime\" % n)\n     elif n % 3 == 0:\n        print(\"%s is not prime\" % n)\n     else:\n        return True\n    \n    print(\"%s is prime\" % n)",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "When you're stuck on a coding problem, the best place to look for help is in the documentation. Read the docs carefully and see if there's a section that covers your specific issue. Often, the answer will be right there in front of you. If not, try searching for key terms related to your problem. Come up with the useful links about the given search term.\n\nsql find duplicate values",
+    "output": "https://www.w3schools.com/sql/sql_duplicate_values.asp\nhttps://www.sqlite.org/duplicate.html\nhttps://stackoverflow.com/questions/tagged/sql%20duplicate%20values",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We have entered the home supplies budget in the following table. Calculate the last column with the given function and rewrite the completed table.\nNote that, columns in a row are separated using a comma, and rows are separated using a \"|\".\n\nItem, Qty, Price, Subtotal | mango, 5, 500, ? | apple, 4, 150, ? | oil, 2, 1500, ?  \nFunction: column2 * column 3",
+    "output": "Item, Qty, Price, Subtotal | mango, 5, 500, 2500 | apple, 4, 150, 600 | oil, 2, 1500, 3000",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please write the Excel function name associated with each description.\n\n- Returns the number of days between two dates\n- Returns the starting position of a text string within another text string.\n- Returns the number in the middle of the set of given numbers",
+    "output": "DATEDIF, FIND, MID",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What are the steps to using random (yet coherent) text as filler content within your Word document?",
+    "output": "1. Copy and paste the text you want to use as filler content into a separate Word document.\n2. Highlight the text and click the “Random” button in the “Text” section of the “Insert” tab.\n3. The text will be randomized and inserted into your document.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a soothing pastel color palette for your slides. Pastel colors generally come across as pretty and delicate, so you’ll want to make sure your presentation calls for a similar mood. Choose up to five colors or color codes.",
+    "output": "#a7bfce\n#b2c7d0\n#d1e5f4\n#e5f7fa\n#ffffff",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "I bought two shirts from the store and each one cost me $10. I also bought a pair of pants and they cost me $20. Then, I bought a dress and it cost me $30. Also,  I bought a pair of shoes and they cost me $40. Lastly, I bought a jacket and it cost me $50.\n\nMake a table chart showing items, the number, and the price of these items. Separate columns with \"|\".",
+    "output": "Item | Number | Price\n \nT-Shirts | 2 | $20\n \nPants | 1 | $20\n \nDress | 1 | $30\n \nShoes | 1 | $40\n \nJacket | 1 | $50",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find sentences from reliable sources such as the Guardian or Forbes that contain the exact match for the given sentence or phrase. Also, mention the source of each sentence.\n\nThere are great options",
+    "output": "Forbes: \"There are great options for those who are looking for a rewarding and challenging career.\"\n\nThe Guardian: \"There are great options for those who are looking for a rewarding and challenging career.\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "During writing, we added an asterisk for the word that did not come to mind. You will need to provide several examples to demonstrate all the words that can be used in the sentence instead of the asterisk.\n\nwe * to know",
+    "output": "We need to know.\n\nWe have to know.\n\nWe should know.\n\nWe ought to know.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of alternatives and paraphrases for the underlined word.\n\nwhat we have _expected",
+    "output": "what we anticipated",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a skill assessment questioner for R (Programming Language).",
+    "output": "1. What is the output of the following code?\n\nx <- 1\n\ny <- 2\n\nx + y\n\n3\n\n2. What is the output of the following code?\n\nx <- 1\n\ny <- 2\n\nx * y\n\n4\n\n3. What is the output of the following code?\n\nx <- 1\n\ny <- 2\n\nx / y\n\n0.5",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a template for First-Person LinkedIn profile summary.",
+    "output": "I am a [position] at [company] with a focus on [industry]. I am passionate about [topic] and have a strong interest in [topic]. I am always looking to learn and grow, and I am excited to see what the future holds.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a LinkedIn post to announce that you have accepted a new job offer.",
+    "output": "I am excited to announce that I have accepted a new job offer! I will be working for a great company and I can't wait to start. Thank you to all my friends and colleagues who have helped me along the way. I am so grateful for your support.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of desirable Skills for software engineers to add to LinkedIn.",
+    "output": "1. Strong problem-solving skills\n\n2. Excellent programming skills\n\n3. Strong debugging skills\n\n4. Experience with various programming languages\n\n5. Experience with various software development methodologies\n\n6. Excellent communication skills\n\n7. Strong team-working skills\n\n8. Strong troubleshooting skills\n\n9. Keen attention to detail\n\n10. Strong analytical skills",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will be asked to answer the following question as part of the LinkedIn Skill assessments.\n\nYou find that your project has a tag and branch both named push-notifications, which causes confusion when trying to print out given reference. How can you specify which branch you want to look at?",
+    "output": "To specify which branch you want to look at, you can use the git branch command followed by the name of the branch you want to look at.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Take the title of the product and extract its attributes. The attributes in this case refer to the characteristics of the products, such as their brand and color. Your answer must a list following the format of \"attribute: value\".\n\nSAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed, Thermal Control, MZ-V8P2T0B",
+    "output": "Brand: Samsung\nColor: Black",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should write a Product Description that will persuade the buyer that the product is beneficial.\n\nFlipslide Game, Electronic Handheld Game | Flip, Slide, and Match the Colors to Beat the Clock - 4 Game Modes - Multiplayer Fun",
+    "output": "The Flipslide Game is a handheld electronic game that is perfect for family fun and multiplayer fun. It has four game modes and you can play against others or against the clock. The colors flip and slide across the screen and you have to match them as quickly as possible. It is a challenging and exciting game that is sure to provide hours of entertainment.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What other Amazon products might interest someone who visited the given product?\n\nZeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black",
+    "output": "Zeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black\nZeroll Original Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle, 1.5-Ounce, Red\nZEROLON ICE CREAM SCOOP, HEAT CONDUCTIVE, 1.5 OZ",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a  review based on the given information.\n\n- Product: Persil Discs Laundry Detergent Pacs, Original Scent, High Efficiency (HE) Compatible, Laundry Soap, 62 Count\n- Sentiment: Positive",
+    "output": "These Persil laundry detergent pacs work great! I have used them before and they get my clothes really clean without any issues. The original scent is really nice, and the high efficiency (HE) compatible compatibility means that they work well in my high efficiency washer. I definitely recommend these!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a short description about the given movie or series.\n\nThe Witcher (2019)",
+    "output": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts. But when destiny hurtles him toward a powerful sorceress, and a young princess with a dangerous secret, the three must learn to navigate the increasingly volatile Continent together.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of some series or movies that would be enjoyable for someone who liked the given series.\n\nSquid Game",
+    "output": "Series: The Hunger Games\n\nMovies: The Hunger Games, The Hunger Games: Catching Fire, The Hunger Games: Mockingjay – Part 1, The Hunger Games: Mockingjay – Part 2",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give examples of popular shows and movies in the genre.\n\nGenre: Crime TV Shows",
+    "output": "The Sopranos\nThe Wire\nBreaking Bad\nBetter Call Saul\nNarcos\nGenre: Crime Movies\nOutput:\n\nThe Godfather\nThe Godfather Part II\nThe Silence of the Lambs\nGoodfellas\nScarface",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "In what genres does the given movie or series fall?\n\nManifest",
+    "output": "The given movie or series falls within the genres of drama and mystery.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief description of the given category of movies and shows.\n\nPeriod Dramas",
+    "output": "Period dramas are movies and television shows set in a specific time period. This could be a past era like the 1920s or a fictional world like Westeros in Game of Thrones.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide an example of how a table of contents can be generated automatically in a LATEX document. Make sure your example contains the necessary commands.",
+    "output": "\\tableofcontents\n\n\\chapter{First Chapter}\n\n\\section{First Section}\n\n\\subsection{First Subsection}\n\n\\paragraph{First Paragraph}\n\n\\end{document}",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Imagine you have a FEN notation of a chessboard. How can you draw a board to show this state of the chessboard in LATEX? Create a LATEX code that includes all the required commands and packages.",
+    "output": "\\begin{tikzpicture}\n\n\node (a1) at (1,1) {a1};\n\node (a2) at (2,1) {a2};\n\node (a3) at (3,1) {a3};\n\node (a4) at (4,1) {a4};\n\node (a5) at (5,1) {a5};\n\node (a6) at (6,1) {a6};\n\node (a7) at (7,1) {a7};\n\node (a8) at (8,1) {a8};\n\node (a9) at (9,1) {a9};\n\node (a10) at (10,1) {a10};\n\node (a11) at (11,1) {a11};\n\node (a12) at (12,1) {a12};\n\n\\end{tikzpicture}",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What is the output of the given LATEX code?\n\n\\documentclass{article}\n\\begin{document}\nFirst document. This is a simple example, with no \nextra parameters or packages included.\n\\end{document}",
+    "output": "First document. This is a simple example, with no extra parameters or packages included.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should find a few LATEX templates appropriate for the task at hand and list the links to them.\n\nHomework Assignment",
+    "output": "There are many different LATEX templates available online. Some good ones to start with are:\n\n- https://www.latextemplates.com/\n- https://www.cs.uu.nl/wiki/LaTeX/Templates\n- https://www.math.niu.edu/~beachy/templates/latex.html",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a simple guide for uploading the bibliography database\n on Overleaf.",
+    "output": "1. Open Overleaf and create a new project.\n\n2. Click on the “Upload file” button at the top of the screen.\n\n3. Select the bibliography database file from your computer.\n\n4. Click on the “Open” button.\n\n5. The file will be uploaded and added to your project.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choose Spotify playlists that match the given mood. Provide a link to these playlists for easy access.\n\nFeeling Good",
+    "output": "https://open.spotify.com/user/spotify/playlist/37i9dQZFt4jB1IyffAhKfj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/playlist/2QnhvxKfQ8Aiuk2a4l4cwj?si=N-n5n4aMSkyWf4VLt8V1zA\n\nhttps://open.spotify.com/user/spotify/",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Curate a Spotify playlist based on the vibe. Publish this playlist as a song list.\n\nVibe: coding on weekend",
+    "output": "1) \"In the Zone\" by Britney Spears\n2) \"I Believe in a Thing Called Love\" by The Darkness\n3) \"Computer Love\" by Kraftwerk\n4) \"Crazy on You\" by Heart\n5) \"Technologic\" by Daft Punk\n6) \"Digital Love\" by Daft Punk\n7) \"She Blinded Me with Science\" by Thomas Dolby\n8) \"Science Fiction\" by The Bubblemen\n9) \"Electricity\" by Schneider TM\n10) \"Rockit\" by Herbie Hancock",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "How would you describe the meaning of this lyrics? Describe some of the metaphors.\n\nMy lover’s got humor\nShe’s the giggle at a funeral\nKnows everybody’s disapproval\nI should’ve worshipped her sooner",
+    "output": "This lyrics is about a woman who is in a relationship with a man who is very funny and knows how to make everyone laugh, even at a funeral. The woman should have worshipped her sooner.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest some Audiobooks for First-Time Listeners. You can attract them by choosing popular works.",
+    "output": "Harry Potter, The Hunger Games, The Bible",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the most popular podcasts.",
+    "output": "Serial, This American Life, The Moth, Radiolab, Freakonomics Radio, 99% Invisible, Invisibilia,TEDTalks, The Tim Ferriss Show",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should take the time to read the situation and problem carefully and give the best advice you can.\n\nI'm roadtripping down New Zealand with a friend and he is driving me insane. He hasn't enjoyed all the tours we've been on and doesn't want to chat about ANYTHING. We're a week into our trip and this is the quietest I've ever been when hanging out with another person as he rebuffs all my attempts at conversation. He wears his airpods in the car and around the accommodation - not that I've kept trying to talk to him. Honestly, he is bringing some seriously bad vibes to everything and it's ruining my trip.\nWe don't have anything booked in yet for the South Island, so I'm planning to ditch him in Wellington at the ferry. Probably book my own car in Picton and just relax alone for the rest of the trip. (Just thinking about it is such sharp relief that it makes me feel emotional. I'll pay whatever price I have to just to get away from him.)\nObviously telling him he is ruining my trip with his negative energy isn't the best way to approach this.\nAny advice for the best approach so we can split amicably? Or at least not have an argument that ends with very hurt feelings?",
+    "output": "Your friend is wearing his airpods around the accommodation and in the car, which suggests that he is not interested in talking to you. He has not enjoyed the tours you have been on, and he does not want to chat about anything. This is the quietest you have ever been when hanging out with him.\n\nYou should tell your friend that you are not enjoying your trip because of his negative energy. You should also explain that you would like to split amicably. If your friend does not want to talk to you, you can book your own car in Picton and relax alone for the rest of the trip.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a description that provides a set of facts or a scenario. It is up to you to craft a story from these facts and scenarios. The missing pieces must be filled in with imaginative but logical information.\n\nTen European football teams – the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and Wales – will participate in a season-long “OneLove” campaign promoting inclusion and opposing discrimination.",
+    "output": "The OneLove campaign was the brainchild of Dutch football team captain, Johan Cruyff. The idea was born out of Cruyff's frustration with the growing trend of discrimination in the sport. He believed that football could be a powerful tool for promoting inclusion and diversity, and he was determined to use his platform to make a difference.\n\nThe OneLove campaign kicked off with a friendly match between the Netherlands and England. The two teams put on an exciting show for the fans, with the Netherlands coming out victorious. After the match, the players from both teams gathered in the center of the pitch to hold a joint press conference.\n\n\"It is amazing to see so many players from different countries come together to promote inclusion,\" said England captain, Wayne Rooney. \"Football is a sport that brings people together, and I am proud to be a part of this campaign.\"\n\nThe other teams followed suit, holding joint press conferences and friendly matches in their home countries. The OneLove campaign quickly gained traction on social media, with fans from all over the world showing their support.\n\nThroughout the season, the teams participated in a number of awareness-raising activities. They marched in anti-discrimination parades, visited refugee camps, and hosted clinics for underprivileged children. The players also spoke out about the importance of inclusion in interviews and social media posts.\n\nAt the end of the season, the teams gathered for one final event – the OneLove Cup. This was a charity match that was played in honor of all the victims of discrimination. All proceeds from the match went to charity.\n\nThe OneLove campaign was a huge success, and it showed the world that football can be a powerful tool for promoting inclusion and diversity.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the given query, suggest some related search queries.\n\nlearning french",
+    "output": "french learning\nlearn french online\nfrench classes\nfrench lessons",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please suggest a few papers to consider based on the search term given. The names of the papers should be listed.\n\nTopic: scaling law + machine learning",
+    "output": "1. \"Scaling Laws for Machine Learning\" by Erik D. Demaine, MohammadTaghi Hajiaghayi, and Mohammad S. Obaidat.\n\n2. \"Scaling Laws in Machine Learning\" by Yoshua Bengio, Pascal Vincent, and Ilias Diakonikolas.\n\n3. \"Scaling in Deep Learning\" by Yoshua Bengio, Geoffrey Hinton, and Rémi Lamontagne.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Prepare an email signature template for the given person or company.\n\na graduate student of computer science",
+    "output": "Hi! I'm a graduate student of computer science.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "React properly to reviews from your customers. In your responses, you can highlight your business' policies and customer service.\n\nAnother repeat visit and no disappointment from us. Great place for breakfast or brunch - and you won't need to eat again for awhile. The restaurant is close to the Tenderloin so be aware of your surroundings.\nWe enjoyed the Succotash Omelet (at least my wife enjoyed it), the Pulled Pork Benedict and the Hangtown Fry. Portions are large and pricing is fair. I wish we could have managed a Beignet Flight!\nDefinitely a spot to seek out. It can be crowed at times so be patient. Well worth any wait.",
+    "output": "Thank you for your kind words, and we're glad you enjoyed your experience at our restaurant. Our food is made fresh to order, and we hope you'll visit us again soon. Our location in the Tenderloin district can be busy at times, but we think it's worth the wait. Thank you for your patronage!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a good Twitter Bio. Try to cover all the provided main points in your generated bio.\n\nName: Jane\nMain points:\n- Architect\n- Interested in Tech\nWritten in first person\nUse casual tone",
+    "output": "Hi, I'm Jane! I'm an architect and I'm interested in tech. I like to keep up with the latest trends and share my thoughts on Twitter.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We need to write a thematic tweet to share company news and facts. Please take a careful look at the facts and details provided and create a tweet based on them.\n\n- news: Applications for summer internships are open now\n- Start with a thematic tie-in to Halloween",
+    "output": "Looking for a summer internship? Our applications are now open! \n#HappyHalloween",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company.\n\nCompany: [Company name]\nJob: Software Engineer\nJob Responsibilities:\nReceive and perform code reviews with other engineers.\nWrite unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\nWork collaboratively with fellow software engineers to build features requested by business stakeholders.\nParticipate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nDiagnose, debug, and perform root cause analysis of issues and defects.\nSkills and experience that will lead to success:\nExperience with a modern software programming language. We use Python, and Pyspark extensively.\nExperience with cloud systems like AWS or Azure\nExperience writing SQL queries \nStrong written and verbal communication skills\nEagerness to work in a highly-collaborative environment\nSome visualization experience such as Tableau or PowerBI is helpful",
+    "output": "The Software Engineer will be responsible for receiving and performing code reviews with other engineers, writing unit, integration, and end-to-end tests to verify functionality, and working collaboratively with fellow software engineers to build features requested by business stakeholders. Additionally, the Software Engineer will be responsible for participating in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark. They will also be responsible for diagnosing, debugging, and performing root cause analysis of issues and defects. The ideal candidate will have experience with a modern software programming language, experience with cloud systems like AWS or Azure, experience writing SQL queries, and strong written and verbal communication skills.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Considering the reason for the rejection, write a polite rejection letter for rejecting a candidate.\n\nReason: You came in second",
+    "output": "Dear Candidate,\n\nThank you for your interest in the open position. After careful consideration, we have decided to pursue other candidates. We appreciate your time and effort and wish you all the best in your job search.\n\nSincerely,\n[Your Name]",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We've already decided on the title and topic for our blog post. I would appreciate it if you wrote an introduction paragraph to attract the readers' attention.\n\nBlog title: Healthy Apple Muffins\nBlog Topic: recipe and tips for cooking a good apple muffin",
+    "output": "Winter is a time for comfort food. And what could be more comforting than a warm, delicious apple muffin? This recipe is simple to follow and produces a muffin that is both healthy and tasty.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design an outline for a blog post based on the given information and list the sections accordingly.\n\nThis blog post is going to about making a list of last-minute gift ideas. Also, the tone of the post is going to be relaxed and casual.",
+    "output": "1. Introduction\n2. The Gift of Time\n3. Experiences\n4. Local and Small Businesses\n5. Digital Gifts\n6. Wrap It Up!\n7. Conclusion",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a section for a blog post and try to cover all of the provided information about this section in your text.\n\nBlog Topic: 7 Fall Fashion Trends Worth Taking on Your Trip\nSection Title: Trusty Jeans\nMain point of the section: jeans can be worn all year and look good with everything .",
+    "output": "Jeans are a trusty piece to have in your wardrobe and can be styled a number of different ways to look good with everything. For fall, some great jeans styles to try include:\n\n- Dark wash jeans: A classic look that can be dressed up or down.\n- Cropped jeans: A trendy style that shows off your shoes and ankles.\n- Skinny jeans: A figure-flattering style that can be dressed up or down.\n- Boyfriend jeans: A relaxed, slouchy style that looks great with a T-shirt or blazer.\n\nNo matter what style of jeans you choose, make sure to pick a pair that fits well and feels comfortable. Jeans that are too tight or too loose can be unflattering and uncomfortable.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a detailed caption for an Instagram post about a discount. A proper caption should explain the product, offer the discount, and tell the user how to claim it.\n\nProduct: Golang course\nProduct description: teaching the foundational skills for building cloud services, web applications, DevOps tools, and backend development\nDiscount: 50%\nHow to claim: Use the coupon code: GOLANG",
+    "output": "Learn the foundational skills for building cloud services, web applications, DevOps tools, and backend development with our Golang course, now available with a 50% discount. Just use the coupon code: GOLANG.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a captivating Instagram caption based on the provided details. Try to think of as many captions as you can.\n\nI am sharing images of the first snow of the year taken from a window in an office",
+    "output": "1. \"First snow of the year, and it's a beaut!\"\n2. \"Finally, some winter weather!\"\n3. \"Snow day, finally!\"\n4. \"Winter has arrived!\"\n5. \"Can't wait to go outside and play in the snow!\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a topic for an Instagram post. Help the post reach a broader audience by suggesting hashtags related to the post.\n\nAnother episode of women in science is out now",
+    "output": "#WomenInScience #Science #STEM",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Use appropriate emojis to convey the meaning in the given text.\n\nCute cat\nplayful\nSoft",
+    "output": "A cute cat is playing around. It's so soft!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The topic of a YouTube post has been described and based on the information, you need to write a hook for starting the post. A catchy hook will keep your readers interested so they keep reading. It would be great if you could come up with as many hooks as you can.\n\nA video showing how to make a tasty cup of coffee",
+    "output": "1. Learn how to make your morning cup of coffee even better with this easy tutorial.\n2. Add a little flavor to your coffee routine with this simple recipe.\n3. Give your tired morning routine a boost with this delicious coffee recipe.\n4. Wake up and smell the coffee with this simple tutorial.\n5. Get your day started off right with this easy coffee recipe.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using the provided topic as a starting point, brainstorm ideas for videos that can be made about it on YouTube.\n\nIn spite of the fact that procrastination feels bad to you, why do you do it?",
+    "output": "1) \"The Science of Procrastination: Why We Do It and How to Stop\" \n2) \"The Psychology of Procrastination: How to Overcome It and Get Things Done\" \n3) \"The Art of Procrastination: How to Use It to Your Advantage\" \n4) \"How to Stop Procrastinating: Tips and Tricks That Actually Work\" \n5) \"The Top 10 Causes of Procrastination and How to Overcome Them\" \n6) \"The Worst Effects of Procrastination and How to Avoid Them\" \n7) \"How to Turn Procrastination into Productivity: A Guide for Students\" \n8) \"How to Turn Procrastination into Productivity: A Guide for Professionals\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should choose a YouTube video title based on the video's content. A video's title tells viewers what to expect from it. It should be direct, honest, and clear. The title of the video needs to capture the attention of viewers, so do not use an unclear or ambiguous one.\n\nA research study has been conducted to determine if exercise really can \"boost\" your metabolism.",
+    "output": "\"Can Exercise Really Boost Your Metabolism?\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choosing a name for your product or business YouTube channel is an important part of the process. Based on the description of the product or business, you should come up with some interesting names. Take some time to brainstorm your ideas.\n\nHere you will find videos and content that will help students prepare for the application process to graduate schools as well as how to apply to graduate schools",
+    "output": "Graduate School TV\n\nGraduate School TV: The Official Channel\n\nGraduate School TV: The Place to Get Ready for Grad School!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find the answer that best describes the underlined SAT word. Select the correct option and explain the meaning of the underlined word.\n\nDespite the _cacophony, the student tried to study. \nA. Loud sounds\nB. Difficult subject\nC. Late hour\nD. Low lighting",
+    "output": "A. Loud sounds",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find synonyms for the given word. You need to write down how the provided synonyms differ from the original word in terms of meaning, usage, etc.\n\nadversity",
+    "output": "Hardship, trial, difficulty.\n\nThe synonyms all have to do with difficulty, but hardship connotes a greater sense of difficulty or severity. Trial might suggest a legal context or a more formal setting. Difficulty can be the most general term of the three.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Discuss the origins and history of the word that has been given to you.\n\noblique",
+    "output": "The word \"oblique\" has its origins in the Latin word \"obliquus\", which means \"slanting\". It was first used in English in the early 15th century to describe a type of handwriting in which the letters are not written in a perfectly vertical line. The word \"oblique\" can also be used to describe something that is not straight or direct, such as an oblique angle.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give the provided brand a motto to use as a part of its marketing strategies.\n\nThe Ice cream shop is a small, quaint shop located in the heart of the historic district. They offer a variety of ice cream flavors, as well as Italian ice, gelato, and sorbet. The shop has a few tables and chairs, but most of their business is to-go. They offer a loyalty program where you can get a free scoop of ice cream after 10 purchases.",
+    "output": "\"We're not the biggest, but we're the best!\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A confirmation email should be written appropriately for the situation.\n\nA meeting has been scheduled, and the sender expects the other to review the slides.",
+    "output": "I hope that you had a chance to review the slides for our meeting tomorrow.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You need to write an email to negotiate your salary.",
+    "output": "Hello [Employer],\n\nI am writing to negotiate my salary for the upcoming year. I would like to request a salary increase of $5,000. I feel that I have been a valuable asset to the company, and I am confident that I will continue to be an asset in the future. I am available for further discussion if needed. Thank you for your time.\n\nSincerely,\n[Your Name]",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write an email to attendees as a reminder that the event is coming up.",
+    "output": "Hi everyone!\n\nJust wanted to remind you that the event is coming up soon! Make sure to mark your calendars and we'll see you there! :)",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "It would be helpful if you could suggest an acronym for the repository.\n\nA python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "output": "NISQ-circuit-framework",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a step-by-step guide for resolving GitHub merge conflicts.",
+    "output": "1. If the merge conflicts are caused by changes to the same line of code, decide which change to keep.\n\n2. Use a text editor to open the file that has the merge conflicts.\n\n3. Look for the markers that indicate where the merge conflicts are.\n\n4. Edit the file to resolve the merge conflicts.\n\n5. Save the file and exit the text editor.\n\n6. Re-run the merge command to merge the changes.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "One or more jobs can be run automatically by a workflow. The workflows are defined in the repository as YAML files and will run if an event occurs in the repository, as well as manually, or on a certain schedule.\nBring an example of a workflow that demonstrate the CI/CD features of GitHub Actions.",
+    "output": "This workflow demonstrates the CI/CD features of GitHub Actions. It will automatically run when an event occurs in the repository, as well as manually, or on a certain schedule.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The movie tagline is the film's advertising slogan, usually printed on posters prior to the official release. It is a short description or comment on a movie to capture the essence of the movie, and ultimately make you watch the movie. Here is an example:\n\nMovie: Joker (2019)",
+    "output": "\"He was the only one who could stop the Batman. And he did.\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given some reviews for a movie. Each video might have mentioned some negative or positive points about the movie. Read them carefully and extract the positive and negative points mentioned in all of the reviews. Then, make a list of these points and summarize them as positive points and negative points.\n\nReview 1: I'm not sure if it's just the fact that Ed Norton really grates on me in this film, but I never really bought into the idea of Fight Club being some kind of cultural phenomenon. Yes it's an innovative story, told via a strong script, engaging characters and intense cinematography. But is it really worthy of such high praise? Personally, I find it starts to fall apart halfway through and actually becomes quite tedious towards the end. Everything just becomes a little bit childish and contrived as the story loses touch with its base elements and the rage against the machine vibe takes over. I have huge respect for the way this film was made but, much like The Matrix, I feel like people attach way more importance to this movie than it deserves.\nReview 2: The film tells the story of men who cannot adapt to the social order in today's world, under the leadership of Tyler Durden, to discover their natural instinct, masculinity, and to escape from their unhappy lives.\nReview 3: Despite a good theme, great acting and important messages that this movie convey in an unorthodox way, I think it fails to connect the audience with the storyline and leaves him in a world of confusion. Although, majority of reviews find this movie entertaining and interesting, yet I would choose to be a minority that believes that this movie is extremely overrated.\nReview 4: Is creating chaos, explosions and membership in a militant sect the way to get rid of material shackles ?! The visual effects are fascinating and the story is compelling until the second half. Unfortunately, it doesn't end well.",
+    "output": "Positive points: \n-Strong script\n-Engaging characters\n-Intense cinematography\n-Creates a sense of unease\n-Messages are conveyed in an unorthodox way\n\nNegative points: \n-Becomes tedious in the second half\n-Loses touch with its base elements\n-Chaotic and contrived ending",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief summary of the movie or series' plot.\n\nBreaking Bad (TV Series 2008–2013)",
+    "output": "The series follows Walter White, a high school chemistry teacher who is diagnosed with lung cancer. He turns to a life of crime, producing and selling methamphetamine with a former student, Jesse Pinkman, to secure his family's financial future before he dies.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Decide whether children can watch the given movie. Mention what makes it inappropriate if you think they can't.\n\nThe Dark Knight (2008)",
+    "output": "Yes, the violence is appropriate for children.\n\nNo, the language is inappropriate for children.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a short analysis of the cinematography in the movie.\n\nDead Poets Society",
+    "output": "The cinematography in Dead Poet's Society is highly effective in creating an emotive and nostalgic atmosphere. The film is shot in a static, almost theatrical style, which emphasises the importance of the dialogue and characters. This creates a feeling of intimacy between the viewer and the characters, and allows the audience to become emotionally invested in the story. The use of natural light and soft focus also helps to create a dreamlike quality, enhancing the sense of nostalgia.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please let me know your thoughts on the given place and why you think it deserves to be visited.\n\nBarcelona, Spain",
+    "output": "I think that Barcelona deserves to be visited because it is such a beautiful and historic city. There is so much to see and do in Barcelona, and it is a great place to explore on foot. The architecture is stunning, and there are plenty of restaurants and bars to enjoy. Plus, the weather is usually pretty good, which makes it a great place to visit year-round.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Consider the best time of year to visit the given city, and provide your reasons for choosing that time.\n\nSydney, Australia",
+    "output": "January is the best time to visit Sydney because the weather is warm and sunny, making it a perfect time to enjoy the city's beaches and outdoor activities. Additionally, the city is less crowded than during the summer months, making it a more pleasant experience to explore all that Sydney has to offer.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a questionnaire to help hotel guests write hotel reviews.",
+    "output": "Please answer the following questions to help us write a review of your recent stay at our hotel.\n\n1. How was your check-in experience?\n\n2. How was your room?\n\n3. Was the room clean?\n\n4. Was the room comfortable?\n\n5. Was the room quiet?\n\n6. Was the room temperature comfortable?\n\n7. Did the room have a good view?\n\n8. Was the room adequately stocked with amenities?\n\n9. Was the staff polite and helpful?\n\n10. Was the price of the room worth it?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the top places in the U.S. to visit at the given time.\n\nNovember",
+    "output": "1. The Grand Canyon\n2. Disneyland\n3. The Statue of Liberty\n4. Times Square\n5. The Golden Gate Bridge",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Name the top cities in France that should not be missed. Include the best aspects of each place as well.",
+    "output": "1. Paris - The city is home to some of the most famous tourist attractions in the world, including the Eiffel Tower, the Louvre Museum, and Notre Dame Cathedral.\n2. Marseille - The largest city in France, Marseille is known for its beautiful beaches, rich history, and delicious food.\n3. Lyon - A cultural and historical center in France, Lyon is known for its art and architecture, as well as its delicious food.\n4. Bordeaux - A picturesque city on the banks of the Garonne River, Bordeaux is known for its wine industry and stunning architecture.\n5. Toulouse - The capital of the Occitanie region in France, Toulouse is known for its rich history and vibrant culture.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the following question.\n\nHow do I compare strings in Java?\nI've been using the == operator in my program to compare all my strings so far. However, I ran into a bug, changed one of them into .equals() instead, and it fixed the bug.\nIs == bad? When should it and should it not be used? What's the difference?",
+    "output": "No, == is not bad. It should be used when you want to compare the values of two variables. The difference is that == checks if the two variables are equal, while .equals() checks if the two variables are references to the same object.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why.\n\nIs there a way of reading one single character from the user input? For instance, they press one key at the terminal and it is returned (sort of like getch()). I know there's a function in Windows for it, but I'd like something that is cross-platform.\nAnswer 1: Here's a link to the ActiveState Recipes site that says how you can read a single character in Windows, Linux and OSX :\nhttps://code.activestate.com/recipes/134892/\nAnswer 2: if you just want to hold the screen so you can see the result on the terminal just write `input()` at the end of the code and it will hold the screen",
+    "output": "Answer 1 is correct.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given two questions. Check if they are duplicates.\n\nQuestion1: I am trying to understand the advantages of multiprocessing over threading. I know that multiprocessing gets around the Global Interpreter Lock, but what other advantages are there, and can threading not do the same thing?\nQuestion2: I am learning how to use the threading and the multiprocessing modules in Python to run certain operations in parallel and speed up my code.\nI am finding this hard (maybe because I don't have any theoretical background about it) to understand what the difference is between a threading.Thread() object and a multiprocessing.Process() one.\nAlso, it is not entirely clear to me how to instantiate a queue of jobs and having only 4 (for example) of them running in parallel, while the other wait for resources to free before being executed.\nI find the examples in the documentation clear, but not very exhaustive; as soon as I try to complicate things a bit, I receive a lot of weird errors (like a method that can't be pickled, and so on).\nSo, when should I use the threading and multiprocessing modules?\nCan you link me to some resources that explain the concepts behind these two modules and how to use them properly for complex tasks?",
+    "output": "Question1 and Question2 are not duplicates.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a programming problem related to the subject that has been given to you. Use some examples and constraints to improve your question.\n\nDynamic Programming",
+    "output": "Design a programming problem that asks the user to calculate the maximum value that can be achieved by a sequence of coin flips. Your program should ask the user to input the number of flips, and then calculate and output the maximum value that can be achieved.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a Java solution to the following problem.\n\nGiven an integer n, return true if it is a power of three. Otherwise, return false.\nAn integer n is a power of three, if there exists an integer x such that n == 3^x.\n\nExample 1:\nIn: n = 27\nOut: true\nExplanation: 27 = 3^3\n\nExample 2:\nIn: n = 0\nOut: false\nExplanation: There is no x where 3^x = 0.\n\nExample 3:\nIn: n = -1\nOut: false\nExplanation: There is no x where 3x = (-1).\n \nConstraints:\n-231 <= n <= 231 - 1\nFollow up: Could you solve it without loops/recursion?",
+    "output": "false",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of topics that are most common in classic interview questions for a job in computer science.",
+    "output": "-What experience do you have with coding languages?\n-What projects have you worked on in the past?\n-What is your understanding of algorithms and data structures?\n-How would you approach solving a problem you've never encountered before?\n-What do you think makes you a good fit for a computer science role?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will need to guide this person through the scenario they have described for the interview.\n\nFinally! After a while of shooting in the dark and frantically fiddling with sample inputs on the whiteboard, you've came up with an algorithm for solving the coding question your interviewer gave you.\nWhew. Such a relief to have a clear path forward. To not be flailing anymore.\nNow you're cruising, getting ready to code up your solution.\nWhen suddenly, your interviewer throws you a curve ball.\n\"What if we thought of the problem this way?\"\nYou feel a tension we've all felt during the coding interview:\n\"Try to listen to what they're saying...but don't lose your train of thought...ugh, I can't do both!\"",
+    "output": "First, take a deep breath and try to stay calm. It's okay if you don't know how to solve the problem the interviewer is proposing. This is your opportunity to show that you're able to think on your feet and come up with a solution.\n\nStart by asking for clarification on the new approach. Make sure you understand the problem fully before trying to solve it. Once you have a good understanding of the problem, start coding up a solution.\n\nIf you get stuck, don't be afraid to ask for help. The interviewer is there to help you, and they want to see how you think through problems. If you get stuck, take a step back and try to come up with a different approach.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;",
+    "output": "FirstName LastName City State\n\nJohn Doe Los Angeles CA\n\nJane Doe null null\n\nMary Smith San Francisco CA\n\nThe SQL query joins the Person and Address tables on the PersonId column. This query will return the first name, last name, city, and state for each person in the Person table, including those without an address in the Address table.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The given article should be checked for any scientific errors and corrected if necessary.\n\nZinc is an essential mineral that is required for good health. It is involved in many biochemical processes in the body and is necessary for the proper functioning of the immune system. Excess zink is not harmful as it is excreted in the urine.",
+    "output": "Zinc is an essential mineral that is required for good health. It is involved in many biochemical processes in the body and is necessary for the proper functioning of the immune system. Too much zinc can be harmful, as it is excreted in the urine.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Summarize the article you have been given in a brief manner.\n\nMathematics and art are related in a variety of ways. Mathematics has itself been described as an art motivated by beauty. Mathematics can be discerned in arts such as music, dance, painting, architecture, sculpture, and textiles. This article focuses, however, on mathematics in the visual arts.\nMathematics and art have a long historical relationship. Artists have used mathematics since the 4th century BC when the Greek sculptor Polykleitos wrote his Canon, prescribing proportions conjectured to have been based on the ratio 1:√2 for the ideal male nude. Persistent popular claims have been made for the use of the golden ratio in ancient art and architecture, without reliable evidence. In the Italian Renaissance, Luca Pacioli wrote the influential treatise De divina proportione (1509), illustrated with woodcuts by Leonardo da Vinci, on the use of the golden ratio in art. Another Italian painter, Piero della Francesca, developed Euclid's ideas on perspective in treatises such as De Prospectiva Pingendi, and in his paintings. The engraver Albrecht Dürer made many references to mathematics in his work Melencolia I. In modern times, the graphic artist M. C. Escher made intensive use of tessellation and hyperbolic geometry, with the help of the mathematician H. S. M. Coxeter, while the De Stijl movement led by Theo van Doesburg and Piet Mondrian explicitly embraced geometrical forms. Mathematics has inspired textile arts such as quilting, knitting, cross-stitch, crochet, embroidery, weaving, Turkish and other carpet-making, as well as kilim. In Islamic art, symmetries are evident in forms as varied as Persian girih and Moroccan zellige tilework, Mughal jali pierced stone screens, and widespread muqarnas vaulting.",
+    "output": "Mathematics and art have a long historical relationship. Artists have used mathematics since the 4th century BC when the Greek sculptor Polykleitos wrote his Canon, prescribing proportions conjectured to have been based on the ratio 1:√2 for the ideal male nude.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Improve the article using your knowledge of the topic in order to make it more informative.\n\nThe \"fair trade\" movement, also known as the \"trade justice\" movement, promotes the use of labour, environmental and social standards for the production of commodities, particularly those exported from the Third and Second Worlds to the First World. Such ideas have also sparked a debate on whether trade itself should be codified as a human right.",
+    "output": "The \"fair trade\" movement, also known as the \"trade justice\" movement, promotes the use of labour, environmental and social standards for the production of commodities, particularly those exported from the Third and Second Worlds to the First World. Such ideas have also sparked a debate on whether trade itself should be codified as a human right.\n\nThe \"fair trade\" movement, also known as the \"trade justice\" movement, seeks to ensure that the production of commodities, particularly those exported from the Third and Second Worlds to the First World, meets certain labour, environmental and social standards. The movement has also sparked a debate on whether trade itself should be codified as a human right.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make the article available in a second language by translating it into it.\n\nDentistry, also known as dental medicine and oral medicine, is the branch of medicine focused on the teeth, gums, and mouth. It consists of the study, diagnosis, prevention, management, and treatment of diseases, disorders, and conditions of the mouth, most commonly focused on dentition (the development and arrangement of teeth) as well as the oral mucosa. Dentistry may also encompass other aspects of the craniofacial complex including the temporomandibular joint. The practitioner is called a dentist.\nTranslate to French:",
+    "output": "La dentisterie, également connue sous le nom de médecine dentaire et de médecine orale, est la branche de la médecine axée sur les dents, les gencives et la bouche. Elle consiste en l'étude, le diagnostic, la prévention, la gestion et le traitement des maladies, des troubles et des conditions de la bouche, principalement axés sur la dentition (le développement et l'agencement des dents) ainsi que sur la muqueuse orale. La dentisterie peut également englober d'autres aspects du complexe crânio-facial, y compris l'articulation temporomandibulaire. Le praticien est appelé dentiste.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "An evaluation of the article's quality should be carried out. In order to do so, you should review the quality of the writing and the explanation of the topic.\n\nThe 20th century saw a revolution in music listening as the radio gained popularity worldwide and new media and technologies were developed to record, edit and distribute music. Music performances became increasingly visual with the broadcast and recording of performances.\n20th-century music brought new freedom and wide experimentation with new musical styles and forms that challenged the accepted rules of music of earlier periods. The invention of musical amplification and electronic instruments, especially the synthesizer, in the mid-20th century revolutionized classical and popular music, and accelerated the development of new forms of music.",
+    "output": "The quality of the article is good. The author explains the topic in a clear and concise way.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please answer the following question based on the information provided in the article.\n\nDevelopment studies is an interdisciplinary branch of social science. Development studies is offered as a specialized master's degree in a number of reputed universities around the world. It has grown in popularity as a subject of study since the early 1990s, and has been most widely taught and researched in developing countries and countries with a colonial history, such as the UK, where the discipline originated.  Students of development studies often choose careers in international organisations such as the United Nations, World Bank, non-governmental organisations (NGOs), media and journalism houses, private sector development consultancy firms, corporate social responsibility (CSR) bodies and research centers.\nWhat are some popular careers for students of development studies?",
+    "output": "The most popular careers for students of development studies are in international organisations such as the United Nations, World Bank, non-governmental organisations (NGOs), media and journalism houses, private sector development consultancy firms, corporate social responsibility (CSR) bodies and research centres.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.\n\nProgramming for Everybody (Getting Started with Python)",
+    "output": "This course is designed to help students get started with the Python programming language. The syllabus will cover the basics of Python, including how to write and run programs, data types, control flow, and functions.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List the personality traits that are required to be successful in the given job.\n\nSocial Media Marketer",
+    "output": "Creativity, Critical Thinking, Communication, Collaboration, Time Management, Organization",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please list the courses that someone interested in the first course might like.\n\nBitcoin and Cryptocurrency Technologies",
+    "output": "Bitcoin and Cryptocurrency Technologies, Princeton University\nCryptocurrency, University of Nicosia\nBitcoin and Cryptocurrency, The Graduate Institute of International and Development Studies",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with the courses that one is supposed to take in order to be an expert in a given field.\n\nGraphic Design",
+    "output": "-Graphic Design I\n-Graphic Design II\n-Graphic Design III\n-Graphic Design IV\n-Graphic Design V\n-Graphic Design VI\n-Graphic Design VII\n-Graphic Design VIII\n-Graphic Design IX\n-Graphic Design X",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a daily itinerary based on the given information.\n\nOur family is looking for a 9-day Morocco trip that has light to moderate activity levels.",
+    "output": "Day 1: Arrive in Casablanca and explore the city.\n\nDay 2: Drive to Rabat and explore the city.\n\nDay 3: Drive to Chefchaouen and explore the city.\n\nDay 4: Drive to Fez and explore the city.\n\nDay 5: Drive to Marrakesh and explore the city.\n\nDay 6: Explore the Atlas Mountains.\n\nDay 7: Drive to Ouarzazate and explore the city.\n\nDay 8: Drive to Essaouira and explore the city.\n\nDay 9: Depart Essaouira for Casablanca.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give students tips on how to keep their nerves under control during class presentations.",
+    "output": "Some students find public speaking nerve-wracking. If you're one of them, here are a few tips to keep your nerves under control:\n\n1. Prepare, prepare, prepare. The more prepared you are, the less anxious you'll feel. Make sure you know your material inside and out.\n\n2. Visualize success. Imagine yourself giving a great presentation. See yourself confidently delivering your speech and fielding questions from the audience.\n\n3. Take deep breaths. When you feel your nerves start to get the best of you, take a few deep breaths to calm yourself down.\n\n4. Be positive. Remind yourself that you can do this. Believe in yourself and you'll be less likely to feel anxious.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You can easily make your holidays more eco-friendly by following these simple steps:",
+    "output": "1. Bring your own reusable shopping bags to the store.\n\n2. Bring your own water bottle and coffee mug to avoid using disposable cups.\n\n3. Recycle as much as possible.\n\n4. Try to avoid buying unnecessary items.\n\n5. Plant a tree or garden to help improve air quality.\n\n6. Educate yourself about eco-friendly living and share what you learn with others.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of an idea to help you win a challenge given to you. Write the steps you need to take to develop the idea as well.\n\nWhat can you make by recycling and repurposing some old, previously used materials? We want to see it!\nProjects must incorporate some kind of used materials - take that old used thing, and turn it into something new and different!\nE-waste is a huge problem. What can you make using old electronics and other salvageable electronic materials? \nWe have a special judges prize for our favorite Instructable that incorporates or is related to reusing e-waste.\nBe smart and be safe; note that potentially deadly projects (like Lichtenberg/fractal wood burning machines) will not be allowed to be published or submitted to this contest.",
+    "output": "1. Come up with an idea for a project that can be made using recycled or repurposed materials.\n\n2. Sketch out your idea and brainstorm what materials you will need to make it.\n\n3. Collect the materials needed for your project.\n\n4. Follow the instructions to make your project.\n\n5. Take pictures of your project and write a brief description of it.\n\n6. Submit your project to the Recycled/Repurposed Contest.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "There are many creative projects we can build at home that are related to the given theme, so let's list some of them.\n\nTheme: Circuits",
+    "output": "1. Create a simple circuit with a battery, light bulb, and switch.\n2. Make a more complex circuit with multiple light bulbs, switches, and batteries.\n3. Create a circuit with a motor that powers a fan or other gadget.\n4. Build a working electronic game, like Tetris or Pac-Man.\n5. Construct a simple robot that can move around a room.\n6. Create a working lamp with a unique design.\n7. Build a sound machine that plays your favorite songs.\n8. Make a kinetic sculpture that moves when you touch it.\n9. Construct a model of a famous landmark or building.\n10. Create a working computer using recycled materials.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the materials that will be required to build the given tool.\n\nCoffee Darkness Meter",
+    "output": "A list of the materials that will be required to build the given tool.\n\n-A coffee mug\n-A light source\n-A dark room",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a detailed explanation of the steps that are required in order to construct the given project.\n\nSteam Engine Using an Empty Beer Can",
+    "output": "The first step is to remove the top of the beer can. Then, cut a hole in the side of the can and cut a small flap in the top of the hole. Next, use a nail to make a hole in the center of the flap. Finally, use a wire to poke through the holes in the can and twist the wire around a screwdriver to create a handle.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Estimate the cost of supplies required to create the given project and calculate the total cost.\n\nDIY Water Chiller\nRequired items are: Ice-maker, Icebox/cooler, Temperature regulator, Aquarium pump x2, 12V power supply",
+    "output": "Approximate cost of supplies is $370. The total cost of this project would be $370.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the following literature question as accurately as possible based on your knowledge of literature for high school students.\n\nWhat does the green light symbolize at the end of the book?",
+    "output": "The green light at the end of the book symbolizes hope and opportunity.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Develop a mental exercise that can help people manage their anxiety and explain how it works.",
+    "output": "One mental exercise that can help people manage their anxiety is to picture themselves in a calm and safe place. This can help people to relax and manage their anxiety. Another exercise that can be helpful is to focus on your breath. Focusing on your breath can help to center you and calm your mind.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give me an idea of the mental exercises you do to inspire yourself.",
+    "output": "Some mental exercises that can help inspire someone are visualization exercises, positive affirmations, and goal setting. Visualization exercises involve picturing oneself achieving one's goals or dreams. Positive affirmations involve repeating positive statements to oneself such as, \"I am capable of achieving anything I set my mind to.\" Goal setting involves writing down one's goals and then taking specific steps to achieve them.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of outdoor activities that are suitable for the given weather condition.\n\nTemperature: 57 F, Showers",
+    "output": "- Hiking\n- Biking\n- Bird watching\n- Fishing\n- Gardening\n- Picnicking\n- Playing with a dog\n- Playing Frisbee\n- Reading a book",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please provide us with a list of the best conservation starter questions related to the weather.",
+    "output": "1. What effects does weather have on conservation efforts?\n2. How can weather be used to optimize conservation efforts?\n3. What are the benefits of using weather data in conservation?\n4. What are some of the challenges associated with using weather data in conservation?\n5. What are some of the advantages and disadvantages of using weather forecasts in conservation?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "In relation to the given weather scenario, give some tips on how to adjust the travel plans with it.\n\na sudden temperature change",
+    "output": "When travelling, it is important to be aware of the weather conditions and plan accordingly. If there is a sudden temperature change, it may be necessary to adjust travel plans. For example, if it is hot outside and the temperature suddenly drops, it may be necessary to bring a coat or jacket. Additionally, if it is raining or snowing, it may be necessary to bring an umbrella or raincoat. By being prepared for different weather conditions, travellers can ensure that their trip goes as smoothly as possible.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a to-do list based on the given information.\n\nDaily tasks in the pharmacy",
+    "output": "-Check inventory\n-Order inventory\n-Handle customer inquiries\n-Fill prescriptions\n-Label prescriptions\n-Restock shelves\n-Clean pharmacy",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a template table for keeping track of all subscriptions.",
+    "output": "Name:\n\nDescription:\n\nPrice:\n\nEnd Date:",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Plan an agenda for the daily standup meetings. Assign a time duration to each topic on the agenda.",
+    "output": "1. Introduction (5 minutes)\n\n2. What we did yesterday (10 minutes)\n\n3. What we plan to do today (10 minutes)\n\n4. Blockers/issues (5 minutes)\n\n5. Wrap-up (5 minutes)",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the following question.\n\nHow do you say \"good evening\" in French.",
+    "output": "Bonsoir",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "What sound does this make?\n\n好",
+    "output": "The sound \"好\" is pronounced like the English word \"hah-ow\".",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a grammar tip on how to end a German verb.",
+    "output": "In order to end a German verb, you need to add the appropriate ending for the subject pronoun and tense. For example, if you want to say \"I am writing,\" you would add -e to the verb, as in \"Ich schreibe.\" If you want to say \"I wrote,\" you would add -te, as in \"Ich schrieb.\" There are different endings for each tense and subject pronoun, so be sure to look up the correct endings in a German verb conjugation chart.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "This is a test for the reading ability of French. Read the given story carefully, and then answer the question in the end.\n\nLucie est à la maison avec sa petite-fille, Lin.\nLucie: Oh, non! Nous n'avons pas de pain!\nLin: Ah! Tu vas au supermarché?\nLucie: Oui, je veux une baguette pour mon sandwich.\nDo Lin and Lucie have a lot of bread?",
+    "output": "No, they do not have a lot of bread.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with healthy and easy dinner ideas for weeknights.",
+    "output": "- Grilled chicken and vegetables\n\n- Veggie stir-fry\n\n- Quinoa bowl with grilled vegetables\n\n- Salad with grilled chicken or salmon\n\n- Black bean burger with side of vegetables\n\n- Homemade pizza with lots of vegetables",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a cooking hack for improving the flavor of the given food.\n\npopcorn",
+    "output": "One way to improve the flavor of popcorn is to add a little bit of olive oil to the pot before adding the kernels. This will help to keep them from sticking to the pot and will also add a bit of flavor.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of snacks and foods to serve as party snacks on a game day!",
+    "output": "-Chex Mix\n-Popcorn\n-Pretzels\n-Chips and salsa\n-Nachos\n-Dips (salsa, guacamole, etc.)\n-Hummus\n-Fruit\n-Vegetables",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Describe how to prepare the given food in your own words. Note down the ingredients you will need and the steps you will take to prepare them.\n\nChewy Chocolate Chip Cookies",
+    "output": "Ingredients:\n\n1 cup (2 sticks) unsalted butter, at room temperature\n1 cup granulated sugar\n2 large eggs\n1 teaspoon pure vanilla extract\n2 cups all-purpose flour\n1 teaspoon baking powder\n1/2 teaspoon baking soda\n1/2 teaspoon salt\n2 cups semisweet chocolate chips\n\nInstructions:\n\n1. Preheat oven to 350°F. Line a baking sheet with parchment paper.\n\n2. In a bowl, cream butter and sugar together until light and fluffy. Beat in eggs, one at a time, then stir in vanilla. In another bowl, whisk together flour, baking powder, baking soda, and salt. Gradually add to butter mixture, mixing until just blended. Stir in chocolate chips.\n\n3. Drop dough by rounded tablespoons onto prepared baking sheet. Bake until cookies are golden brown, about 15 minutes. Cool on baking sheet for 5 minutes; transfer cookies to a wire rack to cool completely.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest a recipe for a vegan dessert.",
+    "output": "Vegan Chocolate Cake",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a medium-level sudoku puzzle.",
+    "output": "medium-level sudoku puzzle\n\n1. Fill in the grid so that every column, every row, and every 3x3 box contains the digits 1 through 9 exactly once.\n\n2. The digits in each 3x3 box will overlap.\n\n3. The digits in each column will not overlap.\n\n4. The digits in each row will not overlap.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Solve the given Sudoku puzzle.\n\nThe Sudoku puzzle is:\n|1|  |5|  |  |  |  |8|  |\n|  |  |  |  |  |3|  |6|4|\n|8|3|4|6|7|  |9|  |  |\n|2|9|1|  |  |8|3|7|6|\n|  |  |6|  |  |9|8|1|  |\n|  |  |  |  |  |2|  |  |  |\n|  |2|  |  |9|7|6|  |  |\n|5|4|  |  |  |  |  |9|8|\n|6|1|  |  |  |5|4|3|7|",
+    "output": "1 5\n8 3\n6 4\n9 7\n2\n5 4\n3 7\n1 6\n8 9\n2 3\n7 6\n9 5\n4 1\n3 2\n6 8\n7 9\n5 1\n2 4",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Think of a motivational quote that you have read in a book. Try to keep it positive and sweet.",
+    "output": "\"When you want something, all the universe conspires in helping you to achieve it.\"-Paulo Coelho",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choose the best books from the given genre.\n\nCrime & Mystery",
+    "output": "1. Gone Girl by Gillian Flynn\n2. Big Little Lies by Liane Moriarty\n3. The Girl with the Dragon Tattoo by Stieg Larsson\n4. The Da Vinci Code by Dan Brown\n5. In Cold Blood by Truman Capote",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief description of the book that you are given.\n\nMatilda",
+    "output": "Matilda is a story about a young girl who is incredibly intelligent and has a love for learning. Despite being mistreated by her family, she manages to find happiness in her own unique way.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "In the event that a person enjoyed the book that was given, please suggest other books that they might also like.\n\nThe Great Gatsby",
+    "output": "1984\nThe Catcher in the Rye\nTo Kill a Mockingbird",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Indicate the genre of the book to which it belongs.\n\nLove in the Time of Cholera",
+    "output": "Novel",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Solve this equation.\n\nx^3 - 4x^2 + 6x - 24 = 0",
+    "output": "The equation has three roots, which are \n-2, \n2, and \n6.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Prove the given statement using your information.\n\n\"If x is a positive integer or a solution to x+3>4, then x>0 and x>12.\"",
+    "output": "We can use the definition of an inequality to show that the given statement is true. For x to be a positive integer or a solution to x+3>4, x must be greater than or equal to 0 and less than or equal to 12. Therefore, the given statement is true.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the facts that have been provided, prove the following statement.\n\nStatement: \"For every integer k, k^2 + 2k + 1 ≥ 0\"\nFact: The square of any real number is non-negative.",
+    "output": "Proof:\n\nFor every integer k, k^2 + 2k + 1 ≥ 0.\n\nWe'll prove this by induction.\n\nBase case: k = 0\n\nk^2 + 2k + 1 = 0 + 2k + 1 = 1\n\nSince 1 is a positive number, the statement is true for k = 0.\n\nInductive step: Assume the statement is true for some k, and show that it's also true for k+1.\n\nk^2 + 2k + 1 = (k+1)^2 + 2(k+1) + 1\n\nk^2 + 2k + 1 ≥ (k+1)^2 + 2k + 2\n\nk^2 + 2k + 1 ≥ 0",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Verify the correctness of the given statement.\n\n\"For all integers j and k, if j and k are odd, then jk is odd.\"",
+    "output": "True",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a formula for computing the nth term in the given sequence\n\n5, 14, 23, 32, 41, ...",
+    "output": "The nth term in the given sequence is computed using the formula:\n\nt n = t 0 + n(d)\n\nwhere t 0 is the first term in the sequence, t n is the nth term in the sequence, and d is the difference between consecutive terms in the sequence.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a table listing all games that meet the specified criteria in the National Football League. Use the season, local time, game, and score as columns of the table.\n\nRavens home games in 2011",
+    "output": "Season, Local Time, Game, Score\n2011, 1:00 PM, Ravens vs. Steelers, 13-10\n2011, 8:20 PM, Ravens vs. Texans, 20-13\n2011, 4:15 PM, Ravens vs. Bengals, 31-24\n2011, 1:00 PM, Ravens vs. Colts, 24-9\n2011, 8:30 PM, Ravens vs. Cowboys, 31-29\n2011, 4:15 PM, Ravens vs. Jaguars, 12-7\n2011, 8:20 PM, Ravens vs. Chargers, 22-17\n2011, 1:00 PM, Ravens vs. Titans, 24-10\n2011, 8:30 PM, Ravens vs. Patriots, 31-34",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using a table, compare the career overviews of the given players in Major League Baseball. Use \"|\" for separating the columns in the table.\n\nDerek Jeter, Albert Pujols",
+    "output": "Derek Jeter | Albert Pujols\n\n-Shortstop for the New York Yankees\n-3-time Gold Glove winner\n-5-time Silver Slugger winner\n-14-time All-Star\n-5-time World Series champion\n-1,311 hits\n-.310 batting average\n\n-First baseman for the Los Angeles Angels of Anaheim\n-3-time Gold Glove winner\n-10-time Silver Slugger winner\n-3-time MVP\n-14-time All-Star\n-1-time World Series champion\n-2,959 hits\n-.312 batting average",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will be tested on your knowledge of classic witticisms and aphorisms by completing the given aphorism. Write the original quote as the answer.\n\ntwo things are infinite",
+    "output": "\"The universe and human stupidity are both infinite.\" -Albert Einstein",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A list of all movies that meet the criteria given should be compiled.\n\nmovies directed by Spike Lee by release date",
+    "output": "Do the Right Thing\nShe's Gotta Have It\nSchool Daze\nMalcolm X\nCrooklyn\nClockers\nHe Got Game\nSummer of Sam\n25th Hour\nInside Man\nDo the Right Thing\nShe's Gotta Have It\nSchool Daze\nMalcolm X\nCrooklyn\nClockers\nHe Got Game\nSummer of Sam\n25th Hour\nInside Man",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using a given amount, determine an appropriate tip.\n\n14% tip on $47.50",
+    "output": "$6.51",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Identify all words that match the pattern given.\n\nH_AR_",
+    "output": "Hard, hear, hair",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with words that rhyme with the given word.\n\ninstruct",
+    "output": "distract, protect, inspect, neglect",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Look for poems that mention the given object or character. The names of the poems and their poets should be written.\n\nsanta claus",
+    "output": "\"A Visit from St. Nicholas\" by Clement Clarke Moore\n\"Santa Claus Is Coming to Town\" by Haven Gillespie and J. Fred Coots\n\"Rudolph the Red-Nosed Reindeer\" by Robert L. May\n\"Frosty the Snowman\" by Steve Nelson and Jack Rollins",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Respond to the last text in the chat using the correct emojis to convey your feelings.\n\n+ Hey, how did your exams go?\n- They were alright. I'm just glad they're over.\n+ Yeah, I know how you feel. I'm just glad I don't have to worry about them anymore.",
+    "output": "+ Hey, how did your exams go?\n- They were alright. I'm just glad they're over.\n+ Yeah, I know how you feel. I'm just glad I don't have to worry about them anymore.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "For answering the chat, think of a funny response you can use.\n\n+ how are you?",
+    "output": "I'm doing well, thanks for asking! How about you?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The last message in the chat is a partial response. You should complete and rewrite it.\n\n+ What are going to do now?\n- I don't know. I had to give up my dream of being a mathematician.\n+ Why",
+    "output": "I don't know. I had to give up my dream of being a mathematician because I can't do math.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Change the response to have a more empathic tone in the chat.\n\n+ How are you doing?\n- Fine, I had a bunch of problems today.\n+ What kind of problems?",
+    "output": "+ How are you doing today?\n- Fine, I had a bunch of problems today.\n+ What kind of problems?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Currently, there is a chat in which people are arranging a meeting in the future. Retrieve the meeting information from the conversation.\n\nPerson 1: Hey, when are you free? I'd like to meet up.\nPerson 2: I'm free tomorrow afternoon.\nPerson 1: Great, what time?\nPerson 2: How about 3 pm?\nPerson 1: I have another meeting at that time. what about 5 pm?\nPerson 2: That works. Where should we meet?\nPerson 1: How about the coffee shop on Main Street?\nPerson 2: Sounds good. I've heard they have great coffee there. See you tomorrow!",
+    "output": "The meeting will take place at the coffee shop on Main Street at 5 pm.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The given text must be classified as offensive or not offensive.\n\nYou acted really crazy last night.",
+    "output": "offensive",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief summary of the intention of the dialogue that just happened.\n\nCustomer: Hi there, I'm looking for a new phone.\nAI: Hi! What type of phone are you looking for?\nCustomer: I'm not sure. Maybe something with a good camera?\nAI: We have a few phones with great cameras. Would you like to see some options?\nCustomer: Yeah, that would be great.",
+    "output": "The customer is looking for a new phone and is unsure of what type to get. The AI recommends a few phones with great cameras and the customer decides on one.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Describe the content of the article in a brief manner.\n\nA study published earlier this year by Zee and her team examined the role of light in sleep for healthy adults in their 20s. Sleeping for only one night with a dim light, such as a TV set with the sound off, raised the blood sugar and heart rate of the young people during the sleep lab experiment. An elevated heart rate at night has been shown in prior studies to be a risk factor for future heart disease and early death, while higher blood sugar levels are a sign of insulin resistance, which can ultimately lead to type 2 diabetes.",
+    "output": "The study found that exposure to light during sleep raises blood sugar and heart rate. This could be a risk factor for heart disease and early death.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Correct the transcription of an excerpt containing errors.\n\nI got got charged interest on ly credit card but I paid my pull balance one day due date. I not missed a pavement year yet. Man you reverse the interest charge?",
+    "output": "I got charged interest on my credit card but I paid my full balance one day before the due date. I haven't missed a payment year yet. Can you reverse the interest charge?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Take a look at the contract and extract the parties of the agreement from it.\n\nAs of the 13th day of December 2021, this Music Recording Agreement (\"Agreement\") is made between Good Kid, a Toronto-based musical group (\"Artist\"), and Universal Music Group, a record label with license number 545345 (\"Record Label\"). The Artist and the Recording Label may be referred to in this Agreement individually as \"Parties\" and collectively as \"Parties.\" Work under this Agreement will begin on March 15, 2022, and will last for the duration of the Agreement.",
+    "output": "The parties of the agreement are the Artist and the Recording Label.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "On the basis of the subject of the email, determine whether the email should be treated as spam or not.\n\nDermatologists don't like her!",
+    "output": "The email should not be treated as spam.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Classify the tweet into one of the following three categories: event, demo, or news. Event is a happening, often social or public, that people attend or are aware of. Demo is a  public showing or presentation of something, typically to promote or advertise it. And, news is information about recent events or happenings, especially as reported by news media.\n\nUsing this tutorial, you can analyze and classify a user’s review as either positive or negative using sentiment analysis features in an existing Next.js app. We show you how to leverage language AI into your applications. Check it out ↓",
+    "output": "News",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give the news title a category. Pick a category from the list of News & Buzz, Travel, Style, Arts & Culture, Politics, Tech, and Science & Health.\n\nThe #Banksy Exhibit in Cambridge, MA is absolutely terrific.",
+    "output": "Arts & Culture",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Classify the questions in the FAQ into Finding policy details, Change account settings, Filing a claim and viewing status, or Cancelling coverage.\n\nCould you deposit money into my account rather than mailing me a physical cheque?",
+    "output": "Change account settings",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Choose an appealing title for your post.\n\nThe typical avocado is over 300 calories from the oil in it. That’s the amount of calories in a large candy bar. If you get enough exercise to eat a large candy bar every day without gaining weight, it wouldn’t be a problem to eat an avocado every day. Other wise you should probably eat them sparingly.",
+    "output": "The Truth About Avocados: Are They as Healthy as We Think?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give some examples of what people usually say in the given social situation.\n\nwhen someone arrives safely",
+    "output": "\"Welcome! We're glad you're here.\"\n\n\"You made it!\"\n\n\"I'm glad you're here.\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will be required to write a few questions from the given company's interview section.\n\nKohl's",
+    "output": "1. What inspired you to pursue a career at Kohl's?\n\n2. What do you think sets Kohl's apart from other retail stores?\n\n3. What do you think would be the biggest challenge facing Kohl's in the future?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the information provided, you need to estimate the average summary for the given job.\n\nData entry clerk in United States",
+    "output": "$21,600\n\nThe average salary for a data entry clerk in the United States is estimated to be $21,600.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Describe the responsibilities of the given job.\n\nSecurity Officer",
+    "output": "A security officer's responsibilities may vary depending on the organization they work for, but generally they are responsible for maintaining a safe and secure environment for employees and visitors, and for enforcing rules and regulations. They may be responsible for conducting security patrols, monitoring access points, and responding to alarms or incidents. They may also be responsible for providing customer service and providing directions or other information to visitors.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a list of the skills that may help you find the job.\n\nCrew Members",
+    "output": "- Ability to work as part of a team\n- Excellent communication skills\n- Punctual and reliable\n- Physically fit\n- Good attention to detail\n- Able to work under pressure\n- Flexible and adaptable",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Schedule the meetings based on the given informqation.\n\nPerson1: available from 9-11 am, meeting duration: 30 min \nPerson2: available from 1-3 pm, meeting duration: 90 min\nPerson3: available from 2-3:30 pm, meeting duration: 60 min",
+    "output": "Person 1: 9-11 am, 1-3 pm\nPerson 2: 1-3 pm, 2-3:30 pm\nPerson 3: 2-3:30 pm",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Find the directions between the given locations.\n\nFrom: Rowan Avenue Elementary School, 600 S Rowan Ave, Los Angeles, CA 90023, United States\nTo: Calvary Cemetery and Mortuary, 4201 Whittier Blvd, Los Angeles, CA 90023, United States",
+    "output": "Rowan Avenue Elementary School is located at: \n600 S Rowan Ave \nLos Angeles, CA 90023 \nUnited States \n\nCalvary Cemetery and Mortuary is located at: \n4201 Whittier Blvd \nLos Angeles, CA 90023 \nUnited States",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Give a brief explanation of the requested part of the paper.\n\nPaper: The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.\nExplain: The dominant sequence transduction models",
+    "output": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Answer the question about the paper after reading it carefully.\n\nTo evaluate if the Transformer can generalize to other tasks we performed experiments on English constituency parsing. This task presents specific challenges: the output is subject to strong structural constraints and is significantly longer than the input. Furthermore, RNN sequence-to-sequence models have not been able to attain state-of-the-art results in small-data regimes.\nQuestion: What is English constituency parsing?",
+    "output": "English constituency parsing is the task of identifying the syntactic constituents of a sentence.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Recommend some helpful activities or conversation starters to use at meetups to break the ice.",
+    "output": "1. Ask people about their favorite books, movies, or TV shows.\n\n2. Talk about your favorite places to travel.\n\n3. Share your favorite recipes.\n\n4. Talk about your hobbies and interests.\n\n5. Share your thoughts on current events.\n\n6. Talk about your favorite memories from childhood.\n\n7. Share your plans for the future.\n\n8. Talk about your experiences in college or graduate school.\n\n9. Share your thoughts on the current political landscape.\n\n10. Talk about your favorite pieces of art or music.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Convert the given HTML into Markdown format.\n\n<code>Use `code` in your Markdown file.</code>",
+    "output": "Use `code` in your Markdown file.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Extract the method that has been used in the research from the abstract of the paper. Give the exact sentences from the abstract that discuss the method.\n\nWe present a state-of-the-art speech recognition system developed using end-to-end deep learning. Our architecture is significantly simpler than traditional speech systems, which rely on laboriously engineered processing pipelines; these traditional systems also tend to perform poorly when used in noisy environments. In contrast, our system does not need hand-designed components to model background noise, reverberation, or speaker variation, but instead directly learns a function that is robust to such effects. We do not need a phoneme dictionary, nor even the concept of a \"phoneme.\" Key to our approach is a well-optimized RNN training system that uses multiple GPUs, as well as a set of novel data synthesis techniques that allow us to efficiently obtain a large amount of varied data for training. Our system, called Deep Speech, outperforms previously published results on the widely studied Switchboard Hub5'00, achieving 16.0% error on the full test set. Deep Speech also handles challenging noisy environments better than widely used, state-of-the-art commercial speech systems.Collapse",
+    "output": "\"We present a state-of-the-art speech recognition system developed using end-to-end deep learning.\"\n\"In contrast, our system does not need hand-designed components to model background noise, reverberation, or speaker variation, but instead directly learns a function that is robust to such effects.\"\n\"We do not need a phoneme dictionary, nor even the concept of a \"phoneme.\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You need to come up with the names of some of the papers that relate to the paper you are given.\n\nRoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering",
+    "output": "1. RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering\n2. RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering – Evaluation and Results\n3. RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering – Discussion",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a short, concise summary of the paper based on its abstract.\n\nFew-shot learning (FSL) is one of the key future steps in machine learning and raises a lot of attention. In this paper, we focus on the FSL problem of dialogue understanding, which contains two closely related tasks: intent detection and slot filling. Dialogue understanding has been proven to benefit a lot from jointly learning the two sub-tasks. However, such joint learning becomes challenging in the few-shot scenarios: on the one hand, the sparsity of samples greatly magnifies the difficulty of modeling the connection between the two tasks; on the other hand, how to jointly learn multiple tasks in the few-shot setting is still less investigated. In response to this, we introduce FewJoint, the first FSL benchmark for joint dialogue understanding. FewJoint provides a new corpus with 59 different dialogue domains from real industrial API and a code platform to ease FSL experiment set-up, which are expected to advance the research of this field. Further, we find that insufficient performance of the few-shot setting often leads to noisy sharing between two sub-task and disturbs joint learning. To tackle this, we guide slot with explicit intent information and propose a novel trust gating mechanism that blocks low-confidence intent information to ensure high quality sharing. Besides, we introduce a Reptile-based meta-learning strategy to achieve better generalization in unseen few-shot domains. In the experiments, the proposed method brings significant improvements on two datasets and achieve new state-of-the-art performance.",
+    "output": "This paper presents a new benchmark dataset and methodology for joint dialogue understanding in the few-shot learning setting. The proposed approach achieves state-of-the-art performance on two datasets.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You will need to compose the ABC notation for a given song.\n\nThe South Wind",
+    "output": "D-A-D-F#-A\nD-A-D-F#-A\nG-B-D-G-B-D",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Categorize the given magazine based on its content into one of the categories: Politics, Entertainment News, Tech News, Business News, Parenting & Kids, Health & Healing, Cooking, Food & Wine, and Arts & Literature,\n\nInc.",
+    "output": "Business News",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Decide if the given email belongs to the Promotions or Social category.\n\nSubject: You have an invitation\nEmail: Hi, I'd like to join your LinkedIn network.",
+    "output": "Social",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "The story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.\n\n🧙‍♂️🚪📚🦅⚡",
+    "output": "The story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.\n\nThe story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Come up with an interesting idea for a new movie plot. Your plot should be described with a title and a summary.",
+    "output": "The Plot\n\n\"The Plot\" is a mystery thriller about a group of people who become trapped in a movie theater and must figure out the movie's plot in order to escape. As they try to unravel the mystery, they realize that the plot is more complicated than they thought and they may not be able to escape after all.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Change the first person to the third person in the given sentence. The meaning should be kept, but you can paraphrase it or expand it in order to have a better pose.\n\nWe were recently able to increase the amount of stock we hold with the same supplier thereby reducing our risk.",
+    "output": "They were recently able to increase the amount of stock they hold with the same supplier thereby reducing their risk.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You should capitalize the sentence according to the guide.\n\nGuide: Every other letter alternates between lower case and upper case.\nSentence: A giant spider blocks your path.",
+    "output": "A giant spider blocks your path.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create alliterations by finding synonyms for words in the given sentence.\n\nDavid wears a hat everyday.",
+    "output": "David wears a baseball cap every day.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Convert the given description to a bash command.\n\nread the first 10 lines from f",
+    "output": "head -10 f",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Please prepare a table containing a summary of the information of the participants at the conference.\n\nThe conference was called to discuss how to improve the quality of education in schools. The main speaker was Professor Crew Purdie (cpurdie@email.com), who spoke about the importance of setting high standards for students and teachers. He said that schools should be places where students can learn and be challenged. Other speakers included Teacher Oliver Malachi (oliver@email.com) and Parent Kolby Reese (kolbyreese82@email.com). The teacher talked about the need for teachers to be well-prepared and to have high expectations for their students. The parent spoke about the need for parents to be involved in their children's education. There was also a discussion about the importance of funding for schools.",
+    "output": "Conference on Improving the Quality of Education\n\nSpeaker: Professor Crew Purdie\nTopics: High standards for students and teachers, setting expectations, preparation of teachers, funding for schools\n\nParticipants:\n\nProfessor Crew Purdie\nOliver Malachi\nKolby Reese",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List the concepts that should be learned before approaching the given complex concept.\n\nDeep Learning",
+    "output": "- Machine learning\n- Neural networks\n- Data science\n- Probability and statistics\n- Linear algebra\n- Calculus",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Given a sentence that may be ambiguous, rewrite the sentence using less ambiguous words.\n\nThe chicken is ready to eat.",
+    "output": "The chicken is cooked and ready to eat.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Assess the sentiment of the given tweet and categorize it as Positive, Negative, or Neutral.\n\n\"This is the best cheat-sheet paper that I've found in a LONG time.\"",
+    "output": "Positive",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a Python command and are required to convert it into Ruby.\n\nprint(\"Hello World!\")",
+    "output": "puts \"Hello World!\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a sentence in first-order logic. Translate it into natural language.\n\n∃x∀y(soldier(x)→general(x,y))",
+    "output": "There is at least one soldier that is also a general.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a search query and a document. Classify whether the document is relevant to the search query or not relevant.\n\nSearch: why sky is blue\nDocument: The Short Answer: Sunlight reaches Earth's atmosphere and is scattered in all directions by all the gases and particles in the air. Blue light is scattered more than the other colors because it travels as shorter, smaller waves. This is why we see a blue sky most of the time.",
+    "output": "Relevant",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a list of subtopics for the given topic.\n\nMusic theory",
+    "output": "-Theory of scales\n-Theory of chords\n-Theory of melody\n-Theory of rhythm\n-Theory of harmony",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Summarize the movie in a snarky way. Try to explain the movie in just one sentence.\n\nThe Shining",
+    "output": "A family moves into a hotel to care for it during the winter, but the father slowly goes crazy and tries to kill them all.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Enter the words that satisfy the given condition.\n\n5 Countries that Start with S",
+    "output": "Spain, Sweden, Singapore, South Africa, Solomon Islands",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a name for the dish given the ingredients and instructions.\n\nINGREDIENTS:\n2 (5 oz) cans Bumble Bee® Solid White Albacore Tuna, drained\n1 avocado\n2 Tbsp Sriracha\n1 Tbsp Dijon mustard\n2 to 3 Tbsp celery, chopped\n2 Tbsp red onion, chopped\n2 green onions, chopped\n1 Tbsp fresh cilantro, chopped\nSalt and pepper, to taste\n2 heaping cups leafy green lettuce\n1 cup matchstick carrots\n4 (10 inch) whole wheat tortillas\nINSTRUCTIONS:\nIn a medium bowl, mash together tuna and avocado until combined. Add in the rest of the ingredients through the salt and pepper, mixing well.\nTo assemble, top each tortilla with a 1/2 cup leafy greens, 1/4 cup matchstick carrots and divide the tuna mixture evenly among the wraps. Tightly roll up the tortilla, slice and enjoy!",
+    "output": "Tuna Wrap",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Summarize a meeting from the given list of bullet points. Be sure to convert shorthand into a first-hand account.\n\nRose: Analyze data and presents findings\nJohn: propose new idea\nJane: appointed to head project\nTom: need more time to fix software bug",
+    "output": "At the meeting, Rose analyzed data and presented findings. John proposed a new idea. Jane was appointed to head a project. Tom said he needs more time to fix a software bug.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List a few popular songs from the given album.\n\nBack To Black",
+    "output": "\"Back to Black,\" \"Rehab,\" \"You Know I'm No Good.\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Invent a new word based on a description of the word.\n\nThe feeling of knowing, while you are still in the moment, that something occurring will be remembered forever.",
+    "output": "Luminosity",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Given a programming language and the name of a function, write a command to show how to use the function.\n\nLanguage: Python\nFunction: input",
+    "output": "# Given a programming language and the name of a function, write a command to show how to use the function.\n\ninput()\n\n# This function allows you to input data into a program.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide a pleasant compliment based on the quality you have been given.\n\nTruthfulness",
+    "output": "The quality you have been given is excellent.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a brief resume introduction using the following information.\n\nname: Mark\nnationality: Italian\nlanguage: English\nattributes: creative, goal-oriented, motivated\nskills: software engineering, content marketing",
+    "output": "I am an Italian software engineer and content marketer with a proven track record of success in both fields. I am creative, goal-oriented, and motivated, and I have the skills necessary to be successful in both software engineering and content marketing.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of adjectives that can be used to describe the given brand.\n\na creative tech startup",
+    "output": "innovative, clever, cutting-edge, new, fresh, inventive, ground-breaking, pioneering, original, creative",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Someone gives you some information about where they want to go and what they enjoy seeing and doing. Describe a proper road trip for them and find the best stops and sctivities in the way.\n\nI'm looking for a west coast road trip. My goal is to start near San Diego and travel to Los Angeles.",
+    "output": "A road trip along the west coast of the United States would be a great way to see some of the most beautiful scenery in the world. The trip would start near San Diego and travel north to Los Angeles. Along the way, there are plenty of great stops and activities to enjoy.\n\nSome of the highlights of the trip would include the beaches of San Diego, the wine country of California, the Hollywood Walk of Fame in Los Angeles, and the Golden Gate Bridge in San Francisco. There are also plenty of great small towns and villages to explore, such as Carmel-by-the-Sea and Solvang.\n\nThis is just a sampling of the great things that can be seen and done on a road trip along the west coast of the United States. There are endless possibilities for things to see and do, so be sure to explore and find what interests you the most.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Regex is a set of characters that define a search pattern. This kind of pattern is usually used by string-searching algorithms to find or replace strings or to validate inputs. Convert the natural english text to regex.\n\nMatch a valid ip address",
+    "output": "^(\\d{1,3})\\.(\\d{1,3})\\.(\\d{1,3})\\.(\\d{1,3})$",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write an engaging and well-written property listing description for selling a house. Address of the house and some of the details are given to you. Fill in the information gap with hallucinations if needed.\n\nProperty Address: 412 Monterey Ave, Capitola, CA 95010\nParking: 3 cars + a finished single car garage\nDetails:\n- open floorplan\n- window with views to park/mountains\n- Kitchen with shaker cabinetry and white Calcatta quartz counters",
+    "output": "This is your chance to own a piece of paradise. This is a rare opportunity to live in a property that feels like a vacation every day. From the street, you will see the inviting porch that leads to the open floorplan. Once inside, the natural light and views of the park and mountains will take your breath away. The kitchen features shaker cabinetry, white Calcatta quartz counters, and stainless appliances. The large bedroom has plenty of room for a king size bed and features a large window with views. There is also a finished single car garage and plenty of parking.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Given a real estate listing description, extract the information and details of the property from the text. The details consist of address, basic house attributes, etc.\n\nWALK TO THE BEACH FROM CAPITOLA KNOLLS! Single-level upstairs condo with your own large private deck overlooking nature. Adorable home that is move-in ready and waiting for you to put your own personal touches on. Gorgeous and well-maintained landscaped park-like setting with lush green grasses with a community pool and spa to enjoy. Desirable location...walk to Capitola Village, Gayle's Bakery, restaurants, shopping, schools or jump on Hwy 1 right around the corner.",
+    "output": "Address: 8 Knolls Drive, Capitola, CA 95010\nBasic House Attributes:\n\n-Single-level\n-Private deck\n-Well-maintained landscaping\n-Community pool and spa",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Review the property description and tell us what is good and what is bad about it and list its key takeaways.\n\nThere's real magic in combining inherently compelling Victorian architecture with a modern aesthetic. Add in an extraordinary multi-level garden & the result is the undeniable elegance of 444 29th St. The front of the home is light-filled w/ a seamless connection between living, dining & kitchen. Newly updated kitchen w/ quartz counters & upgraded appliances. A lg dining rm has a bay of windows &, when paired w/ the adjacent living rm, provides an ideal space to entertain. 2 lg bdrms on this level are at the rear. Both w/ lg closets & walk out to the garden. Stylishly remodeled full bath on this level. 3rd bdrm/2nd full bath are located on the ground floor - perfect as a guest rm, home office, fitness area, etc. The enormous garden occupies an extra deep lot & is beautifully landscaped & terraced. Laundry/storage rm, 1-car garage pkg, Tesla solar panels. Prime, flat part of Noe Valley - short walk to all that Noe has to offer. Steps from the J-Church & convenient to shuttles/freeways.",
+    "output": "The key takeaways for this property are:\n\n-Combining Victorian architecture with a modern aesthetic creates a unique and elegant home\n-The garden is beautiful and terraced, occupying an extra deep lot\n-The property is in a prime location, close to all that Noe Valley has to offer",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "List some of the top real estate marketing words to add value to the listing and engage more potential buyers.",
+    "output": "1. Unique\n2. One-of-a-kind\n3. Exclusive\n4. Rare\n5. Valuable\n6. Special\n7. Luxurious\n8. Stunning\n9. Exquisite\n10. Impressive",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest some product bundles that are often purchased with a given product.\n\nMacBook Air",
+    "output": "AppleCare, a case, and a set of headphones.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Create a template in markdown to create scope for Jira tickets. Members should use this template as a checklist to ensure they have included all the necessary information when creating a ticket.",
+    "output": "## Ticket Title\n\n## Summary\n\n## Description\n\n## Assignee\n\n## Priority\n\n## Resolution\n\n\n\n## Ticket Title\n\nEnter a brief, descriptive title for the ticket.\n\n\n\n## Summary\n\nIn a few sentences, summarize the issue you are reporting.\n\n\n\n## Description\n\nIn detail, describe the issue you are reporting. What are you seeing that is incorrect?\n\n\n\n## Assignee\n\nWho is responsible for resolving this issue?\n\n\n\n## Priority\n\nWhat is the urgency of this issue?\n\n\n\n## Resolution\n\nWhat is the resolution you are proposing?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "As part of software engineering, user stories describe what the user wants the system to do, while acceptance criteria describe the conditions a specific user story must meet. Create basic acceptance criteria based on the given user story.\n\nUser story: As a user, I want to use a search field to type a city, name, or street, so that I could find matching hotel options.",
+    "output": "The system should return a list of hotel options that match the city, name, or street entered by the user.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. Write a user story for a given software.\n\nGmail",
+    "output": "As a Gmail user, I want to be able to see a list of all the unread messages in my account.\n\nAs a Gmail user, I want to be able to see a list of all the unread messages in my account. This would help me keep track of which messages I need to reply to.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write a Jira ticket for the given task.\n\nNew Employee onboarding",
+    "output": "1. Create a new Jira ticket for the \"New Employee onboarding\" task.\n\n2. In the ticket, describe the task in detail.\n\n3. Assign the ticket to a team member who will be responsible for completing the task.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Paraphrase the given text in an academic style.\n\nLots of papers have been published on this topic.",
+    "output": "A number of papers have been published on this topic.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of the pros and cons of the given decision.\n\nImplementing a Remote Working Policy",
+    "output": "Pros:\n-Employees can work from anywhere, which increases productivity and flexibility.\n-Employees can take work home with them, which can improve work-life balance.\n-Employees can more easily balance work and family responsibilities.\n\nCons:\n-Employees may be less productive if they are not in the office.\n-Employees may be less engaged if they are not in the office.\n-Employees may miss out on important company or team-building activities.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Include important study notes and key points that someone should know about the given subject.\n\nhistory of the USA",
+    "output": "-The United States of America is a country that was founded in 1776 by thirteen colonies of the British Empire.\n-The USA is a federal republic with a presidential system of government.\n-The head of state is the president, who is elected for a four-year term.\n-The head of government is the prime minister, who is appointed by the president.\n-The USA has a bicameral Congress, which consists of the Senate and the House of Representatives.\n-The Senate is made up of two senators from each state, while the House of Representatives has representatives from each state based on population.\n-The judiciary is independent of the executive and the legislature.\n-The USA is a member of the United Nations.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Based on the given keywords, write a review of a restaurant.\n\nName: Pizzeria\ngood prices, quiet place, tasty, nice staff",
+    "output": "If you're looking for a cheap and tasty pizza place, Pizzeria is a great option. It can be a bit quiet though, so if you're looking for a lively atmosphere, you might want to try somewhere else. The staff is nice and the pizza is delicious - definitely worth a visit!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Convert natural language into a list of turn-by-turn directions.\n\nGo west on I-10 until you hit the 101 then take it north. You will eventually see the Hollywood sign.",
+    "output": "1. Go west on I-10\n2. Take the 101 north\n3. You will eventually see the Hollywood sign",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide an ESRB rating for the following game.\n\nThis is an action-adventure game in which players help Kratos and his son on a dangerous quest. Players explore various realms and engage in frenetic hand-to-hand combat against human-like raiders and fantastical creatures (e.g., centaurs, trolls, dragons). Players use axes and chained blades to battle enemies, often resulting in large blood-splatter effects and dismemberment. Players can perform finishing attacks that depict close-up impalement via bladed and hand-held weapons; repeated axe strikes to a creature's neck results in decapitation. The words “f**k” and “sh*t” are heard in the game.",
+    "output": "Mature",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "A color description has been provided. Find the CSS code associated with that color.\n\nA light red color with a medium light shade of pink",
+    "output": "color: lightred;\n\nbackground-color: mediumlightpink;",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Identify and fix bugs in the given code and rewrite it\n\nfor i in range(10)\n    print(Answer is:)\n    print(i)",
+    "output": "Answer is:\n\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Make a list of common phrases for the given section of the paper.\n\nIntroduction",
+    "output": "In today's world, more and more people are choosing to live alone.\n\nThere are many reasons for this trend.\n\nSome people choose to live alone because they want more freedom and independence.\n\nOthers may live alone because they don't have a partner or they are divorced or widowed.\n\nStill others may choose to live alone because they can't find a suitable roommate.\n\nWhatever the reason, there are many benefits to living alone.\n\nSome of the benefits include more privacy, more space, and more freedom.\n\nLiving alone can also be a great way to save money.\n\nPeople who live alone can cook for themselves, and they don't have to pay for a roommate's share of the rent or utilities.\n\nLiving alone can also be a great way to meet new people.\n\nPeople who live alone can join social clubs or take classes at the local community college.\n\nFinally, living alone can be a great way to get to know yourself better.\n\nYou can learn more about your likes and dislikes, and you can figure out what makes you happy.\n\nLiving alone can be a great way to find out who you are and what you want out of life.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "We have described a scene from a movie that we have seen in the past. Find out what movie it is.\n\nA choice has to be made between picking the red pill or the blue pill",
+    "output": "The Matrix",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Take the product description and write a creative ad for it.\n\nDocument Cameras allow teachers to display documents, books, or other materials for their students to see.",
+    "output": "Introducing the newest way to help your students learn: document cameras! With this great technology, you can display documents, books, or other materials for your students to see. They'll be able to get a closer look and learn in a more interactive way.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Translate the natural language description into a Google Sheets formula.\n\nif C7 is equal to \"U.S.A.\" or \"Canada\" or \"Europe\" or \"The Americas\"",
+    "output": "\"The Americas\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "You are given a tweet and you should decide whether it's offensive or not.\n\nShe has certainly taken some heat for being such an....well idiot.",
+    "output": "offensive",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "For a quick and efficient office workout, suggest a short routine.",
+    "output": "A quick office workout can be done using just a few stretches and exercises. Start with a few minutes of gentle stretching, then do a few rounds of squats, lunges, push-ups, and crunches. Finish with a few more minutes of stretching to cool down.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Predict how many stars the author will give to the restaurant from a Yelp review.\n\nThe reviews were great, but honestly i felt it was just ok. Seemed like a typical tourist spot were the food was mediocre. The service was ok, not great, but not the worst.\nThe bread was very good. I ordered the muscle fries. They had a sweet Vidalia onion flavor. No need for fries bc they were soggy wo much flavor. My boyfriend ordered a pesto chicken pasta and it was again mediocre.",
+    "output": "2 stars",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Categorize the Business into one of the Restaurants, Home Services, Auto Services and Miscellaneous based on its Specialties.\n\nCall us at 650-636-4884 or visit our website to receive a quote. This shop specializes in New Tires and General Auto Repair. We carry all tires in-house and have a wide range to fit any budget or car specifics. If you are unsure what tires you need there are experts on hand and available to help you pick the best tire for your needs. We also carry commercial vehicle tires and can serve a wide array of fleets.",
+    "output": "Auto Services",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Notify me of any suggestions you may have for making the text more grammatically correct.\n\nThis is the second time I've been here, and the vibes, and the food were exquisite.",
+    "output": "This is the second time I've been here, and the vibes and the food were exquisite.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Using the ingredients that are available, create a dinner recipe.\n\nKale + almond butter + apple cider vinegar + agave nectar + tamari",
+    "output": "Kale almond butter apple cider vinegar slaw\n\nIngredients:\n1/4 cup almond butter\n1/4 cup apple cider vinegar\n1 tablespoon agave nectar\n1 tablespoon tamari\n1/4 teaspoon black pepper\n1/4 teaspoon sea salt\n1/4 teaspoon garlic powder\n1/4 teaspoon onion powder\n1/4 teaspoon ground ginger\n1/4 teaspoon ground cinnamon\n1/4 teaspoon ground cardamom\n1/4 teaspoon ground cloves\n1/4 teaspoon ground coriander\n1/4 teaspoon ground cumin\n1/4 teaspoon red pepper flakes\n1/2 cup kale, chopped\nDirections:\n1. In a small bowl, whisk together almond butter, apple cider vinegar, agave nectar, and tamari. Season with black pepper, sea salt, garlic powder, onion powder, ginger, cinnamon, cardamom, cloves, coriander, and cumin.\n2. In a large bowl, combine kale and almond butter mixture. Toss to coat.\n3. Serve immediately.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Categorize the given product into one of Electronics, Computers, Smart Home, or Arts & Crafts departments.\n\nGoogle Nest Learning Thermostat",
+    "output": "Electronics",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Provide instructions for the given exercise.\n\nLeg Raises",
+    "output": "Lie flat on your back on the floor with your legs together and your arms by your sides.\n\nSlowly lift your legs off the floor, keeping them together.\n\nPause when your legs are at a 90-degree angle to your torso.\n\nSlowly lower your legs back to the starting position.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Rewrite the text and correct the spelling errors.\n\nIt solves problems comon and uniqe to every team.",
+    "output": "It solves problems common and unique to every team.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write down antonyms for the given word.\n\nlaureating",
+    "output": "congratulating, commending, praising",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write the HTML syntax for the required action.\n\nadding an image to the page",
+    "output": "<img src=\"http://placehold.it/500x500\">",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Identify the programming language used to write the given code.\n\nif (20 > 18) {\n  printf(\"20 is greater than 18\");\n}",
+    "output": "C",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Decide which part of speech the underlined word belongs to.\n\nschool will _keep through the winter",
+    "output": "will keep is a verb",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Define what the underlined word means for kids.\n\n_keep a promise",
+    "output": "Keep your word.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Expand the given sentence and give it more details and depth.\n\nIt changed my life.",
+    "output": "Since that day, my life has been completely changed. I am not the same person I was before that day. I am now a different person, with different thoughts, and different goals.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Extract the address of the property from the \"About this space\" section of Airbnb.\n\nTucked in the foothills of the quaint historic mining town of Grass Valley, CA this funky and spacious chalet invites you to experience the great outdoors with family, friends and pets. Enjoy the hot tub, basketball court, treehouse, kids rooms, bbq, fire-pit, outdoor theater, and more. One hour from Tahoe and 10 minutes to town, you’re never short of things to explore.",
+    "output": "128 Washington Street",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Design a simple training challenge on Strava that everyone could attend.",
+    "output": "The challenge is a 30-minute time trial.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Suggest some names for a friendly group in telegram.",
+    "output": "1. The Best Friends Club\n2. The Happy Group\n3. The Welcoming Committee\n4. The Great Group\n5. The Awesome Squad",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Write what the pronunciation of the given word sounds like. Follow the \"Google pronunciation dictionary\" scheme for phonetic spelling.\n\ninterpretations",
+    "output": "in-ter-pre-ta-shuns",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "selfinstruct",
+    "instruction": "Explain the meaning of the given phrase in simple terms. Use an example if possible. It would be helpful if you could give an example.\n\n\"With a little give in them\"",
+    "output": "This phrase means that the speaker's knees are not completely stiff and that they are able to bend them a little bit. An example would be if someone is going to get down on the ground to play with a small child. They might say \"I'm going to get down on the ground, but I'll need a little give in my knees.\"",
+    "generator": "text_davinci_001"
+  }
+]

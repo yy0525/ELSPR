@@ -1,0 +1,1514 @@
+[
+  {
+    "instruction": "The sentence you are given might be too wordy, complicated, or unclear. Rewrite the sentence and make your writing clearer by keeping it concise. Whenever possible, break complex sentences into multiple sentences and eliminate unnecessary words.\n\nIf you have any questions about my rate or if you find it necessary to increase or decrease the scope for this project, please let me know.",
+    "dataset": "selfinstruct",
+    "output": "I am available for this project at my current rate. If you need to change the scope of the project, please let me know.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Analyze the word choice, phrasing, punctuation, and capitalization in the given email. How may the writer of this email sound to the reader? These tones include Disheartening, Accusatory, Worried, Curious, Surprised, Disapproving, Unassuming, Formal, Assertive, Confident, Appreciative, Concerned, Sad, Informal, Regretful, Encouraging, Egocentric, Joyful, Optimistic, and Excited.\n\nHi Jen, \nI hope you're well. Can we catch up today? I'd appreciate your input on my presentation for tomorrow's meeting. I'd especially love it if you could double-check the sales numbers with me. There's a coffee in it for you!",
+    "dataset": "selfinstruct",
+    "output": "The writer of this email sounds confident, assertive, and optimistic. The word choice is clear and concise, the phrasing is direct and to the point, the punctuation is appropriate, and the capitalization is correct. The tone is encouraging and enthusiastic, and the email reflects a sense of eagerness and appreciation.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Rewrite the given text and correct grammar, spelling, and punctuation errors.\n\nIf you'd told me year ago that today I would finish a marathon, I would of laughed. Your support had a huge affect on me!",
+    "dataset": "selfinstruct",
+    "output": "If you had told me a year ago that today I would finish a marathon, I would have laughed. Your support had a huge impact on me!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given a paper citation, convert it to the requested citation style.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:",
+    "dataset": "selfinstruct",
+    "output": "Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Desk jobs require writing a lot of emails, so it isn't surprising we get tired of repeating ourselves. Come up with several synonyms for the given word.\n\nSincerely",
+    "dataset": "selfinstruct",
+    "output": "Affectionately, Respectfully, Cordially, Graciously",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated.",
+    "dataset": "selfinstruct",
+    "output": "Dear Friends,\n\nI would like to invite you to dinner on Friday evening. It would be a great chance to catch up and I'm looking forward to spending time with you.\n\nI am planning a delicious home-cooked meal and I know you will enjoy it. The dinner will be at my place at [time] on Friday, [date].\n\nI can't wait to see you all there!\n\nKind regards,\n[Your Name]",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "The tone of the email should be changed and rewritten in a more professional manner.\n\nSubject: Asking for Vacation Time\nHi [Employer], \nI hope all is well. I am writing to request a day off on [date]. I have already taken care of my work responsibilities for that day and will be available to answer any questions or concerns you may have. \nThank you for your time, \n[Your name]",
+    "dataset": "selfinstruct",
+    "output": "Dear [Employer],\nI would like to request a day off on [date]. I have already taken care of my responsibilities for that day and am available to answer any questions you may have. I appreciate your time and consideration.\n\nThank you,\n[Your name]",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a social media post about the call for collaboration on a crowdsourcing project in a persuasive way.",
+    "dataset": "selfinstruct",
+    "output": "We are excited to announce a new crowdsourcing project to help solve a key challenge in our community. By working together, we can tackle this issue from multiple perspectives and come up with innovative solutions. We are looking for volunteers with a range of skills and experience to help us:\n\n- Research existing solutions and best practices.\n- Develop creative ideas and proposals.\n- Analyze data to identify trends and insights.\n- Write and design engaging content to raise awareness.\n- Promote the project and recruit additional volunteers.\n\nIf you are interested in contributing to this important project, please visit www.example.com to register and learn more. Together, we can make a positive impact in our community and create a brighter future. Join us in the pursuit of innovation and collaboration!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "My favorite witty review of The Rings of Power series is this:",
+    "dataset": "selfinstruct",
+    "output": "J.R.R. Tolkien's The Rings of Power trilogy is a masterpiece of epic fantasy, filled with adventure, mystery, and a richly detailed world. Its characters are complex and engaging, the plot is engrossing and suspenseful, and the themes of good versus evil, courage, and self-sacrifice are skillfully woven throughout. Plus, the prose is beautiful, the pacing is perfect, and the overall story is simply unforgettable. A must-read for fans of fantasy and adventure!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "A helpful writing exercise is writing a story without using adjectives or adverbs. This will help you learn to use other words and phrases to describe what you are trying to say. Here are some examples:",
+    "dataset": "selfinstruct",
+    "output": "The sun crested the horizon, painting the sky a brilliant shade of orange. The morning was cool and clear, with a gentle breeze carrying the scent of wildflowers. Joe walked down the dirt path to the river, his boots crunching on the gravel. As he gazed at the river's sparkling waters, a smile spread across his face and he felt a sense of peace wash over him.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Come up with some search queries on google about coding stuff.",
+    "dataset": "selfinstruct",
+    "output": "Some example search queries on Google related to coding stuff include:\n\n- HTML basics\n- CSS tips and tricks\n- JavaScript fundamentals\n- Rails tutorial\n- PHP coding guide\n- C# programming guide\n- Android development tips\n- Javascript frameworks\n- Python data science tutorials",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Discover the most relevant StackOverflow questions for your search term. And output a list of their URLs.\n\nremove item in array",
+    "dataset": "selfinstruct",
+    "output": "def remove_item(arr, item):\n    return arr.remove(item)\n\ndef main():\n    arr = [1, 2, 3, 4]\n    item = 2\n    print(remove_item(arr, item))\n\nif __name__ == \"__main__\":\n    main()",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given an algorithm or a search query about coding. Look for a code snippet related to the search query.\n\nPython loop",
+    "dataset": "selfinstruct",
+    "output": "def print_list(list_):\n    for item in list_:\n        print(item)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are provided with a description of the code, specifications, or prompts. Your help is needed in automating code generation to speed up the development process.\n\npython function to determine whether a number is prime.",
+    "dataset": "selfinstruct",
+    "output": "def is_prime(num):\n    if num < 2 or num == 0:\n        return False\n    # Check if the number is a factor of any other number\n    i = 2\n    while i * i <= num:\n        if num % i == 0:\n            return False\n        i += 2\n    return True\n\n# Print whether a number is prime or not\nprint(is_prime(7))",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "When you're stuck on a coding problem, the best place to look for help is in the documentation. Read the docs carefully and see if there's a section that covers your specific issue. Often, the answer will be right there in front of you. If not, try searching for key terms related to your problem. Come up with the useful links about the given search term.\n\nsql find duplicate values",
+    "dataset": "selfinstruct",
+    "output": "The best place to look for help when stuck on a coding problem related to finding duplicate values in a SQL database is the documentation. Documentation for popular SQL engines, such as MySQL and PostgreSQL, typically contain sections on how to detect and remove duplicate values. Additionally, online resources, such as Stack Overflow and Google, can be used to find helpful links and information related to finding duplicate values in SQL.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "We have entered the home supplies budget in the following table. Calculate the last column with the given function and rewrite the completed table.\nNote that, columns in a row are separated using a comma, and rows are separated using a \"|\".\n\nItem, Qty, Price, Subtotal | mango, 5, 500, ? | apple, 4, 150, ? | oil, 2, 1500, ?  \nFunction: column2 * column 3",
+    "dataset": "selfinstruct",
+    "output": "mango, 5, 750,\napple, 4, 600,\noil, 2, 3000,",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Please write the Excel function name associated with each description.\n\n- Returns the number of days between two dates\n- Returns the starting position of a text string within another text string.\n- Returns the number in the middle of the set of given numbers",
+    "dataset": "selfinstruct",
+    "output": "The Excel function names associated with the descriptions above are:\n\n- DATEDIF(date1, date2, unit)\n- INSTR(string, search_string, location)\n- MID(string, start_index, length)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "What are the steps to using random (yet coherent) text as filler content within your Word document?",
+    "dataset": "selfinstruct",
+    "output": "The steps to using random (yet coherent) text as filler content within your Word document include:\n\n1. Open a new Word document and insert text where you want the filler content to appear.\n\n2. Click the Insert tab and select Text from the list of options.\n\n3. In the Text box, type \"Random Text\".\n\n4. Click the Advanced options button and select the number of words that you would like to insert (e.g. 10, 25, 50, etc.).\n\n5. Click OK to insert the random text.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Design a soothing pastel color palette for your slides. Pastel colors generally come across as pretty and delicate, so you’ll want to make sure your presentation calls for a similar mood. Choose up to five colors or color codes.",
+    "dataset": "selfinstruct",
+    "output": "Pastel colors that could be used in a soothing pastel color palette include:\n\n- Pink\n- Blue\n- Yellow\n- Green\n- Purple",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "I bought two shirts from the store and each one cost me $10. I also bought a pair of pants and they cost me $20. Then, I bought a dress and it cost me $30. Also,  I bought a pair of shoes and they cost me $40. Lastly, I bought a jacket and it cost me $50.\n\nMake a table chart showing items, the number, and the price of these items. Separate columns with \"|\".",
+    "dataset": "selfinstruct",
+    "output": "Item | Number | Price\n----- | ------ | ------\nShirt | 2 | $10\nPants | 1 | $20\nDress | 1 | $30\nShoes | 1 | $40\nJacket | 1 | $50",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Find sentences from reliable sources such as the Guardian or Forbes that contain the exact match for the given sentence or phrase. Also, mention the source of each sentence.\n\nThere are great options",
+    "dataset": "selfinstruct",
+    "output": "1. \"There are great options available for businesses of all sizes to utilize technology to improve their operations and increase productivity\" (Forbes, 2019)\n2. \"There are a range of fantastic options available for those who are looking to start a business\" (The Guardian, 2020)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "During writing, we added an asterisk for the word that did not come to mind. You will need to provide several examples to demonstrate all the words that can be used in the sentence instead of the asterisk.\n\nwe * to know",
+    "dataset": "selfinstruct",
+    "output": "Examples of alternative words for the asterisk in the sentence include: understand, realize, recognize, comprehend, and perceive.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Think of alternatives and paraphrases for the underlined word.\n\nwhat we have _expected",
+    "dataset": "selfinstruct",
+    "output": "what we have anticipated\nwhat we have forecast\nwhat we have expected to happen",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Design a skill assessment questioner for R (Programming Language).",
+    "dataset": "selfinstruct",
+    "output": "A skill assessment questioner for R (Programming Language) could include the following questions:\n\n- What is the difference between vector and matrix data types in R?\n- What are the key features of the ggplot2 package for creating graphics in R?\n- What strategies can be used to optimize R code for performance?\n- What are the key concepts behind the tidyverse package for data analysis in R?\n- What methods can be used to compare data sets in R?\n- What strategies can be used to ensure data validity in R projects?\n- What are the key differences between nested and unnested data types in R?\n- How can machine learning models be constructed in R?\n- What strategies can be used to handle missing data in R studies?",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a template for First-Person LinkedIn profile summary.",
+    "dataset": "selfinstruct",
+    "output": "I am a passionate professional with over 10 years of experience in [field/industry]. I am driven by my desire to contribute to the success of my organization and to make a positive impact in the world. I am highly skilled in [list of relevant skills and experiences], with a track record of helping organizations achieve their goals and objectives. I am also a collaborative leader, who is committed to fostering creative and innovative solutions. I am excited to see where this next chapter will take me and to share my knowledge, experience, and energy with the world.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a LinkedIn post to announce that you have accepted a new job offer.",
+    "dataset": "selfinstruct",
+    "output": "I am thrilled to announce that I have accepted a new job offer with Company XYZ! This organization is a leader in the industry and I am excited to join the team and make an impact. I am looking forward to using my experience and skills to help drive the company's success. I am also excited to be a part of the Company XYZ family and to join the dynamic and innovative team. I can't wait to get started!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a list of desirable Skills for software engineers to add to LinkedIn.",
+    "dataset": "selfinstruct",
+    "output": "Desirable skills for software engineers to add to LinkedIn may include:\n\n- Programming languages: Python, Java, C#, JavaScript, etc.\n- Technologies: HTML, CSS, PHP, Ruby on Rails, etc.\n- Frameworks: Laravel, Node.js, React, etc.\n- Tools: Git, Bitbucket, JIRA, etc.\n- Development lifecycles: Agile, Scrum, Waterfall, etc.\n- Applications: Web, mobile, desktop, etc.\n- Security: SSL, encryption, pen testing, etc.\n- Networking: TCP/IP, routing, firewalls, etc.\n- Data analysis: Excel, Python, R, etc.\n- Machine learning: Python Scikit-Learn, TensorFlow, etc.\n- Cloud computing: Amazon Web Services, Microsoft Azure, Google Cloud Platform, etc.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You will be asked to answer the following question as part of the LinkedIn Skill assessments.\n\nYou find that your project has a tag and branch both named push-notifications, which causes confusion when trying to print out given reference. How can you specify which branch you want to look at?",
+    "dataset": "selfinstruct",
+    "output": "To specify which branch you want to look at, you should use the git branch command. For example, to view the master branch, you would run git branch --symbolic master. You can also use the git tag command to view a specific tag, such as the latest tag.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Take the title of the product and extract its attributes. The attributes in this case refer to the characteristics of the products, such as their brand and color. Your answer must a list following the format of \"attribute: value\".\n\nSAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed, Thermal Control, MZ-V8P2T0B",
+    "dataset": "selfinstruct",
+    "output": "Attribute: Maximum Speed\nValue: PCIe NVMe Gen 4 (2GB/s)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You should write a Product Description that will persuade the buyer that the product is beneficial.\n\nFlipslide Game, Electronic Handheld Game | Flip, Slide, and Match the Colors to Beat the Clock - 4 Game Modes - Multiplayer Fun",
+    "dataset": "selfinstruct",
+    "output": "Flipslide Game is the perfect electronic handheld game for players of all levels. With 4 unique game modes, you can challenge yourself or play with a friend in a fun, competitive environment.\n\nIn Flip mode, you'll have to be quick and accurate as you flip tiles to match the colors in the allotted time.\n\nIn Slide mode, your problem-solving skills will be put to the test as you slide tiles to create unique patterns.\n\nIn Match mode, you'll have to be alert and focused as you match tiles of the same color.\n\nAnd in Endless mode, you can test your skills in a never-ending wave of tiles.\n\nWith its portable and lightweight design, Flipslide Game is the perfect game for on-the-go fun and hours of entertainment. Get ready to challenge yourself and have fun with this exciting electronic handheld game!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "What other Amazon products might interest someone who visited the given product?\n\nZeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black",
+    "dataset": "selfinstruct",
+    "output": "Other Amazon products that might interest someone who visited the Zeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black product could include:\n\n- KitchenAid Artisan Stand Mixer\n- Cuisinart Ice Cream Maker\n- OXO Good Grips Ice Cream Scoop\n- Food Network 10-Piece Cookware Set\n- All-Clad Stainless Steel Cookware",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Compare the given item with similar products based on its properties such as price, rating, etc. For product comparison, use a table and separate the columns with \"|\".\n\nItem: iBayam Journal Planner Pens Colored Pens Fine Point Markers Fine Tip Drawing Pens Porous Fineliner Pen for Journaling Writing Note Taking Calendar Coloring Art Office Back to School Supplies, 18 Color",
+    "dataset": "selfinstruct",
+    "output": "Product | Price | Rating | Features | Comparable Products\n----- | ---------- | -------- | -----------------------\niBayam Journal Planner Pens Colored Pens Fine Point Markers Fine Tip Drawing Pens | $8.99 | 4.5/5 stars | High-quality colored pens with fine point and fine tip for clear and precise writing. | Pilot Frixion Color Pen ($9.99, 4.4/5 stars), Crayola Color Explosion Ultra Fine Tip Markers ($6.99, 4.5/5 stars)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a  review based on the given information.\n\n- Product: Persil Discs Laundry Detergent Pacs, Original Scent, High Efficiency (HE) Compatible, Laundry Soap, 62 Count\n- Sentiment: Positive",
+    "dataset": "selfinstruct",
+    "output": "Persil Discs Laundry Detergent Pacs are an excellent choice for those looking for a high-efficiency (HE) compatible, eco-friendly laundry detergent. The packs are convenient and travel-friendly, and the original scent is light and refreshing. The detergent leaves my clothing soft and fresh, and the price is very competitive compared to other brands. I would definitely recommend Persil Discs Laundry Detergent Pacs to anyone in search of an efficient, environmentally-friendly laundry detergent.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a short description about the given movie or series.\n\nThe Witcher (2019)",
+    "dataset": "selfinstruct",
+    "output": "The Witcher is a Netflix original series based on the best-selling fantasy book series of the same name by Andrzej Sapkowski. The series follows Geralt of Rivia, a monster hunter and mutant, as he travels across the fantasy world of Continent to protect those in need and hunt the creatures that lurk in the shadows. Featuring stunning visuals and an engaging plot, The Witcher is a must-watch for fans of fantasy and adventure.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Think of some series or movies that would be enjoyable for someone who liked the given series.\n\nSquid Game",
+    "dataset": "selfinstruct",
+    "output": "Some series or movies that would be enjoyable for someone who enjoyed the Squid Game anime series include:\n\n- Black Mirror\n- The Handmaid's Tale\n- The Leftovers\n- The Expanse\n- The Man in the High Castle\n- The 100\n- Westworld",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give examples of popular shows and movies in the genre.\n\nGenre: Crime TV Shows",
+    "dataset": "selfinstruct",
+    "output": "Popular crime TV shows include:\n\n- NCIS (2003-present)\n- CSI: Crime Scene Investigation (2000-2015)\n- Law & Order (1990-2010)\n- Criminal Minds (2005-present)\n- Homeland (2011-present)\n- Blue Bloods (2010-present)\n- The Wire (2002-2008)\n- True Detective (2014-2017)\n- Breaking Bad (2008-2013)\n- The Sopranos (1999-2007)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "In what genres does the given movie or series fall?\n\nManifest",
+    "dataset": "selfinstruct",
+    "output": "The television series Manifest falls into the genre of dramatic mystery. It follows the lives of the passengers and crew of a commercial airline as they deal with the mysterious events that occurred during their flight.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give a brief description of the given category of movies and shows.\n\nPeriod Dramas",
+    "dataset": "selfinstruct",
+    "output": "Period dramas are historical or costume films set in a specific time period. They typically focus on the lives of ordinary people and key historical events, and may include romance, adventure, and political intrigue. Examples of period dramas include Downton Abbey, Pride and Prejudice, 19th Century, and Outlander.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide an example of how a table of contents can be generated automatically in a LATEX document. Make sure your example contains the necessary commands.",
+    "dataset": "selfinstruct",
+    "output": "An example of how a table of contents can be generated automatically in a LATEX document could include the following commands:\n\n\\begin{code}\n\\tableofcontents\n\n\\chapter{Introduction}\n\\section{What is Machine Learning?}\n\\subsection{Benefits of Machine Learning}\n\\chapter{Methods}\n\\section{Supervised Learning Methods}\n\\subsection{Linear Regression}\n\\chapter{Applications}\n\\section{Real-World Machine Learning Projects}\n\\end{code}",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Imagine you have a FEN notation of a chessboard. How can you draw a board to show this state of the chessboard in LATEX? Create a LATEX code that includes all the required commands and packages.",
+    "dataset": "selfinstruct",
+    "output": "\\begin{tikzpicture}[scale=0.75, every node/.style={circle, fill=black}]\n    \\foreach \\x in {0,1,2,3,4,5,6,7,8} {\n        \\node at (\\x, 0) {\\x};\n    }\n\\end{tikzpicture}",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "What is the output of the given LATEX code?\n\n\\documentclass{article}\n\\begin{document}\nFirst document. This is a simple example, with no \nextra parameters or packages included.\n\\end{document}",
+    "dataset": "selfinstruct",
+    "output": "The output of the given LATEX code is a single page document with the following content: \"First document. This is a simple example, with no  extra parameters or packages included.\"",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You should find a few LATEX templates appropriate for the task at hand and list the links to them.\n\nHomework Assignment",
+    "dataset": "selfinstruct",
+    "output": "A few LATEX templates appropriate for the task at hand include:\n\n- An academic paper template: https://www.latex-community.org/latex/templates/academic-paper\n- A poster template: https://www.latex-community.org/latex/templates/poster\n- A resume template: https://www.latex-community.org/latex/templates/resume",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a simple guide for uploading the bibliography database\n on Overleaf.",
+    "dataset": "selfinstruct",
+    "output": "A simple guide for uploading a bibliography database on Overleaf:\n\n1. Log in to your Overleaf account or create a new account if necessary.\n\n2. Click the \"Bibliography\" button at the top of the page to access the bibliography editor.\n\n3. Click the \"Browse\" button to select the bibliography database file.\n\n4. Click the \"Open\" button to upload the file.\n\n5. Select the fields to include in the bibliography and configure the display options.\n\n6. Click the \"Save\" button to save your changes and add the bibliography to your project.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Choose Spotify playlists that match the given mood. Provide a link to these playlists for easy access.\n\nFeeling Good",
+    "dataset": "selfinstruct",
+    "output": "Spotify playlists that match the mood \"feeling good\" include:\n\n- \"Feel-Good Summer Jams\": a sunny compilation of summer songs featuring artists such as Katy Perry, Maroon 5, and Sia.\n- \"Uplifting Hits\": an upbeat playlist featuring songs by Ed Sheeran, Taylor Swift, and Justin Timberlake.\n- \"Motivational Music\": an inspiring collection of tracks by artists including Adele, Beyoncé, and Rihanna.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Curate a Spotify playlist based on the vibe. Publish this playlist as a song list.\n\nVibe: coding on weekend",
+    "dataset": "selfinstruct",
+    "output": "A Spotify playlist based on the vibe \"coding on weekend\" could include the following songs:\n\n- \"I'll Make a Change\" by Tina Turner\n- \"No Sleep\" by Arcade Fire\n- \"Hustle\" by J. Cole\n- \"Focus\" by Alesso, Floria Sigismondi\n- \"The Box\" by Mariah Carey\n- \"Dreaming\" by Jessie Ware\n- \"Build a Wall\" by SZA\n- \"Rise Up\" by Andra Day\n- \"Stronger (What Doesn't Kill You)\" by Kelly Clarkson\n- \"Go Get It\" by Mariah Carey, Miguel\n- \"Uptown Funk\" by Bruno Mars",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "How would you describe the meaning of this lyrics? Describe some of the metaphors.\n\nMy lover’s got humor\nShe’s the giggle at a funeral\nKnows everybody’s disapproval\nI should’ve worshipped her sooner",
+    "dataset": "selfinstruct",
+    "output": "The lyrics describe the protagonist's admiration for their lover, who has a unique sense of humor, is able to laugh in the face of adversity, and is aware of the judgement of others. The metaphors used in the lyrics, such as \"giggle at a funeral\" and \"worshipped her sooner\", illustrate the lover's unusual yet endearing qualities.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Suggest some Audiobooks for First-Time Listeners. You can attract them by choosing popular works.",
+    "dataset": "selfinstruct",
+    "output": "Some popular audiobooks for first-time listeners could include:\n\n- 1984 by George Orwell: A dystopian novel about the dangers of totalitarianism.\n- To Kill a Mockingbird by Harper Lee: A classic novel about racial injustice and moral courage.\n- The Catcher in the Rye by J.D. Salinger: A landmark novel about teenage angst and identity.\n- The Great Gatsby by F. Scott Fitzgerald: A timeless tale of the American Dream and the Roaring Twenties.\n- Harry Potter by J.K. Rowling: An engaging and magical adventure for young and old alike.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a list of the most popular podcasts.",
+    "dataset": "selfinstruct",
+    "output": "Some of the most popular podcasts include:\n- This American Life: A weekly narrative journalism podcast from Public Radio International.\n- Serial: A true crime podcast from the creators of This American Life.\n- NPR Politics: A weekly podcast from NPR covering the latest political news and developments.\n- The Daily: A daily news podcast from The New York Times.\n- How Stuff Works: A podcast that explores the hows and whys of everyday life.\n- TED Talks: Popular talks from thought leaders and innovators.\n- Science Podcast: A weekly podcast about the latest research in science and technology.\n- The Joe Rogan Experience: A talk show hosted by popular comedian and podcaster Joe Rogan.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You should take the time to read the situation and problem carefully and give the best advice you can.\n\nI'm roadtripping down New Zealand with a friend and he is driving me insane. He hasn't enjoyed all the tours we've been on and doesn't want to chat about ANYTHING. We're a week into our trip and this is the quietest I've ever been when hanging out with another person as he rebuffs all my attempts at conversation. He wears his airpods in the car and around the accommodation - not that I've kept trying to talk to him. Honestly, he is bringing some seriously bad vibes to everything and it's ruining my trip.\nWe don't have anything booked in yet for the South Island, so I'm planning to ditch him in Wellington at the ferry. Probably book my own car in Picton and just relax alone for the rest of the trip. (Just thinking about it is such sharp relief that it makes me feel emotional. I'll pay whatever price I have to just to get away from him.)\nObviously telling him he is ruining my trip with his negative energy isn't the best way to approach this.\nAny advice for the best approach so we can split amicably? Or at least not have an argument that ends with very hurt feelings?",
+    "dataset": "selfinstruct",
+    "output": "It's understandable that you are feeling frustrated and exhausted by your trip with your friend. It's important to take the time to read the situation and problem carefully and give the best advice you can.\n\nIn this case, I recommend being open and honest with your friend, but also respectful and non-judgmental. Try to approach the conversation from a place of empathy and understanding, and let him know that you are feeling frustrated and exhausted by the trip. You could say something like:\n\n\"I'm finding this trip really challenging, and I'm not sure how to make it better. You must be feeling really different things than me, and I'd like to understand your experience a bit better. Can you help me out with that, and maybe we can talk about ways that we can make this trip more enjoyable for both of us?\"\n\nThis approach can help you both to open up and communicate about your different needs and expectations, as well as come to a mutually beneficial solution. Good luck!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given a description that provides a set of facts or a scenario. It is up to you to craft a story from these facts and scenarios. The missing pieces must be filled in with imaginative but logical information.\n\nTen European football teams – the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and Wales – will participate in a season-long “OneLove” campaign promoting inclusion and opposing discrimination.",
+    "dataset": "selfinstruct",
+    "output": "The “OneLove” campaign was a season-long initiative designed to promote inclusion and oppose discrimination in European football. Ten of the region’s top national teams – the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, and Switzerland – came together to take a stand against prejudice and discrimination, and to show their support for a more inclusive and equitable sporting environment. Through a range of activities and initiatives, the teams worked to raise awareness of diversity and equality, and to foster a more welcoming and inclusive football culture. This included educational programs for players, staff, and fans, as well as campaigns to highlight the positive impact that diversity and inclusion can have on the game. Additionally, the teams participated in joint events and initiatives to celebrate diversity and promote unity, such as joint training sessions, charitable works, and public match day celebrations. The “OneLove” campaign was a resounding success, helping to raise awareness of important issues and promote a more inclusive European football community.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Based on the given query, suggest some related search queries.\n\nlearning french",
+    "dataset": "selfinstruct",
+    "output": "Some related search queries for \"learning French\" could include:\n\n- French grammar\n- French vocabulary\n- French pronunciation\n- French audio resources\n- French language courses\n- French book recommendations\n- French culture\n- French history",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Please suggest a few papers to consider based on the search term given. The names of the papers should be listed.\n\nTopic: scaling law + machine learning",
+    "dataset": "selfinstruct",
+    "output": "A few papers to consider based on the search term \"scaling law + machine learning\" include:\n\n- \"On the Power Law Distribution of Features in Machine Learning\" by Xavier Amatriain and Pedro Domingos (2010)\n- \"Empirical Analysis of Data Scaling in Machine Learning\" by Xavier Amatriain, Pedro Domingos, and Jiawei Han (2003)\n- \"Fast and Scalable Learning of Feature Maps with Data-Driven Dimensionality Reduction\" by Xiaogang Wang, Dacheng Tao, and Jiawei Han (2007)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Prepare an email signature template for the given person or company.\n\na graduate student of computer science",
+    "dataset": "selfinstruct",
+    "output": "John Smith\n\nGraduate Student in Computer Science\n\nEmail: john.smith@example.com\n\nLinkedIn: www.linkedin.com/in/johnsmith2020/",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "React properly to reviews from your customers. In your responses, you can highlight your business' policies and customer service.\n\nAnother repeat visit and no disappointment from us. Great place for breakfast or brunch - and you won't need to eat again for awhile. The restaurant is close to the Tenderloin so be aware of your surroundings.\nWe enjoyed the Succotash Omelet (at least my wife enjoyed it), the Pulled Pork Benedict and the Hangtown Fry. Portions are large and pricing is fair. I wish we could have managed a Beignet Flight!\nDefinitely a spot to seek out. It can be crowed at times so be patient. Well worth any wait.",
+    "dataset": "selfinstruct",
+    "output": "We value our customers' feedback and are glad to hear that you had another pleasant experience with us. We are proud of our menu and customer service, and appreciate the positive comments about our portions, pricing, and atmosphere. We apologize for any crowding you may have experienced and wish you could have tried our Beignet Flight! We look forward to seeing you again in the future.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a good Twitter Bio. Try to cover all the provided main points in your generated bio.\n\nName: Jane\nMain points:\n- Architect\n- Interested in Tech\nWritten in first person\nUse casual tone",
+    "dataset": "selfinstruct",
+    "output": "I'm Jane, an architect who is passionate about technology. I love exploring the latest trends in design and development, and can't get enough of the new possibilities the future holds. I'm always looking for new ways to learn and grow, and can't wait to see what the future holds! #architecture #tech #innovation",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "We need to write a thematic tweet to share company news and facts. Please take a careful look at the facts and details provided and create a tweet based on them.\n\n- news: Applications for summer internships are open now\n- Start with a thematic tie-in to Halloween",
+    "dataset": "selfinstruct",
+    "output": "Are you ready for a summer of scary smart internships? Applications for our summer internship program are now open! Explore your potential with us and embark on a thrilling journey of learning and growth. #SummerInternships #Halloween #Innovation",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company.\n\nCompany: [Company name]\nJob: Software Engineer\nJob Responsibilities:\nReceive and perform code reviews with other engineers.\nWrite unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\nWork collaboratively with fellow software engineers to build features requested by business stakeholders.\nParticipate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nDiagnose, debug, and perform root cause analysis of issues and defects.\nSkills and experience that will lead to success:\nExperience with a modern software programming language. We use Python, and Pyspark extensively.\nExperience with cloud systems like AWS or Azure\nExperience writing SQL queries \nStrong written and verbal communication skills\nEagerness to work in a highly-collaborative environment\nSome visualization experience such as Tableau or PowerBI is helpful",
+    "dataset": "selfinstruct",
+    "output": "Software Engineer\n\nResponsibilities:\n- Receive and perform code reviews with other engineers\n- Write unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest\n- Work collaboratively with fellow software engineers to build features requested by business stakeholders\n- Participate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark\n- Diagnose, debug, and perform root cause analysis of issues and defects\n- Experience with a modern software programming language. We use Python, and Pyspark extensively\n- Experience with cloud systems like AWS or Azure\n- Experience writing SQL queries\n- Strong written and verbal communication skills\n- Eagerness to work in a highly-collaborative environment\n- Some visualization experience such as Tableau or PowerBI is helpful",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Considering the reason for the rejection, write a polite rejection letter for rejecting a candidate.\n\nReason: You came in second",
+    "dataset": "selfinstruct",
+    "output": "Dear [Candidate],\n\nWe thank you for your interest in the role at [Company Name]. We had a tough decision to make between you and the other candidate, and unfortunately we selected the other candidate for the role. We appreciate your time and effort in applying for the role and wish you the best in your search for a new opportunity.\n\nKind Regards,\n[Company Name]",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "We've already decided on the title and topic for our blog post. I would appreciate it if you wrote an introduction paragraph to attract the readers' attention.\n\nBlog title: Healthy Apple Muffins\nBlog Topic: recipe and tips for cooking a good apple muffin",
+    "dataset": "selfinstruct",
+    "output": "Apple muffins are a delicious and healthy treat that can be enjoyed any time of the year. With the right ingredients and a few tips, you can make a light and tasty muffin that is packed with nutrients and will keep you feeling energized throughout the day. In this blog post, we will share a recipe for healthy apple muffins and provide tips for cooking a perfect batch. From choosing the right ingredients to avoiding common muffin-making mistakes, this post has all the information you need to make delicious and healthy apple muffins.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Design an outline for a blog post based on the given information and list the sections accordingly.\n\nThis blog post is going to about making a list of last-minute gift ideas. Also, the tone of the post is going to be relaxed and casual.",
+    "dataset": "selfinstruct",
+    "output": "Outline for a Blog Post about Last-Minute Gift Ideas:\n\n- Introduction: Setting the scene and explaining the purpose of the post\n- Benefits of Last-Minute Gift Ideas\n- Creative Ideas for Last-Minute Gifts\n- List of Ideas (e.g. experience gifts, personalized gifts, homemade gifts, etc.)\n- Conclusion: Summarizing the benefits of last-minute gifts and offering final thoughts",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a section for a blog post and try to cover all of the provided information about this section in your text.\n\nBlog Topic: 7 Fall Fashion Trends Worth Taking on Your Trip\nSection Title: Trusty Jeans\nMain point of the section: jeans can be worn all year and look good with everything .",
+    "dataset": "selfinstruct",
+    "output": "Jeans are a staple piece for any autumn wardrobe and can be worn with just about any outfit. This season, trusty denim is taking on a range of fresh updates, from high-rise styles to distressed details and faded washes. Whether you're heading out for a day of sightseeing or an evening out, a pair of comfy, cozy jeans is a must-have for your fall travels.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Create a detailed caption for an Instagram post about a discount. A proper caption should explain the product, offer the discount, and tell the user how to claim it.\n\nProduct: Golang course\nProduct description: teaching the foundational skills for building cloud services, web applications, DevOps tools, and backend development\nDiscount: 50%\nHow to claim: Use the coupon code: GOLANG",
+    "dataset": "selfinstruct",
+    "output": "Good news! We're offering a 50% discount on our Golang course to help you learn the foundational skills for building cloud services, web applications, DevOps tools, and backend development. To claim your discount, simply use the coupon code: GOLANG when checking out. Take advantage of this offer today and start learning Golang today!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Create a captivating Instagram caption based on the provided details. Try to think of as many captions as you can.\n\nI am sharing images of the first snow of the year taken from a window in an office",
+    "dataset": "selfinstruct",
+    "output": "The first snow of the year has fallen, and the world has been transformed into a winter wonderland. The sun sparkles through the flurries, creating a fairytale-like atmosphere. I can't help but be in awe of nature's beauty and be filled with gratitude for this special moment. #snowfall #winter #magic",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given a topic for an Instagram post. Help the post reach a broader audience by suggesting hashtags related to the post.\n\nAnother episode of women in science is out now",
+    "dataset": "selfinstruct",
+    "output": "Suggested hashtags:\n- #WomenInScience\n- #STEMinistry\n- #Research\n- #Academia\n- #Innovation\n- #Discovery\n- #Equality",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Use appropriate emojis to convey the meaning in the given text.\n\nCute cat\nplayful\nSoft",
+    "dataset": "selfinstruct",
+    "output": "🐾🐱🐱🐼",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "The topic of a YouTube post has been described and based on the information, you need to write a hook for starting the post. A catchy hook will keep your readers interested so they keep reading. It would be great if you could come up with as many hooks as you can.\n\nA video showing how to make a tasty cup of coffee",
+    "dataset": "selfinstruct",
+    "output": "Brew the perfect cup of coffee at home with this easy, step-by-step guide!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Using the provided topic as a starting point, brainstorm ideas for videos that can be made about it on YouTube.\n\nIn spite of the fact that procrastination feels bad to you, why do you do it?",
+    "dataset": "selfinstruct",
+    "output": "Ideas for videos about procrastination on YouTube could include:\n\n- A video about the psychological reasons why people procrastinate and the different triggers that cause it.\n- A video about strategies for overcoming procrastination, such as setting achievable goals, creating a plan of action, and breaking down large tasks into smaller chunks.\n- A video about the benefits of being productive and the impact that procrastination can have on one's career and personal life.\n- A video about how to set yourself up for success to avoid procrastination, such as creating a supportive work environment and setting boundaries.\n- A video about common misconceptions about procrastination and the ways in which it can be managed.\n- A video about real-life stories from people who have overcome procrastination and the lessons that can be learned from their experiences.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You should choose a YouTube video title based on the video's content. A video's title tells viewers what to expect from it. It should be direct, honest, and clear. The title of the video needs to capture the attention of viewers, so do not use an unclear or ambiguous one.\n\nA research study has been conducted to determine if exercise really can \"boost\" your metabolism.",
+    "dataset": "selfinstruct",
+    "output": "Can Exercise Really \"Boost\" Your Metabolism? A Research Study Explained",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Choosing a name for your product or business YouTube channel is an important part of the process. Based on the description of the product or business, you should come up with some interesting names. Take some time to brainstorm your ideas.\n\nHere you will find videos and content that will help students prepare for the application process to graduate schools as well as how to apply to graduate schools",
+    "dataset": "selfinstruct",
+    "output": "Grad School Prep, Applying to Graduate Schools, Graduate School Admission Tips",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Find the answer that best describes the underlined SAT word. Select the correct option and explain the meaning of the underlined word.\n\nDespite the _cacophony, the student tried to study. \nA. Loud sounds\nB. Difficult subject\nC. Late hour\nD. Low lighting",
+    "dataset": "selfinstruct",
+    "output": "B. Difficult subject",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Find synonyms for the given word. You need to write down how the provided synonyms differ from the original word in terms of meaning, usage, etc.\n\nadversity",
+    "dataset": "selfinstruct",
+    "output": "Synonyms for adversity include hardship, difficulty, trial, and affliction. Adversity is a broad term that encompasses a range of negative experiences, including financial hardship, personal struggles, and physical or emotional suffering. Whereas adversity is generally used to refer to a general state of difficulty, the synonyms mentioned above are more specific and focus on particular aspects of difficulty. For example, hardship would be more appropriate when referring to a financial struggle, while trial would be more appropriate when referring to a personal challenge.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Discuss the origins and history of the word that has been given to you.\n\noblique",
+    "dataset": "selfinstruct",
+    "output": "The word oblique originated from the Latin word obliquus, which means \"slanted\" or \"angled\". It was first used in the English language in the late 15th century and has since come to refer to an angle or direction that is not directly straight ahead or perpendicular to the ground. In modern usage, the word is used to describe an angle of inclination or a perspective that is not straight forward or direct.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give the provided brand a motto to use as a part of its marketing strategies.\n\nThe Ice cream shop is a small, quaint shop located in the heart of the historic district. They offer a variety of ice cream flavors, as well as Italian ice, gelato, and sorbet. The shop has a few tables and chairs, but most of their business is to-go. They offer a loyalty program where you can get a free scoop of ice cream after 10 purchases.",
+    "dataset": "selfinstruct",
+    "output": "Our Motto: Freshly Baked Ice Cream - Fully Loaded Fun!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "A confirmation email should be written appropriately for the situation.\n\nA meeting has been scheduled, and the sender expects the other to review the slides.",
+    "dataset": "selfinstruct",
+    "output": "Dear [Name],\n\nI look forward to our meeting on [date] to discuss the upcoming presentation. I have attached the slides for your review. Please let me know if you have any questions or if there is anything else I can do to ensure a successful meeting.\n\nI look forward to seeing you then.\n\nKind Regards,\n[Your Name]",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You need to write an email to negotiate your salary.",
+    "dataset": "selfinstruct",
+    "output": "Dear [Employer],\n\nI am eager to continue the discussion about the role I could play at your organization and the potential salary I could expect. I am confident that my experience and skills would be a valuable asset to your team, and I would like to discuss my qualifications and the value I could bring further.\n\nI would be grateful if you could share with me your salary range for this role. I am also available to provide additional information that may be relevant to the decision-making process. I look forward to hearing from you soon.\n\nKind Regards,\n[Your Name]",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write an email to attendees as a reminder that the event is coming up.",
+    "dataset": "selfinstruct",
+    "output": "Dear [Attendees],\n\nWe are just a few weeks away from the upcoming [Event Name] and we could not be more excited! We look forward to seeing you all on [Date] at [Venue] for an evening of learning, networking, and fun.\n\nThis year’s event will feature an array of speakers, workshops, and activities designed to help you take your career to the next level. You will have the opportunity to hear from industry experts, connect with like-minded professionals, and take away valuable insights to take back to your organizations.\n\nWe can’t wait to see you there! Please mark your calendars and be sure to share this information with your colleagues.\n\nSee you soon,\n[Your Name]",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "It would be helpful if you could suggest an acronym for the repository.\n\nA python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "dataset": "selfinstruct",
+    "output": "QIRUPY",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a step-by-step guide for resolving GitHub merge conflicts.",
+    "dataset": "selfinstruct",
+    "output": "A step-by-step guide for resolving GitHub merge conflicts includes the following steps:\n\n1. Check out the repository and review the merge conflict.\n2. Identify the changes being proposed by each contributor.\n3. Compare the changes to determine which is more appropriate for the project.\n4. Decide which changes to keep and which to discard.\n5. Edit the files to implement the chosen changes.\n6. Commit the changes and push them to the repository.\n7. Comment on the merge conflict and notify other contributors of the resolution.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "One or more jobs can be run automatically by a workflow. The workflows are defined in the repository as YAML files and will run if an event occurs in the repository, as well as manually, or on a certain schedule.\nBring an example of a workflow that demonstrate the CI/CD features of GitHub Actions.",
+    "dataset": "selfinstruct",
+    "output": "An example of a workflow that demonstrates the CI/CD features of GitHub Actions could be a workflow that builds and tests a JavaScript project. This workflow could include the following steps:\n\n- Pulling the latest code from the repository.\n- Building the project with a JavaScript build tool, such as Nodejs or Yarn.\n- Running a suite of tests to ensure the project is functioning correctly.\n- Publishing the results to a public repository, such as Testcovery.\n- Sending an email notification to the project owners if the tests have failed.\n- Scheduling the workflow to run on a daily basis or when a new commit is made to the repository.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "The movie tagline is the film's advertising slogan, usually printed on posters prior to the official release. It is a short description or comment on a movie to capture the essence of the movie, and ultimately make you watch the movie. Here is an example:\n\nMovie: Joker (2019)",
+    "dataset": "selfinstruct",
+    "output": "Unleash the darkness within: Experience the twisted journey of a man struggling with his inner demons in the award-winning drama, Joker.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given some reviews for a movie. Each video might have mentioned some negative or positive points about the movie. Read them carefully and extract the positive and negative points mentioned in all of the reviews. Then, make a list of these points and summarize them as positive points and negative points.\n\nReview 1: I'm not sure if it's just the fact that Ed Norton really grates on me in this film, but I never really bought into the idea of Fight Club being some kind of cultural phenomenon. Yes it's an innovative story, told via a strong script, engaging characters and intense cinematography. But is it really worthy of such high praise? Personally, I find it starts to fall apart halfway through and actually becomes quite tedious towards the end. Everything just becomes a little bit childish and contrived as the story loses touch with its base elements and the rage against the machine vibe takes over. I have huge respect for the way this film was made but, much like The Matrix, I feel like people attach way more importance to this movie than it deserves.\nReview 2: The film tells the story of men who cannot adapt to the social order in today's world, under the leadership of Tyler Durden, to discover their natural instinct, masculinity, and to escape from their unhappy lives.\nReview 3: Despite a good theme, great acting and important messages that this movie convey in an unorthodox way, I think it fails to connect the audience with the storyline and leaves him in a world of confusion. Although, majority of reviews find this movie entertaining and interesting, yet I would choose to be a minority that believes that this movie is extremely overrated.\nReview 4: Is creating chaos, explosions and membership in a militant sect the way to get rid of material shackles ?! The visual effects are fascinating and the story is compelling until the second half. Unfortunately, it doesn't end well.",
+    "dataset": "selfinstruct",
+    "output": "Positive points mentioned in the reviews:\n- Innovative story\n- Strong script\n- Engaging characters\n- Intense cinematography\n\nNegative points mentioned in the reviews:\n\n- Ed Norton's performance as a grating character\n- Questionable cultural significance of the film\n- Loss of touch with the film's base elements\n- Overly childish and contrived plot developments towards the end\n- The Matrix comparison\n- Overrated film",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give a brief summary of the movie or series' plot.\n\nBreaking Bad (TV Series 2008–2013)",
+    "dataset": "selfinstruct",
+    "output": "Breaking Bad is an award-winning American drama television series created by Vince Gilligan, which aired on AMC from 2008 to 2013. The series follows Walter White, a high school science teacher who turns to manufacturing methamphetamine after being diagnosed with cancer, and his journey as a drug dealer and criminal. As the series progresses, Walter becomes more and more immersed in the world of crime and must face the consequences of his actions. The series is known for its gripping storyline, excellent writing, and outstanding performances by the cast, including Bryan Cranston in the role of Walter White. Breaking Bad is considered to be one of the best television series of all time and won several awards, including six Emmys and a Golden Globe.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Decide whether children can watch the given movie. Mention what makes it inappropriate if you think they can't.\n\nThe Dark Knight (2008)",
+    "dataset": "selfinstruct",
+    "output": "Children should not watch the movie The Dark Knight (2008) as it contains violent and graphic content, as well as themes of crime and corruption which may be too intense for younger viewers. Additionally, the film has a runtime of 2 hours and 32 minutes, which may be too long for young audiences to retain attention.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a short analysis of the cinematography in the movie.\n\nDead Poets Society",
+    "dataset": "selfinstruct",
+    "output": "The cinematography in Dead Poets Society is stunning and evocative, using beautifully composed shots to evoke a sense of nostalgia and wonder. The use of natural light is particularly effective, illuminating the characters and their surroundings in a way that highlights the importance of the moment. Additionally, the use of color and music creates a poetic atmosphere, elevating the emotional impact of the film and underscoring the themes of self-discovery and creativity. Overall, the cinematography in Dead Poets Society is remarkable and contributes to the film's overall beauty and power.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Please let me know your thoughts on the given place and why you think it deserves to be visited.\n\nBarcelona, Spain",
+    "dataset": "selfinstruct",
+    "output": "Barcelona is a vibrant and culturally rich city in Spain, known for its iconic landmarks such as the Sagrada Familia cathedral and La Pedrera building. It is a popular tourist destination, offering a variety of historical and cultural sites, as well as modern and innovative architecture. The city is also known for its lively nightlife, delicious local cuisine, and beautiful beaches. Additionally, Barcelona is home to a variety of exciting art, music, and fashion events, making it an ideal destination for those looking for a culturally enriching experience. Its unique history, beautiful landscape, and innovative culture make Barcelona a must-see place for visitors around the world.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Consider the best time of year to visit the given city, and provide your reasons for choosing that time.\n\nSydney, Australia",
+    "dataset": "selfinstruct",
+    "output": "The best time of year to visit Sydney, Australia is from September to November and from April to June. During these months, the weather will be warm and sunny, the crowds will be smaller than during the peak summer season, and a range of fun events and activities will be taking place, such as the Sydney Film Festival (September) and Vivid Sydney (June). Additionally, the water will be warm for swimming and the beaches will be less busy than in the summer.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a questionnaire to help hotel guests write hotel reviews.",
+    "dataset": "selfinstruct",
+    "output": "A questionnaire to help hotel guests write hotel reviews could include:\n\n- Overall experience: How would you rate your experience at the hotel?\n- Accommodations: Were the rooms comfortable and stylish?\n- Service: Were the staff friendly and helpful?\n- Amenities: Were the amenities (e.g. pool, spa, fitness center) accessible and enjoyable?\n- Food and Drink: Was the food and beverage service satisfactory?\n- Location: Was the hotel in a convenient location?\n- Value for money: Did the price match the quality of the experience?\n- Suggestions: What could be done to improve the experience?",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a list of the top places in the U.S. to visit at the given time.\n\nNovember",
+    "dataset": "selfinstruct",
+    "output": "The top places in the U.S. to visit in November include:\n\n- Yosemite National Park: Experience the beauty of autumn in California with stunning fall foliage and cool weather.\n- Grand Canyon National Park: Take in the awe-inspiring views of the iconic canyon during the cooler months.\n- New Orleans, LA: Visit the Crescent City for Mardi Gras season and to take in the rich cultural history and unique music scene.\n- Boston, MA: Explore the historic sites and beautiful fall foliage in the \"Beantown\".\n- Miami, FL: Enjoy the warm weather and vibrant nightlife in South Florida.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Name the top cities in France that should not be missed. Include the best aspects of each place as well.",
+    "dataset": "selfinstruct",
+    "output": "The top cities in France that should not be missed include:\n\n- Paris: the capital of France and a world-renowned city of culture, art, and romance. Visitors can explore the iconic landmarks, including the Eiffel Tower and Notre-Dame Cathedral, as well as a range of historic and modern museums and art galleries.\n\n- Lyon: the third-largest city in France and a centre for gastronomy and culture. Visitors can explore the charming Old Town, visit the historic Roman ruins, and try the local specialities, such as cheese and sausage.\n\n- Strasbourg: the capital of the Alsace region and a beautiful medieval city. Visitors can explore the picturesque streets and squares, visit the grand Gothic cathedral, and try the local Alsatian cuisine, which blends French and German influences.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Answer the following question.\n\nHow do I compare strings in Java?\nI've been using the == operator in my program to compare all my strings so far. However, I ran into a bug, changed one of them into .equals() instead, and it fixed the bug.\nIs == bad? When should it and should it not be used? What's the difference?",
+    "dataset": "selfinstruct",
+    "output": "The == operator in Java compares two strings and returns a boolean value (true or false). This operator is generally appropriate for comparing two strings to see if they are equal. However, this operator may return a false positive if the strings contain any character differences (e.g. case sensitivity, whitespace characters, etc.). To avoid this issue, you can use the .equals() method, which compares the content of the strings and returns a true or false value. This method is more accurate and is recommended when comparing strings.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why.\n\nIs there a way of reading one single character from the user input? For instance, they press one key at the terminal and it is returned (sort of like getch()). I know there's a function in Windows for it, but I'd like something that is cross-platform.\nAnswer 1: Here's a link to the ActiveState Recipes site that says how you can read a single character in Windows, Linux and OSX :\nhttps://code.activestate.com/recipes/134892/\nAnswer 2: if you just want to hold the screen so you can see the result on the terminal just write `input()` at the end of the code and it will hold the screen",
+    "dataset": "selfinstruct",
+    "output": "Answer 2 is correct. If the user wants to read a single character from the terminal, they can use the `input()` function at the end of the code to hold the screen. This is cross-platform and does not require any external libraries.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given two questions. Check if they are duplicates.\n\nQuestion1: I am trying to understand the advantages of multiprocessing over threading. I know that multiprocessing gets around the Global Interpreter Lock, but what other advantages are there, and can threading not do the same thing?\nQuestion2: I am learning how to use the threading and the multiprocessing modules in Python to run certain operations in parallel and speed up my code.\nI am finding this hard (maybe because I don't have any theoretical background about it) to understand what the difference is between a threading.Thread() object and a multiprocessing.Process() one.\nAlso, it is not entirely clear to me how to instantiate a queue of jobs and having only 4 (for example) of them running in parallel, while the other wait for resources to free before being executed.\nI find the examples in the documentation clear, but not very exhaustive; as soon as I try to complicate things a bit, I receive a lot of weird errors (like a method that can't be pickled, and so on).\nSo, when should I use the threading and multiprocessing modules?\nCan you link me to some resources that explain the concepts behind these two modules and how to use them properly for complex tasks?",
+    "dataset": "selfinstruct",
+    "output": "Question1: Yes, this question is a duplicate of [What are the advantages of multiprocessing over threading in Python?](https://stackoverflow.com/questions/4836304/what-are-the-advantages-of-multiprocessing-over-threading-in-python)\nQuestion2: No, this question is not a duplicate of any other question.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Design a programming problem related to the subject that has been given to you. Use some examples and constraints to improve your question.\n\nDynamic Programming",
+    "dataset": "selfinstruct",
+    "output": "Consider the following programming problem related to dynamic programming:\n\nGiven a grid of n x m cells, find the minimum number of steps required to visit every cell in the grid.\n\nThis problem can be solved with dynamic programming. First, define a function that represents the minimum number of steps required to visit a grid:\n\nminSteps(n, m) {\n    if (n == 0 || m == 0) {\n        return 0;\n    }\n    const steps = [];\n    for (let i = 0; i < n; i++) {\n        for (let j = 0; j < m; j++) {\n            steps.push(i + \":\" + j);\n        }\n    }\n    function minStepsRecursive(n, m, steps) {\n        if (n == 0 && m == 0) {\n            return steps;\n        }\n        let minSteps = Infinity;\n        for (let i = 0; i < n; i++) {\n            for (let j = 0; j < m; j++) {\n                let step = i + \":\" + j;\n                if (step < minSteps) {\n                    minSteps = step;\n                }\n            }\n        }\n        return minSteps;\n    }\n    return minStepsRecursive(n, m, steps);\n}\n\nThen, the solution for the problem can be obtained by calling the function on the grid:\n\nminSteps(n, m);",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide a Java solution to the following problem.\n\nGiven an integer n, return true if it is a power of three. Otherwise, return false.\nAn integer n is a power of three, if there exists an integer x such that n == 3^x.\n\nExample 1:\nIn: n = 27\nOut: true\nExplanation: 27 = 3^3\n\nExample 2:\nIn: n = 0\nOut: false\nExplanation: There is no x where 3^x = 0.\n\nExample 3:\nIn: n = -1\nOut: false\nExplanation: There is no x where 3x = (-1).\n \nConstraints:\n-231 <= n <= 231 - 1\nFollow up: Could you solve it without loops/recursion?",
+    "dataset": "selfinstruct",
+    "output": "Yes, the following Java solution can be used to determine whether a given integer n is a power of three, without using loops or recursion.\n\npublic static boolean isPowerOfThree(int n) {\n    if (n < 231) {\n        return n == 3 ^ (n - 1);\n    } else {\n        return false;\n    }\n}",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Think of topics that are most common in classic interview questions for a job in computer science.",
+    "dataset": "selfinstruct",
+    "output": "Topics that are most common in classic interview questions for a job in computer science include:\n\n- Programming languages and technologies: (e.g. Java, Python, C++, JavaScript, HTML, CSS, etc.)\n- Software development life cycle: (e.g. agile methods, scrum, design patterns, debugging, etc.)\n- Computing fundamentals: (e.g. data structures and algorithms, operating systems, networking, computer security, etc.)\n- Software architecture: (e.g. scalability, performance, reliability, etc.)\n- Problem-solving and troubleshooting: (e.g. logical thinking, analysis, and debugging techniques)\n- Technical expertise and experience: (e.g. previous projects, successes and challenges, technological knowledge, etc.)\n- Professional experience: (e.g. work history, leadership, teamwork, etc.)\n- Industry trends and developments: (e.g. recent technological advancements, changes in the market, etc.)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You will need to guide this person through the scenario they have described for the interview.\n\nFinally! After a while of shooting in the dark and frantically fiddling with sample inputs on the whiteboard, you've came up with an algorithm for solving the coding question your interviewer gave you.\nWhew. Such a relief to have a clear path forward. To not be flailing anymore.\nNow you're cruising, getting ready to code up your solution.\nWhen suddenly, your interviewer throws you a curve ball.\n\"What if we thought of the problem this way?\"\nYou feel a tension we've all felt during the coding interview:\n\"Try to listen to what they're saying...but don't lose your train of thought...ugh, I can't do both!\"",
+    "dataset": "selfinstruct",
+    "output": "Ok, here's what I'm hearing: this problem can be approached from the lens of optimizing resource utilization. So, instead of focusing on a direct solution to the coding question, let's look at ways to optimize the algorithm to make the best use of available resources (e.g. time, memory, and computing power). What are some possible approaches to tackling this?\n\nHere are a few ideas to get the conversation started:\n\n- Analyzing the problem to identify the most important factors for success.\n- Using data-driven insights to optimize the algorithm's structure and parameters.\n- Employing distributed computing techniques to partition the problem and share the workload among resources.\n- Leveraging model-based approaches, such as machine learning, to improve performance.\n- Exploring alternative strategies, such as parallel and asynchronous processing, to optimize execution.\n- Evaluating the performance of the algorithm under different operating conditions.\n- Monitoring the algorithm's progress and making adjustments as necessary.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;",
+    "dataset": "selfinstruct",
+    "output": "Person\n| FirstName | LastName | City | State |\n| John      | Smith     | New York | California |\n| Jane      | Doe       | Chicago | Illinois |\n| Mike      | Jones     | Houston | Texas |\nNull        | Null      | Null    | Null     |",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "The given article should be checked for any scientific errors and corrected if necessary.\n\nZinc is an essential mineral that is required for good health. It is involved in many biochemical processes in the body and is necessary for the proper functioning of the immune system. Excess zink is not harmful as it is excreted in the urine.",
+    "dataset": "selfinstruct",
+    "output": "Zinc is an essential mineral that is required for good health. It is involved in many biochemical processes in the body and is necessary for the proper functioning of the immune system. Excess zinc is not harmful and is excreted in the urine.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Summarize the article you have been given in a brief manner.\n\nMathematics and art are related in a variety of ways. Mathematics has itself been described as an art motivated by beauty. Mathematics can be discerned in arts such as music, dance, painting, architecture, sculpture, and textiles. This article focuses, however, on mathematics in the visual arts.\nMathematics and art have a long historical relationship. Artists have used mathematics since the 4th century BC when the Greek sculptor Polykleitos wrote his Canon, prescribing proportions conjectured to have been based on the ratio 1:√2 for the ideal male nude. Persistent popular claims have been made for the use of the golden ratio in ancient art and architecture, without reliable evidence. In the Italian Renaissance, Luca Pacioli wrote the influential treatise De divina proportione (1509), illustrated with woodcuts by Leonardo da Vinci, on the use of the golden ratio in art. Another Italian painter, Piero della Francesca, developed Euclid's ideas on perspective in treatises such as De Prospectiva Pingendi, and in his paintings. The engraver Albrecht Dürer made many references to mathematics in his work Melencolia I. In modern times, the graphic artist M. C. Escher made intensive use of tessellation and hyperbolic geometry, with the help of the mathematician H. S. M. Coxeter, while the De Stijl movement led by Theo van Doesburg and Piet Mondrian explicitly embraced geometrical forms. Mathematics has inspired textile arts such as quilting, knitting, cross-stitch, crochet, embroidery, weaving, Turkish and other carpet-making, as well as kilim. In Islamic art, symmetries are evident in forms as varied as Persian girih and Moroccan zellige tilework, Mughal jali pierced stone screens, and widespread muqarnas vaulting.",
+    "dataset": "selfinstruct",
+    "output": "Mathematics and art are closely intertwined, as mathematics has been used to inspire and create artwork throughout history. Examples include the Greek sculptor Polykleitos' Canon prescribing proportions based on the ratio 1:√2 for the ideal male nude in the 4th century BC, Leonardo da Vinci's illustrations for Luca Pacioli's treatise De divina proportione (1509) on the use of the golden ratio in art, and Piero della Francesca's development of Euclid's ideas on perspective in treatises such as De Prospectiva Pingendi and in his paintings. Additionally, Albrecht Dürer made many references to mathematics in his work Melencolia I, and the graphic artist M. C. Escher made intensive use of tessellation and hyperbolic geometry with the help of the mathematician H. S. M. Coxeter in his art. Mathematics has also inspired textile arts such as quilting, knitting, cross-stitch, crochet, embroidery, weaving, Turkish and other carpet-making, as well as kilim in Islamic art. Symmetries are evident in forms as varied as Persian girih and Moroccan zellige tilework, Mughal jali pierced stone screens, and widespread muqarnas vaulting.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Improve the article using your knowledge of the topic in order to make it more informative.\n\nThe \"fair trade\" movement, also known as the \"trade justice\" movement, promotes the use of labour, environmental and social standards for the production of commodities, particularly those exported from the Third and Second Worlds to the First World. Such ideas have also sparked a debate on whether trade itself should be codified as a human right.",
+    "dataset": "selfinstruct",
+    "output": "The \"fair trade\" movement, also known as the \"trade justice\" movement, aims to promote the use of labour, environmental and social standards for the production of commodities, particularly those exported from the Third and Second Worlds to the First World. This includes a focus on fair wages, safe working conditions, sustainable farming practices, and the protection of human rights. The movement has also sparked a debate on whether trade itself should be codified as a human right. Additionally, fair trade initiatives strive to increase transparency in the supply chain, empower local communities, and reduce economic inequalities between countries. Furthermore, the fair trade movement is driven by an ethical vision to promote sustainable and equitable development, as well as to protect the human rights of vulnerable populations.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make the article available in a second language by translating it into it.\n\nDentistry, also known as dental medicine and oral medicine, is the branch of medicine focused on the teeth, gums, and mouth. It consists of the study, diagnosis, prevention, management, and treatment of diseases, disorders, and conditions of the mouth, most commonly focused on dentition (the development and arrangement of teeth) as well as the oral mucosa. Dentistry may also encompass other aspects of the craniofacial complex including the temporomandibular joint. The practitioner is called a dentist.\nTranslate to French:",
+    "dataset": "selfinstruct",
+    "output": "La dentisterie, ou dental médecine et médecine orale, est la branche de la médecine consacrée aux dents, aux gombes et à la bouche. Elle comprend l'étude, le diagnostic, la prévention, la gestion et le traitement des maladies, des troubles et des conditions du mouth, le plus souvent concentrée sur la dentition et l'oral mucosa. La dentisterie peut également inclure d'autres aspects du complexe crânio-faciale, tels que le temporomandibulaire. Le praticien est appelé un dentiste.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "An evaluation of the article's quality should be carried out. In order to do so, you should review the quality of the writing and the explanation of the topic.\n\nThe 20th century saw a revolution in music listening as the radio gained popularity worldwide and new media and technologies were developed to record, edit and distribute music. Music performances became increasingly visual with the broadcast and recording of performances.\n20th-century music brought new freedom and wide experimentation with new musical styles and forms that challenged the accepted rules of music of earlier periods. The invention of musical amplification and electronic instruments, especially the synthesizer, in the mid-20th century revolutionized classical and popular music, and accelerated the development of new forms of music.",
+    "dataset": "selfinstruct",
+    "output": "The article is well-written and clearly explains the impact of 20th-century music on music listening and musical innovation. The history of music in the 20th century is covered in a concise and organized manner, and the influence of new technologies and media on music performance and distribution is clearly outlined. The explanation of musical experimentation and the challenging of traditional rules is also well-explained. Furthermore, the invention of musical amplification and electronic instruments is discussed in detail, providing a valuable insight into the impact of these technologies on classical and popular music. Overall, the article is a highly informative and engaging overview of 20th-century music.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Please answer the following question based on the information provided in the article.\n\nDevelopment studies is an interdisciplinary branch of social science. Development studies is offered as a specialized master's degree in a number of reputed universities around the world. It has grown in popularity as a subject of study since the early 1990s, and has been most widely taught and researched in developing countries and countries with a colonial history, such as the UK, where the discipline originated.  Students of development studies often choose careers in international organisations such as the United Nations, World Bank, non-governmental organisations (NGOs), media and journalism houses, private sector development consultancy firms, corporate social responsibility (CSR) bodies and research centers.\nWhat are some popular careers for students of development studies?",
+    "dataset": "selfinstruct",
+    "output": "Some popular careers for students of development studies include:\n\n- International organisations, such as the United Nations, World Bank, non-governmental organisations (NGOs), media and journalism houses, private sector development consultancy firms, corporate social responsibility (CSR) bodies and research centers.\n- Policy making and governance, including roles in national and local government, and international organisations.\n- Research, including academic and independent research, as well as research for non-governmental organisations and private sector bodies.\n- Teaching and lecturing, at universities and other educational institutions.\n- Consultancy, including advisory work for private and public sector clients.\n- CSR, including roles in corporate responsibility, sustainability and environmental management.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.\n\nProgramming for Everybody (Getting Started with Python)",
+    "dataset": "selfinstruct",
+    "output": "Syllabus for Programming for Everybody (Getting Started with Python):\n\n- Introduction to Python: Overview of the language, features, and applications\n- Variables and Data Types: Understanding the different data types and how to declare variables\n- Operators and Control Flow: Understanding operator semantics and constructs such as if-else and for-loop statements\n- Functions and Modules: Creating functions and accessing external modules\n- Data Analysis and Visualization: Performing data analysis and creating visualizations with Python libraries\n- Debugging and Optimization: Debugging techniques and strategies for optimizing your code\n- Applications and Future Trends: Exploring real-world use cases and upcoming trends in Python development",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "List the personality traits that are required to be successful in the given job.\n\nSocial Media Marketer",
+    "dataset": "selfinstruct",
+    "output": "Personality traits that are required to be successful in the role of Social Media Marketer include:\n\n- Creative thinking: the ability to come up with innovative strategies to engage audiences and drive traffic to the brand's platform.\n- Communication: the ability to craft clear, engaging, and engaging messaging to attract and engage an audience.\n- Analytical thinking: the ability to track, measure, and analyze the performance of campaigns and strategies.\n- Problem-solving: the ability to identify and resolve issues related to the marketing campaign.\n- Collaboration: the ability to work with other departments to ensure coordinated and effective marketing strategies.\n- Initiative: the ability to take ownership of projects and proactively seek out new opportunities to grow the brand.\n- Attention to detail: the ability to ensure that messages and content are accurate and consistent with the brand's values.\n- Adaptability: the ability to stay up-to-date with the latest trends and technologies in social media marketing.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Please list the courses that someone interested in the first course might like.\n\nBitcoin and Cryptocurrency Technologies",
+    "dataset": "selfinstruct",
+    "output": "Some courses that someone interested in the first course might like include:\n\n- Introduction to Bitcoin and Cryptocurrency Technologies\n- Blockchain Fundamentals\n- Cryptography and Security for Cryptocurrencies\n- Networks and Protocols for Cryptocurrency Systems\n- Smart Contracts and Decentralized Applications\n- Economics of Cryptocurrencies and Blockchains\n- Legal Aspects of Cryptocurrencies and Blockchains",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Come up with the courses that one is supposed to take in order to be an expert in a given field.\n\nGraphic Design",
+    "dataset": "selfinstruct",
+    "output": "Courses necessary for becoming an expert in graphic design could include:\n\n- Fundamental design principles and theories\n- Color theory and practice\n- Typeface selection and usage\n- Layout and composition\n- Digital illustration and drawing\n- Photoshop and Adobe Illustrator training\n- Web and app design\n- User experience (UX) design\n- Visual communication\n- Branding and identity design\n- Print design\n- Advertising and marketing\n- Video and animation\n- Professional portfolio development",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Create a daily itinerary based on the given information.\n\nOur family is looking for a 9-day Morocco trip that has light to moderate activity levels.",
+    "dataset": "selfinstruct",
+    "output": "Day 1: Arrive in Marrakech and explore the city.\nDay 2: Visit the Djemaa el-Fna square and the famous souks.\nDay 3: Drive to the Atlas Mountains and visit a traditional Berber village.\nDay 4: Hike through the mountains and enjoy the scenic views.\nDay 5: Visit the ancient city of Fes and explore the medina.\nDay 6: Explore the ruins of the Roman city of Volubilis.\nDay 7: Visit the ancient city of Meknes and take a walking tour.\nDay 8: Drive to the coast and visit the city of Casablanca.\nDay 9: Explore the city and visit the iconic Hassan II Mosque.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give students tips on how to keep their nerves under control during class presentations.",
+    "dataset": "selfinstruct",
+    "output": "Here are some tips for keeping nerves under control during class presentations:\n\n- Practice your presentation in advance so you are familiar with the content and the layout.\n- Know your audience and tailor your presentation to their needs and interests.\n- Take a few deep breaths to center yourself before beginning.\n- Focus on the audience and avoid looking at the floor or at your slides.\n- Speak at a slow and relaxed pace.\n- Use appropriate body language to communicate your points clearly.\n- Be open to feedback and listen to what the audience has to say.\n- End your presentation with a clear call to action and a thank you.\n- Relish the opportunity to share your ideas and engage with the audience.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You can easily make your holidays more eco-friendly by following these simple steps:",
+    "dataset": "selfinstruct",
+    "output": "Here are some simple steps you can take to make your holidays more eco-friendly:\n\n- Reduce your travel footprint by taking public transport, car sharing, or walking or biking to your destinations where possible.\n- Use reusable containers, bags, and cups to reduce waste.\n- Choose local and sustainably-sourced products and services to support local communities and reduce carbon emissions from transport.\n- Turn off electronics and appliances when they are not in use.\n- Recycle and reuse any materials that can't be recycled in your area.\n- Follow sustainable tourism practices, such as respecting local culture and the environment.\n- Be mindful of your consumption of natural resources, such as water and energy.\n- Engage in environmental activism and be an advocate for sustainability.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Think of an idea to help you win a challenge given to you. Write the steps you need to take to develop the idea as well.\n\nWhat can you make by recycling and repurposing some old, previously used materials? We want to see it!\nProjects must incorporate some kind of used materials - take that old used thing, and turn it into something new and different!\nE-waste is a huge problem. What can you make using old electronics and other salvageable electronic materials? \nWe have a special judges prize for our favorite Instructable that incorporates or is related to reusing e-waste.\nBe smart and be safe; note that potentially deadly projects (like Lichtenberg/fractal wood burning machines) will not be allowed to be published or submitted to this contest.",
+    "dataset": "selfinstruct",
+    "output": "Here are the steps to take to develop an idea to win a challenge given to you:\n\n1. Identify the challenge: determine what the challenge requires you to accomplish and what the judging criteria will be.\n\n2. Brainstorm ideas: generate as many ideas as possible to solve the challenge.\n\n3. Refine the ideas: evaluate the ideas and select the one that you feel is the most effective and creative solution.\n\n4. Develop the idea: outline the steps needed to implement the idea and create a plan for how the idea can be realized.\n\n5. Research resources: research available resources and materials that can be used to implement the idea.\n\n6. Create a prototype: build a prototype of the idea and test it to ensure it meets the challenge's requirements.\n\n7. Document the project: write an Instructable that documents the project and outlines the steps needed to replicate it.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "There are many creative projects we can build at home that are related to the given theme, so let's list some of them.\n\nTheme: Circuits",
+    "dataset": "selfinstruct",
+    "output": "Some creative projects related to circuits that can be built at home include:\n\n- A LED light display: A simple circuit that allows you to control a array of LEDs to create a colorful light display.\n- A sound activated circuit: A circuit that detects sound and triggers a response, such as a light or music.\n- A remote controlled robot: A circuit that allows you to control a robot with a remote control.\n- A solar-powered project: A circuit that uses solar cells to power a project, such as a garden light or weather station.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a list of the materials that will be required to build the given tool.\n\nCoffee Darkness Meter",
+    "dataset": "selfinstruct",
+    "output": "Materials needed to build a Coffee Darkness Meter include:\n\n- A light-sensitive microcontroller, such as an Arduino Uno.\n- A display screen to show the measured darkness level.\n- A photoresistor or light sensor to measure the light level.\n- A power supply, such as a 9V battery.\n- Coding and software to process the measured data and display the results on the screen.\n- A case or enclosure to protect the microcontroller and other components.\n- Any additional components necessary to complete the project, such as wires and connectors.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide a detailed explanation of the steps that are required in order to construct the given project.\n\nSteam Engine Using an Empty Beer Can",
+    "dataset": "selfinstruct",
+    "output": "Here are the steps for constructing a steam engine using an empty beer can:\n\n1. Cut a square hole in the top of the beer can and remove the ring around the bottom of the can.\n\n2. Insert a threaded rod through the hole in the top of the can and secure it with nuts on either side.\n\n3. Mount a small pan under the can to catch the condensed steam.\n\n4. Connect a small rubber hose to the threaded rod and insert the other end of the hose into the pan.\n\n5. Insert a piece of cardboard or plastic wrap around the threaded rod to act as a seal and prevent loss of steam.\n\n6. Place a small amount of water in the pan and turn on the hose to create a steam loop.\n\n7. The steam will rotate the threaded rod, which in turn will drive a paddle or fan mechanism to generate power.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Estimate the cost of supplies required to create the given project and calculate the total cost.\n\nDIY Water Chiller\nRequired items are: Ice-maker, Icebox/cooler, Temperature regulator, Aquarium pump x2, 12V power supply",
+    "dataset": "selfinstruct",
+    "output": "The cost of supplies required for the DIY Water Chiller project includes:\n\n- Ice-maker: $50-$150\n- Icebox/cooler: $25-$75\n- Temperature regulator: $10-$20\n- Aquarium pumps x2: $10-$20\n- 12V power supply: $10-$20\n\nThe total cost for the supplies needed for the DIY Water Chiller project is $80-$200.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Answer the following literature question as accurately as possible based on your knowledge of literature for high school students.\n\nWhat does the green light symbolize at the end of the book?",
+    "dataset": "selfinstruct",
+    "output": "At the end of the novel The Great Gatsby by F. Scott Fitzgerald, the green light symbolizes the hope and aspiration for a better future that Gatsby has worked so hard to achieve. The green light is visible from Gatsby's mansion and serves as a beacon of hope and success, representing Gatsby's dream of reuniting with Daisy and restoring his relationship with her. However, the green light is also tainted with sadness, as Gatsby is unable to achieve his goal and Daisy is unavailable to him. Therefore, the green light symbolizes the aspirations and dreams of the American Dream, as well as the difficulty in achieving them.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Develop a mental exercise that can help people manage their anxiety and explain how it works.",
+    "dataset": "selfinstruct",
+    "output": "One mental exercise that can help people manage their anxiety is mindful breathing. This exercise involves slow, deep breathing that is focused on aware and mindful breathing. Individuals should breathe in through the nose for a few seconds and breathe out through the mouth for a few seconds, focusing on the sensation of the air entering and leaving the body. This practice helps to focus attention on the present moment and reduce stress and anxiety by increasing awareness of the body's physical sensations and the present environment. Additionally, the regular and slow breathing pattern helps to reduce cortisol, the stress hormone, and improve overall mental health.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give me an idea of the mental exercises you do to inspire yourself.",
+    "dataset": "selfinstruct",
+    "output": "Some mental exercises you can do to inspire yourself include:\n\n- Meditation: Practice mindful meditation to center yourself and increase awareness of the present moment.\n- Visualization: Visualize your ideal future self and the steps you can take to get there.\n- Self-reflection: Reflect on your strengths, areas for growth, and lessons learned from past experiences.\n- Affirmations: Create positive affirmations to remind yourself of your potential and goals.\n- Reading: Read books and articles to expand your knowledge and inspire new ideas.\n- Listening: Listen to podcasts and audio programs to hear inspiring stories and insights.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a list of outdoor activities that are suitable for the given weather condition.\n\nTemperature: 57 F, Showers",
+    "dataset": "selfinstruct",
+    "output": "Outdoor activities suitable for 57 F, showers include:\n\n- Hiking\n- Biking\n- Walking\n- Running\n- Camping\n- Fishing\n- Kayaking\n- Canoeing\n- Horseback riding\n- Geocaching\n- Disc golf\n- Nature photography\n- Hunting\n- Birdwatching\n- Swimming\n- Surfing\n- Skating\n- Snowshoeing\n- Ice fishing",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Please provide us with a list of the best conservation starter questions related to the weather.",
+    "dataset": "selfinstruct",
+    "output": "Some examples of useful conservation starter questions related to the weather include:\n\n- What weather patterns have been observed in your region recently?\n- What challenges has the changing climate brought to your community?\n- What strategies have been used to adapt to the changing climate?\n- What are the potential impacts of climate change on your environment?\n- What can be done to reduce the human impact on the climate?\n- What are the local and global efforts to combat climate change?\n- What are the potential future consequences of climate change?",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "In relation to the given weather scenario, give some tips on how to adjust the travel plans with it.\n\na sudden temperature change",
+    "dataset": "selfinstruct",
+    "output": "If a sudden temperature change is anticipated, here are some tips for adjusting travel plans:\n\n- Check the local weather forecast to understand the extent of the temperature change and when it will occur.\n- Research alternative activities that could still be enjoyed in the changed climate, such as visiting museums, going to parks, or exploring local food scenes.\n- Be mindful of any health and safety considerations, such as increased risk of slip and fall hazards due to icy roads or walkways.\n- Plan outdoor activities for the warmer time of the day to take advantage of maximum sunshine and warmer temperatures.\n- Dress appropriately for the changed climate, including layers for flexibility and warmth.\n- Be aware of any local traffic and transportation disruptions that the temperature change may cause.\n- Research any special policies and procedures for changing or cancelling travel plans due to the temperature change.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a to-do list based on the given information.\n\nDaily tasks in the pharmacy",
+    "dataset": "selfinstruct",
+    "output": "Daily tasks in the pharmacy could include:\n\n- Checking in incoming prescriptions and dispensing medications according to doctor's orders.\n- Answering customer inquiries about medications and treatment plans.\n- Updating medical records and monitoring for potential drug interactions.\n- Researching the most recent medical research and treatment options.\n- Educating customers on proper medication use and safety.\n- Creating and managing patient drug plans.\n- Ensuring that all medications meet quality and safety standards.\n- Monitoring expiration dates and maintaining accurate inventory.\n- Participating in clinical trials and research studies.\n- Ensuring that the pharmacy is in compliance with federal and state laws and regulations.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Design a template table for keeping track of all subscriptions.",
+    "dataset": "selfinstruct",
+    "output": "A template table for keeping track of all subscriptions could include the following columns:\n\n- Subscription name: A clear and concise name for the subscription.\n- Subscriber: The name of the subscriber who signed up for the subscription.\n- Date of subscription: The date that the subscription was initiated.\n- Price: The price of the subscription.\n- Description: A description of the subscription and its benefits.\n- Cancellation policy: The policies and procedures for canceling the subscription.\n- Last payment date: The date of the most recent payment for the subscription.\n- Expiration date: The date upon which the subscription expires or can be cancelled.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Plan an agenda for the daily standup meetings. Assign a time duration to each topic on the agenda.",
+    "dataset": "selfinstruct",
+    "output": "An agenda for daily standup meetings could include:\n\n- Welcome and introductions (5 minutes)\n- Project updates (5 minutes)\n- Blockers and challenges (10 minutes)\n- Plans for the day (10 minutes)\n- Next steps (5 minutes)\n- Closing (5 minutes)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Answer the following question.\n\nHow do you say \"good evening\" in French.",
+    "dataset": "selfinstruct",
+    "output": "Bon soir.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "What sound does this make?\n\n好",
+    "dataset": "selfinstruct",
+    "output": "This sound is \"hao\", which is pronounced as \"hao\" in Mandarin Chinese.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give a grammar tip on how to end a German verb.",
+    "dataset": "selfinstruct",
+    "output": "In German, verbs usually end in -en or -t. For example, schlafen ('sleep') and gehen ('go'). Exceptions to this rule include certain verbs that end in -ieren ('to perform'), -ieren ('to cause') and -ieren ('to be').",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "This is a test for the reading ability of French. Read the given story carefully, and then answer the question in the end.\n\nLucie est à la maison avec sa petite-fille, Lin.\nLucie: Oh, non! Nous n'avons pas de pain!\nLin: Ah! Tu vas au supermarché?\nLucie: Oui, je veux une baguette pour mon sandwich.\nDo Lin and Lucie have a lot of bread?",
+    "dataset": "selfinstruct",
+    "output": "No, Lin and Lucie do not have a lot of bread. Lucie is going to the supermarket to buy a baguette for her sandwich.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Come up with healthy and easy dinner ideas for weeknights.",
+    "dataset": "selfinstruct",
+    "output": "Healthy and easy dinner ideas for weeknights could include:\n\n- Vegetarian tacos with black beans, corn, and cheese.\n- Vegetable stir-fry with broccoli, carrots, mushrooms, and bell peppers.\n- Quinoa bowls with roasted butternut squash, red onions, and fresh herbs.\n- Grilled salmon with a citrus vinaigrette.\n- Budget-friendly spaghetti and meatballs.\n- Roasted chicken with herb crust.\n- Vegan lasagna made with tofu, marinara sauce, and fresh herbs.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide a cooking hack for improving the flavor of the given food.\n\npopcorn",
+    "dataset": "selfinstruct",
+    "output": "A cooking hack for improving the flavor of popcorn is to season it with a mixture of olive oil, sea salt, and freshly ground black pepper. The olive oil will help to bring out the natural flavor of the corn, the sea salt will enhance the flavor, and the black pepper will give the popcorn a subtle spicy flavor. This hack is simple, effective, and delicious!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a list of snacks and foods to serve as party snacks on a game day!",
+    "dataset": "selfinstruct",
+    "output": "Some ideas for game day party snacks and foods include:\n\n- Vegetable tray with dips (e.g. hummus, guacamole, salsa)\n- Fruit tray\n- Nuts and popcorn\n- Healthy wraps and sandwiches (e.g. turkey wraps, grilled chicken sandwiches)\n- Salads (e.g. Greek salad, Caesar salad)\n- Soups (e.g. vegetable soup, chili)\n- Dippable vegetables (e.g. carrots, broccoli, mushrooms)\n- Gluten-free options\n- Vegan options\n- Non-refrigerated options (e.g. chips, cookies, brownies)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Describe how to prepare the given food in your own words. Note down the ingredients you will need and the steps you will take to prepare them.\n\nChewy Chocolate Chip Cookies",
+    "dataset": "selfinstruct",
+    "output": "To make chewy chocolate chip cookies, you will need:\n\n- 1 ½ cups all-purpose flour\n- 1 teaspoon baking soda\n- 1 teaspoon salt\n- 1 cup butter, softened\n- 1 egg\n- 1 cup dark chocolate chips\n\nTo prepare the cookies, follow the following steps:\n\n1. In a medium bowl, whisk together the flour, baking soda, and salt.\n2. In a large bowl, using a spatula, beat the butter and egg until light and fluffy.\n3. Add the flour mixture and chocolate chips and stir until combined.\n4. Roll the dough into a ball and place on a flat surface.\n5. Flatten the dough with your hands and shape into a rectangle.\n6. Roll the dough from the short end to the long end, creating a 12-inch long rectangle.\n7. Cut the rectangle into 12 equal pieces.\n8. Place the cookies on a baking tray lined with parchment paper.\n9. Bake for 10-12 minutes, or until golden brown.\n10. Allow the cookies to cool before serving. Enjoy!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Suggest a recipe for a vegan dessert.",
+    "dataset": "selfinstruct",
+    "output": "Vegan Chocolate Chip Cookies:\n\nIngredients:\n- 1½ cups all-purpose flour\n- ½ teaspoon baking soda\n- ½ teaspoon cocoa powder\n- 1 teaspoon salt\n- ¾ cup vegan butter/oil\n- ½ cup brown sugar\n- 1 egg substitute\n- 1½ cups raw vegan chocolate chips\n\nInstructions:\n1. In a medium bowl, whisk together the flour, baking soda, cocoa powder, and salt.\n2. In a large bowl, beat the butter/oil and brown sugar until light and fluffy. Add the egg substitute and mix until well combined.\n3. Add the flour mixture and mix until evenly incorporated. Stir in the vegan chocolate chips.\n4. Drop dough by rounded tablespoonfuls onto a parchment-lined baking sheet.\n5. Bake for 10-12 minutes, or until golden brown. Allow to cool before serving. Enjoy!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Design a medium-level sudoku puzzle.",
+    "dataset": "selfinstruct",
+    "output": "A medium-level sudoku puzzle could include:\n\n- Nine 3x3 blocks, each containing nine unique numbers between 1 and 9.\n- Nine unique digits appearing only once in each block.\n- No two digits in the same column, row, or 3x3 block.\n- Each row, column, and 3x3 block containing all nine unique digits.\n- No repeating patterns or arithmetic sequences within the puzzle.\n- No two adjacent digits being equal.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Solve the given Sudoku puzzle.\n\nThe Sudoku puzzle is:\n|1|  |5|  |  |  |  |8|  |\n|  |  |  |  |  |3|  |6|4|\n|8|3|4|6|7|  |9|  |  |\n|2|9|1|  |  |8|3|7|6|\n|  |  |6|  |  |9|8|1|  |\n|  |  |  |  |  |2|  |  |  |\n|  |2|  |  |9|7|6|  |  |\n|5|4|  |  |  |  |  |9|8|\n|6|1|  |  |  |5|4|3|7|",
+    "dataset": "selfinstruct",
+    "output": "The solution for the Sudoku puzzle is:\n\n1. 2\n2. 9\n3. 1\n4. 8\n5. 5\n6. 3\n7. 6\n8. 9\n9. 7\n10. 4",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Think of a motivational quote that you have read in a book. Try to keep it positive and sweet.",
+    "dataset": "selfinstruct",
+    "output": "\"The only limit to our potential is the limit of our own imagination.\" - John C. Maxwell",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Choose the best books from the given genre.\n\nCrime & Mystery",
+    "dataset": "selfinstruct",
+    "output": "Best books from the crime & mystery genre include:\n\n- Agatha Christie's \"Murder on the Orient Express\" (1934).\n- Raymond Chandler's \"The Big Sleep\" (1939).\n- Dorothy L. Sayers's \"Murder in Miniature\" (1930).\n- Ian Rankin's \"The Complaints\" (2009).\n- Patricia Highsmith's \"The Talented Mr. Ripley\" (1955).\n- Colin Dexter's \"The Last Coin\" (1989).",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give a brief description of the book that you are given.\n\nMatilda",
+    "dataset": "selfinstruct",
+    "output": "Matilda is a charming and captivating novel by Roald Dahl about a smart and curious young girl who is gifted with extraordinary powers. When Matilda is born into a family of neglectful and ill-mannered adults, she discovers the power of her own imagination to change her life for the better. With her newfound powers, she embarks on a journey of self-discovery and empowerment, confronting the prejudices and injustices of her environment along the way. A timeless classic, Matilda celebrates the power of intelligence and creativity, and serves as a reminder of the importance of fighting for what is right.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "In the event that a person enjoyed the book that was given, please suggest other books that they might also like.\n\nThe Great Gatsby",
+    "dataset": "selfinstruct",
+    "output": "Other books that may be of interest to the person who enjoyed The Great Gatsby include:\n\n- F. Scott Fitzgerald's other works, such as His Personal History and The Beautiful and the Damned.\n- Books by other authors from the Roaring Twenties, such as Ernest Hemingway's The Sun Also Rises and Edith Wharton's The Age of Innocence.\n- Modern classics, such as To Kill a Mockingbird by Harper Lee and 1984 by George Orwell.\n- Novels set in the Jazz Age, such as ZZ Packer's Drinking Coffee Elsewhere and Michael Cunningham's The Hours.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Indicate the genre of the book to which it belongs.\n\nLove in the Time of Cholera",
+    "dataset": "selfinstruct",
+    "output": "Fiction",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Solve this equation.\n\nx^3 - 4x^2 + 6x - 24 = 0",
+    "dataset": "selfinstruct",
+    "output": "The solution of the equation x^3 - 4x^2 + 6x - 24 = 0 is x = -4, x = 1/3, and x = 2.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Prove the given statement using your information.\n\n\"If x is a positive integer or a solution to x+3>4, then x>0 and x>12.\"",
+    "dataset": "selfinstruct",
+    "output": "To prove the statement, we will first assume that x is a positive integer or a solution to x+3>4. Then, we will compare x to 0 and 12 to show that x>0 and x>12.\n\nFor x>0, this is true because x is a positive integer.\n\nFor x>12, this is also true as x+3>4 and thus x is a solution to x+3>4.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Based on the facts that have been provided, prove the following statement.\n\nStatement: \"For every integer k, k^2 + 2k + 1 ≥ 0\"\nFact: The square of any real number is non-negative.",
+    "dataset": "selfinstruct",
+    "output": "The statement \"For every integer k, k^2 + 2k + 1 ≥ 0\" is true due to the fact that the square of any real number is non-negative.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Verify the correctness of the given statement.\n\n\"For all integers j and k, if j and k are odd, then jk is odd.\"",
+    "dataset": "selfinstruct",
+    "output": "True. According to the multiplication table, for all integers j and k, if j and k are odd, then jk is also odd.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide a formula for computing the nth term in the given sequence\n\n5, 14, 23, 32, 41, ...",
+    "dataset": "selfinstruct",
+    "output": "The nth term in the sequence is given by an(n) = n(n + 1)/2, where a(n) is the nth term and n is the index of the term.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Create a table listing all games that meet the specified criteria in the National Football League. Use the season, local time, game, and score as columns of the table.\n\nRavens home games in 2011",
+    "dataset": "selfinstruct",
+    "output": "Season                    Local Time            Game                Score\n2011 NFL Regular Season   1:00 PM            Ravens vs. Steelers    13-10\n4:05 PM            Ravens vs. Browns      14-6\n8:20 PM            Ravens vs. Bengals     24-10",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Using a table, compare the career overviews of the given players in Major League Baseball. Use \"|\" for separating the columns in the table.\n\nDerek Jeter, Albert Pujols",
+    "dataset": "selfinstruct",
+    "output": "Player | Career Overview\n----- | ----------------\nDerek Jeter | 19-year career with the New York Yankees, considered to be one of the greatest players of all time. Notable achievements include 5 World Series championships, 5 Gold Glove Awards, and 14 All-Star selections.\nAlbert Pujols | 19-year career with the St. Louis Cardinals, one of the most decorated players of his generation. Awards include 3 MVP awards, 10 Gold Glove Awards, and 3 NL batting championships.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You will be tested on your knowledge of classic witticisms and aphorisms by completing the given aphorism. Write the original quote as the answer.\n\ntwo things are infinite",
+    "dataset": "selfinstruct",
+    "output": "Two things are infinite: the universe and human stupidity.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "A list of all movies that meet the criteria given should be compiled.\n\nmovies directed by Spike Lee by release date",
+    "dataset": "selfinstruct",
+    "output": "A list of all movies that meet the criteria given includes:\n\n* She's Gotta Have It (1986)\n* Do the Right Thing (1989)\n* Jungle Fever (1991)\n* Malcolm X (1992)\n* Clockers (1995)\n* Summer of Sam (1999)\n* 25th Hour (2002)\n* She Hate Me (2004)\n* Inside Man (2006)\n* Miracle at St. Anna (2008)\n* Red Hook Summer (2012)\n* Chi-Raq (2015)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Using a given amount, determine an appropriate tip.\n\n14% tip on $47.50",
+    "dataset": "selfinstruct",
+    "output": "An appropriate tip for $47.50 would be $6.90.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Identify all words that match the pattern given.\n\nH_AR_",
+    "dataset": "selfinstruct",
+    "output": "The words that match the pattern H_AR_ are hate, harm, and harass.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Come up with words that rhyme with the given word.\n\ninstruct",
+    "dataset": "selfinstruct",
+    "output": "Words that rhyme with instruct are: \n- preach\n- cheer\n- steer\n- heal\n- seal\n- peel\n- leach",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Look for poems that mention the given object or character. The names of the poems and their poets should be written.\n\nsanta claus",
+    "dataset": "selfinstruct",
+    "output": "Two poems that mention Santa Claus are \" 'Twas the Night Before Christmas\" by Clement C. Moore and \" 'Twas the First Noel\" by Henry Wadsworth Longfellow.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Respond to the last text in the chat using the correct emojis to convey your feelings.\n\n+ Hey, how did your exams go?\n- They were alright. I'm just glad they're over.\n+ Yeah, I know how you feel. I'm just glad I don't have to worry about them anymore.",
+    "dataset": "selfinstruct",
+    "output": "🙂 I'm so relieved they're behind us!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "For answering the chat, think of a funny response you can use.\n\n+ how are you?",
+    "dataset": "selfinstruct",
+    "output": "I'm doing great, how about you? Did you enjoy your weekend?\n\n+ I'm having a great time, the weather was perfect and I went to a fun concert with some friends. How about you?",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "The last message in the chat is a partial response. You should complete and rewrite it.\n\n+ What are going to do now?\n- I don't know. I had to give up my dream of being a mathematician.\n+ Why",
+    "dataset": "selfinstruct",
+    "output": "I had to give up my dream of being a mathematician due to financial constraints and lack of family support. I'm not sure what my next step will be, but I'm looking for new opportunities and hoping to find something that reflects my interests and values.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Change the response to have a more empathic tone in the chat.\n\n+ How are you doing?\n- Fine, I had a bunch of problems today.\n+ What kind of problems?",
+    "dataset": "selfinstruct",
+    "output": "I'm so sorry to hear that. What happened?",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Currently, there is a chat in which people are arranging a meeting in the future. Retrieve the meeting information from the conversation.\n\nPerson 1: Hey, when are you free? I'd like to meet up.\nPerson 2: I'm free tomorrow afternoon.\nPerson 1: Great, what time?\nPerson 2: How about 3 pm?\nPerson 1: I have another meeting at that time. what about 5 pm?\nPerson 2: That works. Where should we meet?\nPerson 1: How about the coffee shop on Main Street?\nPerson 2: Sounds good. I've heard they have great coffee there. See you tomorrow!",
+    "dataset": "selfinstruct",
+    "output": "The meeting information included in the chat is:\n- Date: Tomorrow, May 12th\n- Time: 5 pm\n- Location: Coffee shop on Main Street",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "The given text must be classified as offensive or not offensive.\n\nYou acted really crazy last night.",
+    "dataset": "selfinstruct",
+    "output": "Offensive",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give a brief summary of the intention of the dialogue that just happened.\n\nCustomer: Hi there, I'm looking for a new phone.\nAI: Hi! What type of phone are you looking for?\nCustomer: I'm not sure. Maybe something with a good camera?\nAI: We have a few phones with great cameras. Would you like to see some options?\nCustomer: Yeah, that would be great.",
+    "dataset": "selfinstruct",
+    "output": "The intention of the dialogue was for the AI to help the customer find a new phone with a good camera.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Describe the content of the article in a brief manner.\n\nA study published earlier this year by Zee and her team examined the role of light in sleep for healthy adults in their 20s. Sleeping for only one night with a dim light, such as a TV set with the sound off, raised the blood sugar and heart rate of the young people during the sleep lab experiment. An elevated heart rate at night has been shown in prior studies to be a risk factor for future heart disease and early death, while higher blood sugar levels are a sign of insulin resistance, which can ultimately lead to type 2 diabetes.",
+    "dataset": "selfinstruct",
+    "output": "A recent study by Zee and her team examined the effects of dim light on sleep quality in healthy adults in their 20s. The study found that sleeping in a dim light environment raised blood sugar and heart rate, indicating an elevated risk for heart disease and early death, as well as higher blood sugar levels, which are a sign of insulin resistance and type 2 diabetes.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Correct the transcription of an excerpt containing errors.\n\nI got got charged interest on ly credit card but I paid my pull balance one day due date. I not missed a pavement year yet. Man you reverse the interest charge?",
+    "dataset": "selfinstruct",
+    "output": "I got charged interest on my credit card, but I paid my balance in full by the due date. I haven't missed a payment yet. Did you reverse the interest charge?",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Take a look at the contract and extract the parties of the agreement from it.\n\nAs of the 13th day of December 2021, this Music Recording Agreement (\"Agreement\") is made between Good Kid, a Toronto-based musical group (\"Artist\"), and Universal Music Group, a record label with license number 545345 (\"Record Label\"). The Artist and the Recording Label may be referred to in this Agreement individually as \"Parties\" and collectively as \"Parties.\" Work under this Agreement will begin on March 15, 2022, and will last for the duration of the Agreement.",
+    "dataset": "selfinstruct",
+    "output": "The parties of the agreement are:\n- Good Kid, a Toronto-based musical group (Artist)\n- Universal Music Group, a record label with license number 545345 (Record Label)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "On the basis of the subject of the email, determine whether the email should be treated as spam or not.\n\nDermatologists don't like her!",
+    "dataset": "selfinstruct",
+    "output": "The subject of the email (\"Dermatologists don't like her\") indicates that the email is likely spam. This subject line is likely to indicate to recipients that the email is related to a dubious or illegal product or service, which is generally considered spam. Therefore, the email should be treated as spam.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Classify the tweet into one of the following three categories: event, demo, or news. Event is a happening, often social or public, that people attend or are aware of. Demo is a  public showing or presentation of something, typically to promote or advertise it. And, news is information about recent events or happenings, especially as reported by news media.\n\nUsing this tutorial, you can analyze and classify a user’s review as either positive or negative using sentiment analysis features in an existing Next.js app. We show you how to leverage language AI into your applications. Check it out ↓",
+    "dataset": "selfinstruct",
+    "output": "Positive\n\nNegative",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give the news title a category. Pick a category from the list of News & Buzz, Travel, Style, Arts & Culture, Politics, Tech, and Science & Health.\n\nThe #Banksy Exhibit in Cambridge, MA is absolutely terrific.",
+    "dataset": "selfinstruct",
+    "output": "Culture",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Classify the questions in the FAQ into Finding policy details, Change account settings, Filing a claim and viewing status, or Cancelling coverage.\n\nCould you deposit money into my account rather than mailing me a physical cheque?",
+    "dataset": "selfinstruct",
+    "output": "Change account settings",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Choose an appealing title for your post.\n\nThe typical avocado is over 300 calories from the oil in it. That’s the amount of calories in a large candy bar. If you get enough exercise to eat a large candy bar every day without gaining weight, it wouldn’t be a problem to eat an avocado every day. Other wise you should probably eat them sparingly.",
+    "dataset": "selfinstruct",
+    "output": "Are Avocados Really as Healthy as They Seem? The Calorie Count You Need to Know",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give some examples of what people usually say in the given social situation.\n\nwhen someone arrives safely",
+    "dataset": "selfinstruct",
+    "output": "Examples of what people usually say in the given social situation could include:\n\n- \"I'm so relieved to hear that you made it home safe and sound.\"\n- \"It must have been a scary ride, but I'm glad you made it home safely.\"\n- \"I'm so glad you're here and safe.\"\n- \"It's good to have you back.\"\n- \"I'm so glad to see you.\"",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You will be required to write a few questions from the given company's interview section.\n\nKohl's",
+    "dataset": "selfinstruct",
+    "output": "Questions from the Kohl's interview section could include:\n\n- What is the company culture like at Kohl's?\n- What are the main responsibilities of this role?\n- What experiences do you consider essential to success in this position?\n- What challenges has the company faced in the past and how has it addressed them?\n- What does the future look like for Kohl's and how can I contribute to its success?\n- What is the company's commitment to diversity and inclusion?\n- What are the potential growth and development opportunities available at Kohl's?",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Based on the information provided, you need to estimate the average summary for the given job.\n\nData entry clerk in United States",
+    "dataset": "selfinstruct",
+    "output": "The average summary for a data entry clerk in United States may include the following elements:\n\n- Responsibilities: data entry, data processing, and record maintenance.\n- Requirements: relevant experience in data entry, computer literacy, and attention to detail.\n- Skills: accuracy, organization, and time management.\n- Industry experience: healthcare, financial services, retail, and manufacturing.\n- Educational background: high school diploma or equivalent required, college degree preferred.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Describe the responsibilities of the given job.\n\nSecurity Officer",
+    "dataset": "selfinstruct",
+    "output": "The responsibilities of a Security Officer include:\n\n- Protecting people and property by patrolling premises and monitoring security systems.\n- Responding to security alarms and incidents.\n- Identifying and reporting security risks and issues.\n- Ensuring compliance with security policies and procedures.\n- Educating users on security best practices.\n- Monitoring and documenting security activities.\n- Investigating security breaches and incidents.\n- Writing reports and providing feedback to management.\n- Engaging in community outreach to maintain a safe and secure environment.\n- Upholding the law and protecting the rights of individuals.\n- Ensuring the security of sensitive information.\n- Maintaining professional and confidentiality at all times.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide a list of the skills that may help you find the job.\n\nCrew Members",
+    "dataset": "selfinstruct",
+    "output": "Skills that may help find a job as a Crew Member include:\n\n- Communication: the ability to communicate effectively with managers, co-workers, and customers.\n- Organization: the ability to plan and manage one's own work schedule and responsibilities.\n- Teamwork: the ability to work collaboratively with other crew members to achieve shared goals.\n- Time management: the ability to plan and organize one's time to ensure that tasks are completed in a timely manner.\n- Problem-solving: the ability to identify and resolve issues in a timely manner.\n- Adaptability: the ability to adjust to changes in the work environment and adopt new methods of operation.\n- Attention to detail: the ability to pay close attention to specifics in order to ensure accurate and reliable work.\n- Customer service: the ability to provide friendly and efficient service to customers.\n- Professionalism: the ability to act in a professional and respectful manner at all times.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Schedule the meetings based on the given informqation.\n\nPerson1: available from 9-11 am, meeting duration: 30 min \nPerson2: available from 1-3 pm, meeting duration: 90 min\nPerson3: available from 2-3:30 pm, meeting duration: 60 min",
+    "dataset": "selfinstruct",
+    "output": "The scheduled meetings would be as follows:\n\nPerson1: 9-11 am\nPerson2: 1-3 pm\nPerson3: 2-3:30 pm",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Find the directions between the given locations.\n\nFrom: Rowan Avenue Elementary School, 600 S Rowan Ave, Los Angeles, CA 90023, United States\nTo: Calvary Cemetery and Mortuary, 4201 Whittier Blvd, Los Angeles, CA 90023, United States",
+    "dataset": "selfinstruct",
+    "output": "The directions from Rowan Avenue Elementary School to Calvary Cemetery and Mortuary are as follows: go west on S Rowan Ave for 0.3 miles, then turn left (north) on Whittier Blvd and go for 0.6 miles.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Give a brief explanation of the requested part of the paper.\n\nPaper: The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.\nExplain: The dominant sequence transduction models",
+    "dataset": "selfinstruct",
+    "output": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks (CRNNs/CNNs) that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. These models are highly efficient and scalable, but tend to require a large amount of time and resources for training. To address this, the proposed Transformer architecture dispenses with recurrence and convolutions entirely and is based solely on attention mechanisms. Experimental results on two machine translation tasks show that the Transformer models are superior in quality and require less time to train when compared to the existing CRNN/CNN-based models. Furthermore, the Transformer generalizes well to other tasks, such as English constituency parsing, with both large and limited training data.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Answer the question about the paper after reading it carefully.\n\nTo evaluate if the Transformer can generalize to other tasks we performed experiments on English constituency parsing. This task presents specific challenges: the output is subject to strong structural constraints and is significantly longer than the input. Furthermore, RNN sequence-to-sequence models have not been able to attain state-of-the-art results in small-data regimes.\nQuestion: What is English constituency parsing?",
+    "dataset": "selfinstruct",
+    "output": "English constituency parsing is a task that involves identifying the grammatical constituents (e.g. nouns, verbs, adjectives, and adverbs) in a sentence. This task presents unique challenges, as the output is subject to strong structural constraints and is significantly longer than the input. Additionally, RNN sequence-to-sequence models have not been able to achieve state-of-the-art results in small-data regimes.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Recommend some helpful activities or conversation starters to use at meetups to break the ice.",
+    "dataset": "selfinstruct",
+    "output": "Some helpful activities or conversation starters to use at meetups to break the ice could include:\n\n- Ice breaker games, such as two truths and a lie or word association.\n- Group discussions about a relevant topic or issue.\n- Brainstorming sessions for new project ideas or strategies.\n- Creative activities, such as painting or journaling.\n- Personal sharing sessions, where members can talk about their goals and aspirations.\n- Question and answer sessions, where members can ask each other questions and learn from one another.\n- Networking opportunities, where members can connect and form partnerships.\n- Open discussions about challenges and successes experienced by the group.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Convert the given HTML into Markdown format.\n\n<code>Use `code` in your Markdown file.</code>",
+    "dataset": "selfinstruct",
+    "output": "Use `code` in your Markdown file.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Extract the method that has been used in the research from the abstract of the paper. Give the exact sentences from the abstract that discuss the method.\n\nWe present a state-of-the-art speech recognition system developed using end-to-end deep learning. Our architecture is significantly simpler than traditional speech systems, which rely on laboriously engineered processing pipelines; these traditional systems also tend to perform poorly when used in noisy environments. In contrast, our system does not need hand-designed components to model background noise, reverberation, or speaker variation, but instead directly learns a function that is robust to such effects. We do not need a phoneme dictionary, nor even the concept of a \"phoneme.\" Key to our approach is a well-optimized RNN training system that uses multiple GPUs, as well as a set of novel data synthesis techniques that allow us to efficiently obtain a large amount of varied data for training. Our system, called Deep Speech, outperforms previously published results on the widely studied Switchboard Hub5'00, achieving 16.0% error on the full test set. Deep Speech also handles challenging noisy environments better than widely used, state-of-the-art commercial speech systems.Collapse",
+    "dataset": "selfinstruct",
+    "output": "The method that has been used in the research is end-to-end deep learning with an RNN training system that utilizes multiple GPUs and novel data synthesis techniques to obtain a large amount of varied data for training. The system does not require a phoneme dictionary nor the concept of a \"phoneme\", and is significantly simpler than traditional speech recognition systems that rely on laboriously engineered processing pipelines. The system also outperforms previously published results on the Switchboard Hub5'00 dataset, achieving an error of 16.0%. Furthermore, the system performs better in noisy environments than widely used, state-of-the-art commercial speech systems.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You need to come up with the names of some of the papers that relate to the paper you are given.\n\nRoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering",
+    "dataset": "selfinstruct",
+    "output": "Some examples of related papers include:\n- EVALQA: An Evaluation Framework for Question Answering Systems (2020)\n- MRCQA: A Multilingual Retrieval and Clustering Approach for Question Answering (2020)\n- SQuID: A Semantic-rich Question-Answering Dataset (2020)\n- TRECQA: A Task-oriented Retrieval and Evaluation Challenge for Question Answering (2002, 2005, 2013)\n- MEN: A Multilingual Encoder-decoder Network for Knowledge-rich Question Answering (2021)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Create a short, concise summary of the paper based on its abstract.\n\nFew-shot learning (FSL) is one of the key future steps in machine learning and raises a lot of attention. In this paper, we focus on the FSL problem of dialogue understanding, which contains two closely related tasks: intent detection and slot filling. Dialogue understanding has been proven to benefit a lot from jointly learning the two sub-tasks. However, such joint learning becomes challenging in the few-shot scenarios: on the one hand, the sparsity of samples greatly magnifies the difficulty of modeling the connection between the two tasks; on the other hand, how to jointly learn multiple tasks in the few-shot setting is still less investigated. In response to this, we introduce FewJoint, the first FSL benchmark for joint dialogue understanding. FewJoint provides a new corpus with 59 different dialogue domains from real industrial API and a code platform to ease FSL experiment set-up, which are expected to advance the research of this field. Further, we find that insufficient performance of the few-shot setting often leads to noisy sharing between two sub-task and disturbs joint learning. To tackle this, we guide slot with explicit intent information and propose a novel trust gating mechanism that blocks low-confidence intent information to ensure high quality sharing. Besides, we introduce a Reptile-based meta-learning strategy to achieve better generalization in unseen few-shot domains. In the experiments, the proposed method brings significant improvements on two datasets and achieve new state-of-the-art performance.",
+    "dataset": "selfinstruct",
+    "output": "This paper focuses on the few-shot learning (FSL) problem for dialogue understanding, which contains the tasks of intent detection and slot filling. It provides a new corpus and a code platform for easy FSL experiment set-up, and finds that noisy sharing between the two sub-tasks can distract joint learning in the few-shot setting. To tackle this, the paper guides slot with explicit intent information and proposes a trust gating mechanism to block low-confidence intent information. Additionally, it introduces a Reptile-based meta-learning strategy for better generalization in unseen few-shot domains. The paper achieves state-of-the-art performance on two datasets, demonstrating the effectiveness of its approach.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You will need to compose the ABC notation for a given song.\n\nThe South Wind",
+    "dataset": "selfinstruct",
+    "output": "ABC notation for \"The South Wind\":\nG C D G G7 C D G\nA D G A D D\nE G B E G\nC D G C D",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Categorize the given magazine based on its content into one of the categories: Politics, Entertainment News, Tech News, Business News, Parenting & Kids, Health & Healing, Cooking, Food & Wine, and Arts & Literature,\n\nInc.",
+    "dataset": "selfinstruct",
+    "output": "Business News",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Decide if the given email belongs to the Promotions or Social category.\n\nSubject: You have an invitation\nEmail: Hi, I'd like to join your LinkedIn network.",
+    "dataset": "selfinstruct",
+    "output": "Social",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "The story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.\n\n🧙‍♂️🚪📚🦅⚡",
+    "dataset": "selfinstruct",
+    "output": "The movie could be \"Interstellar\", which features themes of time, space, and science.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Come up with an interesting idea for a new movie plot. Your plot should be described with a title and a summary.",
+    "dataset": "selfinstruct",
+    "output": "The title of the movie is \"The Lost City of Gold: A Scientific Adventure in the Amazon Jungle\".\n\nSummary:\n\nA team of scientists and explorers go on a journey to discover the lost city of gold in the Amazon Jungle. As they traverse the rugged terrain and encounter unknown creatures, they also uncover the secrets of the ancient civilization that created the city. Their discovery changes the world's view of the Amazon and its people, and leads to a new understanding of the past.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Change the first person to the third person in the given sentence. The meaning should be kept, but you can paraphrase it or expand it in order to have a better pose.\n\nWe were recently able to increase the amount of stock we hold with the same supplier thereby reducing our risk.",
+    "dataset": "selfinstruct",
+    "output": "The company recently was able to increase the amount of stock it holds with the same supplier, thus reducing its risk.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You should capitalize the sentence according to the guide.\n\nGuide: Every other letter alternates between lower case and upper case.\nSentence: A giant spider blocks your path.",
+    "dataset": "selfinstruct",
+    "output": "A giant Spider blocks your path.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Create alliterations by finding synonyms for words in the given sentence.\n\nDavid wears a hat everyday.",
+    "dataset": "selfinstruct",
+    "output": "David donns a hat everyday.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Convert the given description to a bash command.\n\nread the first 10 lines from f",
+    "dataset": "selfinstruct",
+    "output": "tail -n 10 f",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Please prepare a table containing a summary of the information of the participants at the conference.\n\nThe conference was called to discuss how to improve the quality of education in schools. The main speaker was Professor Crew Purdie (cpurdie@email.com), who spoke about the importance of setting high standards for students and teachers. He said that schools should be places where students can learn and be challenged. Other speakers included Teacher Oliver Malachi (oliver@email.com) and Parent Kolby Reese (kolbyreese82@email.com). The teacher talked about the need for teachers to be well-prepared and to have high expectations for their students. The parent spoke about the need for parents to be involved in their children's education. There was also a discussion about the importance of funding for schools.",
+    "dataset": "selfinstruct",
+    "output": "Summary of Participants at the Conference:\n\n- Professor Crew Purdie (cpurdie@email.com): Main Speaker, discussing how to improve the quality of education in schools.\n- Teacher Oliver Malachi (oliver@email.com): Speaker, discussing the need for teachers to be well-prepared and to have high expectations for their students.\n- Parent Kolby Reese (kolbyreese82@email.com): Speaker, discussing the need for parents to be involved in their children's education.\n- Other Participants: Discussion about the importance of funding for schools and the overall impact of improved education on the community.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "List the concepts that should be learned before approaching the given complex concept.\n\nDeep Learning",
+    "dataset": "selfinstruct",
+    "output": "Concepts that should be learned before approaching the complex concept of Deep Learning include:\n\n- Machine Learning fundamentals, such as feature engineering, model training and evaluation, and hyperparameter tuning.\n- Neural networks and their architectures, such as convolutional neural networks and recurrent neural networks.\n- Basic statistics and linear algebra, such as matrix multiplication and vector operations.\n- Data preparation, such as cleaning, scaling, and labeling of data.\n- Computational optimisation, such as gradient descent and batch processing.\n- Reinforcement learning, such as policy learning and value function estimation.\n- Image processing and natural language processing, which are common use cases for Deep Learning models.\n- Advanced topics, such as generative models and autonomous vehicles.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Given a sentence that may be ambiguous, rewrite the sentence using less ambiguous words.\n\nThe chicken is ready to eat.",
+    "dataset": "selfinstruct",
+    "output": "The chicken is prepared and ready for consumption.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Assess the sentiment of the given tweet and categorize it as Positive, Negative, or Neutral.\n\n\"This is the best cheat-sheet paper that I've found in a LONG time.\"",
+    "dataset": "selfinstruct",
+    "output": "Positive",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given a Python command and are required to convert it into Ruby.\n\nprint(\"Hello World!\")",
+    "dataset": "selfinstruct",
+    "output": "puts \"Hello World!\"",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given a sentence in first-order logic. Translate it into natural language.\n\n∃x∀y(soldier(x)→general(x,y))",
+    "dataset": "selfinstruct",
+    "output": "There exists an x such that for all y, if x is a soldier, then x is a general.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given a search query and a document. Classify whether the document is relevant to the search query or not relevant.\n\nSearch: why sky is blue\nDocument: The Short Answer: Sunlight reaches Earth's atmosphere and is scattered in all directions by all the gases and particles in the air. Blue light is scattered more than the other colors because it travels as shorter, smaller waves. This is why we see a blue sky most of the time.",
+    "dataset": "selfinstruct",
+    "output": "Relevant",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Create a list of subtopics for the given topic.\n\nMusic theory",
+    "dataset": "selfinstruct",
+    "output": "Subtopics for the topic of music theory could include:\n- Key signatures and scales\n- Chord structure and progressions\n- Rhythm and meter\n- Harmony and counterpoint\n- Musical form and genre\n- Analysis and interpretation\n- Orchestration and arrangement\n- Music technology and production",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Summarize the movie in a snarky way. Try to explain the movie in just one sentence.\n\nThe Shining",
+    "dataset": "selfinstruct",
+    "output": "A creepy, psychological horror film about a disturbed writer who is haunted by the evil within himself at a remote hotel during the winter season.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Enter the words that satisfy the given condition.\n\n5 Countries that Start with S",
+    "dataset": "selfinstruct",
+    "output": "The 5 countries that start with S are Saudi Arabia, Sweden, Singapore, South Africa, and Sri Lanka.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide a name for the dish given the ingredients and instructions.\n\nINGREDIENTS:\n2 (5 oz) cans Bumble Bee® Solid White Albacore Tuna, drained\n1 avocado\n2 Tbsp Sriracha\n1 Tbsp Dijon mustard\n2 to 3 Tbsp celery, chopped\n2 Tbsp red onion, chopped\n2 green onions, chopped\n1 Tbsp fresh cilantro, chopped\nSalt and pepper, to taste\n2 heaping cups leafy green lettuce\n1 cup matchstick carrots\n4 (10 inch) whole wheat tortillas\nINSTRUCTIONS:\nIn a medium bowl, mash together tuna and avocado until combined. Add in the rest of the ingredients through the salt and pepper, mixing well.\nTo assemble, top each tortilla with a 1/2 cup leafy greens, 1/4 cup matchstick carrots and divide the tuna mixture evenly among the wraps. Tightly roll up the tortilla, slice and enjoy!",
+    "dataset": "selfinstruct",
+    "output": "Sriracha Tuna Avocado Wraps",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Summarize a meeting from the given list of bullet points. Be sure to convert shorthand into a first-hand account.\n\nRose: Analyze data and presents findings\nJohn: propose new idea\nJane: appointed to head project\nTom: need more time to fix software bug",
+    "dataset": "selfinstruct",
+    "output": "At the meeting, Rose analyzed the available data and presented the findings, John proposed a new idea, Jane was appointed to head a project, and Tom needed more time to fix a software bug.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "List a few popular songs from the given album.\n\nBack To Black",
+    "dataset": "selfinstruct",
+    "output": "Few popular songs from the album Back To Black by Amy Winehouse include:\n\n- \"Rehab\"\n- \"Love Is a Losing Game\"\n- \"You Know I'm No Good\"",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Invent a new word based on a description of the word.\n\nThe feeling of knowing, while you are still in the moment, that something occurring will be remembered forever.",
+    "dataset": "selfinstruct",
+    "output": "Epikofy (ep-ik-of-ee)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Given a programming language and the name of a function, write a command to show how to use the function.\n\nLanguage: Python\nFunction: input",
+    "dataset": "selfinstruct",
+    "output": "In Python, the input function can be used to accept user input. To use the input function, simply call the function as follows:\n\ninput(\"Enter a value:\")",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide a pleasant compliment based on the quality you have been given.\n\nTruthfulness",
+    "dataset": "selfinstruct",
+    "output": "I appreciate how honest and transparent you have been in our conversations – your honesty is admirable and I value your trustworthiness.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Create a brief resume introduction using the following information.\n\nname: Mark\nnationality: Italian\nlanguage: English\nattributes: creative, goal-oriented, motivated\nskills: software engineering, content marketing",
+    "dataset": "selfinstruct",
+    "output": "Mark, Italian national, highly motivated and creative software engineer and content marketing professional with 5 years of experience in developing innovative solutions and engaging content. Expertise in software development, content writing, and project management. Passionate about using my skills and knowledge to help organizations achieve their goals.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a list of adjectives that can be used to describe the given brand.\n\na creative tech startup",
+    "dataset": "selfinstruct",
+    "output": "Adjectives that can be used to describe a creative tech startup include: \n\n- Innovative\n- Imaginative\n- Inventive\n- Inspiring\n- Progressive\n- Revolutionary\n- Modern\n- Entrepreneurial\n- Dynamic\n- Cutting-edge\n- Fresh\n- Authentic\n- Visionary",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Someone gives you some information about where they want to go and what they enjoy seeing and doing. Describe a proper road trip for them and find the best stops and sctivities in the way.\n\nI'm looking for a west coast road trip. My goal is to start near San Diego and travel to Los Angeles.",
+    "dataset": "selfinstruct",
+    "output": "A proper west coast road trip could include the following stops and activities:\n\n- Visit SeaWorld San Diego to see amazing ocean creatures and experience exciting rides.\n- Take a stroll down the Mission Beach Boardwalk and enjoy the sunshine and ocean views.\n- Stop by the Balboa Park in San Diego for amazing museums and gardens.\n- Visit the Universal Studios Hollywood for thrilling rides and movie-themed attractions.\n- Explore the iconic Hollywood Boulevard and take a selfie with the Hollywood Sign.\n- Spend the day at the Santa Monica Pier and enjoy the beach, carnival rides, and ocean views.\n- Take a sunset cruise around Los Angeles Harbor for spectacular views of the city.\n- Visit the Getty Museum to admire the impressive art and architecture.\n- Go on a food tour of Los Angeles to try the best local dishes.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Regex is a set of characters that define a search pattern. This kind of pattern is usually used by string-searching algorithms to find or replace strings or to validate inputs. Convert the natural english text to regex.\n\nMatch a valid ip address",
+    "dataset": "selfinstruct",
+    "output": "^(\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}})$",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write an engaging and well-written property listing description for selling a house. Address of the house and some of the details are given to you. Fill in the information gap with hallucinations if needed.\n\nProperty Address: 412 Monterey Ave, Capitola, CA 95010\nParking: 3 cars + a finished single car garage\nDetails:\n- open floorplan\n- window with views to park/mountains\n- Kitchen with shaker cabinetry and white Calcatta quartz counters",
+    "dataset": "selfinstruct",
+    "output": "This stunning home is located in the heart of Capitola, CA and offers the perfect blend of modern design and cozy comfort. The open floorplan allows for plenty of natural light to fill the space, and large windows provide breathtaking views of the nearby park and mountains. The kitchen features shaker cabinetry and white Calcatta quartz counters, creating a warm and inviting space for meals and entertaining. In addition, a finished single car garage provides ample parking for 3 cars. Other notable features include hardwood floors, a private master suite, and a spa-like bathroom. With its ideal location and exceptional amenities, this home is a must-see for any discerning buyer. Don't miss out on this rare opportunity, schedule a tour today!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Given a real estate listing description, extract the information and details of the property from the text. The details consist of address, basic house attributes, etc.\n\nWALK TO THE BEACH FROM CAPITOLA KNOLLS! Single-level upstairs condo with your own large private deck overlooking nature. Adorable home that is move-in ready and waiting for you to put your own personal touches on. Gorgeous and well-maintained landscaped park-like setting with lush green grasses with a community pool and spa to enjoy. Desirable location...walk to Capitola Village, Gayle's Bakery, restaurants, shopping, schools or jump on Hwy 1 right around the corner.",
+    "dataset": "selfinstruct",
+    "output": "The extracted details from the real estate listing description include:\n- Address: Capitola Knolls, CA\n- Basic house attributes: single-level upstairs condo, private deck, adorable home, move-in ready\n- Landscape features: lush green grasses, community pool, spa\n- Location: walk to Capitola Village, Gayle's Bakery, restaurants, shopping, schools, access to Hwy 1",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Review the property description and tell us what is good and what is bad about it and list its key takeaways.\n\nThere's real magic in combining inherently compelling Victorian architecture with a modern aesthetic. Add in an extraordinary multi-level garden & the result is the undeniable elegance of 444 29th St. The front of the home is light-filled w/ a seamless connection between living, dining & kitchen. Newly updated kitchen w/ quartz counters & upgraded appliances. A lg dining rm has a bay of windows &, when paired w/ the adjacent living rm, provides an ideal space to entertain. 2 lg bdrms on this level are at the rear. Both w/ lg closets & walk out to the garden. Stylishly remodeled full bath on this level. 3rd bdrm/2nd full bath are located on the ground floor - perfect as a guest rm, home office, fitness area, etc. The enormous garden occupies an extra deep lot & is beautifully landscaped & terraced. Laundry/storage rm, 1-car garage pkg, Tesla solar panels. Prime, flat part of Noe Valley - short walk to all that Noe has to offer. Steps from the J-Church & convenient to shuttles/freeways.",
+    "dataset": "selfinstruct",
+    "output": "The property at 444 29th St has several good features, including:\n\n- Victorian-era architecture that has been modernized with a modern aesthetic.\n- A large, light-filled front living area with a seamless connection to the dining and kitchen areas.\n- A newly updated kitchen with quartz countertops and upgraded appliances.\n- A spacious dining room with a bay of windows, ideal for entertaining.\n- Two large bedrooms on the second floor, each with large closets and access to the garden.\n- A stylishly remodeled full bath on the second floor.\n- A third bedroom/second full bath on the ground floor, perfect for a guest room, home office, fitness area, or other use.\n- An enormous garden, terraced and beautifully landscaped, which occupies an extra-deep lot.\n- Tesla solar panels for eco-friendly energy production.\n- A short walk to all that Noe Valley has to offer, including shops, restaurants, and public transportation.\n- Easy access to freeways and shuttles.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "List some of the top real estate marketing words to add value to the listing and engage more potential buyers.",
+    "dataset": "selfinstruct",
+    "output": "Some of the top real estate marketing words to add value to the listing and engage more potential buyers include:\n\n- Modern\n- Spacious\n- Luxurious\n- Prime\n- Renovated\n- Upgraded\n- Meticulously maintained\n- Secluded\n- Views\n- Convenient location\n- High-end finishes\n- Updated appliances\n- 24-hour security\n- Access to amenities\n- Family-friendly\n- Pet-friendly\n- Sustainable\n- Energy-efficient",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Suggest some product bundles that are often purchased with a given product.\n\nMacBook Air",
+    "dataset": "selfinstruct",
+    "output": "Some product bundles that are often purchased with a MacBook Air include:\n\n- A protective case.\n- A screen protector.\n- A memory card.\n- A external hard drive.\n- A wireless charger.\n- A headset.\n- A mouse.\n- A software package (e.g. photography, productivity, or music-related).",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Create a template in markdown to create scope for Jira tickets. Members should use this template as a checklist to ensure they have included all the necessary information when creating a ticket.",
+    "dataset": "selfinstruct",
+    "output": "Jira Ticket Template:\n\n- Summary: (Brief description of the issue)\n- Description: (Detailed description of the issue)\n- Steps to Reproduce: (Instructions for replicating the issue)\n- Impact: (Possible impacts of the issue)\n- Workaround: (Any workarounds for the issue)\n- Screenshots: (Screenshots of the issue, if applicable)\n- Version: (Version of the product/service where the issue occurs)\n- Environment: (Operating system, hardware, and any other relevant information)\n- Attachments: (Any relevant attachments, such as logs or screenshots)\n- Resolution: (Suggested resolution to the issue)\n- Notes: (Any additional information or comments)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "As part of software engineering, user stories describe what the user wants the system to do, while acceptance criteria describe the conditions a specific user story must meet. Create basic acceptance criteria based on the given user story.\n\nUser story: As a user, I want to use a search field to type a city, name, or street, so that I could find matching hotel options.",
+    "dataset": "selfinstruct",
+    "output": "Acceptance criteria for the given user story:\n\n- The search field should be accessible and visible to the user.\n- The field should be capable of accepting text entries in a variety of languages.\n- The search results should be relevant and tailored to the user's search criteria.\n- The results should be sorted and ordered appropriately.\n- The user should be able to filter the search results based on different criteria.\n- The results should be displayed in a readable and intuitive format.\n- The user should be able to easily navigate between search results.\n- The search function should be reliable and accurate.\n- The user should be able to easily undo and redo their search entries.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. Write a user story for a given software.\n\nGmail",
+    "dataset": "selfinstruct",
+    "output": "As a Gmail user, I want a secure, reliable way to store and manage my email messages. I need a platform that provides easy access to my messages, allows me to organize them into folders, and provides advanced search and filter functions to help me find what I need. Additionally, I want a platform that is secure and protects my privacy, with strong encryption and data back-up procedures in place. Lastly, I need a platform that is easy to use and has a friendly user interface.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write a Jira ticket for the given task.\n\nNew Employee onboarding",
+    "dataset": "selfinstruct",
+    "output": "We need to improve the new employee onboarding process. This could include:\n\n- Clear, step-by-step instructions for new hires to access relevant resources and get up to speed with the company culture.\n- Personalized onboarding experiences based on the new employee's role and area of responsibility.\n- Clear communication about company policies, practices, and expectations.\n- Opportunities for new hires to connect with existing employees and get their questions answered.\n- Feedback surveys to ensure a positive onboarding experience.\n- Regular follow-up to make sure new hires are settling in and feeling engaged.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Paraphrase the given text in an academic style.\n\nLots of papers have been published on this topic.",
+    "dataset": "selfinstruct",
+    "output": "A large number of scholarly works have been published on this topic.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a list of the pros and cons of the given decision.\n\nImplementing a Remote Working Policy",
+    "dataset": "selfinstruct",
+    "output": "Pros:\n- Increased flexibility and control over work schedules for employees.\n- Reduced commuting time and costs for employees.\n- Increased productivity and engagement due to better work-life balance.\n- Greater diversity in the workforce by providing more flexible options for employees.\n- Lower real estate costs for the organization.\n- Increased collaboration and innovation among employees.\n- Improved environmental sustainability through reduced travel.\n\nCons:\n- Possible decrease in face-to-face interaction among employees.\n- Increased risk of information leaks and security issues.\n- Technological challenges, such as unreliable internet connectivity, that can impair productivity.\n- Possible miscommunication and misunderstanding among remote workers.\n- Higher management overhead to oversee the remote working policy.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Include important study notes and key points that someone should know about the given subject.\n\nhistory of the USA",
+    "dataset": "selfinstruct",
+    "output": "Important study notes and key points for the history of the USA include:\n\n- The colonial period: the establishment of the thirteen British colonies in North America and the development of the American identity.\n- The American Revolution (1775-1783): the conflict which resulted in the independence of the United States from Britain.\n- The formation of the US Constitution (1787): the foundation of the federal government and the principles of federalism and democracy.\n- The expansion of the US (1803-1853): the acquisition of land including the Louisiana Purchase and the Oregon Territory.\n- The Civil War (1861-1865): the conflict which resulted in the separation of the Southern states and the establishment of universal slavery as a federal crime.\n- The Gilded Age (1865-1890): the growth of big business and the rise of the American industrial economy.\n- The Progressive Era (1900-1917): the campaign for political and social reforms including the regulation of big business and the protection of workers' rights.\n- The Great Depression (1929-1941): the economic downturn which led to the federal government's expansion of social programs and financial regulation.\n- The New Deal (1933-1939): Franklin Roosevelt's program of economic and social reforms which helped to bring the US out of the Great Depression.\n- The Cold War (1947-1989): the political and economic conflict between the US and the Soviet Union and its allies.\n- The Modern Era (1963-present): the civil rights movement, the Vietnam War, and the rise of political and cultural movements including feminism and environmentalism.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Based on the given keywords, write a review of a restaurant.\n\nName: Pizzeria\ngood prices, quiet place, tasty, nice staff",
+    "dataset": "selfinstruct",
+    "output": "Pizzeria is a quiet, cozy restaurant with reasonably priced food. The pizza is delicious and freshly made, and the service is friendly and efficient. The ambiance is warm and inviting, and the overall experience is pleasant and enjoyable. Overall, Pizzeria is a great choice for a quick bite or a leisurely meal, and it is highly recommended.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Convert natural language into a list of turn-by-turn directions.\n\nGo west on I-10 until you hit the 101 then take it north. You will eventually see the Hollywood sign.",
+    "dataset": "selfinstruct",
+    "output": "list = [\n    'Go west on I-10',\n    'until you hit the 101',\n    'then take it north'\n]",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide an ESRB rating for the following game.\n\nThis is an action-adventure game in which players help Kratos and his son on a dangerous quest. Players explore various realms and engage in frenetic hand-to-hand combat against human-like raiders and fantastical creatures (e.g., centaurs, trolls, dragons). Players use axes and chained blades to battle enemies, often resulting in large blood-splatter effects and dismemberment. Players can perform finishing attacks that depict close-up impalement via bladed and hand-held weapons; repeated axe strikes to a creature's neck results in decapitation. The words “f**k” and “sh*t” are heard in the game.",
+    "dataset": "selfinstruct",
+    "output": "ESRB Rating: M (Mature)",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "A color description has been provided. Find the CSS code associated with that color.\n\nA light red color with a medium light shade of pink",
+    "dataset": "selfinstruct",
+    "output": "#eeeee9",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Identify and fix bugs in the given code and rewrite it\n\nfor i in range(10)\n    print(Answer is:)\n    print(i)",
+    "dataset": "selfinstruct",
+    "output": "for i in range(10)\n    print(i)\n\ndef answer()\n    return \"Hello World!\"\n\nprint(answer())",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Make a list of common phrases for the given section of the paper.\n\nIntroduction",
+    "dataset": "selfinstruct",
+    "output": "Common phrases for the introduction section of the paper could include:\n\n- Introduction: An overview of the topic and its importance.\n- Background: A brief history of the topic and the research that has been done on it.\n- Purpose: The purpose of the paper and the research questions that will be addressed.\n- Significance: The signification of the research for the wider community.\n- Research approach: The approach that will be taken for the research.\n- Literature review: A review of related literature and studies.\n- Research gaps: Areas where further research is needed.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "We have described a scene from a movie that we have seen in the past. Find out what movie it is.\n\nA choice has to be made between picking the red pill or the blue pill",
+    "dataset": "selfinstruct",
+    "output": "The movie is The Matrix (1999), in which the main character, Neo, is offered the choice of taking the red pill or the blue pill by Morpheus. The red pill represents the truth about the real world and the illusory nature of the simulated reality within the Matrix, while the blue pill symbolizes returning to the familiar but illusory world of the Matrix.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Take the product description and write a creative ad for it.\n\nDocument Cameras allow teachers to display documents, books, or other materials for their students to see.",
+    "dataset": "selfinstruct",
+    "output": "With a document camera, teachers can bring the classroom to life by sharing important materials with their students in vibrant color and high-resolution. Whether it's a diagram, a map, a book, or a worksheet, docs cameras allow teachers to illuminate the learning experience and engage their students like never before. Plus, the portable and flexible design makes it easy to share the lesson from any angle. Take your teaching to the next level with a document camera - an essential tool for any educator.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Translate the natural language description into a Google Sheets formula.\n\nif C7 is equal to \"U.S.A.\" or \"Canada\" or \"Europe\" or \"The Americas\"",
+    "dataset": "selfinstruct",
+    "output": "if C7 = \"U.S.A.\" or \"Canada\" or \"Europe\" or \"The Americas\"",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "You are given a tweet and you should decide whether it's offensive or not.\n\nShe has certainly taken some heat for being such an....well idiot.",
+    "dataset": "selfinstruct",
+    "output": "Yes, this tweet is offensive. It attacks the person behind the tweet by name and is derogatory and dismissive. Additionally, it does not contribute to a constructive discussion and is likely to cause offence to the target of the tweet.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "For a quick and efficient office workout, suggest a short routine.",
+    "dataset": "selfinstruct",
+    "output": "A short office workout routine could include the following activities:\n\n- 10 minutes of high-intensity aerobic exercise, such as jumping rope or hill sprints.\n- 10 minutes of strength training with bodyweight exercises, such as squats, push-ups, and plank holds.\n- 10 minutes of mobility exercises, such as side steps, knee lifts, and hip rotations.\n- 10 minutes of mindfulness activities, such as meditation and deep breathing.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Predict how many stars the author will give to the restaurant from a Yelp review.\n\nThe reviews were great, but honestly i felt it was just ok. Seemed like a typical tourist spot were the food was mediocre. The service was ok, not great, but not the worst.\nThe bread was very good. I ordered the muscle fries. They had a sweet Vidalia onion flavor. No need for fries bc they were soggy wo much flavor. My boyfriend ordered a pesto chicken pasta and it was again mediocre.",
+    "dataset": "selfinstruct",
+    "output": "The author will likely give the restaurant a 3-star rating based on the details of the review. They noted that the food was \"ok\", the service was \"ok, not great\", and that the bread and muscle fries were particularly tasty, but the pesto chicken pasta was \"mediocre\".",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Categorize the Business into one of the Restaurants, Home Services, Auto Services and Miscellaneous based on its Specialties.\n\nCall us at 650-636-4884 or visit our website to receive a quote. This shop specializes in New Tires and General Auto Repair. We carry all tires in-house and have a wide range to fit any budget or car specifics. If you are unsure what tires you need there are experts on hand and available to help you pick the best tire for your needs. We also carry commercial vehicle tires and can serve a wide array of fleets.",
+    "dataset": "selfinstruct",
+    "output": "Auto Services",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Notify me of any suggestions you may have for making the text more grammatically correct.\n\nThis is the second time I've been here, and the vibes, and the food were exquisite.",
+    "dataset": "selfinstruct",
+    "output": "This is the second time I've been here, and the vibes and the food were exquisite.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Using the ingredients that are available, create a dinner recipe.\n\nKale + almond butter + apple cider vinegar + agave nectar + tamari",
+    "dataset": "selfinstruct",
+    "output": "Kale Apple Cider Vinaigrette:\n\nIngredients:\n- 2 cups kale\n- 2 tablespoons almond butter\n- 2 tablespoons apple cider vinegar\n- 1 tablespoon agave nectar\n- 1 teaspoon tamari\n\nInstructions:\n1. In a small bowl, mix together the kale, almond butter, apple cider vinegar, agave nectar, and tamari.\n2. Slowly drizzle in 2 tablespoons of olive oil and season with salt and pepper, to taste.\n3. Toss to coat the kale and serve. Enjoy!",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Categorize the given product into one of Electronics, Computers, Smart Home, or Arts & Crafts departments.\n\nGoogle Nest Learning Thermostat",
+    "dataset": "selfinstruct",
+    "output": "Electronics",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Provide instructions for the given exercise.\n\nLeg Raises",
+    "dataset": "selfinstruct",
+    "output": "Instructions for leg raises:\n\n1. Begin by lying on your back with your feet flat on the floor and your hands at your sides.\n\n2. Raise your legs up towards the ceiling, keeping your feet together and your knees straight.\n\n3. Hold this position for a few seconds, then lower your legs back to the starting position.\n\n4. Repeat the exercise for 10-15 reps.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Rewrite the text and correct the spelling errors.\n\nIt solves problems comon and uniqe to every team.",
+    "dataset": "selfinstruct",
+    "output": "It solves problems common and unique to every team.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write down antonyms for the given word.\n\nlaureating",
+    "dataset": "selfinstruct",
+    "output": "demoting, downgrading, dismissing",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write the HTML syntax for the required action.\n\nadding an image to the page",
+    "dataset": "selfinstruct",
+    "output": "<img src=\"image.jpg\">",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Identify the programming language used to write the given code.\n\nif (20 > 18) {\n  printf(\"20 is greater than 18\");\n}",
+    "dataset": "selfinstruct",
+    "output": "The programming language used to write the given code is C.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Decide which part of speech the underlined word belongs to.\n\nschool will _keep through the winter",
+    "dataset": "selfinstruct",
+    "output": "The underlined word \"keep\" is a verb in this sentence.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Define what the underlined word means for kids.\n\n_keep a promise",
+    "dataset": "selfinstruct",
+    "output": "To keep a promise means to fulfill a promise or agreement that has been made. This could be a promise to do something, or a promise to not do something. Keeping a promise shows honesty and trust, and helps to build positive relationships. Additionally, keeping a promise shows responcibility and accountability, as a person is committed to following through with their words.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Expand the given sentence and give it more details and depth.\n\nIt changed my life.",
+    "dataset": "selfinstruct",
+    "output": "It changed my life in more ways than I could have imagined. The experience opened my eyes to a world of possibilities, gave me a new sense of purpose, and inspired me to make a positive impact on the world. I was empowered to take risks and try things that had previously seemed out of my reach, and I gained a greater understanding of who I really was and what I was capable of. I can't help but feel optimistic about the future and excited to see what the journey has in store for me.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Extract the address of the property from the \"About this space\" section of Airbnb.\n\nTucked in the foothills of the quaint historic mining town of Grass Valley, CA this funky and spacious chalet invites you to experience the great outdoors with family, friends and pets. Enjoy the hot tub, basketball court, treehouse, kids rooms, bbq, fire-pit, outdoor theater, and more. One hour from Tahoe and 10 minutes to town, you’re never short of things to explore.",
+    "dataset": "selfinstruct",
+    "output": "The address of the property is:\n1080 N. Main Street, Grass Valley, CA, USA",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Design a simple training challenge on Strava that everyone could attend.",
+    "dataset": "selfinstruct",
+    "output": "A simple training challenge on Strava could include the following elements:\n\n- A designated course or route (e.g. a local trail, road, or cycling path).\n- A timed challenge (e.g. a 5K, 10K, or half marathon).\n- A set of challenging yet achievable goals (e.g. improving speed, increasing climbing strength, or running a personal best time).\n- Clear instructions and maps for the course.\n- An optional team component (e.g. allowing participants to form groups or compete against other teams).\n- An award for the top performers.\n- An opportunity for participants to share their experiences and learn from each other.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Suggest some names for a friendly group in telegram.",
+    "dataset": "selfinstruct",
+    "output": "Some names for a friendly group in Telegram could include:\n\n- Chat Buddies\n- TG Friends\n- Conversation Crew\n- Fun with Friends\n- Connecting Community",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Write what the pronunciation of the given word sounds like. Follow the \"Google pronunciation dictionary\" scheme for phonetic spelling.\n\ninterpretations",
+    "dataset": "selfinstruct",
+    "output": "The pronunciation of the word \"interpret\" is \"in-ter-pret\".",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  },
+  {
+    "instruction": "Explain the meaning of the given phrase in simple terms. Use an example if possible. It would be helpful if you could give an example.\n\n\"With a little give in them\"",
+    "dataset": "selfinstruct",
+    "output": "The phrase \"with a little give in them\" means that someone is flexible or accommodating in their attitude or behavior. For example, a customer service representative who is willing to listen to and understand the customer's point of view, even if they do not agree with it, would demonstrate a \"little give in them\". This can help to create a positive experience for the customer and improve the overall outcome of the interaction.",
+    "generator": "alpaca-farm-ppo-sim-gpt4-20k"
+  }
+]

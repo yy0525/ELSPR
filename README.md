@@ -10,31 +10,57 @@ This repo contains codes ,dataset and result for ELSPR: Evaluator LLM Training D
 ```bash
 code is comming soon
 ```
+# Select the model to be processed Split model results by dataset
 
-<!-- ## Usage 🛠
+This script processes the JSON files stored in the model directory, filters by dataset name (e.g. `helpful_base`, `vicuna`, etc.), and then saves each dataset into a separate JSON file for each model.
+---
+## ⚙️ Usage
 
-### Analyze preference data
-
-> Download ...
-
-Default setting
 ```bash
-...
+python select_model.py [--model-name [MODEL_NAME ...]] 
+                           [--dataset [DATASET ...]]
+                           [--folder-path FOLDER_PATH]
+                           [--output-root OUTPUT_ROOT]
 ```
 
-Using other instruction file
+## ⚙️ Example
+
 ```bash
-...
+python select_model.py --model-name airoboros-33b vicuna-7b --dataset helpful_base vicuna koala --folder-path ../model_results --output-root ../data/selected_models
 ```
-> 'XX.json' needs to be in the format of 'alpaca_data.json'.
+
+# 🧪 Model Judgment Runner
+
+This script is designed to **run pairwise model response evaluations using an external API**, such as OpenAI or Aliyun, and save the judgment results in structured JSONL format. It supports:
+
+- Multiple models and datasets
+- Parallel processing via multithreading
+- Flexible prompt templates (`cot` for Chain-of-Thought or default)
+- Thread-safe output logging
 
 
-### Generate training data
+---
+## ⚙️ Usage
 
-Default setting
 ```bash
-python ...
-``` -->
+python gen_judgemnet.py \
+  [--model-name MODEL_NAME [MODEL_NAME ...]] \
+  [--dataset DATASET [DATASET ...]] \
+  [--prompt-template cot|default] \
+  [--folder-path INPUT_PATH] \
+  [--output-root OUTPUT_PATH] \
+  [--max-threads N]
+```
+## ⚙️ Example
 
+```bash
+python judge_model_responses.py \
+  --model-name airoboros-33b vicuna-7b \
+  --dataset helpful_base \
+  --folder-path ../data/selected_models \
+  --output-root ../data/judgment_results \
+  --prompt-template cot \
+  --max-threads 10
+```
 
 

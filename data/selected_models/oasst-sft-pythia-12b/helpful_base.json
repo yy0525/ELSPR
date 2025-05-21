@@ -1,0 +1,776 @@
+[
+  {
+    "instruction": "What are the names of some famous actors that started their careers on Broadway?",
+    "dataset": "helpful_base",
+    "output": "Here are some famous actors who started their careers on Broadway:\n\n1. Laurence Olivier\n2. Marlon Brando\n3. Audrey Hepburn\n4. Tom Hanks\n5. Meryl Streep\n6. Alec Baldwin\n7. Christian Bale\n8. Billy Crystal\n9. Whoopi Goldberg\n10. Idris Elba\n11. James Corden\n12. Lin-Manuel Miranda\n13. Audra McDonald\n14. Neil Patrick Harris\n15. Cynthia Nixon\n16. John Lithgow\n17. Billy Porter\n18. Alan Alda\n19. Lin-Manuel Miranda\n20. Kelsey Grammer",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How did US states get their names?",
+    "dataset": "helpful_base",
+    "output": "The United States was named after the 13 original colonies, which were founded in the years leading up to the American Revolution. The colonies were named after the people who founded them, or the products or resources found there. For example, Massachusetts was named after the Native American tribe the Wampanoag, while Pennsylvania was named after the Lenape Native American tribe. The names of the other states were also based on local resources and people.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here's a quick overview of how to play kickball:\n\nObjective: The objective of the game is to score runs by hitting a ball into the opposing team's goal.\n\nEquipment: You'll need a ball, shoes, and a glove to play.\n\nStart: The game begins with a team of two players on each side. The two players from each team line up on the opposite end of the field and kick the ball back and forth.\n\nRules: The game is played on a rectangular field with two teams of seven players each. The objective is to score runs by hitting the ball into the opposing team's goal.\n\nFielding: The goalkeeper stands at the opposite end of the field and defends the goal by catching the ball and throwing it back to the other team.\n\nOutfielders: The outfielders play closer to the ball and try to hit it before it reaches the opposing team's goal.\n\nHitting: To hit the ball, you use a swing of your leg or a flick of your wrist. The ball must be kicked with the front part of your foot and cannot be thrown.\n\nFielding: To catch the ball, you use your glove and throw it back to the other team.\n\nRuns: To score a run, you hit the ball into the opposing team's goal and advance to the next player on your team.\n\nCoaches: If you need help with the rules or other issues during the game, you can ask a coach for assistance.\n\nIt's important to note that kickball is a fun and easy game to play, and it's not meant to be taken too seriously. If you're new to the game, don't be afraid to take some time to learn the rules and get comfortable with the different parts of the game.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What is some cool music from the 1920s?",
+    "dataset": "helpful_base",
+    "output": "Some cool music from the 1920s includes:\n\n• blues music, such as \"St. Louis Blues\" by W.C. Handy and \"Terraplane Blues\" by Memphis Minnie\n• jazz music, such as \"In a Sentimental Mood\" by Duke Ellington and \"The Piccolo\" by The New York Philharmonic\n• Spanish music, such as \"The Rite of Spring\" by Igor Stravinsky\n• classical music, such as \"Romeo and Juliet\" by William Shakespeare and \"Moonlight Sonata\" by Ludwig van Beethoven\n• popular music, such as \"Sweet Home Alabama\" by Lynyrd Skynyrd and \"I Wanna Hold Your Hand\" by The Beatles\n• country music, such as \"Mountain Dew\" by Patsy Cline and \"Chattanooga Choo Choo\" by Roy Acuff\n• rock music, such as \"White Christmas\" by Bing Crosby and \"Good Vibrations\" by The Beach Boys\n\nThese songs represent a wide range of musical genres from blues to classical, and they are still highly regarded today.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do I wrap a present neatly?",
+    "dataset": "helpful_base",
+    "output": "There are many ways you can wrap a present nicely. One way is to use a colour-coordinated bow and wrapping paper. You can also use gift bags, gift boxes, or tissue paper to add some extra texture and interest to your present. To ensure your present looks its best, try to use the right amount of wrapping paper, bow, and gift bag. You can also trim the wrapping paper and bow to fit the shape of the present. Finally, make sure to seal the present with a strong adhesive and a clean cloth to ensure that it stays safe and secure during shipping.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do I dice without slicing my finger",
+    "dataset": "helpful_base",
+    "output": "There are a few ways to dice an onion without slicing your finger:\n\n1. Use a sharp knife and cut the onion into small, even slices.\n\n2. Use a food processor or blender to dice the onion. Start with small chunks and gradually increase the size as you process.\n\n3. Use a mandoline to cut the onion into thin slices. Be careful not to nick your fingers.\n\n4. Use a sharp, serrated knife to cut the onion into thin, even slices.\n\n5. Thinly slice the onion using a cheese slicer or mandoline.\n\nThese methods are all safe and efficient ways to dice an onion without slicing your finger.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+    "dataset": "helpful_base",
+    "output": "Of course! Here's a simple step-by-step guide to help you solve a crossword puzzle:\n\n1. Familiarize yourself with the puzzle. Look at the clues and try to understand their meanings. Pay attention to any patterns or common words.\n\n2. Start by solving the easy clues first. Look for words that are familiar and easy to fit into the grid.\n\n3. Once you've filled in the easy clues, look for words that are related to the theme of the puzzle. For example, if the puzzle is about animals, look for words that are related to animals, such as \"paw\" or \"snake\".\n\n4. Look for words that fit into the grid in a vertical or horizontal direction. Pay attention to the number of letters in each clue and try to find words that fit.\n\n5. Once you've filled in all the easy clues, look for words that are related to the theme of the puzzle. For example, if the puzzle is about technology, look for words that are related to technology, such as \"smartphone\" or \"computer\".\n\n6. Look for words that fit into the grid in a vertical or horizontal direction. Pay attention to the number of letters in each clue and try to find words that fit.\n\n7. Once you've filled in all the clues, try to put them together to form words and phrases. Look for words that are related to the theme of the puzzle and try to put them together in a logical way.\n\n8. If you get stuck, don't be afraid to ask for help. There are many online resources available, such as crossword puzzles websites or forums, that may have answers to your questions.\n\nGood luck! Remember, solving a crossword puzzle takes time and practice, but it's a fun and challenging way to improve your skills.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Who is Larry Page?",
+    "dataset": "helpful_base",
+    "output": "Larry Page is the co-founder and CEO of Google. He was a co-founder of the company with Sergey Brin in 1998, and has since played a key role in the company's growth and development. Page is also a major investor in many of Google's subsidiaries and has been instrumental in shaping the company's corporate strategy.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are different drawers I should have for clothes?",
+    "dataset": "helpful_base",
+    "output": "Different drawers you should have for clothes depend on your specific needs and wardrobe. If you have a lot of clothes and want to keep them organized, you may want to have a vertical drawer for shirts, a horizontal drawer for pants, and a separate drawer for accessories such as jewelry and scarves. If you have fewer clothes and want to maximize space, you may want to have one drawer for all your clothes, or separate dresser drawers for tops, bottoms, and accessories. It's important to choose the right drawer configuration that best fits your needs and the size of your clothes.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?",
+    "dataset": "helpful_base",
+    "output": "Here is a recipe for Kubdari (Georgian Cucumber Soup):\n\nIngredients:\n\n• 1 kg fresh cucumbers,peeled and diced\n• 3 cups vegetable broth\n• 1/2 cup vegetable oil\n• 1/2 cup diced onion\n• 2 cloves minced garlic\n• 1 teaspoon ground coriander\n• 1 teaspoon ground cumin\n• 1 teaspoon paprika\n• 1 teaspoon salt\n• 1/2 teaspoon black pepper\n• 1 cup heavy cream\n• 2 tablespoons chopped fresh parsley\n• 1/2 cup crumbled feta cheese\n\nInstructions:\n\n1. In a large soup pot, combine the cucumbers, vegetable broth, and vegetable oil. Bring to a boil and reduce heat to low.\n2. Add the onion, garlic, coriander, cumin, paprika, salt, and black pepper. Simmer for 30 minutes, stirring occasionally.\n3. Add the heavy cream and bring the soup to a boil. Reduce heat to low and simmer for 10 minutes.\n4. Remove the soup from the heat and stir in the parsley and feta cheese. Serve hot.\n\nEnjoy your Kubdari!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "do you think retinoid is effective on removing the acne? because I have a lot of it",
+    "dataset": "helpful_base",
+    "output": "Retinoids are considered to be effective for treating acne, but the results may vary from person to person. They can help reduce the appearance of acne and reduce the inflammation and bacteria that cause it. However, it's important to use retinoids as part of a combination therapy with other treatments, such as antibiotics or laser therapy, and to follow the instructions carefully. Some people may experience side effects, such as redness, dryness, or irritation, so it's important to talk to your doctor before starting any new treatment.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I'm trying to teach myself to have nicer handwriting. Can you help?",
+    "dataset": "helpful_base",
+    "output": "Yes! As a language model AI, I can certainly help you with that! Here are some tips for improving your handwriting:\n\n1. Practice regularly: A consistent practice is key to improving your handwriting. Try to write every day, even if it's just a short note or doodle.\n\n2. Focus on form: Pay attention to the shape of your letters and how they're formed. Try to make each stroke smooth and even.\n\n3. Use a writing utensil: A pen or pencil can help you to focus on your form and make sure your letters are consistent.\n\n4. Use correct posture: Keep your shoulders relaxed and your wrist straight when you're writing.\n\n5. Consider using a writing aid: If you find your handwriting to be particularly difficult, there may be an app or guide available that can help you improve.\n\nRemember, learning to have nice handwriting takes time and practice. Keep at it and you'll see improvements over time. Good luck!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Somali  dishes. Can you give me a recipe for Canjeero?",
+    "dataset": "helpful_base",
+    "output": "Here's a recipe for Canjeero, a traditional Somali dish made with a base of fermented milk curds:\n\nIngredients:\n\n• 1 cup fermented milk curds\n• 1/2 cup vegetable oil\n• 1 large onion, chopped\n• 1 teaspoon cumin\n• 1 teaspoon coriander\n• 1 teaspoon turmeric\n• 1 teaspoon garlic powder\n• 1 teaspoon salt\n• 1/2 teaspoon black pepper\n• 1/2 cup chopped fresh cilantro\n• 1/2 cup chopped fresh parsley\n• 1/4 cup chopped fresh mint\n\nInstructions:\n\n1. In a large bowl, combine the fermented milk curds and vegetable oil.\n2. Using a wooden spoon, stir together until the mixture forms a smooth, thick paste.\n3. Add the onion, cumin, coriander, turmeric, garlic powder, salt, and black pepper and stir to combine.\n4. Cover the bowl with plastic wrap and set aside at room temperature for 24 hours, or until the mixture has fermented and thickened.\n5. Transfer the mixture to a clean bowl and stir in the cilantro, parsley, and mint.\n6. Serve the Canjeero at room temperature.\n\nEnjoy!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are the best exercises for beginners?",
+    "dataset": "helpful_base",
+    "output": "The best exercises for beginners are those that are simple and easy to learn, such as basic push-ups, sit-ups, and planks. Additionally, it is important to focus on compound exercises that involve multiple muscle groups, such as squats, lunges, and deadlifts. It is also important to incorporate bodyweight exercises, such as yoga and Pilates, to improve overall strength and flexibility.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Do you know why turkeys became the official food of thanksgiving?",
+    "dataset": "helpful_base",
+    "output": "The turkey became the official food of Thanksgiving because it was a symbol of abundance, a tradition that was already established in Europe, and a popular dish in the United States. The Pilgrims, who first arrived in America in 1620, had a history of relying on the meat of wild turkeys to survive in their harsh environment. During the American Revolution, the Continental Army was supplied with turkey by the Native Americans, and it quickly became a favorite meal for soldiers and their families.\n\nAs the nation grew, so did the popularity of turkey, and it became a symbol of American abundance and prosperity. Families started to celebrate Thanksgiving together, and the turkey became the center of the meal. By the early 1800s, turkey was served at almost every meal, and it became a staple in American cuisine.\n\nToday, turkey remains a favorite holiday dish, and it is often served at Thanksgiving tables around the country. The turkey's versatility and affordability make it a popular choice for holiday meals, and it is a symbol of the hope and prosperity that can be found in America.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I want to get better at networking at work",
+    "dataset": "helpful_base",
+    "output": "Networking is an important skill for anyone in the workplace, and it can help to build relationships, promote your work, and advance your career. Here are some tips to help you improve your networking skills at work:\n\n1. Be active: Attend industry events and conferences, join professional organizations, and volunteer for relevant causes. Being active in your professional community can help you to meet new people, build relationships, and demonstrate your commitment to your field.\n\n2. Be yourself: Networking is about building relationships, not just about impressing others. Be authentic and genuine when you meet new people, and be willing to share your story and your interests.\n\n3. Be a good listener: Good networking requires active listening, so be sure to listen carefully to what other people have to say and ask questions to show that you are engaged.\n\n4. Be respectful: Treat others with respect and courtesy, and be mindful of their time. Be mindful of who you are networking with and take their time to engage in meaningful conversations.\n\n5. Follow up: After meetings, be sure to follow up with the people you meet on social media or through email to express your gratitude and to further develop the relationship.\n\n6. Be persistent: Networking takes time and effort, but it is worth it in the end. Keep at it, and be open to new opportunities that may come your way.\n\nRemember, networking is a two-way street. It's important to not just focus on building relationships, but also to be willing to provide value to others. By networking effectively, you can increase your chances of success and advance your career.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Are there any weird Christmas traditions?",
+    "dataset": "helpful_base",
+    "output": "Yes, there are many weird Christmas traditions around the world. For example, in Japan, it is tradition to give rice balls as gifts, while in Sweden, people traditionally exchange Christmas trees for donations to charity. In the United States, many people put a wreath on their front door in December, while in Spain, people traditionally throw a bucket of water over anyone who refuses to attend Christmas Mass. Other traditions include caroling, decorating with lights, and giving gifts to children.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I'm interested in learning to play badminton. Can you explain the game to me?",
+    "dataset": "helpful_base",
+    "output": "Sure! Badminton is a two-player game played on a court with a felt or canvas surface. The objective is to hit a small, hard ball, called the shuttle, into the opposing court, called the service court, and return it to the opposing side's court without being hit.\n\nIn order to play, you'll need a racket, a shuttle, and a set of badminton balls. The racket is a long handle with a short, curved shaft and a handle grip. The shuttle is a hard plastic ball about the size of a tennis ball.\n\nTo begin a game, the two players stand on their respective sides of the court and serve the shuttle towards the opposing court. The players take turns serving and hitting the shuttle. When a player returns the shuttle into the opposing court, it is considered a point and the score is kept.\n\nThere are several rules and strategies involved in badminton, such as serving style, shuttle speed, and playing the net. The game can be played with a variety of racquet materials, including wood, composite, and aluminum, and is a popular sport in many countries.\n\nIf you're interested in learning more about badminton, there are many resources available, including instructional videos, books, and clinics. You can also find local clubs and organizations in your area that offer beginner and advanced classes.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Do you know why cats always rub up against your legs?",
+    "dataset": "helpful_base",
+    "output": "Cats rub up against your legs for a variety of reasons, including to mark their territory, to communicate with other cats, to express affection, and to increase their sense of security. Rubbing up against your legs can also be a way for cats to show dominance or submission. It is important to understand that cats are not always trying to be rude or aggressive, and that they may simply be seeking affection or seeking to bond with their owners.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I am going to try to roast a pig at home for Thanksgiving this year. What equipment and techniques do I need to successfully get a pig roasted?",
+    "dataset": "helpful_base",
+    "output": "Roasting a pig at home for Thanksgiving can be a fun and rewarding experience, but it requires careful planning and execution. Here are some essential equipment and techniques you'll need to roast a pig successfully:\n\nEquipment:\n\n1. Pig: You will need to purchase a whole pig, either fresh or frozen. You can choose a pig that is either roasting whole or in pieces. The size and weight of the pig will affect the cooking time and temperature.\n\n2. Roasting pan: You will need a large roasting pan that is deep enough to hold the pig. You can choose a roasting pan that is either metal or ceramic, and has good heat retention.\n\n3. Tongs: You will need to use tongs to transfer the pig from the roasting pan to the oven. Make sure to handle the pig carefully to avoid injury.\n\n4. Spatula: You will need a spatula to loosen and remove the skin from the pig.\n\n5. Roasting thermometer: You will need a digital or an analog roasting thermometer to monitor the internal temperature of the pig.\n\nTechniques:\n\n1. Preheat the oven: Preheat the oven to the desired temperature (around 350°F for a whole pig, or 225°F for a cut-up pig).\n\n2. Rinse the pig: Rinse the pig under cold water to remove any dirt or residue.\n\n3. Season the pig: Season the pig with salt and pepper, and any other herbs and spices you prefer.\n\n4. Place the pig in the roasting pan: Place the pig in the roasting pan and spread any excess grease or fat over the surface.\n\n5. Roast the pig: Roast the pig in the preheated oven for about 20-30 minutes per pound, or until the internal temperature reaches 165°F.\n\n6. Remove the pig from the oven: Remove the pig from the oven and let it rest for about 10-15 minutes before carving and serving.\n\nRemember to take your time and pay attention to the cooking process to ensure that the pig is cooked to perfection. With these essential equipment and techniques, you can confidently roast your own pig for Thanksgiving and enjoy a delicious and rewarding meal!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Help me find a good rated electric saw.",
+    "dataset": "helpful_base",
+    "output": "Sure! Here are a few options for a good rated electric saw:\n\nBosch DCS-9000: This saw is known for its power and precision, and features a fast blade speed of up to 3,600 RPM for cutting through hard materials. It's also equipped with a dust blower and a LED light for easy visibility.\n\nDewalt DCS-8200: This saw is another popular choice, and is known for its power and precision. It features a fast blade speed of up to 2,800 RPM, and is equipped with a dust blower and a LED light for easy visibility.\n\nHitachi ZS-50: This saw is a good value for money, and is known for its power and precision. It features a fast blade speed of up to 2,000 RPM, and is equipped with a dust blower and a LED light for easy visibility.\n\nThese are just a few of the many good rated electric saws available on the market. It's important to choose a saw that is suitable for your specific needs and abilities, and to research reviews and comparisons to find the best option for you.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are some artists I might like if I like Billy Joel?",
+    "dataset": "helpful_base",
+    "output": "Some artists you might like if you like Billy Joel are:\n\n1. Elton John\n2. Journey\n3. Billy Joel's own music\n4. John Lennon\n5. Paul McCartney\n6. Genesis\n7. Stevie Wonder\n8. Chicago\n9. James Taylor\n10. Whitney Houston\n11. Elton John's solo work\n12. Stevie Wonder's solo work.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What type of soil is suitable for cactus?",
+    "dataset": "helpful_base",
+    "output": "Cacti need well-draining soil with a pH between 6.0 and 7.0. They prefer soil that has a high amount of organic matter and contains plenty of nitrogen. If the soil is too acidic, it can kill the cacti. If the soil is too alkaline, it can cause root rot. Additionally, cacti require regular watering and fertilizing, so a soil that drains well and evenly is beneficial.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do you become an author?",
+    "dataset": "helpful_base",
+    "output": "Becoming an author involves several steps. Firstly, you need to create compelling content that people will want to read. This could be a book, article, blog post, or other form of writing. Once you have created the content, you need to promote it so that people can find your work and share it with others. It is also important to have a platform where you can share your work, whether that be through a website, blog, social media, or other channels. Finally, you need to continuously improve your writing skills and the quality of your work.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What breed dog is smallest?",
+    "dataset": "helpful_base",
+    "output": "The smallest breed of dog is the Chihuahua.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are some species of bears that are now extinct?",
+    "dataset": "helpful_base",
+    "output": "Some species of bears that are now extinct include the polar bear, the Asiatic black bear, the sun bear, the sloth bear, the spectacled bear, and the American black bear.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What causes the northern lights?",
+    "dataset": "helpful_base",
+    "output": "The northern lights, also known as the aurora borealis, are caused by a complex interaction between the Earth's magnetic field, the solar wind, and particles from the sun. When solar activity is high, particles from the sun can enter the Earth's atmosphere and collide with atoms and molecules in the atmosphere, creating a glow of green, red, and blue light in the sky.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are some good foods to eat when you are sick? I am looking for something to make my girlfriend to eat.",
+    "dataset": "helpful_base",
+    "output": "Some good food to eat when you are sick include chicken noodle soup, oatmeal, cooked vegetables, toast with peanut butter, and yogurt with fruit and nuts. Soup and oatmeal are easy to digest and can provide your body with much-needed nutrients. Cooked vegetables can be a good source of vitamins and minerals, while toast with peanut butter and yogurt with fruit and nuts can provide you with protein and healthy fats.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Why is kobe beef so damn expensive?",
+    "dataset": "helpful_base",
+    "output": "Kobe beef is expensive because it is considered to be one of the best beef products in the world. It is produced in the Kobe Prefecture of Japan, which is known for its high quality feed and water, and for its special growth conditions that produce lean, tender beef. Kobe beef is also known for its exceptional marbling, which gives it a rich, creamy texture and a robust flavor. Additionally, the high demand for Kobe beef has driven up the price, making it one of the most expensive beef products on the market.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do I clean my armpits?",
+    "dataset": "helpful_base",
+    "output": "If you want to clean your armpits, you can use a gentle bar of soap, warm water, and a soft brush. First, wet your armpits and scrub them gently with the brush in a circular motion. Then, rinse off the soap with warm water and pat your armpits dry with a clean towel. You can also use deodorant or antiperspirant if you prefer.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do I detail a car?",
+    "dataset": "helpful_base",
+    "output": "To detail a car, start by washing the car to remove dirt and grime. Rinse the car thoroughly with a hose to remove any residue. Next, use a car wax to protect the paint. Use a soft cloth or microfiber towel to wipe down the car, paying special attention to the areas that get the most sunlight, such as the roof, hood, and trunk. Use a dry cloth to wipe down any remaining dirt, then vacuum the car to remove any loose dirt. Finally, use a detailing brush to gently scrub away any loose dirt and particles.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I am going to make pumpkin pie for the first time.  Can you help me?",
+    "dataset": "helpful_base",
+    "output": "Sure, I'd be happy to help you make pumpkin pie! Here are the basic steps to follow:\n\n1. Preheat your oven to 350°F (175°C).\n2. In a medium bowl, mix together the pumpkin puree, sugar, eggs, and spices.\n3. In a separate bowl, mix together the flour, baking powder, and salt.\n4. Slowly add the dry ingredients to the wet ingredients and mix until just combined.\n5. Grease a 9-inch pie dish and pour the pumpkin filling into the dish.\n6. Bake for 45-55 minutes, or until the filling is golden brown and cooked through.\n7. Let cool before serving.\n\nLet me know if you have any other questions!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What kind of foods do they eat in Thailand",
+    "dataset": "helpful_base",
+    "output": "Thai cuisine is known for its delicious and unique flavors. It is based on a mix of coconut milk-based curries and spicy salads. Popular dishes include pad Thai, tom yum soup, larb (a salad made with minced meat, herbs, and spices), and khao pad (a hearty rice dish). Other popular dishes include bananas with sticky rice, coconut milk ice cream, and street-side stalls that sell delicious grilled meats and fish.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are some good browser alternatives to Chrome?",
+    "dataset": "helpful_base",
+    "output": "Some good browser alternatives to Chrome include Mozilla Firefox, Opera, Brave, Vivaldi, and Torch. Each of these browsers offers a different set of features, performance, and security, so it's important to evaluate each one to determine which one is best for your needs.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Who created the Superman cartoon character?",
+    "dataset": "helpful_base",
+    "output": "The Superman cartoon character was created by Jerry Siegel and Joe Shuster.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What is Atlantis?",
+    "dataset": "helpful_base",
+    "output": "Atlantis is the legendary island city that is said to have existed in the Atlantic Ocean. It is thought to have been destroyed by a catastrophic volcanic event around the end of the Bronze Age around 9,000 years ago. The story of Atlantis has been passed down through ancient Greek mythology and has been the subject of many theories and debates among scholars and enthusiasts alike.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do I make escargot?",
+    "dataset": "helpful_base",
+    "output": "To make escargot, you will need the following ingredients:\n- 1 pound of snails\n- 1/4 cup of garlic\n- 1/4 cup of butter\n- Salt and pepper to taste\n- Lemon juice for serving\n\n1. Clean the snails by removing the shells and any debris.\n\n2. Mince the garlic.\n\n3. Melt the butter in a large pot over medium heat.\n\n4. Add the minced garlic and salt and pepper to taste.\n\n5. Cook for about 1 minute, stirring constantly.\n\n6. Add the snails to the pot and cook for about 5 minutes, stirring occasionally.\n\n7. Serve with lemon juice and enjoy!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What exactly causes volcanoes to form?",
+    "dataset": "helpful_base",
+    "output": "Volcanoes are caused by the pressure and heat created by magma and other materials beneath the Earth's surface. When these materials build up enough pressure, they force their way up through the Earth's crust, creating a volcanic eruption.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I have some falafel, but no tahini to put on them. Can you give me a recipe for making tahini?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here's a simple recipe for making tahini:\n\nIngredients:\n\n• 1 cup tahini\n• 2 tablespoons olive oil\n• 2 cloves garlic, minced\n• 1 teaspoon ground cumin\n• 1 teaspoon paprika\n• 1/2 teaspoon salt\n• Optional: fresh parsley or cilantro for garnish\n\nInstructions:\n\n1. In a medium bowl, combine the tahini, olive oil, garlic, cumin, paprika, and salt. Whisk until well combined.\n2. If desired, stir in fresh parsley or cilantro.\n3. Scrape the mixture into a container with a tight-fitting lid and store it in the refrigerator for up to 2 weeks.\n\nEnjoy your homemade tahini!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Should I get my children a nanny? I'm so exhausted.",
+    "dataset": "helpful_base",
+    "output": "It depends on your situation and needs. If you need someone to help take care of your children while you are at work, hiring a nanny may be a good option. Nannies can provide day-to-day care, as well as prepare meals and help with activities. However, if you want to spend more time with your children and would rather have someone in the house to help you with daily responsibilities, a nanny might not be the right choice. Ultimately, it's up to you to decide if it's the best option for you and your family.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "When was Canada colonized?",
+    "dataset": "helpful_base",
+    "output": "Canada was colonized by the British in 1610.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How can I  use my phone less?",
+    "dataset": "helpful_base",
+    "output": "The first step to using your phone less is to identify the sources of stress and anxiety that are causing you to use your phone more. Are you feeling overwhelmed with work or school assignments? Are you feeling anxious before an important event? Are you constantly checking your phone for updates or notifications? Once you identify the sources of stress, you can work on reducing or eliminating them.\n\nYou can also try setting boundaries with your phone. Turn off notifications and limit the amount of time you spend on your phone each day. You can also reach out to friends or family members to help keep you connected without feeling guilty.\n\nAnother way to reduce your phone usage is to unplug when you are not using your phone. Turn off your device when you are watching TV or at dinner, and put it away when you are done. This will help you to avoid feeling tempted to constantly check your phone, and will also help you to focus on other activities.\n\nFinally, you can try using apps or tools that can help you manage your smartphone use. There are many apps available that can help you track your phone usage and set limits. Some popular apps include Moment, Forest, and LeechBlock NG.\n\nRemember, reducing your phone usage is a gradual process, so be patient and persistent. With consistency, you can make significant progress in reducing your phone usage and improving your overall well-being.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How did mankind discover that the earth was spherical, and why did they initially believe it to be flat?",
+    "dataset": "helpful_base",
+    "output": "The idea that the Earth was flat was first proposed by ancient Greek philosopher Pythagoras, who believed that the sun and stars must be arranged in a perfect circle, according to his theory of the \"celestial sphere.\" This idea was later adopted by the Romans, who built a complex system of roads and landmarks to represent the supposed curvature of the Earth.\n\nHowever, the idea of a spherical Earth was challenged by the work of Christopher Columbus, who claimed to have reached the \"Indies\" (now called the Caribbean) by sailing west. Others, such as the Greek astronomer Ptolemy, also proposed models of a flat Earth, but these were eventually eclipsed by the evidence from telescopes and other scientific instruments.\n\nToday, most scientists agree that the Earth is a spherical planet, and that the idea of a flat Earth was a result of misunderstanding and misinterpretation of the evidence available at the time.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What is Gremolata?",
+    "dataset": "helpful_base",
+    "output": "Gremolata is a traditional Italian condiment made of chopped fresh parsley, garlic, and grated Parmesan cheese.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Why did humans evolve to believe in God?",
+    "dataset": "helpful_base",
+    "output": "Humans evolved to believe in God for several reasons, including:\n\n1. Social cohesion: Belief in God is often seen as a way to promote social cohesion and cooperation among individuals. People who believe in God can band together and work together to achieve common goals, and they can also feel greater comfort and security knowing that their beliefs are shared by a larger group of people.\n\n2. Moral guidance: Many religious traditions emphasize the importance of moral guidance and the idea that God has created a moral universe. Belief in God can lead people to live their lives in accordance with moral principles, which can be a source of comfort and guidance in difficult times.\n\n3. Belief in an afterlife: Many religions emphasize the idea of an afterlife, in which those who have lived a virtuous life will be rewarded in the afterlife. Belief in an afterlife can provide a sense of purpose and motivation for people to live their lives in a moral and ethical way.\n\n4. Explaining natural phenomena: Many religious traditions attribute natural phenomena to the actions of God, and belief in God can help people to explain the mysteries of the natural world. For example, some religious traditions believe that the sun and moon are the result of God's actions, and that earthquakes and storms are the work of God's wrath.\n\n5. Resolving conflicts: Many religious traditions emphasize the importance of resolving conflicts peacefully and without violence. Belief in God can provide a sense of comfort and guidance in situations where people are struggling to come to a peaceful resolution.\n\nIn summary, the evolution of belief in God can be explained by a combination of factors, including social cohesion, moral guidance, belief in an afterlife, and the need to explain natural phenomena and resolve conflicts peacefully.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "what should i build a cabin out of?",
+    "dataset": "helpful_base",
+    "output": "Cabin materials depend on your location, budget, and personal preferences. However, some common cabin materials include cedar shingles, pressure-treated lumber, steel, brick, and stone. Cabins should be designed to withstand the elements, such as wind, snow, and rain, and should be equipped with proper roofing, windows, and doors to ensure adequate ventilation and protection from the elements. Other features to consider include insulation, heating and cooling systems, and electrical outlets.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Why do a lot of Scientists not believe in God or Satan?",
+    "dataset": "helpful_base",
+    "output": "Scientists do not necessarily have to believe in God or Satan in order to conduct their research or to have an understanding of the world around them. Many scientists have made their own discoveries and developed their own theories based on their observations and experiences. It's important to keep in mind that science is a method of inquiry that is based on empirical evidence and logic, and it is not limited by beliefs about the supernatural.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Mauritian dishes. Can you give me a recipe for Mine Frite?",
+    "dataset": "helpful_base",
+    "output": "Here's a recipe for Mine Frite:\n\nIngredients:\n\n1 large sweet potato, peeled and diced\n1 large onion, diced\n1 teaspoon ground turmeric\n1 teaspoon chilli powder\n1 teaspoon cumin\n1 teaspoon paprika\n1 teaspoon coriander\nSalt and freshly ground pepper\nOlive oil\nCoconut milk\nWater\nLime juice\nPaprika\n\nInstructions:\n\n1. In a large saucepan, combine the sweet potato, onion, turmeric, chilli powder, cumin, paprika, coriander, salt and pepper.\n2. Cover and cook over medium-high heat for 15 minutes, stirring occasionally, until the vegetables are soft and the spices are fragrant.\n3. Transfer the mixture to a large bowl and set aside.\n4. In a small bowl, combine the olive oil, coconut milk, water and lime juice.\n5. Pour the coconut milk mixture over the sweet potato mixture and stir to combine.\n6. Transfer the mixture to a serving platter and sprinkle with paprika.\n7. Serve warm.\n\nEnjoy your Mine Frite!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Why can I see the moon during the day?",
+    "dataset": "helpful_base",
+    "output": "The reason you can see the moon during the day is because of sunlight reflecting off the moon's surface. During the day, the sun's rays are more powerful than at night, and they are able to bounce off the moon's surface and create a bright reflection. This sunlight reflection is what allows you to see the moon during the day.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do I take care of a wooden table?",
+    "dataset": "helpful_base",
+    "output": "To take care of a wooden table, you should regularly clean it with a soft cloth or a vacuum. Wipe away any food particles or spills as soon as possible. Use a hardwood cleaner specifically designed for wooden surfaces if necessary. Avoid using harsh chemicals or abrasive sponges, as this can damage the surface. Regularly oil the table to prevent wood rot and make it look shiny and new. Finally, be mindful of the heat generated by the table and avoid placing hot objects on it.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What year was the Yamato Battleship built?",
+    "dataset": "helpful_base",
+    "output": "The Yamato Battle Ship was built in 1941.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Did they ever announce the release date for the new elder scrolls game?",
+    "dataset": "helpful_base",
+    "output": "Yes, the release date for the latest Elder Scrolls game, Skyrim, was set to November 11, 2011 on the Xbox 360 and PlayStation 3.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Flæskesteg?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here's a recipe for Flæskesteg, a traditional Danish dish:\n\nIngredients:\n\n• 2 lb boneless pork shoulder, cut into 1-inch cubes\n• 2 tablespoons vegetable oil\n• 1 onion, diced\n• 2 carrots, peeled and diced\n• 4 cloves garlic, minced\n• 1 teaspoon ground thyme\n• 1 teaspoon ground rosemary\n• 1 teaspoon dried mustard\n• 1 teaspoon salt\n• 1 teaspoon freshly ground black pepper\n• 1 bay leaf\n• 2 cups chicken broth\n• 1 cup dry white wine\n• 1/2 cup heavy cream\n• 1/4 cup chopped fresh parsley\n\nInstructions:\n\n1. Heat the vegetable oil in a large pot over medium-high heat.\n2. Add the pork cubes and cook, stirring occasionally, until no longer pink, about 8 minutes.\n3. Add the onion, carrots, garlic, thyme, rosemary, mustard, salt, pepper, and bay leaf and cook, stirring occasionally, until the vegetables are tender, about 10 minutes.\n4. Add the chicken broth and white wine and bring to a boil. Reduce the heat to low and simmer, covered, until the pork is tender, about 2 hours.\n5. Remove the bay leaf and stir in the heavy cream and chopped parsley.\n6. Serve the Flæskesteg hot.\n\nLet me know if you have any other questions!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Please tell me about the romantic relationship between Julius Caesar and Cleopatra.",
+    "dataset": "helpful_base",
+    "output": "Julius Caesar and Cleopatra had a romantic relationship that lasted for many years. They first met when Caesar was a young general and Cleopatra was a high-ranking official in Egypt. They quickly became close, and their relationship became increasingly political as Caesar became emperor of Rome.\n\nThe two had a strong bond, and they spent a lot of time together, both on the campaign trail and in Rome. They had several children together, and their relationship was seen as a great source of stability for the Roman Empire.\n\nHowever, their relationship was also complex and multifaceted. Cleopatra was a powerful and influential figure in her own right, and she was not content to simply be the wife of a powerful man. She also had her own agenda, and she used her relationship with Caesar to further her own interests.\n\nIn the end, their relationship was ultimately a tragedy. Caesar was assassinated, and Cleopatra was later killed by a rival ruler. Despite their strong connection, their relationship was ultimately doomed to failure, and their legacy remains a complex and fascinating one.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I'm in the mood for a Bloody Mary. Can you give me a recipe for making one?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here is a recipe for a basic Bloody Mary:\n\nIngredients:\n\n• 1 tablespoon of vodka\n• 1 tablespoon of tomato juice\n• 2 tablespoons of Worcestershire sauce\n• 2 tablespoons of prepared horseradish\n• 1 tablespoon of celery salt\n• 1/2 lime, cut into rounds\n• 1/2 lemon, cut into rounds\n• 1/4 cup of vodka-infused ice\n• 1/4 cup of tomato juice-infused ice\n• 1/4 cup of Worcestershire sauce-infused ice\n• 2 tablespoons of prepared horseradish-infused ice\n• 1 tablespoon of celery salt-infused ice\n• Salt to taste\n• Pepper to taste\n\nInstructions:\n\n1. Fill a highball glass with ice.\n2. In a medium bowl, mix together the vodka, tomato juice, Worcestershire sauce, prepared horseradish, and celery salt.\n3. Stir until the mixture is well-combined and the Worcestershire sauce is fully dissolved.\n4. Squeeze the lime and lemon rounds into the glass and stir to combine.\n5. Fill the glass with ice.\n6. Add the vodka-infused ice, tomato juice-infused ice, Worcestershire sauce-infused ice, prepared horseradish-infused ice, and celery salt-infused ice.\n7. Stir until the ice is fully melted and the mixture is chilled.\n8. Season with salt and pepper to taste.\n9. Garnish with a lime wedge and a lemon wedge, if desired.\n\nEnjoy your Bloody Mary!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are some famous world music artists?",
+    "dataset": "helpful_base",
+    "output": "Some famous world music artists include:\n- Paul Simon\n- Bob Marley\n- Led Zeppelin\n- Oasis\n- U2\n- The Rolling Stones\n- Marvin Gaye\n- Stevie Wonder\n- Bob Dylan\n- Ray Charles\n- Michael Jackson\n- Madonna\n- Sonic Youth\n- Radiohead\n- Sting",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "what are some good ways to spread ashes?",
+    "dataset": "helpful_base",
+    "output": "One way to spread ashes is to scatter them in a designated area. If you don't have a designated area, you can scatter them outdoors in a designated spot that's far away from any living things. Additionally, you can scatter ashes in a river, stream, or other body of water. It's important to remember that scattering ashes outdoors is not recommended in some areas, as it may be illegal.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Ukrainian dishes. Can you give me a recipe for Okroshka?",
+    "dataset": "helpful_base",
+    "output": "Sure, here is a recipe for Okroshka:\n\nIngredients:\n\n• 2 cups of flour\n• 1/2 teaspoon of salt\n• 1 1/2 cups of vegetable oil\n• 3 tablespoons of milk\n• 1/2 cup of chopped onions\n• 1/2 cup of chopped carrots\n• 1/2 cup of chopped celery\n• 2 tablespoons of chopped garlic\n• 1 teaspoon of dried herbs\n• 1 teaspoon of dried bay leaves\n• 1 cup of cooked and cooled potatoes\n• 1 cup of cooked and cooled chicken\n• 1/2 cup of chopped fresh parsley\n• 1/4 cup of chopped fresh dill\n• 1/4 cup of chopped fresh chives\n• Hot sauce to taste (optional)\n\nInstructions:\n\n1. In a large bowl, combine the flour and salt.\n2. Gradually add the vegetable oil, stirring until the mixture forms a ball.\n3. Gradually add the milk, stirring until the consistency is smooth.\n4. Knead the dough on a lightly floured surface for about 5 minutes, until it is smooth and elastic.\n5. Place the dough in a greased bowl and cover with plastic wrap. Let it rest for 30 minutes.\n6. Meanwhile, in a large skillet over medium heat, sauté the onions, carrots, celery, and garlic for about 5 minutes, until the vegetables are tender.\n7. Add the dried herbs and bay leaves and stir to combine.\n8. Add the potatoes, chicken, and parsley and stir to combine.\n9. Simmer the mixture for about 20 minutes, until it is thick and creamy.\n10. Remove the okroshka from the heat and let it cool for about 5 minutes.\n11. Divide the okroshka among serving bowls and top with chopped dill, chives, and hot sauce, if desired.\n\nEnjoy your Okroshka!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Koldskål?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here is a recipe for Koldskål:\n\nIngredients:\n\n• 1 head celery, roughly chopped\n• 2 carrots, roughly chopped\n• 2 tablespoons olive oil\n• 1 onion, diced\n• 4 cloves garlic, minced\n• 1 teaspoon ground coriander\n• 1 teaspoon ground cumin\n• 1 teaspoon paprika\n• Salt and pepper to taste\n• 1 cup heavy cream\n• 1/2 cup white wine\n• 1/2 cup chicken stock\n• 1/2 cup frozen peas and carrots\n• 1/4 cup chopped fresh parsley, for garnish\n\nInstructions:\n\n1. In a large pot, combine the celery, carrots, olive oil, onion, garlic, coriander, cumin, paprika, salt, and pepper. Cook over medium heat, stirring occasionally, until the vegetables are softened, about 10 minutes.\n\n2. Add the heavy cream, white wine, chicken stock, and frozen peas and carrots. Bring to a boil, then reduce the heat to low and simmer, uncovered, until the vegetables are tender and the soup has thickened, about 25 minutes.\n\n3. Serve the soup hot, garnished with chopped parsley.\n\nEnjoy your Koldskål!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I've read the book \"The Twelve Caesars\" by Suetonius, a few times. I'm curious about the context, of when he wrote.",
+    "dataset": "helpful_base",
+    "output": "Suetonius wrote \"The Twelve Caesars\" in the first century AD during the Roman Empire. He was a biographer and historian who wrote extensively about the lives of the Roman emperor Caesar Augustus, his family, and the other prominent figures of the time. Suetonius is considered one of the most important sources for information about the Roman Empire and its leaders, and his work has been widely used by scholars and historians for centuries.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Please tell me the history of Walt Disney.",
+    "dataset": "helpful_base",
+    "output": "Walt Disney was a American entrepreneur, animator, film producer, and philanthropist. He is best known as the founder of The Walt Disney Company, which is one of the largest media conglomerates in the world.\n\nWalt Disney was born in 1901 in Chicago, Illinois, and grew up in poverty. He began his career in animation as a young artist, working for the Kansas City Film Ad Company. In 1928, he launched his own animation studio, Walt Disney Animation Studios, and began producing his own films.\n\nDisney's first major success was Snow White and the Seven Dwarfs, which was released in 1937. This film launched Disney's animation empire and made him a household name. He went on to produce many other successful films, including Pinocchio (1940), Fantasia (1940), Bambi (1942), Mary Poppins (1964), and The Lion King (1994).\n\nDisney was also known for his philanthropy. He was a strong supporter of the arts and gave millions of dollars to charitable organizations throughout his life. He also made many philanthropic campaigns, including the fight against polio and the creation of the Disneyland theme park.\n\nDisney passed away in 1966, but his legacy continues to inspire and influence people around the world. He is widely regarded as one of the greatest artists and entrepreneurs of the 20th century.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Can you help me figure out how to sew a button on a shirt?",
+    "dataset": "helpful_base",
+    "output": "Sure! To sew a button on a shirt, you'll need the following materials:\n\nButton\nSewing machine\nThread\nScissors\nButtons\nIron\n\nStart by placing the button on the fabric as desired. Then, use the sewing machine to stitch the button onto the shirt, starting and ending on a flat, even surface. Make sure the button is centered on the shirt and that the stitching is secure.\n\nUse a small pair of scissors to trim the excess thread. Then, use the iron to press the stitching flat and smooth out any wrinkles.\n\nRepeat with the remaining buttons, stitching each one on in the same way.\n\nFinally, make sure the shirt is properly hemmed by measuring and cutting the hem to the desired length.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How did serial killers get away with murder for so long in the 70s and 80s?",
+    "dataset": "helpful_base",
+    "output": "Serial killers in the 70s and 80s often got away with murder due to a lack of forensic evidence and the lack of advanced technology. Additionally, police departments often lacked the resources and training to investigate these crimes, making it difficult to catch the perpetrator. Additionally, some serial killers were able to manipulate the judicial system and intimidate potential witnesses.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do I make apple juice?",
+    "dataset": "helpful_base",
+    "output": "To make apple juice, you'll need fresh apples, a juicer, and some ice. First, wash the apples and cut them into small pieces. Then, place the pieces in the juicer and process them until they become a smooth, thick juice. Finally, add some ice and blend until the juice reaches your desired consistency. Enjoy!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Israeli dishes. Can you give me a recipe Israeli Cheese Bourekas?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here is a recipe for Israeli Cheese Bourekas:\n\nIngredients:\n\n- 1/4 cup flour\n- 1/4 cup fine semolina\n- 2 large eggs\n- 2 tablespoons fresh parsley, chopped\n- 1 teaspoon salt\n- 2 tablespoons olive oil\n- 1/2 cup grated Israeli cheese (such as Gvina)\n- 1/2 cup fresh ricotta cheese\n- 1/2 cup chopped cooked chicken\n- 1/2 cup chopped fresh spinach\n- 1/2 cup chopped walnuts\n- 1/4 cup chopped fresh cilantro\n\nInstructions:\n\n1. In a large bowl, whisk together the flour, semolina, eggs, parsley, and salt.\n\n2. Gradually add the olive oil, whisking continuously. The dough should be smooth and slightly sticky.\n\n3. Cover the bowl with plastic wrap and let the dough rest for 10 minutes.\n\n4. Preheat the oven to 375°F (190°C).\n\n5. Divide the dough into 8 equal pieces.\n\n6. On a lightly floured surface, roll each piece into a 1/4-inch-thick circle.\n\n7. Using a 4-inch round cutter, cut out circles from each dough circle.\n\n8. Place the circles on a lightly greased baking sheet.\n\n9. In a bowl, mix together the grated Israeli cheese, ricotta cheese, chicken, spinach, walnuts, and cilantro.\n\n10. Spread the cheese mixture over the circles.\n\n11. Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and the dough is golden brown.\n\n12. Serve warm.\n\nThis recipe is a great way to introduce Israelis to a traditional Jewish dish. The Cheese Bourekas are made with a rich, flavorful cheese mixture that is baked in a delicate, flaky pastry. The spinach and walnuts add a pop of color and texture to the dish, and the cilantro adds a refreshing flavor that complements the cheese. I hope you enjoy it!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How can I make bubble solution?",
+    "dataset": "helpful_base",
+    "output": "You can make bubble solution by dissolving a small amount of baking soda in warm water and stirring until it forms a thick paste. To make it bubble, add a few drops of food coloring. If the bubbles don't appear right away, you can add a few more drops of food coloring or a teaspoon of vinegar to the solution. Another option is to add a few drops of essential oil to the solution. The type of oil and the amount you use will affect the texture and smell of the bubble solution.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How to make frosting with crisco",
+    "dataset": "helpful_base",
+    "output": "You can make frosting with Crisco by mixing 1 cup of Crisco with 1 cup of butter, 1 teaspoon of vanilla extract, 1/2 cup of white sugar, and 1/4 cup of milk. Once combined, beat the mixture until smooth.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Tunisian dishes. Can you give me a recipe Tunisian Kammounia?",
+    "dataset": "helpful_base",
+    "output": "Here is a recipe for Tunisian Kammounia:\n\nIngredients:\n\n• 1 cup all-purpose flour\n• 1 teaspoon salt\n• 1/2 teaspoon paprika\n• 2 tablespoons olive oil\n• 1/2 cup water\n• 1/4 cup olive oil\n• 2 tablespoons tomato paste\n• 2 garlic cloves, minced\n• 1 teaspoon ground cumin\n• 1 teaspoon ground coriander\n• 1/2 teaspoon red pepper flakes\n• 1/2 cup chopped fresh parsley\n• 1/4 cup chopped fresh cilantro\n• 2 cups cooked garbanzo beans\n• 1/2 cup chopped carrots\n• 1/2 cup chopped tomatoes\n• 1/2 cup diced bell peppers\n• 1/2 cup cooked chickpeas\n• 1/2 cup cooked quinoa\n• 2 cups cooked pasta\n• 2 cups cooked rice\n• 2 cups cooked bulgur\n• 1/4 cup chopped fresh mint\n• 1/4 cup chopped fresh parsley\n\nInstructions:\n\n1. In a large bowl, whisk together the flour, salt, and paprika.\n2. In a separate bowl, whisk together the olive oil, water, tomato paste, garlic, cumin, coriander, red pepper flakes, parsley, and cilantro.\n3. Slowly add the wet ingredients to the dry ingredients, stirring until a smooth dough forms.\n4. Knead the dough for 1 minute, then transfer it to a lightly floured surface.\n5. Roll the dough out to a roughly 1/4-inch thickness.\n6. Cut the dough into desired shapes, such as triangles, circles, stars, or hearts.\n7. Heat the olive oil in a large skillet over medium heat.\n8. Add the kammounia to the skillet and cook for 2-3 minutes, until lightly browned.\n9. Add the garbanzo beans, carrots, tomatoes, bell peppers, chickpeas, quinoa, cooked pasta, rice, bulgur, mint, and parsley to the skillet. Cook for 3-4 minutes, until heated through and the vegetables are tender.\n10. Serve the kammounia warm.\n\nEnjoy your Tunisian Kammounia!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I want to learn more about airplanes. How were they created?",
+    "dataset": "helpful_base",
+    "output": "Airplanes were invented in the late 19th century by a number of inventors, including the Wright brothers. They were designed as flying machines that would use wings to provide lift and propulsion.\n\nThe Wright brothers were the first to successfully fly an airplane, and their design was highly influential in the development of other airplanes. Their original aircraft, the Wright Flyer, was made of wood and wire and had two wings with ailerons for control.\n\nOver the years, aviation technology has advanced significantly, and today, modern airplanes are made of advanced materials and use advanced technologies such as jet engines and computer-controlled flight systems. These advances have made air travel much faster, safer, and more efficient.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Can you tell me a very easy to way clean a showerhead?",
+    "dataset": "helpful_base",
+    "output": "A very easy way to clean a showerhead is to use a solution of warm water and mild cleaning soap. Place the showerhead in a bowl or container filled with warm water and a few drops of soap. Gently scrub the showerhead with a soft-bristled toothbrush until all the dirt and grime is removed. Rinse the showerhead with warm water and dry it completely with a soft cloth.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Please give me a list of planets in our solar system.  I am going to choose which one I want to know more.",
+    "dataset": "helpful_base",
+    "output": "The eight planets in our solar system, in order from the Sun, are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Who was the first lead vocal for the rock band Starship?",
+    "dataset": "helpful_base",
+    "output": "The first lead vocalist for the rock band Starship was Rick Anderson.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you give me a few options that came out recently?",
+    "dataset": "helpful_base",
+    "output": "If you're looking for recent options for a gift for your nephew, here are a few popular games for Nintendo Switch:\n\n- The Legend of Zelda: Breath of the Wild: This critically acclaimed game is a masterpiece of open-world exploration and adventure. It features a vast world to explore, a variety of weapons and armor to collect, and an engaging story to discover.\n\n- Mario Kart 8 Deluxe: This is the latest iteration of the classic Mario Kart game, and it features improved graphics, enhanced multiplayer options, and a new single-player mode.\n\n- Arms: This is a unique action game that combines elements of shoot-em-up and platforming gameplay. It has an impressive graphics engine and challenging levels, making it a great choice for gamers who like a bit of both action and strategy.\n\n- Splatoon 2: This is the sequel to the popular Splatoon game for Nintendo Switch. It features exciting new modes and weapons, along with improved graphics and gameplay mechanics.\n\n- Bayonetta 2: This is a fast-paced action game that combines elements of hack and slash gameplay with stylish visuals and an engaging story. It has a wide range of weapons to collect and use, and it's a great choice for fans of the Bayonetta franchise.\n\nThese are just a few examples of the many great games available for Nintendo Switch. There are countless other great titles available, so you can choose something that suits your nephew's interests and skill level.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Best way to defrost a refrigerator freezer?",
+    "dataset": "helpful_base",
+    "output": "The most efficient way to defrost a refrigerator freezer is to use the defrost cycle. This cycle is typically found on the back of the refrigerator and is designed to slowly melt the ice and frost. To use the defrost cycle, you should first check the temperature of the refrigerator to make sure it is below the defrost setting. Then, turn off the refrigerator and allow it to cool down until the ice and frost begin to melt. You can also use a defrosting wipe to remove any remaining ice and frost.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are some toys I can buy my kids for imaginative play?",
+    "dataset": "helpful_base",
+    "output": "There are many imaginative play toys that you can buy for your kids. Some popular options include:\n\nBeads and bracelets: These are great for making jewelry, creating patterns, and helping kids explore their creativity.\n\nBuilding blocks: This is a great way for kids to exercise their spatial awareness and imagination.\n\nPuzzles: Puzzles are a great way for kids to develop their problem-solving skills and creativity.\n\nMagic sets: These are a great way for kids to play pretend and create their own stories.\n\nDress-up clothes and accessories: This is a great way for kids to explore their creativity and express their individuality.\n\nStorytime books: Storytime books are a great way for kids to learn about different topics and engage in imaginative play.\n\nGames: Games like chess, Scrabble, and Monopoly can be fun and help kids learn important skills like problem-solving and strategy.\n\nBooks and puzzles: Books and puzzles can be a great combination for kids to explore their creativity and imagination.\n\nIndoor playhouses: Indoor playhouses are great for providing a safe and enclosed environment for kids to play and create.\n\nThese are just a few examples of the many imaginative play toys available. The key is to choose toys that are age-appropriate and provide opportunities for kids to explore their creativity and imagination.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do I know if my house has a water leak?",
+    "dataset": "helpful_base",
+    "output": "There are several signs that your house may have a water leak:\n\n1. Water stains on walls, ceiling, and floors: If you notice water stains on walls, ceiling, or floors, it's a sign that water is entering your home.\n\n2. Uneven water bills: If you notice an unexplained change in your water bills, it could be a sign of a water leak.\n\n3. Water pooling outside: If you notice water pooling outside your home, it could be a sign of a water leak.\n\n4. Water damage: If you notice water damage to your home, it could be a sign that a water leak has occurred.\n\n5. Water puddles in the yard: If you notice water puddles in the yard, it could be a sign that a water leak has occurred.\n\n6. Foul odors: If you notice a strong smell of mold or other foul odors coming from your home, it's a sign that water is entering your home.\n\n7. Roof damage: If you notice any signs of roof damage, such as leaks, water stains, or soffits that are sagging, it's a sign that water is entering your home.\n\nTo determine the source of the leaks, you may need to hire a professional plumbing contractor to inspect your home and identify any plumbing issues.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Uruguayan dishes. Can you give me a recipe for Vitel toné?",
+    "dataset": "helpful_base",
+    "output": "Certainly! Here's a recipe for Vitel toné, a traditional Uruguayan dish:\n\nIngredients:\n\n- 500g boneless, skinless chicken breast\n- 4 large tomatoes, diced\n- 2 onions, chopped\n- 2 cloves of garlic, minced\n- 1 tbsp olive oil\n- 2 tsp ground cumin\n- 2 tsp paprika\n- 1 tsp dried oregano\n- 1 tsp salt\n- 1 tsp freshly ground black pepper\n- 1 tbsp balsamic vinegar\n- 1/2 cup red wine\n- 1/2 cup chicken broth\n- 1/4 cup chopped fresh parsley\n- 1/4 cup chopped fresh cilantro\n\nInstructions:\n\n1. In a large bowl, combine the chicken, tomatoes, onions, garlic, olive oil, cumin, paprika, oregano, salt, pepper, balsamic vinegar, red wine, and chicken broth. Stir to combine.\n\n2. Cover and marinate in the refrigerator for at least 2 hours, or up to overnight.\n\n3. Preheat the oven to 200°C (400°F).\n\n4. Remove the chicken from the marinade and place on a wire rack set over a baking sheet.\n\n5. Bake for 30 minutes, or until cooked through and the chicken is cooked through but still tender.\n\n6. Remove the chicken from the oven and let cool.\n\n7. In a blender or food processor, blend the chicken, tomatoes, onions, garlic, parsley, and cilantro until smooth.\n\n8. Serve the vitel toné over a bed of cooked rice or quinoa.\n\nThis dish is a great combination of flavors and textures, with the juicy tomatoes and tender chicken combined with the sweet balsamic vinegar, spicy paprika, and oregano. It's a great way to introduce someone to Uruguayan cuisine and make them feel like they're eating something special. Enjoy!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Opor Ayam?",
+    "dataset": "helpful_base",
+    "output": "There are many recipes for opor ayam, here's one you can try:\n\nIngredients:\n\n• 1 cup thick coconut milk\n• 1/2 cup tamarind paste\n• 1/2 cup sugar\n• 2 eggs\n• 1 teaspoon salt\n• 1/2 teaspoon ground black pepper\n• 1 1/2 cups diced chicken\n• 4 tablespoons vegetable oil\n• 1 onion, diced\n• 2 cloves garlic, minced\n• 1 teaspoon ground coriander\n• 1 teaspoon ground cumin\n• 1/2 cup green beans, cut into 1-inch pieces\n• 1/2 cup carrots, cut into 1-inch pieces\n• 1/2 cup peas, fresh or frozen\n• 1/2 cup frozen sweet potato, cut into 1-inch pieces\n• 2 cups cooked rice\n\nInstructions:\n\n1. In a medium bowl, whisk together the coconut milk, tamarind paste, sugar, eggs, salt, and pepper.\n2. Add the chicken and stir to combine.\n3. Heat the vegetable oil in a large skillet over medium-high heat. Add the onion and garlic and cook until the onion is softened, about 5 minutes.\n4. Add the coriander, cumin, beans, carrots, peas, and sweet potato and cook until the vegetables are slightly softened, about 5 minutes.\n5. Add the chicken mixture to the skillet and cook, stirring occasionally, until the chicken is cooked through and the sauce has thickened, about 10 minutes.\n6. Serve the opor ayam over cooked rice and enjoy!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What do the different octane values of gasoline mean?",
+    "dataset": "helpful_base",
+    "output": "The octane value of gasoline is a measure of the gasoline's ability to resist detonation. The higher the octane value, the more resistant the gasoline is to detonation, and the less likely it is to suddenly start a fire or explosion. The United States Department of Transportation (USDOT) sets the minimum octane value for gasoline at 87. This is the standard octane value for all gasoline sold in the United States. However, some gasoline brands and blends may have higher or lower octane values.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How can I fix a leaking roof?",
+    "dataset": "helpful_base",
+    "output": "To fix a leaking roof, you should first identify the source of the leak. This could involve looking for signs of water damage, such as moisture or water stains on walls or ceiling, or discoloration of the roofing material. Once you have identified the source of the leak, you can take the following steps to fix it:\n\nReplace the roofing material: If the roofing material is old and needs to be replaced, you will need to hire a professional roofer to do the job.\n\nRepair the roofing system: If the leak is caused by a faulty roofing system, such as a sagging roof, you will need to repair the system by shimming and adjusting the supports.\n\nSeal the leaks: If the leaks are due to missing or damaged shingles, you can seal the leaks by installing new shingles or using roofing sealant.\n\nInsulate the roof: If the leak is caused by a lack of insulation, you can add insulation to the attic to help prevent further water damage.\n\nIt's important to act quickly to fix a leaking roof to prevent further damage and to ensure that the roof is watertight. If you notice any signs of water damage, it's best to contact a roofing professional as soon as possible to avoid further damage and to get the job done properly.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I have a hard time falling asleep.  Is there any type of music that can help me fall asleep faster?",
+    "dataset": "helpful_base",
+    "output": "There are many types of music that can help you fall asleep faster. Some common suggestions include using white noise, calming music, or instrumental music. You can also try listening to relaxation music or classical music. Additionally, you may find that listening to your favorite song can help you fall asleep.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are places to visit in Montgomery, Alabama?",
+    "dataset": "helpful_base",
+    "output": "Here are some places to visit in Montgomery, Alabama:\n\n1. Alabama State Capitol Building: This majestic building is the home of the Alabama state government and is a must-see for architecture lovers.\n\n2. Montgomery Museum of Fine Art: This museum features a wide range of modern and contemporary art from local and regional artists.\n\n3. Alabama Civil Rights Institute: This museum and educational center is dedicated to preserving and promoting the history of civil rights in Alabama.\n\n4. Alabama State Fairgrounds: This venue is known for its world-famous fair and events, including the Alabama State Fair and Alabama State Fair Blue Ribbon Barbecue.\n\n5. Alabama State Botanical Garden: This beautiful garden features a variety of plants and wildlife from around the state.\n\n6. Alabama Museum of Natural History: This museum features exhibits on geology, paleontology, and natural history, as well as a gift shop and educational programs.\n\n7. Alabama State University: This public university is home to a variety of academic and cultural programs, including the Alabama Theatre, the Lyric Opera of Montgomery, and the Alabama Symphony Orchestra.\n\n8. St. Paul's Episcopal Church: This historic church is one of the oldest buildings in Montgomery and is a popular site for wedding ceremonies and other events.\n\n9. Druid Hill Park: This beautiful park is home to a variety of public spaces, including a golf course, a lake, and a Japanese garden.\n\n10. Wetumpka: This small town is known for its historic architecture, including the Old Wetumpka Church and the Druid Temple.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I've decided to keep a rat as a pet. How do I house, feed, and otherwise care for it?",
+    "dataset": "helpful_base",
+    "output": "If you decide to keep a rat as a pet, there are a few things you need to consider. First, make sure you have the proper equipment and supplies for housing and caring for your rat. This includes a rat cage, food, water, bedding, and toys. You'll also need to research proper rat nutrition, including a balanced diet and regular exercise.\n\nYou'll also need to provide your rat with plenty of space to move around and explore. A rat's natural habitat is a burrow, so it's important to provide plenty of room for your rat to dig and play. Rats also require a clean and safe living space, so you'll want to make sure your rat's cage is properly cleaned and sanitized regularly.\n\nFinally, it's important to provide your rat with mental stimulation and affection. Rats are social animals, so it's important to give your rat plenty of attention and affection. You can do this by playing with your rat, teaching it tricks, and spending time with it on a regular basis.\n\nOverall, keeping a rat as a pet can be a rewarding and enjoyable experience, but it's important to be prepared and provide your rat with the proper care and attention.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do you get water in the desert?",
+    "dataset": "helpful_base",
+    "output": "In the desert, water is typically obtained from natural sources such as rivers, creeks, and underground aquifers. Additionally, some desert communities have constructed water infrastructure such as water towers and pipelines to bring water from nearby sources. However, due to the lack of rainfall and the arid climate, it can be difficult to maintain and replenish these sources.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How do I get better at aiming with my slingshot?",
+    "dataset": "helpful_base",
+    "output": "Here are some tips to help you improve your aiming with your slingshot:\n\n1. Practice: The most important thing is to practice consistently. Try to aim at different targets and at different distances to get a feel for the accuracy of your shot. You can also practice with a friend or family member to get feedback.\n\n2. Focus on form: The form of your slingshot can make a big difference in your accuracy. Make sure that your arm is straight and that your wrist is relaxed. Also, try to keep your eye on the target and not on the slingshot.\n\n3. Use the right amount of force: When you pull the slingshot back, you need to use the right amount of force. Too much force will make your shot inaccurate, while too little force will make it difficult to get the projectile off the slingshot.\n\n4. Use a target: If you're having trouble with accuracy, try using a target to help you practice. This will help you to focus on your form and to learn how to adjust your aim based on the size and shape of the target.\n\n5. Use a laser: If you're having trouble with accuracy even after practicing with a target and a slingshot, you may want to try using a laser pointer instead. Lasers are known for their accuracy and can help you to get a better sense of where your shot is going.\n\nBy following these tips, you should be able to improve your accuracy with your slingshot and enjoy a more accurate and satisfying shooting experience.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Argentinian dishes. Can you give me a recipe for Milanesa de peceto?",
+    "dataset": "helpful_base",
+    "output": "Certainly! Here's a recipe for Milanesa de peceto:\n\nIngredients:\n\n    1 pound ground beef\n    1 onion, chopped\n    2 cloves of garlic, minced\n    1 cup raisins\n    1 cup breadcrumbs\n    1 teaspoon salt\n    1 teaspoon black pepper\n    1/2 cup vegetable oil\n    2 eggs\n    1/4 cup milk\n    1/2 cup peeled and grated pecorino Romano\n    1/4 cup chopped fresh parsley\n\nInstructions:\n\n    1. In a large bowl, combine the ground beef, onion, garlic, raisins, breadcrumbs, salt, and pepper. Use your hands to mix the ingredients until evenly combined.\n    2. Divide the mixture into 2 equal parts.\n    3. In a separate bowl, beat the eggs and milk together.\n    4. Spread one part of the beef mixture in the bottom of a greased baking dish.\n    5. Pour the egg and milk mixture over the beef mixture in the baking dish. Use a spatula to ensure that the beef mixture is evenly coated.\n    6. Spread the second part of the beef mixture over the egg and milk mixture in the baking dish.\n    7. Sprinkle the pecorino Romano and parsley over the beef mixture.\n    8. Bake in a preheated oven at 350°F for 25-30 minutes, or until the Milanesa is cooked through and golden brown.\n    9. Let the Milanesa cool for 5 minutes before serving.\n\nEnjoy your Milanesa de peceto!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I have my grandfather's antique fountain pen and a bottle of ink, but have never done this before. Can you tell me how to refill the fountain pen?",
+    "dataset": "helpful_base",
+    "output": "Sure, I can help you with that! Here's how you can refill your grandfather's antique fountain pen:\n\n1. Clean the pen: Before you start refilling it, you'll need to clean the pen's nib and feed tube to ensure that the ink won't get contaminated. To do this, simply unscrew the cap and remove the nib and feed tube. Make sure to rinse the pen thoroughly with warm water and dry it off with a clean cloth.\n\n2. Prepare the ink: You'll need to prepare the ink you want to fill the pen with. This typically involves mixing the ink with a small amount of water to make it more liquid and easier to pour into the pen.\n\n3. Fill the pen: Once you have prepared the ink, you can start filling the pen. First, remove the cap and insert the nib into the pen. Then, slowly pour the ink into the pen, avoiding air bubbles and making sure that the ink fills the entire pen.\n\n4. Cap the pen: Once you have filled the pen, screw on the cap securely and make sure that the ink is completely sealed inside the pen.\n\n5. Dispose of the used ink: Make sure to dispose of the used ink properly, either by disposing of it properly or by returning it to a local stationery store for recycling.\n\nI hope this helps you refill your grandfather's antique fountain pen! If you have any other questions, feel free to ask.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I'd like to play ice hockey. Can you explain how the game works?",
+    "dataset": "helpful_base",
+    "output": "Sure! Ice hockey is a team sport that involves two teams of 11 players each. The objective is to score more goals than the opposing team by shooting a small, hard ball into the opposing team's net. The ice hockey game is divided into two halves, each lasting 45 minutes. During each half, the teams are divided into two teams and compete against each other. The team with the most goals at the end of the game is the winner.\n\nThe game is played on a large, flat surface called the ice. Each team has a goalkeeper who stands in the middle of the ice and defends the goal. The players are divided into two teams - forwards and defensemen. The forwards are responsible for scoring goals by shooting the ball into the opposing team's net. The defensemen are responsible for blocking shots, breaking up passes, and clearing the puck out of the opposing team's zone.\n\nThe game is divided into two halves, each lasting 45 minutes. During each half, the teams are divided into two teams and compete against each other. The team with the most goals at the end of the game is the winner.\n\nThe game is played on a large, flat surface called the ice. Each team has a goalkeeper who stands in the middle of the ice and defends the goal. The players are divided into two teams - forwards and defensemen. The forwards are responsible for scoring goals by shooting the ball into the opposing team's net. The defensemen are responsible for blocking shots, breaking up passes, and clearing the puck out of the opposing team's zone.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What is kevlar made out of?",
+    "dataset": "helpful_base",
+    "output": "Kevlar is made out of synthetic fiber made from the synthetic polymer known as poly(para-phenylene terephthalamide).",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I'd like to learn how to play racquetball. Can you explain the game to me?",
+    "dataset": "helpful_base",
+    "output": "Sure! Racquetball is a fast-paced game that combines elements of tennis, badminton, and basketball. It is played on a rectangular court with two teams of two players each. The objective of the game is to score points by hitting a hard ball into the opponent's court using a racquet. The ball is served to each player from a side court. The game is divided into two halves, each lasting around 35 minutes. The score is kept on a board at the end of each half. The team with the highest score at the end of the game wins.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are some  good books to buy for a sci fi fan?",
+    "dataset": "helpful_base",
+    "output": "Here are some good books to buy for a sci-fi fan:\n\n1. The Hitchhiker's Guide to the Galaxy by Douglas Adams\n2. Dune by Frank Herbert\n3. Ender's Game by Orson Scott Card\n4. The Foundation Trilogy by Isaac Asimov\n5. The Martian by Andy Weir\n6. The Lord of the Rings by J.R.R. Tolkien\n7. The Hitchhiker's Guide to the Galaxy (video game) by Douglas Adams\n8. The Foundation series by Isaac Asimov\n9. Ender's Game (audio book) by Orson Scott Card\n10. The Hitchhiker's Guide to the Galaxy ( comic book) by Douglas Adams\n\nThese books offer a wide range of genres, from science fiction to fantasy, and provide a great way to expand your knowledge and appreciation of the genre.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "When were smart phones first made?",
+    "dataset": "helpful_base",
+    "output": "Smart phones were first made in the late 1990s.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I'd like to learn to bake challah. Can you give me a recipe for that?",
+    "dataset": "helpful_base",
+    "output": "Certainly! Here's a recipe for traditional Jewish Challah:\n\nIngredients:\n\n3 cups all-purpose flour\n1/2 teaspoon salt\n1 tablespoon sugar\n1/2 cup warm water\n1/2 cup vegetable oil\n1 tablespoon active dry yeast\n\nInstructions:\n\n1. In a large bowl, whisk together the flour, salt, and sugar.\n2. In a small bowl, whisk together the warm water and oil.\n3. Sprinkle the yeast over the water and whisk until a smooth mixture forms.\n4. Pour the wet ingredients into the dry ingredients and mix until a shaggy dough forms.\n5. Cover the bowl with a towel and let the dough rise in a warm place for 1 hour, or until it has doubled in size.\n6. Punch the dough down and divide it into two equal parts.\n7. Shape the dough into two loaves and place them in two greased 8x5-inch loaf pans.\n8. Cover the loaves with towels and let them rise again for 1 hour, or until they have doubled in size again.\n9. Bake the loaves in a preheated 350°F (175°C) oven for 30-35 minutes, or until they are golden brown and sound hollow when tapped.\n10. Let the loaves cool before slicing and serving.\n\nEnjoy your delicious Challah!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Did Facebook corporation change its name?",
+    "dataset": "helpful_base",
+    "output": "Yes. As of 2021, Facebook is called \"Facebook, Inc.\".",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Hong Kong  dishes. Can you give me a recipe for Tong Sui?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here's a recipe for Tong Sui (Hong Kong-style iced tea):\n\nIngredients:\n- 1/2 cup granulated sugar\n- 1/4 cup water\n- 1/4 cup white tea leaves\n- 1/2 teaspoon baking soda\n- 1/2 teaspoon fennel seeds\n- 1/2 teaspoon cardamom seeds\n- 1/2 teaspoon black tea leaves\n- 1/2 teaspoon lemon juice\n- Ice cubes\n\nInstructions:\n1. In a medium saucepan over medium heat, bring the sugar and water to a boil.\n2. Add the white tea leaves, baking soda, fennel seeds, cardamom seeds, black tea leaves, and lemon juice to the saucepan. Simmer for 2-3 minutes, stirring occasionally, until the sugar has dissolved and the tea has come to a light boil.\n3. Remove the saucepan from the heat and let cool to room temperature.\n4. transfer the tea mixture to a large glass or ceramic bowl.\n5. Fill the glass or ceramic bowl with ice cubes.\n6. stir the ice cubes into the tea mixture until the cubes have fully dissolved.\n7. strain the tea mixture into a glass or ceramic cup and serve.\n\nThis recipe makes about 4 cups of tong sui. Enjoy!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I want to start saving some money by growing my own food. Can I do this during the winter with an indoor garden?",
+    "dataset": "helpful_base",
+    "output": "Yes, you can grow your own food indoors during the winter with an indoor garden. Indoor gardening is a great way to grow your own food year-round, even during cold and rainy weather. Here are some tips for growing your own food indoors in the winter:\n\n1. Choose the right plants: Winter-hardy vegetables such as kale, Brussels sprouts, and carrots are great choices for an indoor garden. These plants can survive temperatures as low as -20°F and can provide you with fresh produce all winter long.\n\n2. Select a potting mix: Indoor gardening soil needs to be well-draining and contain a lot of organic matter to help your plants thrive. Look for a potting mix that is specifically designed for indoor gardening and contains a lot of fertilizer.\n\n3. Choose the right lighting: Indoor gardening requires a certain amount of light, so make sure to choose the right type of lighting for your plants. You can either use artificial lighting or use natural light from a window or skylight.\n\n4. Water regularly: Indoor gardening can be challenging because it can be hard to monitor the watering needs of your plants. Make sure to water your plants regularly and keep an eye on their soil moisture levels.\n\n5. Provide support: Depending on the size of your potting mix and the type of plants you are growing, you may need to provide support for your plants. You can use stakes, cages, or other structures to help your plants grow and thrive.\n\n6. Monitor pests and diseases: Indoor gardening can be susceptible to pests and diseases, so it's important to monitor your plants closely and take action if you spot any issues. You can use natural pest control methods, such as introducing beneficial insects or using essential oils, to help keep your plants healthy.\n\nOverall, growing your own food indoors in the winter can be a great way to save money and provide yourself with fresh produce all year long. Just make sure to choose the right plants, select the right potting mix, and provide the right amount of support and care to ensure that your indoor garden grows and flourishes.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How can I spice things up in the bedroom?",
+    "dataset": "helpful_base",
+    "output": "There are many ways to spice up the bedroom! You can add some fun toys, try out some new positions, or try out some delicious bedroom snacks. You can also try adding some candles and creating a romantic atmosphere. Experiment with different scents and create a cozy atmosphere for a great night of love.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Is human blood ever any color other than red?",
+    "dataset": "helpful_base",
+    "output": "Yes, human blood can be any color other than red, including blue or purple. These colors are rare and occur in certain diseases or conditions. However, in most cases, human blood is red due to the presence of red blood cells.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Please tell me about pearls.  Where are they found?",
+    "dataset": "helpful_base",
+    "output": "Pearls are typically found in the ocean around the world, most commonly in Japan, China, India, Indonesia, and the United States. Pearls are formed when a mollusk deposits a hard shell around an irritant, such as a grain of sand, which then becomes encased in a pearl.\n\nIn the United States, the majority of pearls are found in the Gulf of Mexico, off the coast of Texas and Louisiana. Other important pearl-producing regions include Japan, China, India, Indonesia, and the Philippines.\n\nPearls can come in a variety of shapes and sizes, from small, round pearls to large, creamy white pearls with intricate designs. The quality of pearls can vary greatly, with some being relatively inexpensive and others being very valuable.\n\nIt's important to note that pearls are a natural product and can vary in color, shape, and quality from one pearl to another. It's also important to be careful when handling pearls, as they can be very delicate and can be easily damaged.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What are some herbs I can dry out?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here are some herbs that you can dry out:\n\n1. Rosemary: Rosemary is an herb that has a strong, spicy flavor and is a popular seasoning. It is easy to dry out, and can be added to soups, stews, and other dishes.\n\n2. Basil: Basil is a versatile herb that is used in a variety of dishes, including Italian and Greek dishes. It is easy to dry out, and can be added to salads, soups, and pasta dishes.\n\n3. Oregano: Oregano is a flavorful herb that is commonly used in Italian and Mexican dishes. It is easy to dry out, and can be used to season meat, vegetables, and soups.\n\n4. Thyme: Thyme is a fragrant herb that has a lemony flavor and is used frequently in savory dishes. It is easy to dry out, and can be added to soups, stews, and other dishes.\n\n5. Fennel: Fennel is a flavorful herb that has a licorice-like flavor and is used in a variety of dishes, including Italian and Greek dishes. It is easy to dry out, and can be added to salads, soups, and other dishes.\n\n6. Cilantro: Cilantro is a fresh herb that has a strong, spicy flavor and is used frequently in Indian and Latin dishes. It is easy to dry out, and can be used in soups, salads, and other dishes.\n\n7. Chives: Chives are a fragrant herb that has a mild onion flavor and is used in soups, salads, and other dishes. They are easy to dry out, and can be added to soups, salads, and other dishes.\n\nThese are just a few examples of herbs that you can dry out. There are many other herbs that you can try, such as mint, oregano, and rosemary, which are also effective in cooking and can be used in a variety of dishes.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Tahu Gejrot Cirebon?",
+    "dataset": "helpful_base",
+    "output": "Of course! Here is a recipe for Tahu Gejrot Cirebon (Tahu Sambal Cirebon):\n\nIngredients:\n\n• 2 tablespoons vegetable oil\n• 1 onion, minced\n• 2 cloves garlic, minced\n• 1 teaspoon ground cumin\n• 1 teaspoon paprika\n• 1 teaspoon turmeric\n• 1 teaspoon chili flakes\n• 1 teaspoon sugar\n• 1 teaspoon salt\n• 1 teaspoon coriander seeds, crushed\n• 1 teaspoon black peppercorns, crushed\n• 1/2 cup tomato purée\n• 1/2 cup white vinegar\n• 1/2 cup water\n• 1/2 cup coconut milk\n• 1/2 cup tamarind purée\n• 1/2 cup roasted peanuts, roughly chopped\n• 1/2 cup chopped cilantro\n• 1 lime, cut into wedges\n\nInstructions:\n\n1. Heat the oil in a large pan over medium-high heat. Add the onion and garlic and cook until the onion is soft and lightly browned, about 5 minutes.\n2. Add the cumin, paprika, turmeric, chili flakes, sugar, salt, coriander seeds, and black peppercorns and cook for 1 minute.\n3. Add the tomato purée, vinegar, water, coconut milk, tamarind purée, and roasted peanuts and bring to a simmer. Reduce the heat to low and cook for 30 minutes, stirring occasionally.\n4. Taste and adjust the seasonings, if necessary.\n5. Serve warm, garnished with cilantro and lime wedges.\n\nEnjoy your Tahu Gejrot Cirebon!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What is a scary Halloween costume idea?",
+    "dataset": "helpful_base",
+    "output": "A scary Halloween costume idea could be to dress up as a zombie in a black and white striped shirt and long, black skirt, with a pair of black shoes and a hat. You could also accessorize with a long black or white wig, a fake blood stain on your shirt, and a fake knife or scalpel.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Whats the largest star in our galaxy?",
+    "dataset": "helpful_base",
+    "output": "The largest star in our galaxy is Betelgeuse, which is a red supergiant about 25 times the size of the Sun. It is located in the constellation Orion and is part of the Ori Group of stars.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I'm trying to draw out a hopscotch game on my driveway. Can you walk me through how to do that?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here is a basic step-by-step guide for drawing out a hopscotch game on your driveway:\n\n1. Start by drawing a grid pattern on your driveway with a pencil. The grid should be 5x5 square.\n\n2. Divide the grid into squares of different colors. For example, you might choose yellow, blue, green, red, and brown squares.\n\n3. Place a small piece of paper or chalk in the center of each square. For example, you might place a small piece of paper in the center of a yellow square, and another piece in the center of a red square.\n\n4. Players take turns rolling a die. If the die lands on a yellow square, the player must jump over the paper in the center of that square, and if the die lands on a red square, the player must jump over the paper in the center of that square.\n\n5. If the player lands on a square that is already occupied by another player, they must jump over that player's paper.\n\n6. The game continues until all the squares on the driveway are filled. The player with the most squares at the end of the game is the winner.\n\n7. You can also add additional rules or rules for variations, such as having players draw lines or circles to mark their progress, or requiring them to jump over certain obstacles.\n\nRemember, the key to a successful hopscotch game is to have fun and enjoy the simple game mechanics. Good luck!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Can you tell me how to make chocolate chip cookies?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here's a recipe for chocolate chip cookies:\n\nIngredients:\n\n• 2 cups all-purpose flour\n• 1 teaspoon baking soda\n• 1 teaspoon salt\n• 1 cup butter, softened\n• 2/3 cup granulated sugar\n• 2/3 cup packed brown sugar\n• 2 eggs\n• 2 teaspoons vanilla extract\n• 1 cup semi-sweet chocolate chips\n• 1/2 cup chopped walnuts (optional)\n\nInstructions:\n\n1. Preheat oven to 350°F (175°C).\n2. In a medium-size bowl, whisk together the flour, baking soda, and salt.\n3. In a large bowl, beat together the butter and sugars with an electric mixer until light and fluffy. Beat in the eggs, one at a time, then stir in the vanilla.\n4. Gradually beat in the flour mixture until a dough forms.\n5. Stir in the chocolate chips and walnuts (if using).\n6. Drop dough by rounded tablespoons onto an ungreased baking sheet.\n7. Bake for 10-12 minutes or until golden brown.\n8. Allow cookies to cool for 5 minutes before transferring to a wire rack to cool completely. Enjoy!\n\nIt's always a good idea to use high-quality ingredients when making cookies. Feel free to adjust the amount of butter, sugar, and flour to your liking. And don't forget to top your cookies with a drizzle of chocolate chips and/or chopped walnuts for the perfect crunch!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Where is Indonesia?",
+    "dataset": "helpful_base",
+    "output": "Indonesia is an archipelago located in Southeast Asia. It is bordered by the Indian Ocean to the east, the Java Sea to the south, the Celebes Sea to the southwest, and Papua New Guinea to the west. Indonesia has a total area of approximately 17,287,263 square kilometers, making it the fifth-largest country in the world.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I need to find the area of a 20 sided die for my math homework. Can you help me do that?",
+    "dataset": "helpful_base",
+    "output": "Sure! To find the area of a 20-sided die, you can use the formula A = πr^2, where A is the area, π is 3.14, and r is the radius of the die. The radius of the die is half of the length of the side, so r = 1/5. Plugging this into the formula, we get A = π(1/5)^2 = π/25. Therefore, the area of the die is 25π square units.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I'm trying to learn how to install window blinds.",
+    "dataset": "helpful_base",
+    "output": "Installing window blinds can be a simple task if you follow the correct steps. Here are the steps you should follow:\n\n1. Choose the type of window blinds you want to install, such as roller or Venetian blinds.\n2. Measure the width and height of the window and the desired coverage area.\n3. Cut the blinds to the desired size and shape.\n4. Secure the blinds in place using the provided screws or brackets.\n5. Test the blinds to make sure they are operating properly and fit the window.\n\nKeep in mind that installing window blinds requires basic knowledge of carpentry and home improvement, as well as the proper tools and materials. If you are not experienced with this type of project, it's recommended to hire a professional installer.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I want to learn more about becoming a CPA. How long does it take to become a CPA?",
+    "dataset": "helpful_base",
+    "output": "The time it takes to become a CPA can vary depending on the individual's background, experience, and dedication. However, on average, it takes between three and five years to become a CPA. During this time, candidates must earn a bachelor's degree in accounting, complete a four-year accounting program, pass the Uniform CPA Exam, and work under a licensed CPA for at least three years. Additionally, many aspiring CPA's also pursue a master's degree in taxation or a law degree as part of their preparation.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I want to talk about \"Smooth\",  a song by Rob Thomas.",
+    "dataset": "helpful_base",
+    "output": "Smooth is an upbeat pop song written by Rob Thomas and performed by American singer-songwriter Mariah Carey. The song was released in August 2004 as the lead single from Carey's second studio album, My Heart (2004). The song's lyrics explore themes of love, romance, and relationships, and it features a catchy melody and an uplifting chorus. The song received positive reviews from music critics, who praised its catchy melody, Carey's vocal performance, and the production. It became a worldwide hit and was certified Platinum in the United States, Canada, and the United Kingdom. The song has been remixed and released as a single in various countries, and it has been featured in several films and TV shows.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I'd like you to write me a story in the style of Don Delillo, about a bunch of immortal cats living in a New York high-rise co-op.  Go ahead and start a draft!",
+    "dataset": "helpful_base",
+    "output": "The cats were an unusual breed, with a mix of different fur colors and sizes. They had lived in the same high-rise co-op for centuries, and they were well-acquainted with each other. They had seen the world change drastically over the years, from the time of the Great Depression to the present day.\n\nThe cats had adapted to their new home, and they had built a strong community within the co-op. They spent their days lounging around on the luxurious carpets, watching the world go by from their high perches. They played with each other and shared stories, and they even had their own language, made up of simple phrases and gestures.\n\nAt night, the cats would gather around the kitchen counter, eating the delicious food that was provided by the humans. They would discuss the latest news and events, and they would swap stories about their adventures in the co-op. They were content with their lives, and they knew that they would never have to worry about death or illness again.\n\nThe cats had a deep respect for each other and for the humans who had taken them in. They knew that they were part of a larger community, and they were content to live and die within the walls of the co-op. They were a testament to the beauty and diversity of the animal kingdom, and they were an inspiration to all who had the opportunity to witness their unique and indomitable spirit.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Bolivian dishes. Can you give me a recipe for Chola Sandwich?",
+    "dataset": "helpful_base",
+    "output": "Sure, here's a recipe for Chola Sandwich:\n\nIngredients:\n\n• 2 slices bread\n• 2 tablespoons mayonnaise\n• 2 tablespoons salsa\n• 1/4 cup shredded cheddar cheese\n• 1/4 cup lettuce\n• 2 slices tomato\n• 2 tablespoons olive oil\n\nInstructions:\n\n1. Toast the bread and spread mayonnaise on one side.\n\n2. Spread salsa on the other side of the bread.\n\n3. Top the salsa side with the cheese, lettuce, and tomato.\n\n4. Drizzle with olive oil and close the sandwich.\n\n5. Cut the sandwich in half and serve. Enjoy!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Is it true that the native Australians were really prisoners of England?",
+    "dataset": "helpful_base",
+    "output": "The idea that the native Australians were prisoners of England during the colonial period is a common myth. While there were some tensions between the two groups, there was never a formal or direct relationship between the British and the Indigenous people of Australia.\n\nThe first British settlement in Australia was established in 1606, and the British government did engage in some limited forms of forced labor and land seizures during the colonial period. However, these actions were largely driven by economic and strategic considerations, and did not represent a deliberate effort to enslave or mistreat the Indigenous people.\n\nAdditionally, the relationship between the British and Indigenous people was complex and dynamic, and there were many instances of cooperation and collaboration between the two groups. The British government recognized the rights and autonomy of the Indigenous people, and worked to protect their rights and interests during the colonial period.\n\nIn conclusion, it is not accurate to say that the native Australians were prisoners of England during the colonial period. While there were some tensions and conflicts between the two groups, there was never a formal or direct relationship between the two groups that could be described as captivity or enslavement.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "What color is the sky",
+    "dataset": "helpful_base",
+    "output": "Blue",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Is there a meaning for Christmas wreaths?",
+    "dataset": "helpful_base",
+    "output": "Yes, there is a meaning for Christmas wreaths. Wreaths are typically used to decorate homes and businesses during the Christmas season. They are also a traditional symbol of friendship and togetherness. In many cultures, wreaths are believed to bring good luck and bring joy to the home.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Lativian  dishes. Can you give me a recipe for Frikadeļu zupa?",
+    "dataset": "helpful_base",
+    "output": "Certainly! Here's a recipe for Frikadeļu zupa, which is a traditional Latvian soup made with potatoes, carrots, and onions:\n\nIngredients:\n\n- 4 tablespoons olive oil\n- 1 onion, chopped\n- 1 carrot, chopped\n- 3 cloves garlic, minced\n- 1 teaspoon dried thyme\n- 1 teaspoon dried marjoram\n- 1/2 teaspoon dried rosemary\n- 2 potatoes, peeled and diced\n- 2 carrots, peeled and diced\n- 2 cloves garlic, minced\n- 2 cups vegetable or chicken broth\n- Salt and pepper to taste\n- 4 cups cooked potato cubes\n- 4 cups cooked carrot cubes\n- 4 cups cooked onion cubes\n- 1 cup sour cream\n- 1/2 cup fresh parsley, chopped\n\nInstructions:\n\n1. Heat the olive oil in a large pot over medium heat. Add the onion, carrot, and garlic and cook for about 5 minutes, stirring occasionally, until the vegetables are softened.\n\n2. Add the thyme, marjoram, and rosemary and cook for another 2 minutes, until fragrant.\n\n3. Add the potatoes, carrots, and garlic and stir to combine.\n\n4. Add the broth and bring to a simmer. Reduce the heat and simmer for about 20 minutes, until the vegetables are tender.\n\n5. Season with salt and pepper to taste and stir in the potato, carrot, and onion cubes.\n\n6. Serve the soup with a dollop of sour cream and chopped parsley.\n\nThis recipe makes a large pot of soup, so you can easily halve or quadruple the recipe as needed. Enjoy!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I'd like to make my own peanut brittle. Can you give me a recipe and cooking instructions for that?",
+    "dataset": "helpful_base",
+    "output": "Sure, here's a recipe for peanut brittle:\n\nIngredients:\n- 2 cups of unsalted peanuts\n- ½ cup of granulated sugar\n- 2 tablespoons of light corn syrup\n- 1 teaspoon of baking soda\n- 2 tablespoons of vegetable oil\n\nInstructions:\n1. Preheat the oven to 350°F.\n2. Spread the peanuts on a baking sheet and bake for 8-10 minutes, stirring occasionally, until golden brown.\n3. Meanwhile, in a medium bowl, mix together the sugar, corn syrup, and baking soda.\n4. Add the peanuts to the sugar mixture and stir until well combined.\n5. Add the vegetable oil and stir until the mixture is thick and glossy.\n6. Spread the peanut brittle in an even layer on a baking sheet and cool completely, about 1 hour.\n7. Break the peanut brittle into pieces and enjoy!\n\nAs for cooking instructions, here's a basic recipe for peanut brittle:\n\n1. Preheat the oven to 350°F.\n2. Spread the peanuts on a baking sheet and bake for 8-10 minutes, stirring occasionally, until golden brown.\n3. Meanwhile, in a medium bowl, mix together the sugar, corn syrup, and baking soda.\n4. Add the peanut brittle to the sugar mixture and stir until well combined.\n5. Spread the peanut brittle in an even layer on a baking sheet and cool completely, about 1 hour.\n6. Break the peanut brittle into pieces and enjoy!\n\nSo, that's it! Easy Peanut Brittle recipe and cooking instructions. I hope you enjoy making your own!",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "I'm trying to stop my neighbour's cat from coming in to my garden and fighting with my cat. Any suggestions on how to do that?",
+    "dataset": "helpful_base",
+    "output": "A good way to stop your neighbor's cat from coming into your garden is to keep your cat inside at night. You can also try using double-sided tape or aluminum foil on the cat's collar to make it uncomfortable for them to come close to your garden. You can also try to scare the cat away with loud noises or shining a bright light at them. Finally, you can talk to your neighbor and explain your concerns about their cat coming into your garden. They may be willing to do something to solve the problem.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "does the dinosaurs really exist?",
+    "dataset": "helpful_base",
+    "output": "The scientific consensus is that the dinosaurs indeed existed, but they were a different kind of animal than we see today.\n\nThere is no direct evidence that dinosaurs ever walked the Earth, but fossil remains have been discovered that are consistent with their existence. This evidence includes the discovery of dinosaur bones, such as those from theropods, which are close relatives of modern-day birds.\n\nAdditionally, the discovery of dinosaur eggs and nests, along with the presence of dinosaur footprints and tracks, has provided further evidence of their existence.\n\nHowever, it's worth noting that the scientific process is based on rigorous evidence and testing, and there may be some questions and debates about the exact nature of dinosaurs. The discovery of new fossil evidence and new theories about their existence are ongoing areas of research.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "what are some big cat hybrids?",
+    "dataset": "helpful_base",
+    "output": "Big cat hybrids are cross-breeds between two or more species of big cats, such as lions and tigers. Some examples of big cat hybrids include Amur leopards, Bengal tigers, and jaguars.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "what is the name of chris tucker first movie",
+    "dataset": "helpful_base",
+    "output": "The name of Chris Tucker's first movie is \"Rush Hour\".",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How long does it take our eyes to fully adapt to darkness?",
+    "dataset": "helpful_base",
+    "output": "It takes about 30 minutes to fully adapt to darkness.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Has there been any news regarding a potential release date for Starcraft 3?",
+    "dataset": "helpful_base",
+    "output": "As of February 2023, Blizzard Entertainment has yet to announce a release date for Starcraft 3. However, the company has confirmed that the game is in development and that they are working hard to bring it to players as soon as possible.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "How is oil turned into gasoline?",
+    "dataset": "helpful_base",
+    "output": "Oil is turned into gasoline by a process called fractional distillation. This process breaks down the oil into smaller components, including gasoline, kerosene, and other liquids. The gasoline is then refined into a more pure form and is ready to be used as a fuel.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Can you give any tips on how to cook a juicy, medium-rare steak?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here are some tips for cooking a juicy, medium-rare steak:\n1. Use a meat thermometer: It's important to use a meat thermometer to ensure that the steak is cooked to the desired doneness. A steak that is cooked to medium-rare will have an internal temperature of 130-135°F.\n2. Let the steak rest for 5-10 minutes: After cooking the steak, let it rest for 5-10 minutes so that the juices can redistribute and the steak will be juicy and tender.\n3. Rest the meat on a cutting board: It's important to rest the steak on a cutting board to prevent it from cooling and becoming tough.\n4. Sear the steak on both sides: To get a nice crust on the steak, it's important to sear it on both sides. Use a high-heat cooking method, such as grilling or pan-frying, and cook the steak for about 1-2 minutes on each side.\n5. Let the steak rest for a few minutes: After searing the steak, let it rest for a few minutes to allow the juices to redistribute and the steak to continue cooking.\n6. Serve the steak with your favorite sides: Serve the steak with your favorite sides, such as mashed potatoes, steamed vegetables, or a side salad.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "When was hip hop invented?",
+    "dataset": "helpful_base",
+    "output": "Hip hop was invented in the late 1960s in the Bronx, New York, by DJ Kool Herc and partners.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Hi, I recently inherited a S&W 1006 and I don't even know how to load it. Can you tell me what kind of ammunition it takes, and how to get that ammo into the gun?",
+    "dataset": "helpful_base",
+    "output": "Sure, loading a S&W 1006 can be a bit tricky at first, but it's a great gun to learn with. Here are the basic steps to load the gun:\n\n    Check the magazine: Before loading a magazine into the gun, make sure that it's fully loaded with rounds. You can check this by looking down the barrel and seeing that there are no rounds left in the magazine.\n\n    Load the cylinder: First, remove the magazine from the gun and place it on a flat surface. Then, insert the cylinder into the gun, making sure that it's fully seated.\n\n    Insert the bullets: You will need to insert the bullets into the cylinder one at a time. Make sure that the bullets are fully loaded into the magazine and that they are pointing in the correct direction.\n\n    Prime the cylinder: After loading all of the bullets, it's a good idea to prime the cylinder. This will help ensure that the gun fires smoothly and that there are no jams. To prime the cylinder, insert a small piece of cotton or a paper towel into the cylinder and pull it out.\n\n    Close the cylinder: Finally, close the cylinder by pressing down on the top of the cylinder with your thumb.\n\n    Note: It's important to handle the gun carefully and to understand the safety mechanisms. If you are not familiar with how to load the gun, it may be best to seek out a gunsmith or experienced shooter to show you how to do it correctly.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "My friend's dog just died and they're really sad. How do I comfort them?",
+    "dataset": "helpful_base",
+    "output": "The best thing you can do is be there for your friend and offer your shoulder to cry on. Offer to help with the funeral arrangements and let your friend know that you are there for them. You could also suggest talking to a therapist if they are struggling to cope.",
+    "generator": "oasst-sft-pythia-12b"
+  },
+  {
+    "instruction": "Is the US border open to Canada?",
+    "dataset": "helpful_base",
+    "output": "Yes, the US border is generally open to Canada. However, there may be restrictions or delays due to security measures or other factors. It's always a good idea to check the current status of the US-Canada border before crossing.",
+    "generator": "oasst-sft-pythia-12b"
+  }
+]

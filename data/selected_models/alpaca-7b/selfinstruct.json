@@ -1,0 +1,1514 @@
+[
+  {
+    "instruction": "The sentence you are given might be too wordy, complicated, or unclear. Rewrite the sentence and make your writing clearer by keeping it concise. Whenever possible, break complex sentences into multiple sentences and eliminate unnecessary words.\n\nIf you have any questions about my rate or if you find it necessary to increase or decrease the scope for this project, please let me know.",
+    "dataset": "selfinstruct",
+    "output": "If you have any questions about my rate or need to adjust the scope of this project, please let me know.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Analyze the word choice, phrasing, punctuation, and capitalization in the given email. How may the writer of this email sound to the reader? These tones include Disheartening, Accusatory, Worried, Curious, Surprised, Disapproving, Unassuming, Formal, Assertive, Confident, Appreciative, Concerned, Sad, Informal, Regretful, Encouraging, Egocentric, Joyful, Optimistic, and Excited.\n\nHi Jen, \nI hope you're well. Can we catch up today? I'd appreciate your input on my presentation for tomorrow's meeting. I'd especially love it if you could double-check the sales numbers with me. There's a coffee in it for you!",
+    "dataset": "selfinstruct",
+    "output": "The writer of this email sounds Encouraging and Optimistic. They use language that is Concise and Professional, and make use of appropriate punctuation and capitalization.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Rewrite the given text and correct grammar, spelling, and punctuation errors.\n\nIf you'd told me year ago that today I would finish a marathon, I would of laughed. Your support had a huge affect on me!",
+    "dataset": "selfinstruct",
+    "output": "If you had told me a year ago that today I would finish a marathon, I would have laughed. Your support had a huge affect on me!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given a paper citation, convert it to the requested citation style.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:",
+    "dataset": "selfinstruct",
+    "output": "Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Desk jobs require writing a lot of emails, so it isn't surprising we get tired of repeating ourselves. Come up with several synonyms for the given word.\n\nSincerely",
+    "dataset": "selfinstruct",
+    "output": "Affectionately, Cordially, Gratefully, Respectfully, Sincerely.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated.",
+    "dataset": "selfinstruct",
+    "output": "Hey everyone!\n\nI'm excited to invite you all to a relaxing dinner on Friday! I'll be hosting dinner in my apartment and I'd love for all of you to join me. We can have a good time catching up and eating some delicious food. \n\nI'll be preparing a special meal for everyone, so you can all get a taste of my cooking. I'm sure it'll be a great night with good company, tasty food and plenty of laughs.\n\nIf you're free and interested in joining me, please let me know and I'll send you the address. \n\nI look forward to seeing you there! \n\nCheers,\n[Your Name]",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "The tone of the email should be changed and rewritten in a more professional manner.\n\nSubject: Asking for Vacation Time\nHi [Employer], \nI hope all is well. I am writing to request a day off on [date]. I have already taken care of my work responsibilities for that day and will be available to answer any questions or concerns you may have. \nThank you for your time, \n[Your name]",
+    "dataset": "selfinstruct",
+    "output": "Subject: Request for Vacation Time\nDear [Employer],\n\nI am writing to request vacation time for [date]. I have already taken care of my work responsibilities for that day and will be available to answer any questions or concerns you may have. I hope you understand and I look forward to your response.\n\nThank you,\n[Your name]",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a social media post about the call for collaboration on a crowdsourcing project in a persuasive way.",
+    "dataset": "selfinstruct",
+    "output": "We all have the power to make a positive impact in the world! Join us in our crowdsourcing project and be part of a global movement to create a brighter future. Let's work together to build a sustainable and equitable future for all. #crowdsourcing #socialimpact #globalmovement",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "My favorite witty review of The Rings of Power series is this:",
+    "dataset": "selfinstruct",
+    "output": "The Rings of Power series is, in a word, dazzling. With a masterful blend of adventure, fantasy, and comedy, this series will have you rolling with laughter even as it captivates you with its enchanting plot. Each book is more engaging than the last, and the characters are both lovable and relatable. The dialogue is witty, the action is fast-paced, and the humor is perfectly timed. This series is sure to be a hit with fans of the fantasy genre, and will leave you eagerly awaiting the next installment.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "A helpful writing exercise is writing a story without using adjectives or adverbs. This will help you learn to use other words and phrases to describe what you are trying to say. Here are some examples:",
+    "dataset": "selfinstruct",
+    "output": "John walked into the room. He slowly closed the door behind him and walked towards the table. He took a seat and looked around. He noticed Mary, who was sitting alone in the corner. He smiled and waved at her. She smiled back and waved. He took a deep breath and began to eat.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Come up with some search queries on google about coding stuff.",
+    "dataset": "selfinstruct",
+    "output": "Here are some search queries you can use to search for coding stuff on Google: \n\n- Best coding language to learn\n- How to become a software engineer\n- Different types of coding jobs\n- Popular coding frameworks\n- Coding interview questions and answers\n- Coding bootcamp reviews\n- What is software development\n- Coding bootcamp salary\n- Coding bootcamp cost\n- How to become a web developer\n- How to become a software developer\n- Mobile app development costs\n- Popular coding bootcamps\n- Best coding bootcamps\n- Software engineering internships\n- Free online coding courses",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Discover the most relevant StackOverflow questions for your search term. And output a list of their URLs.\n\nremove item in array",
+    "dataset": "selfinstruct",
+    "output": "https://stackoverflow.com/questions/2374321/remove-item-in-array\nhttps://stackoverflow.com/questions/40616132/remove-item-in-array\nhttps://stackoverflow.com/questions/11907981/remove-item-in-array\nhttps://stackoverflow.com/questions/34138847/remove-item-in-array\nhttps://stackoverflow.com/questions/55211457/remove-item-in-array\nhttps://stackoverflow.com/questions/11437666/remove-item-in-array\nhttps://stackoverflow.com/questions/6439435/remove-item-in-array\nhttps://stackoverflow.com/questions/7292400/remove-item-in-array",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given an algorithm or a search query about coding. Look for a code snippet related to the search query.\n\nPython loop",
+    "dataset": "selfinstruct",
+    "output": "for i in range(10):\n    print(i)",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are provided with a description of the code, specifications, or prompts. Your help is needed in automating code generation to speed up the development process.\n\npython function to determine whether a number is prime.",
+    "dataset": "selfinstruct",
+    "output": "def is_prime(x):\n    if x <= 1:\n        return False\n    for i in range(2, x): \n        if x % i == 0: \n            return False\n    return True",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "When you're stuck on a coding problem, the best place to look for help is in the documentation. Read the docs carefully and see if there's a section that covers your specific issue. Often, the answer will be right there in front of you. If not, try searching for key terms related to your problem. Come up with the useful links about the given search term.\n\nsql find duplicate values",
+    "dataset": "selfinstruct",
+    "output": "The documentation for the SQL query `SELECT * FROM table_name GROUP BY table_name` provides a great explanation of how to find duplicate values in a table. The following link provides a useful example: https://www.techopedia.com/definition/72193/sql-query-select-group-by.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "We have entered the home supplies budget in the following table. Calculate the last column with the given function and rewrite the completed table.\nNote that, columns in a row are separated using a comma, and rows are separated using a \"|\".\n\nItem, Qty, Price, Subtotal | mango, 5, 500, ? | apple, 4, 150, ? | oil, 2, 1500, ?  \nFunction: column2 * column 3",
+    "dataset": "selfinstruct",
+    "output": "mango, 5, 500, 1750 \napple, 4, 150, 600 \noil, 2, 1500, 3000",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please write the Excel function name associated with each description.\n\n- Returns the number of days between two dates\n- Returns the starting position of a text string within another text string.\n- Returns the number in the middle of the set of given numbers",
+    "dataset": "selfinstruct",
+    "output": "DAY(), INDEX(), MID()",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are the steps to using random (yet coherent) text as filler content within your Word document?",
+    "dataset": "selfinstruct",
+    "output": "Steps to using random (yet coherent) text as filler content within your Word document:\n1. Open a new Word document.\n2. Click the \"Insert\" tab on the Ribbon.\n3. Click the \"Object\" tab.\n4. Click the \"Text\" button.\n5. In the \"Text\" box that appears, type the following code:\n\n```\n<w:r><w:t>Your desired filler text goes here.</w:t></w:r>\n```\n6. Select the text you just added and choose a font, font size, and font color from the formatting options that appear.\n7. Click the \"OK\" button when you are finished.\n8. Your filler text should appear in the document.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Design a soothing pastel color palette for your slides. Pastel colors generally come across as pretty and delicate, so you’ll want to make sure your presentation calls for a similar mood. Choose up to five colors or color codes.",
+    "dataset": "selfinstruct",
+    "output": "A soothing pastel color palette for a presentation slide might include: \n- Soft pink \n- Light blue \n- Yellowish green \n- Dusky orange \n- Light purple.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I bought two shirts from the store and each one cost me $10. I also bought a pair of pants and they cost me $20. Then, I bought a dress and it cost me $30. Also,  I bought a pair of shoes and they cost me $40. Lastly, I bought a jacket and it cost me $50.\n\nMake a table chart showing items, the number, and the price of these items. Separate columns with \"|\".",
+    "dataset": "selfinstruct",
+    "output": "| Item | Number | Price |\n|------|----------|-------|\n| Shirt 1 | 1      | $10  |\n| Shirt 2 | 1      | $10  |\n| Pants  | 1      | $20  |\n| Dress  | 1      | $30  |\n| Shoes  | 1      | $40  |\n| Jacket  | 1      | $50  |",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Find sentences from reliable sources such as the Guardian or Forbes that contain the exact match for the given sentence or phrase. Also, mention the source of each sentence.\n\nThere are great options",
+    "dataset": "selfinstruct",
+    "output": "Forbes: \"There are great options available if you are looking for a reliable and trustworthy essay writing service.\"\n\nGuardian: \"There are many options available if you are looking for a reliable and trustworthy essay writing service.\"",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "During writing, we added an asterisk for the word that did not come to mind. You will need to provide several examples to demonstrate all the words that can be used in the sentence instead of the asterisk.\n\nwe * to know",
+    "dataset": "selfinstruct",
+    "output": "We can use to know, think, believe, understand, and feel.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Think of alternatives and paraphrases for the underlined word.\n\nwhat we have _expected",
+    "dataset": "selfinstruct",
+    "output": "What we have anticipated.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Design a skill assessment questioner for R (Programming Language).",
+    "dataset": "selfinstruct",
+    "output": "1. What is the difference between vector and matrix in R?\n2. List the advantages and disadvantages of using linear regression in R.\n3. What are the steps involved in predicting a model in R?\n4. What is the use of apply function in R?\n5. How can you use R to identify correlations between variables?\n6. How do you use R to create a graph?\n7. How do you use R to import and export data?\n8. What are the steps involved in data cleaning in R?\n9. What are the different types of operators available in R?\n10. How do you use R for text mining?",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a template for First-Person LinkedIn profile summary.",
+    "dataset": "selfinstruct",
+    "output": "My name is [Name], and I'm an [position] at [company]. I'm an experienced [skills] professional, with a passion for [industry related topic]. I'm driven by my desire to create meaningful and lasting relationships. I believe that a good understanding of [knowledge] and a strong commitment to [philosophy] are key to achieving success. I'm always looking for ways to expand my knowledge and expertise in [related area].",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a LinkedIn post to announce that you have accepted a new job offer.",
+    "dataset": "selfinstruct",
+    "output": "I am thrilled to announce that I have accepted a new job offer! After weeks of searching, I found the perfect role that not only aligns with my career goals, but also provides a great work-life balance and opportunities for professional growth. I am excited to join the team and contribute my skills and experience to the company.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a list of desirable Skills for software engineers to add to LinkedIn.",
+    "dataset": "selfinstruct",
+    "output": "Desirable Skills for software engineers to add to LinkedIn: \n• Programming: Java, C++, C#, Python, JavaScript, HTML, CSS \n• Frameworks: Spring, ASP.NET, AngularJS, React, Bootstrap \n• Databases: MySQL, MongoDB, Oracle, PostgreSQL \n• Cloud Services: AWS, Google Cloud, Microsoft Azure \n• Version Control: Git, Subversion, Mercurial \n• Agile Methodologies: Scrum, Kanban, Extreme Programming \n• Design Patterns: MVC, MVVM, MVP \n• Version Control: Git, Subversion, Mercurial \n• Testing: Unit tests, Integration tests, System tests \n• Deployment: Jenkins, Travis CI, Bamboo \n• Mobile: iOS, Android, Windows Phone \n• DevOps: Ansible, Chef, Puppet",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You will be asked to answer the following question as part of the LinkedIn Skill assessments.\n\nYou find that your project has a tag and branch both named push-notifications, which causes confusion when trying to print out given reference. How can you specify which branch you want to look at?",
+    "dataset": "selfinstruct",
+    "output": "You can specify which branch you want to look at by using the \"branch_name\" parameter in the print statement. For example, if the branch name is \"push-notifications_1562\", you can use \"print('push-notifications_1562')\" to specify that branch.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Take the title of the product and extract its attributes. The attributes in this case refer to the characteristics of the products, such as their brand and color. Your answer must a list following the format of \"attribute: value\".\n\nSAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed, Thermal Control, MZ-V8P2T0B",
+    "dataset": "selfinstruct",
+    "output": "Attribute: Brand \nValue: Samsung\n\nAttribute: Color \nValue: Black\n\nAttribute: Capacity \nValue: 2TB\n\nAttribute: Interface \nValue: PCIe NVMe Gen 4\n\nAttribute: Thermal Control \nValue: Maximum Speed\n\nAttribute: Card Type \nValue: M.2 Internal Solid State Hard Drive Memory Card\n\nAttribute: Durability \nValue: UPT 5 years",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You should write a Product Description that will persuade the buyer that the product is beneficial.\n\nFlipslide Game, Electronic Handheld Game | Flip, Slide, and Match the Colors to Beat the Clock - 4 Game Modes - Multiplayer Fun",
+    "dataset": "selfinstruct",
+    "output": "Flipslide is an electronic handheld game that will bring fun and excitement to players of all ages. The game is easy to learn but challenging to master, with four different game modes to choose from. In the main game mode, you must flip and slide tiles to match the colors in time before the clock runs out. There are also two other single-player modes, one where you must flip and slide two tiles at a time and another where you must match the colors in numerical order. The fourth mode is a multiplayer mode where two players can compete against each other and see who can get the highest score. With hours of fun and challenge, Flipslide is sure to be a hit with everyone.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What other Amazon products might interest someone who visited the given product?\n\nZeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black",
+    "dataset": "selfinstruct",
+    "output": "This person might also be interested in the Zeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 2-Ounce, Black. It is a heavy-duty ice cream scoop made with a liquid filled heat conductive handle for easy release and even scooping. It is also dishwasher safe for easy cleanup.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Compare the given item with similar products based on its properties such as price, rating, etc. For product comparison, use a table and separate the columns with \"|\".\n\nItem: iBayam Journal Planner Pens Colored Pens Fine Point Markers Fine Tip Drawing Pens Porous Fineliner Pen for Journaling Writing Note Taking Calendar Coloring Art Office Back to School Supplies, 18 Color",
+    "dataset": "selfinstruct",
+    "output": "| Item | Price | Rating |\n|------|--------|----------|\n| iBayam Journal Planner Pens | $5.99 | 4/5 |\n| Porous Fineliner Pen for Journaling | $4.99 | 4/5 |\n| Fine Point Markers | $4.99 | 4/5 |\n| Fine Tip Drawing Pens | $3.99 | 4/5 |\n| Calendar Coloring Art | $15.99 | 4/5 |\n| Office Back to School Supplies | $9.99 | 4/5 |",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a  review based on the given information.\n\n- Product: Persil Discs Laundry Detergent Pacs, Original Scent, High Efficiency (HE) Compatible, Laundry Soap, 62 Count\n- Sentiment: Positive",
+    "dataset": "selfinstruct",
+    "output": "I recently tried the Persil Discs Laundry Detergent Pacs, and I am absolutely in love with them! These pacs make doing laundry so much easier. The scent is nice and fresh, and the detergent is powerful yet gentle on my clothes. I love that they are HE compatible and that each pack lasts for a long time. I highly recommend this product!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a short description about the given movie or series.\n\nThe Witcher (2019)",
+    "dataset": "selfinstruct",
+    "output": "The Witcher is an American fantasy series based on the books by Andrzej Sapkowski. The show follows the story of Geralt of Rivia, a mutated monster hunter who struggles to find his place in a world where people often have the power to shape the destinies of others. Along his journey, he learns to use his magical abilities and weapons to protect those in need while dealing with the realities of power, politics and love.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Think of some series or movies that would be enjoyable for someone who liked the given series.\n\nSquid Game",
+    "dataset": "selfinstruct",
+    "output": "Some series or movies that would be enjoyable for someone who liked the series Squid Game include Paranoia Agent, Perfect Blue, and The Girl Who Leapt Through Time.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give examples of popular shows and movies in the genre.\n\nGenre: Crime TV Shows",
+    "dataset": "selfinstruct",
+    "output": "Popular crime TV shows include Breaking Bad, The Sopranos, Better Call Saul, House of Cards, Narcos, The Wire, and Law & Order: Special Victims Unit. Popular movies in the genre include The Godfather, Se7en, Fight Club, Memento, and Heat.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "In what genres does the given movie or series fall?\n\nManifest",
+    "dataset": "selfinstruct",
+    "output": "The TV series Manifest is a drama-thriller that follows the story of a commercial airline flight that mysteriously loses touch with the ground and is forced to explore the secrets of the past and present.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give a brief description of the given category of movies and shows.\n\nPeriod Dramas",
+    "dataset": "selfinstruct",
+    "output": "Period dramas are films or television shows that are set in a period prior to the present day. They often feature a historical setting, characters or events. Examples of period dramas include shows like Downton Abbey and films such as The King's Speech. These types of stories often focus on the intricate details of a particular time period and the complex dynamics of the characters who inhabit it.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide an example of how a table of contents can be generated automatically in a LATEX document. Make sure your example contains the necessary commands.",
+    "dataset": "selfinstruct",
+    "output": "\\tableofcontents\n\n\\listoffigures\n\n\\listoftables\n\n\\chapter{Introduction}\n\n\\section{Background}\n\n\\subsection{History}\n\n\\subsubsection{Timeline}\n\n\\listoffigures\n\n\\chapter{Experiments}\n\n\\section{Experiments A}\n\n\\listoftables\n\n\\chapter{Conclusion}\n\n\\section{Summary}\n\n\\section{Recommendations}\n\n\\listoffigures\n\n\\chapter{Bibliography}",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Imagine you have a FEN notation of a chessboard. How can you draw a board to show this state of the chessboard in LATEX? Create a LATEX code that includes all the required commands and packages.",
+    "dataset": "selfinstruct",
+    "output": "This LATEX code can be used to draw a chessboard in the FEN notation: \n\n\\begin{lstlisting}\n\n\\begin{tikzpicture}\n    \\begin{scope}\n        \\draw (0,0) rectangle (10,10);\n        \\draw (0.5,0.5) node {O};\n        \\draw (1.5,0.5) node {O};\n        \\draw (2.5,0.5) node {O};\n        \\draw (3.5,0.5) node {O};\n        \\draw (4.5,0.5) node {O};\n        \\draw (5.5,0.5) node {O};\n        \\draw (6.5,0.5) node {O};\n        \\draw (7.5,0.5) node {O};\n        \\draw (8.5,0.5) node {O};\n        \\draw (9.5,0.5) node {O};\n        \\draw (0.5,1.5) node {X};\n        \\draw (1.5,1.5) node {X};\n        \\draw (2.5,1.5) node {X};\n        \\draw (3.5,1.5) node {X};\n        \\draw (4.5,1.5) node {X};\n        \\draw (5.5,1.5) node {X};\n        \\draw (6.5,1.5) node {X};\n        \\draw (7.5,1.5) node {X};\n        \\draw (8.5,1.5) node {X};\n        \\draw (9.5,1.5) node {X};\n    \\end{scope}\n\\end{tikzpicture}\n\n\\end{lstlisting}",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What is the output of the given LATEX code?\n\n\\documentclass{article}\n\\begin{document}\nFirst document. This is a simple example, with no \nextra parameters or packages included.\n\\end{document}",
+    "dataset": "selfinstruct",
+    "output": "The output of the given LATEX code is a document with no extra parameters or packages included.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You should find a few LATEX templates appropriate for the task at hand and list the links to them.\n\nHomework Assignment",
+    "dataset": "selfinstruct",
+    "output": "Here are a few LATEX templates that you can use for a homework assignment:\n\n[1] https://www.latextemplates.com/template/homework-assignment\n[2] https://www.latextemplates.com/template/college-homework-assignment\n[3] https://www.latextemplates.com/template/high-school-homework-assignment\n[4] https://www.latextemplates.com/template/university-homework-assignment \n[5] https://www.latextemplates.com/template/graduate-homework-assignment",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a simple guide for uploading the bibliography database\n on Overleaf.",
+    "dataset": "selfinstruct",
+    "output": "1. Open Overleaf and click on the \"Bibliography\" button on the left side of the page.\n2. Select the \"Bibliography\" file format, enter the title of the file and then click \"Create Bibliography\".\n3. A file dialogue will open and you can select the file you want to upload.\n4. Once you have selected the file, click \"Open\" and the file will be uploaded.\n5. Edit the bibliography if needed and then click \"Save & Publish\" to finish.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Choose Spotify playlists that match the given mood. Provide a link to these playlists for easy access.\n\nFeeling Good",
+    "dataset": "selfinstruct",
+    "output": "Here is a link to the \"Feeling Good\" playlist on Spotify: https://open.spotify.com/playlist/2rBJJMRY9FH3W1C9Cz6HYk7",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Curate a Spotify playlist based on the vibe. Publish this playlist as a song list.\n\nVibe: coding on weekend",
+    "dataset": "selfinstruct",
+    "output": "This playlist is perfect for those lazy days when you just want to get lost in your coding. It has the right mix of instrumentals, chill beats, and introspective lyrics to keep you focused and inspired. \n\nSong List:\n1. \"Fresh\" by AJR \n2. \"I'm So Sorry\" by The White Stripes \n3. \"Heads Will Roll\" by Yeah Yeah Yeahs \n4. \"Code\" by The White Stripes \n5. \"I'm Waiting For The Man\" by The Velvet Underground \n6. \"Let's Groove\" by Earth, Wind & Fire \n7. \"The Edge\" by AJR \n8. \"I Wanna Dance With Somebody\" by Whitney Houston \n9. \"I'm Not Alright\" by The White Stripes \n10. \"We Can Do Anything\" by The Veronicas",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How would you describe the meaning of this lyrics? Describe some of the metaphors.\n\nMy lover’s got humor\nShe’s the giggle at a funeral\nKnows everybody’s disapproval\nI should’ve worshipped her sooner",
+    "dataset": "selfinstruct",
+    "output": "This song is about a person who has realized how amazing their lover is and how much they should have appreciated them sooner. The metaphors in the lyrics describe their lover as being the \"giggle at a funeral\" - someone who can make light of even the most serious situations - and knowing their partner's disapproval, despite them not having worshipped them sooner.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Suggest some Audiobooks for First-Time Listeners. You can attract them by choosing popular works.",
+    "dataset": "selfinstruct",
+    "output": "1. Harry Potter and the Sorcerer's Stone, by J.K. Rowling: An enchanting classic that has captivated millions of readers.\n2. The Lord of the Rings, by J.R.R. Tolkien: A thrilling epic adventure.\n3. The Da Vinci Code, by Dan Brown: An exciting mystery.\n4. The Alchemist, by Paulo Coelho: An inspiring tale of self-discovery.\n5. The Kite Runner, by Khaled Hosseini: An emotional journey of love and friendship.\n6. A Game of Thrones, by George R.R. Martin: A thrilling fantasy series.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a list of the most popular podcasts.",
+    "dataset": "selfinstruct",
+    "output": "1. Serial\n2. The Joe Rogan Experience\n3. This American Life\n4. S-Town\n5. The Daily\n6. Freakonomics\n7. The Rewatchables\n8. My Favorite Murder\n9. The Tim Ferris Show\n10. The StarTalk Podcast",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You should take the time to read the situation and problem carefully and give the best advice you can.\n\nI'm roadtripping down New Zealand with a friend and he is driving me insane. He hasn't enjoyed all the tours we've been on and doesn't want to chat about ANYTHING. We're a week into our trip and this is the quietest I've ever been when hanging out with another person as he rebuffs all my attempts at conversation. He wears his airpods in the car and around the accommodation - not that I've kept trying to talk to him. Honestly, he is bringing some seriously bad vibes to everything and it's ruining my trip.\nWe don't have anything booked in yet for the South Island, so I'm planning to ditch him in Wellington at the ferry. Probably book my own car in Picton and just relax alone for the rest of the trip. (Just thinking about it is such sharp relief that it makes me feel emotional. I'll pay whatever price I have to just to get away from him.)\nObviously telling him he is ruining my trip with his negative energy isn't the best way to approach this.\nAny advice for the best approach so we can split amicably? Or at least not have an argument that ends with very hurt feelings?",
+    "dataset": "selfinstruct",
+    "output": "It sounds like you have already made the decision to part ways, so I would suggest being kind and gentle in your approach. You don't have to be mean or cruel, but you could try saying something like, \"I'm really enjoying my trip, and I'd like to do things my way. Would you be okay with that?\" or \"I'm feeling a bit overwhelmed by the conversations we've been having, so I'd like to take some time to myself. Is that okay?\" Being honest and direct can help you avoid an argument, and it will show that you care about his feelings. Good luck!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given a description that provides a set of facts or a scenario. It is up to you to craft a story from these facts and scenarios. The missing pieces must be filled in with imaginative but logical information.\n\nTen European football teams – the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and Wales – will participate in a season-long “OneLove” campaign promoting inclusion and opposing discrimination.",
+    "dataset": "selfinstruct",
+    "output": "The UEFA OneLove campaign was launched to promote inclusion and stand against discrimination. Ten European football teams from the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and Wales have come together for a season-long initiative to spread awareness and encourage positive attitudes.\n\nThe teams will engage in various activities to highlight the message of inclusion and diversity throughout the season. This includes educational programs in schools to raise awareness of discrimination, as well as stadium initiatives like the Kick Racism Out of Football campaign.\n\nThe teams will also use their platforms to raise awareness of the initiative. For example, the England team will wear “OneLove” shirts at their next game and the Wales team will have an inclusive message on their national team jersey.\n\nThe campaign aims to raise awareness of the importance of inclusion and to create a positive impact in communities across Europe. By joining forces, these teams hope to show that discrimination has no place in football or in society. #OneLove #Inclusion #Football #UEFA #Soccer",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Based on the given query, suggest some related search queries.\n\nlearning french",
+    "dataset": "selfinstruct",
+    "output": "Some related search queries for \"learning French\" could be \"French language course\", \"French grammar rules\", \"French vocabulary\", \" French language resources\", \"French language exercises\", \"French language pronunciation\", \"French language software\", \"French language tutoring\", \"French language classes\", and \"French language tests\".",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please suggest a few papers to consider based on the search term given. The names of the papers should be listed.\n\nTopic: scaling law + machine learning",
+    "dataset": "selfinstruct",
+    "output": "1. Scaling Laws and Machine Learning Algorithms \n2. A Survey on Scaling Laws and Machine Learning \n3. A Study on Scaling Laws in Machine Learning \n4. Scaling Laws in Machine Learning: A Literature Review \n5. Exploring Scaling Laws for Machine Learning",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Prepare an email signature template for the given person or company.\n\na graduate student of computer science",
+    "dataset": "selfinstruct",
+    "output": "Email Signature Template\n\nJohn Smith\nGraduate Student in Computer Science\n\nUniversity of California, Berkeley\n\njsmith@berkeley.edu\n\nUnderstand Your Audience - Know Your Audience - Create Engaging Content",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "React properly to reviews from your customers. In your responses, you can highlight your business' policies and customer service.\n\nAnother repeat visit and no disappointment from us. Great place for breakfast or brunch - and you won't need to eat again for awhile. The restaurant is close to the Tenderloin so be aware of your surroundings.\nWe enjoyed the Succotash Omelet (at least my wife enjoyed it), the Pulled Pork Benedict and the Hangtown Fry. Portions are large and pricing is fair. I wish we could have managed a Beignet Flight!\nDefinitely a spot to seek out. It can be crowed at times so be patient. Well worth any wait.",
+    "dataset": "selfinstruct",
+    "output": "We appreciate your repeat business and your kind words about our breakfast/brunch menu and customer service. We are glad that your experiences here have been enjoyable and we hope to see you again soon.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a good Twitter Bio. Try to cover all the provided main points in your generated bio.\n\nName: Jane\nMain points:\n- Architect\n- Interested in Tech\nWritten in first person\nUse casual tone",
+    "dataset": "selfinstruct",
+    "output": "I'm Jane, an architect and tech enthusiast. I'm passionate about exploring new technologies, learning about emerging trends, and finding innovative solutions to everyday problems. Follow me for inspirational quotes, tech news, and fun conversations!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "We need to write a thematic tweet to share company news and facts. Please take a careful look at the facts and details provided and create a tweet based on them.\n\n- news: Applications for summer internships are open now\n- Start with a thematic tie-in to Halloween",
+    "dataset": "selfinstruct",
+    "output": "It's #Halloween season! Do you have #CreepyCrawlyGoals? Apply now for your summer internship and get ready to make your dreams come true! #SummerInternships #CareersInIT",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company.\n\nCompany: [Company name]\nJob: Software Engineer\nJob Responsibilities:\nReceive and perform code reviews with other engineers.\nWrite unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\nWork collaboratively with fellow software engineers to build features requested by business stakeholders.\nParticipate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nDiagnose, debug, and perform root cause analysis of issues and defects.\nSkills and experience that will lead to success:\nExperience with a modern software programming language. We use Python, and Pyspark extensively.\nExperience with cloud systems like AWS or Azure\nExperience writing SQL queries \nStrong written and verbal communication skills\nEagerness to work in a highly-collaborative environment\nSome visualization experience such as Tableau or PowerBI is helpful",
+    "dataset": "selfinstruct",
+    "output": "Company: [Company name]\nJob: Software Engineer \nJob Responsibilities:\n• Receive and perform code reviews with other engineers.\n• Write unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\n• Work collaboratively with fellow software engineers to build features requested by business stakeholders.\n• Participate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\n• Diagnose, debug, and perform root cause analysis of issues and defects.\n• Requirements:\n• Experience with a modern software programming language. We use Python, and Pyspark extensively.\n• Experience with cloud systems like AWS or Azure\n• Experience writing SQL queries\n• Skills and experience that will lead to success:\n• Strong written and verbal communication skills\n• Eagerness to work in a highly-collaborative environment\n• Some visualization experience such as Tableau or PowerBI is helpful.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Considering the reason for the rejection, write a polite rejection letter for rejecting a candidate.\n\nReason: You came in second",
+    "dataset": "selfinstruct",
+    "output": "Dear [Name],\n\nWe want to thank you for your interest and for taking the time to apply for our position. We had a large number of qualified applicants, and we regret to inform you that you came in second. We appreciate your dedication and wish you success in your future endeavors.\n\nSincerely,\n[Company Name]",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "We've already decided on the title and topic for our blog post. I would appreciate it if you wrote an introduction paragraph to attract the readers' attention.\n\nBlog title: Healthy Apple Muffins\nBlog Topic: recipe and tips for cooking a good apple muffin",
+    "dataset": "selfinstruct",
+    "output": "Are you looking for a delicious and healthy breakfast treat? Look no further than these Healthy Apple Muffins! Not only are they delicious, but they are also easy to make and loaded with nutritious ingredients like whole wheat flour, fresh apples, and Greek yogurt. With these simple ingredients, you can enjoy a healthy snack or breakfast anytime. So what are you waiting for? Get baking and enjoy a delicious and nutritious snack!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Design an outline for a blog post based on the given information and list the sections accordingly.\n\nThis blog post is going to about making a list of last-minute gift ideas. Also, the tone of the post is going to be relaxed and casual.",
+    "dataset": "selfinstruct",
+    "output": "I. Introduction\nII. Last-Minute Gift Ideas\nA. Gift Baskets \nB. Cookbooks\nC. Clothing \nD. Accessories\nE. Gift Cards\nF. Home Goods \nG. Artwork \n\nIII. Conclusion\nIV. Resources\nV. Acknowledgements",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a section for a blog post and try to cover all of the provided information about this section in your text.\n\nBlog Topic: 7 Fall Fashion Trends Worth Taking on Your Trip\nSection Title: Trusty Jeans\nMain point of the section: jeans can be worn all year and look good with everything .",
+    "dataset": "selfinstruct",
+    "output": "For those looking for a classic fall fashion trend that is sure to never go out of style, look no further than the trusty jean. Jeans can be worn all year and look good with everything from a t-shirt and sneakers to a blazer and heels. With so many different styles, colors, and fits to choose from, you’ll be sure to find the perfect pair to take with you on your trip. Whether you prefer a skinny fit, straight leg, or boot cut, jeans are a timeless piece of clothing that you can rely on to complete any look.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Create a detailed caption for an Instagram post about a discount. A proper caption should explain the product, offer the discount, and tell the user how to claim it.\n\nProduct: Golang course\nProduct description: teaching the foundational skills for building cloud services, web applications, DevOps tools, and backend development\nDiscount: 50%\nHow to claim: Use the coupon code: GOLANG",
+    "dataset": "selfinstruct",
+    "output": "Get 50% off our Golang course and become a master of cloud services, web applications, DevOps tools and backend development! Simply use the coupon code \"GOLANG\" when checking out to claim your discount.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Create a captivating Instagram caption based on the provided details. Try to think of as many captions as you can.\n\nI am sharing images of the first snow of the year taken from a window in an office",
+    "dataset": "selfinstruct",
+    "output": "The first snow of the year always brings a feeling of excitement and joy. A reminder that winter is upon us and the promise of new beginnings. #snow #winter #newbeginnings",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given a topic for an Instagram post. Help the post reach a broader audience by suggesting hashtags related to the post.\n\nAnother episode of women in science is out now",
+    "dataset": "selfinstruct",
+    "output": "Hashtags: #WomenInScience, #STEM, #InspiringWomen, #WomenEmpowerment, #Equality #Science #NASDA #STEAM",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Use appropriate emojis to convey the meaning in the given text.\n\nCute cat\nplayful\nSoft",
+    "dataset": "selfinstruct",
+    "output": "😻😼😼😼😺",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "The topic of a YouTube post has been described and based on the information, you need to write a hook for starting the post. A catchy hook will keep your readers interested so they keep reading. It would be great if you could come up with as many hooks as you can.\n\nA video showing how to make a tasty cup of coffee",
+    "dataset": "selfinstruct",
+    "output": "Espresso enthusiasts, you're in for a treat! Join us today as we show you how to make a delicious cup of coffee using either a traditional espresso machine or a French press.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Using the provided topic as a starting point, brainstorm ideas for videos that can be made about it on YouTube.\n\nIn spite of the fact that procrastination feels bad to you, why do you do it?",
+    "dataset": "selfinstruct",
+    "output": "My idea for a YouTube video about procrastination is to explore the psychology behind it. I could go into the different types of procrastination, such as the fear of failure or perfectionism, and the different ways people deal with it. I could also discuss the impact of procrastination on productivity and creativity and how to develop strategies to combat it.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You should choose a YouTube video title based on the video's content. A video's title tells viewers what to expect from it. It should be direct, honest, and clear. The title of the video needs to capture the attention of viewers, so do not use an unclear or ambiguous one.\n\nA research study has been conducted to determine if exercise really can \"boost\" your metabolism.",
+    "dataset": "selfinstruct",
+    "output": "Metabolic Boost or Myth: Examining the Evidence of Exercise and Weight Loss",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Choosing a name for your product or business YouTube channel is an important part of the process. Based on the description of the product or business, you should come up with some interesting names. Take some time to brainstorm your ideas.\n\nHere you will find videos and content that will help students prepare for the application process to graduate schools as well as how to apply to graduate schools",
+    "dataset": "selfinstruct",
+    "output": "1. Grad School Prep: How to Research Grad Schools\n2. Grad School Prep: How to Create a Grad School Resume\n3. Grad School Prep: How to Prepare for Grad School Interviews\n4. Grad School Prep: How to Choose the Right Grad School\n5. Grad School Prep: How to Apply to Grad School\n6. Grad School Prep: How to Pay for Grad School\n7. Grad School Prep: How to Get Ready for Grad School",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Find the answer that best describes the underlined SAT word. Select the correct option and explain the meaning of the underlined word.\n\nDespite the _cacophony, the student tried to study. \nA. Loud sounds\nB. Difficult subject\nC. Late hour\nD. Low lighting",
+    "dataset": "selfinstruct",
+    "output": "C. Late hour",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Find synonyms for the given word. You need to write down how the provided synonyms differ from the original word in terms of meaning, usage, etc.\n\nadversity",
+    "dataset": "selfinstruct",
+    "output": "Adversity is a difficult situation or misfortune that one must endure, whereas misfortune is a calamity or misfortune that befalls one, typically one involving misery or distress. Adversity is more general and encompassing while misfortune is more specific and refers to a specific misfortune that has befallen someone. Adversity is usually seen as a negative thing while misfortune can be seen as either positive or negative depending on the situation. Adversity is usually associated with a long-term difficult situation while misfortune can be either short-term or long-term.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Discuss the origins and history of the word that has been given to you.\n\noblique",
+    "dataset": "selfinstruct",
+    "output": "The word 'oblique' is derived from the Latin word 'obliquis', meaning 'slightly curved, crooked, or irregular'. In English, it has been in use since the 14th century and has come to mean something that is slightly slanting or sloping in an irregular direction. It is also used to describe an action or thought that is slightly crooked or irregular.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give the provided brand a motto to use as a part of its marketing strategies.\n\nThe Ice cream shop is a small, quaint shop located in the heart of the historic district. They offer a variety of ice cream flavors, as well as Italian ice, gelato, and sorbet. The shop has a few tables and chairs, but most of their business is to-go. They offer a loyalty program where you can get a free scoop of ice cream after 10 purchases.",
+    "dataset": "selfinstruct",
+    "output": "Flavors to make your summer sweeter – Visit the Ice Cream Shop for the best ice cream, gelato, and Italian ice in town.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "A confirmation email should be written appropriately for the situation.\n\nA meeting has been scheduled, and the sender expects the other to review the slides.",
+    "dataset": "selfinstruct",
+    "output": "Dear [Name],\n\nI hope you are doing well. We have scheduled a meeting for [date] at [time] to review the slides.\n\nI will send you the slides shortly.\n\nSee you then!\n\nBest,\n[Your Name]",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You need to write an email to negotiate your salary.",
+    "dataset": "selfinstruct",
+    "output": "Dear [Employer],\n\nI am writing to express my interest in the position and to request a salary discussion. I am confident that my skills and experience are a great fit for the role, and I am sure I can bring value to the team. \n\nI am currently earning a salary of [salary], and I am looking for a new challenge where I can develop my skills and grow within the company. I am sure I can be an asset to your team and help drive the success of the business.\n\nI am open to discussing a range of potential salaries that better reflect my qualifications and the value I can bring to the role. Please let me know what you feel would be a fair and competitive salary for this role.\n\nI look forward to hearing from you and discussing the potential of me joining your team.\n\nSincerely,\n[Your Name]",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write an email to attendees as a reminder that the event is coming up.",
+    "dataset": "selfinstruct",
+    "output": "Dear [attendees],\n\nWe hope you are as excited as we are for the upcoming event! It's going to be a great day filled with learning, sharing, and connecting. We can't wait to see you there!\n\nIf you have any questions, please don't hesitate to reach out.\n\nSincerely, \n[Name]",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "It would be helpful if you could suggest an acronym for the repository.\n\nA python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "dataset": "selfinstruct",
+    "output": "NISQ-FYI",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a step-by-step guide for resolving GitHub merge conflicts.",
+    "dataset": "selfinstruct",
+    "output": "1. Open the Merge Conflicts tab in GitHub.\n2. Identify the conflict by looking at the differences between the versions.\n3. Select the files that have conflicts and add them to the Merge Conflicts tab.\n4. Create a temporary local branch to work on the conflicts.\n5. Edit the files to resolve the conflicts.\n6. Commit the changes to the local branch.\n7. Run the command \"git diff\" to get the hash of the commit.\n8. Edit the Merge Conflicts tab and select the \"Resolve with Squash Merge\" option.\n9. Enter the commit hash from step 6 to the \"Squash Merge\" field.\n10. Select the \"Merge\" button to merge the changes.\n11. Check the Merge Conflicts tab to make sure the conflicts are resolved.\n12. Run the \"git push\" command to push the changes to the remote repository.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "One or more jobs can be run automatically by a workflow. The workflows are defined in the repository as YAML files and will run if an event occurs in the repository, as well as manually, or on a certain schedule.\nBring an example of a workflow that demonstrate the CI/CD features of GitHub Actions.",
+    "dataset": "selfinstruct",
+    "output": "Workflow example:\n\nWhen a pull request is created in the repository, a job can be triggered to build the project. The job runs a series of commands, such as running unit tests, building the project, and deploying the artifacts to a repository. If the tests pass, the job can then trigger a release which will push the built project to the repository. This workflow can all be automated and run as part of the continuous integration and continuous deployment process.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "The movie tagline is the film's advertising slogan, usually printed on posters prior to the official release. It is a short description or comment on a movie to capture the essence of the movie, and ultimately make you watch the movie. Here is an example:\n\nMovie: Joker (2019)",
+    "dataset": "selfinstruct",
+    "output": "An origin story of a dark superhero. Join the journey of a failed stand-up comedian, who eventually turns to a darker path and finds fame and power in an unexpected place.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given some reviews for a movie. Each video might have mentioned some negative or positive points about the movie. Read them carefully and extract the positive and negative points mentioned in all of the reviews. Then, make a list of these points and summarize them as positive points and negative points.\n\nReview 1: I'm not sure if it's just the fact that Ed Norton really grates on me in this film, but I never really bought into the idea of Fight Club being some kind of cultural phenomenon. Yes it's an innovative story, told via a strong script, engaging characters and intense cinematography. But is it really worthy of such high praise? Personally, I find it starts to fall apart halfway through and actually becomes quite tedious towards the end. Everything just becomes a little bit childish and contrived as the story loses touch with its base elements and the rage against the machine vibe takes over. I have huge respect for the way this film was made but, much like The Matrix, I feel like people attach way more importance to this movie than it deserves.\nReview 2: The film tells the story of men who cannot adapt to the social order in today's world, under the leadership of Tyler Durden, to discover their natural instinct, masculinity, and to escape from their unhappy lives.\nReview 3: Despite a good theme, great acting and important messages that this movie convey in an unorthodox way, I think it fails to connect the audience with the storyline and leaves him in a world of confusion. Although, majority of reviews find this movie entertaining and interesting, yet I would choose to be a minority that believes that this movie is extremely overrated.\nReview 4: Is creating chaos, explosions and membership in a militant sect the way to get rid of material shackles ?! The visual effects are fascinating and the story is compelling until the second half. Unfortunately, it doesn't end well.",
+    "dataset": "selfinstruct",
+    "output": "Positive points: Innovative story, strong script, engaging characters, intense cinematography.\nNegative points: Story falls apart halfway through, loses touch with its base elements, rage against the machine vibe takes over.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give a brief summary of the movie or series' plot.\n\nBreaking Bad (TV Series 2008–2013)",
+    "dataset": "selfinstruct",
+    "output": "Breaking Bad follows the story of Walter White, a high school chemistry teacher who is diagnosed with cancer and turns to a life of crime to secure his family's financial future. With the help of a former student, Jesse Pinkman, Walter starts manufacturing and selling crystal meth in order to make money. As the series progresses, Walter's moral compass begins to unravel as he faces the consequences of his decisions and his relationships with those around him are tested.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Decide whether children can watch the given movie. Mention what makes it inappropriate if you think they can't.\n\nThe Dark Knight (2008)",
+    "dataset": "selfinstruct",
+    "output": "No, children should not watch The Dark Knight (2008). It is inappropriate for children due to its dark and mature content, including themes of corruption and violence.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a short analysis of the cinematography in the movie.\n\nDead Poets Society",
+    "dataset": "selfinstruct",
+    "output": "The cinematography in Dead Poets Society is stunning, utilizing a combination of wide shots and close-ups to capture the intensity of the drama between the characters. The use of lighting is also effective, creating a moody atmosphere in parts and brightening the screen in others to emphasize certain moments. The camerawork is expertly done, allowing the viewer to feel as though they are a part of the story, and the transitions between scenes are smooth and seamless. All in all, the cinematography in Dead Poets Society is an intricate part of the film, helping to elevate the story and bring the characters to life.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please let me know your thoughts on the given place and why you think it deserves to be visited.\n\nBarcelona, Spain",
+    "dataset": "selfinstruct",
+    "output": "Barcelona, Spain is an amazing city to visit. It has a rich cultural heritage, beautiful architecture, vibrant nightlife and plenty of delicious food. It also offers a variety of activities from exploring the Gothic Quarter to relaxing on the beach. It is a city that will leave a lasting impression and deserves to be visited at least once in a lifetime.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Consider the best time of year to visit the given city, and provide your reasons for choosing that time.\n\nSydney, Australia",
+    "dataset": "selfinstruct",
+    "output": "The best time of year to visit Sydney, Australia is from October through April when the weather is pleasant and temperatures are mild. April and October are particularly nice since the weather is warmer but still not too hot. There are also many exciting events and activities happening during these months, making it an ideal time to visit.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a questionnaire to help hotel guests write hotel reviews.",
+    "dataset": "selfinstruct",
+    "output": "1. How would you rate your overall experience at our hotel?\n2. What did you enjoy the most about your stay?\n3. What could be improved?\n4. Would you recommend our hotel to others?\n5. How did our staff handle any issues that arose during your stay?\n6. What was the best aspect of our customer service?\n7. How would you rate the cleanliness of your room?\n8. Was the room what you expected?\n9. Was the bed comfortable?\n10. How would you rate the breakfast?\n11. Were there any amenities that you wished were available?\n12. How did you find the Wi-Fi connection?\n13. Was the staff helpful and courteous?\n14. Are there any areas where our hotel could improve?\n15. What was the best thing about your stay?\n16. How likely are you to recommend our hotel to others?",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a list of the top places in the U.S. to visit at the given time.\n\nNovember",
+    "dataset": "selfinstruct",
+    "output": "1. Thanksgiving in the United States - November 26th \n2. National Parks - November 28th to December 1st\n3. Holiday markets - November 28th to December 24th\n4. Christmas in the United States - December 25th\n5. New Year's Eve celebrations - December 31st \n6. Ski resorts - December to March",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Name the top cities in France that should not be missed. Include the best aspects of each place as well.",
+    "dataset": "selfinstruct",
+    "output": "Paris is the City of Love, offering world-renowned attractions like the Eiffel Tower, the Louvre Museum and the Champs Elysees. The charming city of Nice offers breathtaking views of the Mediterranean Sea and the French Riviera. In Lyon, foodies can explore the city's gastronomic delights, while history buffs can visit the numerous Renaissance-era buildings. Lastly, Bordeaux is a vibrant city on the Garonne River, known for its wine, grand architecture and aquatic activities.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Answer the following question.\n\nHow do I compare strings in Java?\nI've been using the == operator in my program to compare all my strings so far. However, I ran into a bug, changed one of them into .equals() instead, and it fixed the bug.\nIs == bad? When should it and should it not be used? What's the difference?",
+    "dataset": "selfinstruct",
+    "output": "The == operator is not necessarily bad, but it can lead to unexpected results. It is used to compare two variables of the same type and data-type. This operator checks if the two variables refer to the same object instance. If the variables refer to different objects, the == operator will return false. In the case of strings, the .equals(String) method should be used to compare them. This method checks if the string content of two strings is the same. If they are not the same, the .equals(String) method will return false, which is what you need to use to compare strings.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why.\n\nIs there a way of reading one single character from the user input? For instance, they press one key at the terminal and it is returned (sort of like getch()). I know there's a function in Windows for it, but I'd like something that is cross-platform.\nAnswer 1: Here's a link to the ActiveState Recipes site that says how you can read a single character in Windows, Linux and OSX :\nhttps://code.activestate.com/recipes/134892/\nAnswer 2: if you just want to hold the screen so you can see the result on the terminal just write `input()` at the end of the code and it will hold the screen",
+    "dataset": "selfinstruct",
+    "output": "Answer 1 is correct. The code provided in the link will allow you to read a single character from the user input in Windows, Linux and OSX.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given two questions. Check if they are duplicates.\n\nQuestion1: I am trying to understand the advantages of multiprocessing over threading. I know that multiprocessing gets around the Global Interpreter Lock, but what other advantages are there, and can threading not do the same thing?\nQuestion2: I am learning how to use the threading and the multiprocessing modules in Python to run certain operations in parallel and speed up my code.\nI am finding this hard (maybe because I don't have any theoretical background about it) to understand what the difference is between a threading.Thread() object and a multiprocessing.Process() one.\nAlso, it is not entirely clear to me how to instantiate a queue of jobs and having only 4 (for example) of them running in parallel, while the other wait for resources to free before being executed.\nI find the examples in the documentation clear, but not very exhaustive; as soon as I try to complicate things a bit, I receive a lot of weird errors (like a method that can't be pickled, and so on).\nSo, when should I use the threading and multiprocessing modules?\nCan you link me to some resources that explain the concepts behind these two modules and how to use them properly for complex tasks?",
+    "dataset": "selfinstruct",
+    "output": "Yes, Question1 and Question2 are duplicates.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Design a programming problem related to the subject that has been given to you. Use some examples and constraints to improve your question.\n\nDynamic Programming",
+    "dataset": "selfinstruct",
+    "output": "Design a dynamic programming algorithm to find the minimum sum of a given array. For example, given an array of size n, the algorithm should find the minimum sum of n elements. The array may contain negative values and the minimum sum should be returned as the result.\n\nNote: The algorithm should run in linear time, meaning it should not be an exponential algorithm.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide a Java solution to the following problem.\n\nGiven an integer n, return true if it is a power of three. Otherwise, return false.\nAn integer n is a power of three, if there exists an integer x such that n == 3^x.\n\nExample 1:\nIn: n = 27\nOut: true\nExplanation: 27 = 3^3\n\nExample 2:\nIn: n = 0\nOut: false\nExplanation: There is no x where 3^x = 0.\n\nExample 3:\nIn: n = -1\nOut: false\nExplanation: There is no x where 3x = (-1).\n \nConstraints:\n-231 <= n <= 231 - 1\nFollow up: Could you solve it without loops/recursion?",
+    "dataset": "selfinstruct",
+    "output": "def isPowerOfThree(n):\n    if n == 0:\n        return False\n    elif n == 1:\n        return True\n    else:\n        x = 1\n        while x * 3 <= n:\n            if n == x * 3:\n                return True\n            x = x * 3\n        return False\n         \n# Driver Code\nnum = int(input('Enter a number: '))\nprint('Is a power of three?', end=' ')\nprint(num, 'is a power of three')",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Think of topics that are most common in classic interview questions for a job in computer science.",
+    "dataset": "selfinstruct",
+    "output": "Common topics in classic interview questions for a job in computer science include algorithms and data structures, programming languages and paradigms, databases, software engineering and design patterns, operating systems, and networks.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You will need to guide this person through the scenario they have described for the interview.\n\nFinally! After a while of shooting in the dark and frantically fiddling with sample inputs on the whiteboard, you've came up with an algorithm for solving the coding question your interviewer gave you.\nWhew. Such a relief to have a clear path forward. To not be flailing anymore.\nNow you're cruising, getting ready to code up your solution.\nWhen suddenly, your interviewer throws you a curve ball.\n\"What if we thought of the problem this way?\"\nYou feel a tension we've all felt during the coding interview:\n\"Try to listen to what they're saying...but don't lose your train of thought...ugh, I can't do both!\"",
+    "dataset": "selfinstruct",
+    "output": "Take a deep breath and realize that it's okay to be human. \nListen to what your interviewer is saying and process it while you code.\nFor example, you could say something like, \"I'm actually in the process of coding my solution. However, your suggestion does make me realize that I could use a different approach which might be more efficient. I'll try that out and see how it goes.\" \nBy taking a moment to acknowledge your interviewer's suggestion, you've demonstrated that you're actively listening and now you can get back to coding with a fresh perspective.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;",
+    "dataset": "selfinstruct",
+    "output": "SELECT p.FirstName, p.LastName, a.City, a.State\nFROM Person p LEFT JOIN Address a\nON p.PersonId = a.PersonId\n;",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "The given article should be checked for any scientific errors and corrected if necessary.\n\nZinc is an essential mineral that is required for good health. It is involved in many biochemical processes in the body and is necessary for the proper functioning of the immune system. Excess zink is not harmful as it is excreted in the urine.",
+    "dataset": "selfinstruct",
+    "output": "Zinc is an essential mineral that is required for good health. It is involved in many biochemical processes in the body and is necessary for the proper functioning of the immune system. Excess zink is not harmful and is excreted in the urine.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Summarize the article you have been given in a brief manner.\n\nMathematics and art are related in a variety of ways. Mathematics has itself been described as an art motivated by beauty. Mathematics can be discerned in arts such as music, dance, painting, architecture, sculpture, and textiles. This article focuses, however, on mathematics in the visual arts.\nMathematics and art have a long historical relationship. Artists have used mathematics since the 4th century BC when the Greek sculptor Polykleitos wrote his Canon, prescribing proportions conjectured to have been based on the ratio 1:√2 for the ideal male nude. Persistent popular claims have been made for the use of the golden ratio in ancient art and architecture, without reliable evidence. In the Italian Renaissance, Luca Pacioli wrote the influential treatise De divina proportione (1509), illustrated with woodcuts by Leonardo da Vinci, on the use of the golden ratio in art. Another Italian painter, Piero della Francesca, developed Euclid's ideas on perspective in treatises such as De Prospectiva Pingendi, and in his paintings. The engraver Albrecht Dürer made many references to mathematics in his work Melencolia I. In modern times, the graphic artist M. C. Escher made intensive use of tessellation and hyperbolic geometry, with the help of the mathematician H. S. M. Coxeter, while the De Stijl movement led by Theo van Doesburg and Piet Mondrian explicitly embraced geometrical forms. Mathematics has inspired textile arts such as quilting, knitting, cross-stitch, crochet, embroidery, weaving, Turkish and other carpet-making, as well as kilim. In Islamic art, symmetries are evident in forms as varied as Persian girih and Moroccan zellige tilework, Mughal jali pierced stone screens, and widespread muqarnas vaulting.",
+    "dataset": "selfinstruct",
+    "output": "Mathematics and art have been closely related for centuries, with mathematics being used to create works of art such as music, dance, painting, architecture, sculpture, and textiles. This article focuses on the use of mathematics in the visual arts, such as quilting, knitting, cross-stitch, crochet, embroidery, weaving, Turkish and other carpet-making, and kilim. In Islamic art, symmetries can be seen in forms such as Persian girih and Moroccan zellige tilework, Mughal jali pierced stone screens, and widespread muqarnas vaulting.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Improve the article using your knowledge of the topic in order to make it more informative.\n\nThe \"fair trade\" movement, also known as the \"trade justice\" movement, promotes the use of labour, environmental and social standards for the production of commodities, particularly those exported from the Third and Second Worlds to the First World. Such ideas have also sparked a debate on whether trade itself should be codified as a human right.",
+    "dataset": "selfinstruct",
+    "output": "The \"fair trade\" movement, also known as the \"trade justice\" movement, promotes the use of labour, environmental and social standards for the production of commodities, particularly those exported from the Third, Second and First Worlds to the First World. Such ideas have also sparked a debate on whether trade itself should be codified as a human right. \n\nThe Fair Trade movement seeks to ensure that producers in developing countries are provided with better working conditions and more equitable trading relationships. This movement has grown rapidly in recent years and is now seen as an influential force in global commerce. Supporters of the Fair Trade movement argue that it helps to lift producers out of poverty, by providing them with higher wages and better working conditions. They also argue that it helps to promote sustainable development, by ensuring that production is carried out in an ethical and responsible manner.\n\nFair Trade is not just limited to the production of goods, it also encompasses the trading of services. For example, in the United Kingdom, there are now a number of Fair Trade law firms that provide free or reduced cost legal advice to those in need. This helps to ensure that anyone, regardless of their income, can access justice. \n\nFair Trade also seeks to help disadvantaged communities in the developing world gain access to global markets. This is done by providing training, advice and support to these communities so that they can set up their own businesses and trade their products. This helps to create sustainable livelihoods and break the cycle of poverty. \n\nIn conclusion, the Fair Trade movement is a powerful force in global commerce and is helping to lift producers in the developing world out of poverty. By providing better working conditions and trading relationships, it is ensuring that producers are treated ethically and responsibly, whilst also providing access to global markets for disadvantaged communities. It is clear that Fair Trade has the potential to make a real difference in the lives of producers in the developing world, and it is up to all of us to ensure that it succeeds.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make the article available in a second language by translating it into it.\n\nDentistry, also known as dental medicine and oral medicine, is the branch of medicine focused on the teeth, gums, and mouth. It consists of the study, diagnosis, prevention, management, and treatment of diseases, disorders, and conditions of the mouth, most commonly focused on dentition (the development and arrangement of teeth) as well as the oral mucosa. Dentistry may also encompass other aspects of the craniofacial complex including the temporomandibular joint. The practitioner is called a dentist.\nTranslate to French:",
+    "dataset": "selfinstruct",
+    "output": "La dentisterie, ou la dental medicine et la mrde, est la branche de la medecine consacrée aux dents, des gums et du mx. Elle comprend l'etude, la diagnostic, la prevention, la gestion et le traitement des maladies, des troubles et des conditions du mx, notamment focus sur la dentition (l'formation et l'arrangement des dents) ainsi que l'oral mucosa. La praticiend n'est pas appelé un dentiste.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "An evaluation of the article's quality should be carried out. In order to do so, you should review the quality of the writing and the explanation of the topic.\n\nThe 20th century saw a revolution in music listening as the radio gained popularity worldwide and new media and technologies were developed to record, edit and distribute music. Music performances became increasingly visual with the broadcast and recording of performances.\n20th-century music brought new freedom and wide experimentation with new musical styles and forms that challenged the accepted rules of music of earlier periods. The invention of musical amplification and electronic instruments, especially the synthesizer, in the mid-20th century revolutionized classical and popular music, and accelerated the development of new forms of music.",
+    "dataset": "selfinstruct",
+    "output": "The article is well-written and provides a clear and convincing explanation of the topic. It includes relevant examples and provides in-depth analysis of the development of 20th century music. The structure of the article is also well-organized and easy to follow. It is evident that the writer has a deep understanding of the subject matter and has done thorough research to support their arguments.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please answer the following question based on the information provided in the article.\n\nDevelopment studies is an interdisciplinary branch of social science. Development studies is offered as a specialized master's degree in a number of reputed universities around the world. It has grown in popularity as a subject of study since the early 1990s, and has been most widely taught and researched in developing countries and countries with a colonial history, such as the UK, where the discipline originated.  Students of development studies often choose careers in international organisations such as the United Nations, World Bank, non-governmental organisations (NGOs), media and journalism houses, private sector development consultancy firms, corporate social responsibility (CSR) bodies and research centers.\nWhat are some popular careers for students of development studies?",
+    "dataset": "selfinstruct",
+    "output": "Students of development studies often choose careers in international organizations such as the United Nations, World Bank, non-governmental organizations (NGOs), media and journalism houses, private sector development consultancy firms, corporate social responsibility (CSR) bodies and research centers. Popular careers for students of development studies include: \n- United Nations Officer \n- World Bank Officer \n- NGO Manager \n- Media and Journalism Professional \n- Private Sector Development Consultant \n- CSR Professional \n- Research Associate/Fellow \n- Academic \n- Policy Analyst \n- Program Manager \n- Government Advisor \n- Entrepreneur \n- Private Sector Executive \n- International Development Consultant \n- Diplomat \n- Lobbyist \n- Philanthropist.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.\n\nProgramming for Everybody (Getting Started with Python)",
+    "dataset": "selfinstruct",
+    "output": "This course is an introduction to programming with Python. The course will cover the basics of the Python language, including variables, data types, functions, loops, classes, and object-oriented programming. We will also explore the fundamentals of programming, such as syntax, logic, and debugging. Our goal is to help you get started with Python, and to give you the skills and confidence to continue learning and exploring the world of programming. \n\nChapters:\n\n1. Introduction to Programming with Python: An overview of the language, data types, variables, functions, loops, classes, and object-oriented programming. \n2. Debugging and Error Handling: Strategies for debugging your code, and how to handle errors in programming. \n3. Variables and Data Types: An exploration of the different types of variables and data types in Python, including strings, numbers, lists, and dictionaries. \n4. Functions and Loops: A detailed look at functions and loops, including while loops, for loops, and nested functions. \n5. Classes and Object-Oriented Programming: An introduction to object-oriented programming with classes and objects, including methods and attributes. \n6. Advanced Programming Concepts: Advanced topics such as modules, libraries, exception handling, and threading. \n7. Projects: A final project that combines the skills and concepts learned in the course.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "List the personality traits that are required to be successful in the given job.\n\nSocial Media Marketer",
+    "dataset": "selfinstruct",
+    "output": "The personality traits required to be successful in the job of Social Media Marketer include: \n- Self-motivation \n- Creativity \n- Attention to detail \n- Ability to multi-task \n- Good communication skills \n- Good problem-solving skills \n- Ability to work independently and in a team \n- Resourcefulness \n- Ability to stay organized \n- Ability to think strategically \n- Passion for digital marketing \n- Ability to be flexible and adapt to changes quickly.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please list the courses that someone interested in the first course might like.\n\nBitcoin and Cryptocurrency Technologies",
+    "dataset": "selfinstruct",
+    "output": "Cryptography, Blockchain Technology, Database Systems, Computer Networking, Software Engineering, Finance, Economics.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Come up with the courses that one is supposed to take in order to be an expert in a given field.\n\nGraphic Design",
+    "dataset": "selfinstruct",
+    "output": "To become an expert in graphic design, one should take courses in animation, graphic design software, typography, digital illustration, web design, and advertising.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Create a daily itinerary based on the given information.\n\nOur family is looking for a 9-day Morocco trip that has light to moderate activity levels.",
+    "dataset": "selfinstruct",
+    "output": "Day 1: Arrive in Marrakech and check into the hotel.\nDay 2: Visit the Koutoubia Mosque, the Saadian Tombs, and the souks. \nDay 3: Take a tour of the Medina and the Mellah. \nDay 4: Visit the Ourika Valley and take a hike to the waterfall. \nDay 5: Visit the Bahia Palace and the Jardin Majorelle. \nDay 6: Take a tour of the Jewish Quarter and the Royal Palace. \nDay 7: Visit the Berber villages of Ait benhaddou and Telouet. \nDay 8: Visit the Dadès Gorges and the village of Todra. \nDay 9: Visit the Toubkal Mountain and take a hike to the summit. \nDay 10: Visit the Ouzoud Waterfalls and take a tour of the Argan Forests. \nDay 11: Explore the cities of Marrakech and Essaouira. \nDay 12: Visit the Sqala of the Slaves and the beach at Sidi Abdelkader. \nDay 13: Visit the Jewish cemetery and the Jewish museum. \nDay 14: Visit the Dar-el-Makhzen and the Saadian Tombs. \nDay 15: Visit the Bahia Palace and the Jardin Majorelle. \nDay 16: Visit the Royal Palace and the Jewish Quarter. \nDay 17: Visit the Ourika Valley and take a hike to the waterfall. \nDay 18: Visit the Berber villages of Ait benhaddou and Telouet.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give students tips on how to keep their nerves under control during class presentations.",
+    "dataset": "selfinstruct",
+    "output": "Here are some tips to help you keep your nerves under control when you have to make a class presentation: \n1. Practice and become familiar with your material. \n2. Make use of visual aids to help break up your presentation into smaller sections. \n3. Speak slowly and clearly and use expressive gestures. \n4. Take deep breaths and relax your body before you start. \n5. Smile and make eye contact with the audience. \n6. If you make a mistake, don't dwell on it. \n7. End your presentation on a strong note by summarizing your main points.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You can easily make your holidays more eco-friendly by following these simple steps:",
+    "dataset": "selfinstruct",
+    "output": "1. Use reusable materials for wrapping gifts.\n2. Choose local, seasonal gifts.\n3. Recycle and reuse old items for decorating.\n4. Use eco-friendly cleaning products.\n5. Choose organic, natural foods.\n6. Cut down on the amount of electricity you use.\n7. Reduce car use and use public transportation, walk or bike instead.\n8. Donate or repurpose items instead of throwing them away.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Think of an idea to help you win a challenge given to you. Write the steps you need to take to develop the idea as well.\n\nWhat can you make by recycling and repurposing some old, previously used materials? We want to see it!\nProjects must incorporate some kind of used materials - take that old used thing, and turn it into something new and different!\nE-waste is a huge problem. What can you make using old electronics and other salvageable electronic materials? \nWe have a special judges prize for our favorite Instructable that incorporates or is related to reusing e-waste.\nBe smart and be safe; note that potentially deadly projects (like Lichtenberg/fractal wood burning machines) will not be allowed to be published or submitted to this contest.",
+    "dataset": "selfinstruct",
+    "output": "Idea: Create a new type of wall art by repurposing old vinyl records.\n\nSteps to Develop the Idea:\n1. Gather old vinyl records.\n2. Clean the records.\n3. Apply a base coat to the records using a colored paint, stain, or glitter.\n4. Use a variety of objects (such as bottle caps, buttons, and beads) to create a mosaic design on the records.\n5. Seal the designs with a clear coat.\n6. Mount the records onto a wall with an adhesive or hooks.\n7. Enjoy your new wall art!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "There are many creative projects we can build at home that are related to the given theme, so let's list some of them.\n\nTheme: Circuits",
+    "dataset": "selfinstruct",
+    "output": "1. Build an electrical circuit with basic components such as batteries, wires, and light bulbs.\n2. Create a circuit board with components such as resistors, capacitors, and transistors.\n3. Develop a basic understanding of circuit design by creating simple circuit diagrams.\n4. Construct a circuit around a microcontroller to create interactive projects.\n5. Design an electronic circuit to control LED lights.\n6. Build a simple digital circuit with discrete components.\n7. Experiment with different types of batteries and components to create battery-powered projects.\n8. Create a basic DC power supply using a transformer and a voltage regulator.\n9. Create an audio amplifier circuit to boost the volume of speakers.\n10. Implement a variety of techniques to reduce noise and improve sound quality.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a list of the materials that will be required to build the given tool.\n\nCoffee Darkness Meter",
+    "dataset": "selfinstruct",
+    "output": "Materials needed to build a Coffee Darkness Meter: \n1. Plexiglas \n2. Wood \n3. Battery \n4. Resistor \n5. LED \n6. Lamp \n7. Probe \n8. Wires \n9. Screws \n10. Nuts",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide a detailed explanation of the steps that are required in order to construct the given project.\n\nSteam Engine Using an Empty Beer Can",
+    "dataset": "selfinstruct",
+    "output": "Instructions:\n1. Choose an empty beer or soda can and determine its size. \n2. Cut out two circular holes in the sides of the can, one slightly larger than the other. \n3. Poke two small holes near the edges of the larger hole. \n4. Bend the can back on itself to create a space for the steam to enter and create a seal around the edges of the holes. \n5. Glue or tape the edges of the holes closed. \n6. Connect a length of tubing to the smaller hole and the other end to the inlet of a mini steam engine. \n7. Connect the outlet of the steam engine to the larger hole. \n8. Place a few drops of water in the smaller hole and light the steam engine.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Estimate the cost of supplies required to create the given project and calculate the total cost.\n\nDIY Water Chiller\nRequired items are: Ice-maker, Icebox/cooler, Temperature regulator, Aquarium pump x2, 12V power supply",
+    "dataset": "selfinstruct",
+    "output": "The estimated cost of supplies required to create a DIY Water Chiller is about $250. The total cost includes the Ice-maker ($25-$40), Icebox/cooler ($20-$30), Temperature regulator ($20-$30), Aquarium pump ($20-$30), and 12V power supply ($30-$50).",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Answer the following literature question as accurately as possible based on your knowledge of literature for high school students.\n\nWhat does the green light symbolize at the end of the book?",
+    "dataset": "selfinstruct",
+    "output": "The green light symbolizes hope, courage, and determination for the main character, Gatsby. It represents his desire to reach for the American Dream and to fulfill his dream of rekindling his lost love with Daisy.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Develop a mental exercise that can help people manage their anxiety and explain how it works.",
+    "dataset": "selfinstruct",
+    "output": "One mental exercise that can help people manage their anxiety is the 4-7-8 breathing exercise. This exercise is done by first focusing on your breath for four seconds, holding for seven seconds, and then releasing your breath for eight seconds. This exercise is meant to help you focus on something that is completely in the present moment and not let your mind wander, which can help reduce the physical and mental effects of anxiety. This exercise is easy to do anywhere, anytime, and is an effective tool to help reduce anxiety symptoms.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give me an idea of the mental exercises you do to inspire yourself.",
+    "dataset": "selfinstruct",
+    "output": "I like to challenge myself with creative puzzles and brain teasers to inspire myself. I also enjoy looking for patterns and connections in different areas of knowledge, such as studying the architecture of cities and the structure of DNA. Another way to boost my creativity is by exploring new ways to solve problems and coming up with innovative ideas. I also like to brainstorm with friends and colleagues to get their perspectives and insights. Being active in my field and staying up to date with trends helps me stay inspired and motivated.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a list of outdoor activities that are suitable for the given weather condition.\n\nTemperature: 57 F, Showers",
+    "dataset": "selfinstruct",
+    "output": "1. Going to the beach \n2. Hiking in a nearby park \n3. Going on a bike ride\n4. Bird watching\n5. Going to an amusement park \n6. Going to the pool \n7. Visiting a botanical garden\n8. Going camping\n9. Going sailing\n10. Visiting a waterfall\n11. Going to an amusement park\n12. Going fishing\n13. Going to an outdoor concert\n14. Going to a zoo\n15. Visiting a farmers market",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please provide us with a list of the best conservation starter questions related to the weather.",
+    "dataset": "selfinstruct",
+    "output": "1. What's the weather like today? \n2. How has the weather been recently? \n3. What do you enjoy most about the weather? \n4. What challenges have you experienced due to the weather? \n5. What weather do you think is the most unpredictable? \n6. How does the weather influence your daily activities? \n7. What types of weather do you like to experience?\n8. What weather stories do you have?\n9. What types of weather forecasting do you find the most interesting?\n10. What would you like to know more about when it comes to the weather?",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "In relation to the given weather scenario, give some tips on how to adjust the travel plans with it.\n\na sudden temperature change",
+    "dataset": "selfinstruct",
+    "output": "If you are on a road trip and experience a sudden temperature change, you should make sure to bring layers of clothing to stay warm or cool. You should also keep an emergency kit in your vehicle with a first aid kit, food and water, a flashlight, extra batteries, a fire extinguisher, and roadside assistance numbers. Additionally, make sure your vehicle is well-maintained to ensure it can handle any sudden changes in temperature.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a to-do list based on the given information.\n\nDaily tasks in the pharmacy",
+    "dataset": "selfinstruct",
+    "output": "To-do List: \n1. Check in with pharmacists and make sure they are up to date on the latest medication information. \n2. Replenish medicine shelves and make sure all medications are stored correctly.\n3. Count medication inventory and restock as needed.\n4. Answer customer questions about medications and provide information about the drugs.\n5. Prepare prescriptions and label them appropriately.\n6. Make sure all medications are stored securely and all label information is correct.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Design a template table for keeping track of all subscriptions.",
+    "dataset": "selfinstruct",
+    "output": "A template table for keeping track of all subscriptions could include the following columns: customer name, subscription type, subscription length, renewal date, and payment method. This table could also include a few additional columns such as customer support contact information, subscription status, and subscription cancellation instructions.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Plan an agenda for the daily standup meetings. Assign a time duration to each topic on the agenda.",
+    "dataset": "selfinstruct",
+    "output": "Agenda for Daily Standup Meetings:\n\nTime Duration: \n• Greetings and Status Updates - 5 minutes \n• Discussion of Issues and Progress - 10 minutes \n• Planning for Next Steps - 5 minutes \n• Time for Any Other Concerns - 5 minutes",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Answer the following question.\n\nHow do you say \"good evening\" in French.",
+    "dataset": "selfinstruct",
+    "output": "In French, the way to say \"good evening\" is \"Bonsoir\".",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What sound does this make?\n\n好",
+    "dataset": "selfinstruct",
+    "output": "The sound this character makes is \"hǎo\".",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give a grammar tip on how to end a German verb.",
+    "dataset": "selfinstruct",
+    "output": "In German, the endings of verbs tell you how they are conjugated. For instance, the ending -en tells you that the verb is in the present simple tense. Another important thing to keep in mind is that verb endings change depending on the region where German is spoken. However, there are some general rules that apply to all German verbs, such as the fact that verbs in the past tense usually end in -te or -d.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "This is a test for the reading ability of French. Read the given story carefully, and then answer the question in the end.\n\nLucie est à la maison avec sa petite-fille, Lin.\nLucie: Oh, non! Nous n'avons pas de pain!\nLin: Ah! Tu vas au supermarché?\nLucie: Oui, je veux une baguette pour mon sandwich.\nDo Lin and Lucie have a lot of bread?",
+    "dataset": "selfinstruct",
+    "output": "No, they do not have a lot of bread.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Come up with healthy and easy dinner ideas for weeknights.",
+    "dataset": "selfinstruct",
+    "output": "Healthy and easy dinner ideas for weeknights include baked salmon and roasted veggies, chicken and quinoa, roasted chicken and sweet potatoes, grilled steak and zucchini noodles, and roasted cauliflower and garbanzo beans.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide a cooking hack for improving the flavor of the given food.\n\npopcorn",
+    "dataset": "selfinstruct",
+    "output": "A great cooking hack for improving the flavor of popcorn is to add some melted butter, garlic powder, and dried herbs of your choice. You can also sprinkle some Parmesan cheese for an extra cheesy flavor.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a list of snacks and foods to serve as party snacks on a game day!",
+    "dataset": "selfinstruct",
+    "output": "Here is a list of snacks and foods to serve as party snacks on a game day: \n- Nachos\n- Deli platters with various meats and cheeses\n- Veggie platters \n- Hummus and veggie platters \n- Fruit platters \n- Chips and dip \n- Finger foods like wings, mini sandwiches and grilled cheese \n- Cookies and brownies \n- Cookie decorating station \n- Ice cream sundae bar \n- Popcorn and movie theater-style snacks \n- Candy dishes \n- Beverage options such as soda, juice, and beer",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Describe how to prepare the given food in your own words. Note down the ingredients you will need and the steps you will take to prepare them.\n\nChewy Chocolate Chip Cookies",
+    "dataset": "selfinstruct",
+    "output": "To make Chewy Chocolate Chip Cookies, you will need the following ingredients: 2 cups of all-purpose flour, 1 teaspoon of baking soda, 1 teaspoon of salt, ¾ cup of butter, ¾ cup of granulated sugar, ¾ cup of packed brown sugar, 2 large eggs, 2 teaspoons of vanilla extract, 60-70% dark chocolate chips, and optional ingredients such as pecans or walnuts. \n\nTo begin, preheat the oven to 350 degrees Fahrenheit. Next, mix the dry ingredients (flour, baking soda, and salt) together in a medium bowl. In a larger bowl, cream together the butter and sugars until light and fluffy. Beat in the eggs one at a time, then add the vanilla extract. Gradually add the dry ingredients to the wet ingredients and mix until combined. Finally, fold in the chocolate chips and optional nuts, if using. \n\nScoop the cookie dough onto an ungreased baking sheet and bake for 10-12 minutes. Allow the cookies to cool for 5 minutes before transferring to a cooling rack. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Suggest a recipe for a vegan dessert.",
+    "dataset": "selfinstruct",
+    "output": "This vegan dessert recipe is sure to delight! Start by preheating your oven to 350 degrees. In a medium bowl, combine 1 cup of rolled oats, 1/2 cup of almond milk, 1/4 cup of vegan butter, 1 teaspoon of vanilla extract, and 1/2 teaspoon of salt. Mix until everything is well combined. Grease a 9-inch pie dish with vegan butter. Press the oat mixture into the dish, and set aside.\n\nIn a separate bowl, combine 1/2 cup of all-purpose flour, 1/2 cup of rolled oats, 1/2 cup of vegan butter, 1/2 cup of almond milk, 1/4 cup of vegan dark chocolate chips, 1 teaspoon of vanilla extract, and 1/2 teaspoon of salt. Mix until everything is well combined. Spread the mixture evenly over the oat crust. Bake for 25-30 minutes, or until the top is golden brown. Allow to cool before serving. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Design a medium-level sudoku puzzle.",
+    "dataset": "selfinstruct",
+    "output": "A medium-level sudoku puzzle contains 81 blocks and 81 cells. The top left corner of the puzzle contains the numbers 1 to 9, indicating the rows and columns of the puzzle. The remaining cells contain the numbers 1 to 9, indicating the various boxes of the puzzle. \n\nThe goal of the puzzle is to fill in all the boxes with the numbers 1 to 9 so that each row, column, and 3x3 box contain the numbers 1 to 9 only once.\n\nIn order to solve the puzzle, various strategies can be used. One strategy is to look for the number 1 in the top right corner and place it in the first row and column. This will indicate the first row and column of the puzzle. Then the number 2 can be found in the top right corner and placed in the second row and column. This process can be repeated until all the numbers 1 to 9 are placed in the correct boxes.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Solve the given Sudoku puzzle.\n\nThe Sudoku puzzle is:\n|1|  |5|  |  |  |  |8|  |\n|  |  |  |  |  |3|  |6|4|\n|8|3|4|6|7|  |9|  |  |\n|2|9|1|  |  |8|3|7|6|\n|  |  |6|  |  |9|8|1|  |\n|  |  |  |  |  |2|  |  |  |\n|  |2|  |  |9|7|6|  |  |\n|5|4|  |  |  |  |  |9|8|\n|6|1|  |  |  |5|4|3|7|",
+    "dataset": "selfinstruct",
+    "output": "The completed Sudoku puzzle is:\n\n|1|  |5|  |  |  |  |8|  |\n|  |  |  |  |  |3|  |6|4|\n|8|3|4|6|7|  |9|  |  |\n|2|9|1|  |  |8|3|7|6|\n|  |  |6|  |  |9|8|1|  |\n|  |  |  |  |  |2|  |  |  |\n|  |2|  |  |9|7|6|  |  |\n|5|4|  |  |  |  |  |9|8|\n|6|1|  |  |  |5|4|3|7|\n|  |  |  |  |  |7|  |  |\n|  |  |  |  |  |1|  |  |  |\n|  |  |  |  |  |8|  |",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Think of a motivational quote that you have read in a book. Try to keep it positive and sweet.",
+    "dataset": "selfinstruct",
+    "output": "A quote from Antoine de Saint-Exupéry's The Little Prince: \"The essential is to have a purpose in life, to be happy and to be useful.\"",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Choose the best books from the given genre.\n\nCrime & Mystery",
+    "dataset": "selfinstruct",
+    "output": "The best books in the Crime & Mystery genre include \"Gone Girl\" by Gillian Flynn, \"The Girl on the Train\" by Paula Hawkins, \"The Hunger Games\" by Suzanne Collins, \"A Game of Thrones\" by George R.R. Martin, \"The Silence of the Lambs\" by Thomas Harris, and \"The Catcher in the Rye\" by J.D. Salinger.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give a brief description of the book that you are given.\n\nMatilda",
+    "dataset": "selfinstruct",
+    "output": "Matilda is a young girl with an extraordinary intelligence and an insatiable curiosity about the world around her. When her parents fail to appreciate her, she begins to explore her own powers and discovers that she has the ability to make her dreams come true. With the help of her teacher, she eventually takes charge of her own destiny and finds a way to use her special powers for good.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "In the event that a person enjoyed the book that was given, please suggest other books that they might also like.\n\nThe Great Gatsby",
+    "dataset": "selfinstruct",
+    "output": "Other books that you may enjoy include The Sun Also Rises by Ernest Hemingway, A Farewell to Arms by Ernest Hemingway, The Old Man and the Sea by Ernest Hemingway, For Whom the Bell Tolls by Ernest Hemingway, and The Snows of Kilimanjaro by Ernest Hemingway.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Indicate the genre of the book to which it belongs.\n\nLove in the Time of Cholera",
+    "dataset": "selfinstruct",
+    "output": "Romantic fiction",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Solve this equation.\n\nx^3 - 4x^2 + 6x - 24 = 0",
+    "dataset": "selfinstruct",
+    "output": "The solution to the equation is x = 1, 2, and 3.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Prove the given statement using your information.\n\n\"If x is a positive integer or a solution to x+3>4, then x>0 and x>12.\"",
+    "dataset": "selfinstruct",
+    "output": "If x is a positive integer or a solution to x+3>4, then x>0 and x>12, as the condition x+3>4 implies that x is greater than 0 and greater than 12.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Based on the facts that have been provided, prove the following statement.\n\nStatement: \"For every integer k, k^2 + 2k + 1 ≥ 0\"\nFact: The square of any real number is non-negative.",
+    "dataset": "selfinstruct",
+    "output": "The statement \"For every integer k, k^2 + 2k + 1 ≥ 0\" is true, since the square of any real number is non-negative.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Verify the correctness of the given statement.\n\n\"For all integers j and k, if j and k are odd, then jk is odd.\"",
+    "dataset": "selfinstruct",
+    "output": "True.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide a formula for computing the nth term in the given sequence\n\n5, 14, 23, 32, 41, ...",
+    "dataset": "selfinstruct",
+    "output": "The formula for computing the nth term in the sequence is: nth term = n * (n + 1) / 2.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Create a table listing all games that meet the specified criteria in the National Football League. Use the season, local time, game, and score as columns of the table.\n\nRavens home games in 2011",
+    "dataset": "selfinstruct",
+    "output": "| Season | Local Time | Game | Score |\n|------|-------------|--------|---------|\n| 2011 | 8:20 PM | Ravens  | 16 | 24 |\n| 2011 | 8:20 PM | Ravens  | 16 | 31 |\n| 2011 | 1:00 PM | Raiders  | 13 | 16 |\n| 2011 | 1:00 PM | Raiders  | 13 | 31 |",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Using a table, compare the career overviews of the given players in Major League Baseball. Use \"|\" for separating the columns in the table.\n\nDerek Jeter, Albert Pujols",
+    "dataset": "selfinstruct",
+    "output": "| Position | Derek Jeter | Albert Pujols |\n|--------|-----------|------------|\n| Shortstop | Derek Jeter | Shortstop |\n| Third Baseman | Albert Pujols | First Baseman |",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You will be tested on your knowledge of classic witticisms and aphorisms by completing the given aphorism. Write the original quote as the answer.\n\ntwo things are infinite",
+    "dataset": "selfinstruct",
+    "output": "The universe and human stupidity.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "A list of all movies that meet the criteria given should be compiled.\n\nmovies directed by Spike Lee by release date",
+    "dataset": "selfinstruct",
+    "output": "The following is a list of all movies directed by Spike Lee in chronological order by release date: \n\n1. She's Gotta Have It (1986)\n2. School Daze (1988)\n3. Do the Right Thing (1989)\n4. Mo' Better Blues (1990)\n5. Jungle Fever (1991)\n6. Malcolm X (1992)\n7. Girl 6 (1996)\n8. Clockers (1995)\n9. Summer of Sam (1999)\n10. Bamboozled (2000)\n11. 25th Hour (2002)\n12. The Original Kings of Comedy (2004)\n13. She Hate Me (2004)\n14. Miracle at St. Anna (2008)\n15. Red Hook Summer (2012)\n16. Oldboy (2013)",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Using a given amount, determine an appropriate tip.\n\n14% tip on $47.50",
+    "dataset": "selfinstruct",
+    "output": "A tip of $6.45 can be calculated using the given amount of $47.50.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Identify all words that match the pattern given.\n\nH_AR_",
+    "dataset": "selfinstruct",
+    "output": "Harbour, Harriet, Henri, Herbert, Harry, Harvey",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Come up with words that rhyme with the given word.\n\ninstruct",
+    "dataset": "selfinstruct",
+    "output": "tect, lect, graph, math, chem \nlectric, electricity, graphite, chemistry \ntectonic, tectonics, graphite, chemistry \nelectric, electricity, electrician, electricity \nlectric, electricity, electrician, electricity \ngraphite, graphite, graphite, graphite.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Look for poems that mention the given object or character. The names of the poems and their poets should be written.\n\nsanta claus",
+    "dataset": "selfinstruct",
+    "output": "1. 'Twas the Night Before Christmas by Clement Clarke Moore\n2. Santa Claus by Alfred, Lord Tennyson\n3. 'Tis the Season by Mary Ann Hoberman\n4. 'Tis the Season to Be Jolly by Henry Livingston, Jr.\n5. Santa Claus by William H. Burton\n6. 'Twas the Night Before Christmas by Clement Clarke Moore\n7. 'Tis the Season to Be Jolly by Henry Livingston, Jr.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Respond to the last text in the chat using the correct emojis to convey your feelings.\n\n+ Hey, how did your exams go?\n- They were alright. I'm just glad they're over.\n+ Yeah, I know how you feel. I'm just glad I don't have to worry about them anymore.",
+    "dataset": "selfinstruct",
+    "output": "Hey, how did your exams go?\n\nThey were alright. I'm just glad they're over.\n\nYeah, I know how you feel. I'm just glad I don't have to worry about them anymore.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "For answering the chat, think of a funny response you can use.\n\n+ how are you?",
+    "dataset": "selfinstruct",
+    "output": "I'm doing great, how about you? Is there anything you'd like to talk about?",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "The last message in the chat is a partial response. You should complete and rewrite it.\n\n+ What are going to do now?\n- I don't know. I had to give up my dream of being a mathematician.\n+ Why",
+    "dataset": "selfinstruct",
+    "output": "I had to give up my dream of being a mathematician because I was not able to keep up with the coursework, so I had to find another path. I'm not sure what I'm going to do now, but I'm open to new possibilities.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Change the response to have a more empathic tone in the chat.\n\n+ How are you doing?\n- Fine, I had a bunch of problems today.\n+ What kind of problems?",
+    "dataset": "selfinstruct",
+    "output": "I'm sorry you had a rough day. What kind of problems did you encounter?",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Currently, there is a chat in which people are arranging a meeting in the future. Retrieve the meeting information from the conversation.\n\nPerson 1: Hey, when are you free? I'd like to meet up.\nPerson 2: I'm free tomorrow afternoon.\nPerson 1: Great, what time?\nPerson 2: How about 3 pm?\nPerson 1: I have another meeting at that time. what about 5 pm?\nPerson 2: That works. Where should we meet?\nPerson 1: How about the coffee shop on Main Street?\nPerson 2: Sounds good. I've heard they have great coffee there. See you tomorrow!",
+    "dataset": "selfinstruct",
+    "output": "The meeting will take place at the coffee shop on Main Street tomorrow at 5 pm.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "The given text must be classified as offensive or not offensive.\n\nYou acted really crazy last night.",
+    "dataset": "selfinstruct",
+    "output": "Not offensive.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give a brief summary of the intention of the dialogue that just happened.\n\nCustomer: Hi there, I'm looking for a new phone.\nAI: Hi! What type of phone are you looking for?\nCustomer: I'm not sure. Maybe something with a good camera?\nAI: We have a few phones with great cameras. Would you like to see some options?\nCustomer: Yeah, that would be great.",
+    "dataset": "selfinstruct",
+    "output": "The customer was looking for a new phone and the AI recommended some options based on their conversation. The customer chose to see some options and the AI provided them with a selection of phones with great cameras.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Describe the content of the article in a brief manner.\n\nA study published earlier this year by Zee and her team examined the role of light in sleep for healthy adults in their 20s. Sleeping for only one night with a dim light, such as a TV set with the sound off, raised the blood sugar and heart rate of the young people during the sleep lab experiment. An elevated heart rate at night has been shown in prior studies to be a risk factor for future heart disease and early death, while higher blood sugar levels are a sign of insulin resistance, which can ultimately lead to type 2 diabetes.",
+    "dataset": "selfinstruct",
+    "output": "This study examined the effects of a dim light on the sleep and physiology of healthy adults in their 20s. The participants' blood sugar and heart rate were found to be elevated, indicating a risk factor for future heart disease and early death. Insulin resistance was also indicated, which can ultimately lead to type 2 diabetes.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Correct the transcription of an excerpt containing errors.\n\nI got got charged interest on ly credit card but I paid my pull balance one day due date. I not missed a pavement year yet. Man you reverse the interest charge?",
+    "dataset": "selfinstruct",
+    "output": "I got charged interest on my credit card, but I paid my full balance one day before the due date. I haven't missed a payment yet. Will you reverse the interest charge?",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Take a look at the contract and extract the parties of the agreement from it.\n\nAs of the 13th day of December 2021, this Music Recording Agreement (\"Agreement\") is made between Good Kid, a Toronto-based musical group (\"Artist\"), and Universal Music Group, a record label with license number 545345 (\"Record Label\"). The Artist and the Recording Label may be referred to in this Agreement individually as \"Parties\" and collectively as \"Parties.\" Work under this Agreement will begin on March 15, 2022, and will last for the duration of the Agreement.",
+    "dataset": "selfinstruct",
+    "output": "The parties of the agreement are: Good Kid, a Toronto-based musical group, and Universal Music Group, a record label with license number 545345.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "On the basis of the subject of the email, determine whether the email should be treated as spam or not.\n\nDermatologists don't like her!",
+    "dataset": "selfinstruct",
+    "output": "Spam",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Classify the tweet into one of the following three categories: event, demo, or news. Event is a happening, often social or public, that people attend or are aware of. Demo is a  public showing or presentation of something, typically to promote or advertise it. And, news is information about recent events or happenings, especially as reported by news media.\n\nUsing this tutorial, you can analyze and classify a user’s review as either positive or negative using sentiment analysis features in an existing Next.js app. We show you how to leverage language AI into your applications. Check it out ↓",
+    "dataset": "selfinstruct",
+    "output": "news",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give the news title a category. Pick a category from the list of News & Buzz, Travel, Style, Arts & Culture, Politics, Tech, and Science & Health.\n\nThe #Banksy Exhibit in Cambridge, MA is absolutely terrific.",
+    "dataset": "selfinstruct",
+    "output": "News & Buzz",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Classify the questions in the FAQ into Finding policy details, Change account settings, Filing a claim and viewing status, or Cancelling coverage.\n\nCould you deposit money into my account rather than mailing me a physical cheque?",
+    "dataset": "selfinstruct",
+    "output": "Change account settings. \nCan you provide me with the policy number for my insurance?\n\nCan you provide me with a copy of my insurance policy?\n\nCan you provide me with the contact information for my insurance company?",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Choose an appealing title for your post.\n\nThe typical avocado is over 300 calories from the oil in it. That’s the amount of calories in a large candy bar. If you get enough exercise to eat a large candy bar every day without gaining weight, it wouldn’t be a problem to eat an avocado every day. Other wise you should probably eat them sparingly.",
+    "dataset": "selfinstruct",
+    "output": "The Guilt-Free Avocado: How to Enjoy This Nutrient-Rich Fruit Without Gaining Weight",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give some examples of what people usually say in the given social situation.\n\nwhen someone arrives safely",
+    "dataset": "selfinstruct",
+    "output": "Examples of what people usually say in the given social situation include: \"It's great to see you! I'm so glad you made it safely!\" or \"Welcome back! It's wonderful to see you again!\" or \"We've missed you! It's good to have you back.\"",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You will be required to write a few questions from the given company's interview section.\n\nKohl's",
+    "dataset": "selfinstruct",
+    "output": "Q1. What experience do you have in a customer service environment?\nQ2. How do you handle difficult customer situations?\nQ3. What techniques do you use to stay organized and on task?\nQ4. How do you handle stress in the workplace?\nQ5. How do you handle customer complaints?\nQ6. What methods do you use to stay up to date with trends in the retail industry?",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Based on the information provided, you need to estimate the average summary for the given job.\n\nData entry clerk in United States",
+    "dataset": "selfinstruct",
+    "output": "The average salary of a Data Entry Clerk in the United States is $36,238 per year, or $3,015 per month.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Describe the responsibilities of the given job.\n\nSecurity Officer",
+    "dataset": "selfinstruct",
+    "output": "The Security Officer is responsible for ensuring the safety and security of people and property at the assigned site. This includes monitoring security cameras, responding to alarms, controlling access, patrolling the premises, and escorting visitors. The Security Officer may also be responsible for administering first aid, creating and updating security reports, and investigating incidents.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide a list of the skills that may help you find the job.\n\nCrew Members",
+    "dataset": "selfinstruct",
+    "output": "Crew members should possess excellent customer service skills, be able to work independently and as part of a team, have knowledge of food and beverage safety regulations, be organized and attentive to detail, and have basic math skills for handling payments.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Schedule the meetings based on the given informqation.\n\nPerson1: available from 9-11 am, meeting duration: 30 min \nPerson2: available from 1-3 pm, meeting duration: 90 min\nPerson3: available from 2-3:30 pm, meeting duration: 60 min",
+    "dataset": "selfinstruct",
+    "output": "Person1: 9-11 am \nPerson2: 1-3 pm \nPerson3: 2-3:30 pm",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Find the directions between the given locations.\n\nFrom: Rowan Avenue Elementary School, 600 S Rowan Ave, Los Angeles, CA 90023, United States\nTo: Calvary Cemetery and Mortuary, 4201 Whittier Blvd, Los Angeles, CA 90023, United States",
+    "dataset": "selfinstruct",
+    "output": "Head southeast on S Rowan Ave toward E 60th St, turn left onto E 60th St, turn right onto S Central Ave, turn left onto E Whittier Blvd, turn right onto N Hoover St, turn left onto E 40th St, turn right onto S San Pedro St, turn left onto E 4th St, turn right onto N Market St, turn left onto E 5th St, turn right onto S Central Ave, turn left onto E Whittier Blvd, and turn right onto N Hoover St. You have arrived at Calvary Cemetery and Mortuary.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Give a brief explanation of the requested part of the paper.\n\nPaper: The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.\nExplain: The dominant sequence transduction models",
+    "dataset": "selfinstruct",
+    "output": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. This mechanism allows the model to focus on certain parts of the input while discarding others, creating shorter and more efficient representations of the input. This network architecture, called the Transformer, dispenses with recurrence and convolutions entirely, relying solely on attention mechanisms. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. On the WMT 2014 English-to-German translation task, the Transformer achieves a BLEU score of 28.4, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, the Transformer establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. The Transformer also generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Answer the question about the paper after reading it carefully.\n\nTo evaluate if the Transformer can generalize to other tasks we performed experiments on English constituency parsing. This task presents specific challenges: the output is subject to strong structural constraints and is significantly longer than the input. Furthermore, RNN sequence-to-sequence models have not been able to attain state-of-the-art results in small-data regimes.\nQuestion: What is English constituency parsing?",
+    "dataset": "selfinstruct",
+    "output": "English constituency parsing is a task that requires a machine to analyze the syntactic structure of a sentence and to assign each word in the sentence to a part of speech tag, part of speech, or word class. It is a challenging task as the output is subject to strong structural constraints and is significantly longer than the input. RNN sequence-to-sequence models have not been able to attain state-of-the-art results in small-data regimes.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Recommend some helpful activities or conversation starters to use at meetups to break the ice.",
+    "dataset": "selfinstruct",
+    "output": "Some helpful activities or conversation starters to use at meetups to break the ice include: \n- Introduce yourself and your interests to the group. \n- Ask everyone to share one interesting fact about themselves. \n- Play a game such as “two truths and a lie” to help people get to know each other better. \n- Have a group photo or selfie and then discuss where everyone is from. \n- Create a group art project or a scavenger hunt. \n- Ask everyone to share one challenge they are currently facing and how the group can help. \n- Discuss current events and trending topics. \n- Invite a guest speaker or have a group debate.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Convert the given HTML into Markdown format.\n\n<code>Use `code` in your Markdown file.</code>",
+    "dataset": "selfinstruct",
+    "output": "Use `code` in your Markdown file.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Extract the method that has been used in the research from the abstract of the paper. Give the exact sentences from the abstract that discuss the method.\n\nWe present a state-of-the-art speech recognition system developed using end-to-end deep learning. Our architecture is significantly simpler than traditional speech systems, which rely on laboriously engineered processing pipelines; these traditional systems also tend to perform poorly when used in noisy environments. In contrast, our system does not need hand-designed components to model background noise, reverberation, or speaker variation, but instead directly learns a function that is robust to such effects. We do not need a phoneme dictionary, nor even the concept of a \"phoneme.\" Key to our approach is a well-optimized RNN training system that uses multiple GPUs, as well as a set of novel data synthesis techniques that allow us to efficiently obtain a large amount of varied data for training. Our system, called Deep Speech, outperforms previously published results on the widely studied Switchboard Hub5'00, achieving 16.0% error on the full test set. Deep Speech also handles challenging noisy environments better than widely used, state-of-the-art commercial speech systems.Collapse",
+    "dataset": "selfinstruct",
+    "output": "We present a state-of-the-art speech recognition system developed using end-to-end deep learning. Our architecture is significantly simpler than traditional speech systems, which rely on laboriously engineered processing pipelines; these traditional systems also tend to perform poorly when used in noisy environments. In contrast, our system does not need hand-designed components to model background noise, reverberation, or speaker variation, but instead directly learns a function that is robust to such effects. We do not need a phoneme dictionary, nor even the concept of a \"phoneme.\" Key to our approach is a well-optimized RNN training system that uses multiple GPUs, as well as a set of novel data synthesis techniques that allow us to efficiently obtain a large amount of varied data for training. Our system, called Deep Speech, outperforms previously published results on the widely studied Switchboard Hub5'00, achieving 16.0% error on the full test set. Deep Speech also handles challenging noisy environments better than widely used, state-of-the-art speech systems.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You need to come up with the names of some of the papers that relate to the paper you are given.\n\nRoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering",
+    "dataset": "selfinstruct",
+    "output": "Papers related to RoMQA: \n- Evaluating Multi-Evidence Question Answering Systems \n- A Survey on Multi-Evidence Question Answering \n- A Unified Model for Multi-Evidence Question Answering \n- A Review on Multi-Evidence Question Answering \n- A Multi-Modal Approach to Multi-Evidence Question Answering \n- A Comprehensive Survey on Multi-Evidence Question Answering \n- A Generative Model for Multi-Evidence Question Answering \n- A Deep Learning Approach for Multi-Evidence Question Answering \n- A Taxonomy for Multi-Evidence Question Answering \n- A Task-Oriented Approach for Multi-Evidence Question Answering \n- A Survey on Multi-Evidence Question Answering Systems",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Create a short, concise summary of the paper based on its abstract.\n\nFew-shot learning (FSL) is one of the key future steps in machine learning and raises a lot of attention. In this paper, we focus on the FSL problem of dialogue understanding, which contains two closely related tasks: intent detection and slot filling. Dialogue understanding has been proven to benefit a lot from jointly learning the two sub-tasks. However, such joint learning becomes challenging in the few-shot scenarios: on the one hand, the sparsity of samples greatly magnifies the difficulty of modeling the connection between the two tasks; on the other hand, how to jointly learn multiple tasks in the few-shot setting is still less investigated. In response to this, we introduce FewJoint, the first FSL benchmark for joint dialogue understanding. FewJoint provides a new corpus with 59 different dialogue domains from real industrial API and a code platform to ease FSL experiment set-up, which are expected to advance the research of this field. Further, we find that insufficient performance of the few-shot setting often leads to noisy sharing between two sub-task and disturbs joint learning. To tackle this, we guide slot with explicit intent information and propose a novel trust gating mechanism that blocks low-confidence intent information to ensure high quality sharing. Besides, we introduce a Reptile-based meta-learning strategy to achieve better generalization in unseen few-shot domains. In the experiments, the proposed method brings significant improvements on two datasets and achieve new state-of-the-art performance.",
+    "dataset": "selfinstruct",
+    "output": "This paper introduces FewJoint, a new benchmark for few-shot learning in dialogue understanding, which provides a new corpus and a code platform to ease the set-up of FSL experiments. It also finds that insufficient performance of the few-shot setting often leads to noisy sharing between two sub-tasks and disturbs joint learning. To tackle this, the paper guides slot filling with explicit intent information and introduces a Reptile-based meta-learning strategy. The experiments bring significant improvements on two datasets and achieve a new state-of-the-art performance.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You will need to compose the ABC notation for a given song.\n\nThe South Wind",
+    "dataset": "selfinstruct",
+    "output": "ABC:\nG/D/A/E/G/B/C/D/E/G/A/B/C/D/E/",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Categorize the given magazine based on its content into one of the categories: Politics, Entertainment News, Tech News, Business News, Parenting & Kids, Health & Healing, Cooking, Food & Wine, and Arts & Literature,\n\nInc.",
+    "dataset": "selfinstruct",
+    "output": "Parenting & Kids",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Decide if the given email belongs to the Promotions or Social category.\n\nSubject: You have an invitation\nEmail: Hi, I'd like to join your LinkedIn network.",
+    "dataset": "selfinstruct",
+    "output": "Social",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "The story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.\n\n🧙‍♂️🚪📚🦅⚡",
+    "dataset": "selfinstruct",
+    "output": "The name of the movie is \"Harry Potter\".",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Come up with an interesting idea for a new movie plot. Your plot should be described with a title and a summary.",
+    "dataset": "selfinstruct",
+    "output": "The title of the movie is \"The Perfect Match\". The story follows a young woman who is searching for the perfect match. She is matched with a mysterious stranger, but soon discovers that her perfect match is the key to saving her hometown.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Change the first person to the third person in the given sentence. The meaning should be kept, but you can paraphrase it or expand it in order to have a better pose.\n\nWe were recently able to increase the amount of stock we hold with the same supplier thereby reducing our risk.",
+    "dataset": "selfinstruct",
+    "output": "Recently, they were able to increase the amount of stock they hold with the same supplier, thereby reducing their risk.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You should capitalize the sentence according to the guide.\n\nGuide: Every other letter alternates between lower case and upper case.\nSentence: A giant spider blocks your path.",
+    "dataset": "selfinstruct",
+    "output": "A Giant Spider Blocks Your Path.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Create alliterations by finding synonyms for words in the given sentence.\n\nDavid wears a hat everyday.",
+    "dataset": "selfinstruct",
+    "output": "Dave donning a hat each day.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Convert the given description to a bash command.\n\nread the first 10 lines from f",
+    "dataset": "selfinstruct",
+    "output": "while read line; do \n  echo \"$line\"\ndone < f",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please prepare a table containing a summary of the information of the participants at the conference.\n\nThe conference was called to discuss how to improve the quality of education in schools. The main speaker was Professor Crew Purdie (cpurdie@email.com), who spoke about the importance of setting high standards for students and teachers. He said that schools should be places where students can learn and be challenged. Other speakers included Teacher Oliver Malachi (oliver@email.com) and Parent Kolby Reese (kolbyreese82@email.com). The teacher talked about the need for teachers to be well-prepared and to have high expectations for their students. The parent spoke about the need for parents to be involved in their children's education. There was also a discussion about the importance of funding for schools.",
+    "dataset": "selfinstruct",
+    "output": "Participants:\n- Professor Crew Purdie (cpurdie@email.com)\n- Teacher Oliver Malachi (oliver@email.com)\n- Parent Kolby Reese (kolbyreese82@email.com)\n- Schools:\n- Quality of education:\n- Setting high standards: \n- Challenges:\n- Funding:\n- Importance of: \n- High expectations: \n- Preparation:\n- Parents: \n- Discussion:\n- Need for:",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "List the concepts that should be learned before approaching the given complex concept.\n\nDeep Learning",
+    "dataset": "selfinstruct",
+    "output": "Before approaching the complex concept of Deep Learning, it is important to understand the following concepts: \n- Machine Learning \n- Neural Networks \n- Matrices and Tensors \n- Probability and Statistics \n- Programming Languages (Python, C++, etc.) \n- Data Structures \n- Algorithms \n- Computer Architecture \n- Computer Networking \n- Databases \n- Web Development \n- Robotics \n- Game Development \n- Image Processing.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Given a sentence that may be ambiguous, rewrite the sentence using less ambiguous words.\n\nThe chicken is ready to eat.",
+    "dataset": "selfinstruct",
+    "output": "The chicken is prepared for consumption.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Assess the sentiment of the given tweet and categorize it as Positive, Negative, or Neutral.\n\n\"This is the best cheat-sheet paper that I've found in a LONG time.\"",
+    "dataset": "selfinstruct",
+    "output": "Positive",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given a Python command and are required to convert it into Ruby.\n\nprint(\"Hello World!\")",
+    "dataset": "selfinstruct",
+    "output": "puts \"Hello World!\"",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given a sentence in first-order logic. Translate it into natural language.\n\n∃x∀y(soldier(x)→general(x,y))",
+    "dataset": "selfinstruct",
+    "output": "There exists an x such that if x is a soldier, then x is a general (x, y).",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given a search query and a document. Classify whether the document is relevant to the search query or not relevant.\n\nSearch: why sky is blue\nDocument: The Short Answer: Sunlight reaches Earth's atmosphere and is scattered in all directions by all the gases and particles in the air. Blue light is scattered more than the other colors because it travels as shorter, smaller waves. This is why we see a blue sky most of the time.",
+    "dataset": "selfinstruct",
+    "output": "Relevant",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Create a list of subtopics for the given topic.\n\nMusic theory",
+    "dataset": "selfinstruct",
+    "output": "Subtopics of Music Theory include:\n- Pitch\n- Rhythm\n- Hearing and Identifying Harmony\n- Form and Structure\n- Orchestration\n- Instrumentation\n- Analysis\n- Composition\n- Improvisation\n- Performance Practice \n- Music Notation\n- Musicology\n- Ethnomusicology\n- Arrangement\n- Styles and Genres \n- Instruments",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Summarize the movie in a snarky way. Try to explain the movie in just one sentence.\n\nThe Shining",
+    "dataset": "selfinstruct",
+    "output": "The Shining is a horror movie about a family who gets stuck in an isolated hotel during the winter, while a malevolent spirit tries to possess the youngest child.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Enter the words that satisfy the given condition.\n\n5 Countries that Start with S",
+    "dataset": "selfinstruct",
+    "output": "South Africa, Spain, Sweden, Switzerland, Singapore.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide a name for the dish given the ingredients and instructions.\n\nINGREDIENTS:\n2 (5 oz) cans Bumble Bee® Solid White Albacore Tuna, drained\n1 avocado\n2 Tbsp Sriracha\n1 Tbsp Dijon mustard\n2 to 3 Tbsp celery, chopped\n2 Tbsp red onion, chopped\n2 green onions, chopped\n1 Tbsp fresh cilantro, chopped\nSalt and pepper, to taste\n2 heaping cups leafy green lettuce\n1 cup matchstick carrots\n4 (10 inch) whole wheat tortillas\nINSTRUCTIONS:\nIn a medium bowl, mash together tuna and avocado until combined. Add in the rest of the ingredients through the salt and pepper, mixing well.\nTo assemble, top each tortilla with a 1/2 cup leafy greens, 1/4 cup matchstick carrots and divide the tuna mixture evenly among the wraps. Tightly roll up the tortilla, slice and enjoy!",
+    "dataset": "selfinstruct",
+    "output": "Teriyaki Tuna and Avocado Wraps.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Summarize a meeting from the given list of bullet points. Be sure to convert shorthand into a first-hand account.\n\nRose: Analyze data and presents findings\nJohn: propose new idea\nJane: appointed to head project\nTom: need more time to fix software bug",
+    "dataset": "selfinstruct",
+    "output": "At today's meeting, Rose presented an analysis of the data and proposed some findings. John proposed a new idea, which Jane was appointed to head. Tom asked for more time to fix the software bug.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "List a few popular songs from the given album.\n\nBack To Black",
+    "dataset": "selfinstruct",
+    "output": "1. \"Back to Black\"\n2. \"Love Is Blind\"\n3. \"The Last Time\"\n4. \"My Lover, My Friend\"\n5. \"Tears Dry on Their Own\"\n6. \"What You Wish For\"\n7. \"Surrender\"\n8. \"Stronger Than Me\"\n9. \"Up in London\"\n10. \"Smooth Operator\"",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Invent a new word based on a description of the word.\n\nThe feeling of knowing, while you are still in the moment, that something occurring will be remembered forever.",
+    "dataset": "selfinstruct",
+    "output": "Eidetic (e-dye-tik): Having the ability to eternalize moments in time through memory.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Given a programming language and the name of a function, write a command to show how to use the function.\n\nLanguage: Python\nFunction: input",
+    "dataset": "selfinstruct",
+    "output": "In Python, the input function can be used to get the user's input. For example, to get a numerical input from the user:\n\ninput(\"Please enter a number: \")",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide a pleasant compliment based on the quality you have been given.\n\nTruthfulness",
+    "dataset": "selfinstruct",
+    "output": "You have a remarkable gift for truthfulness.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Create a brief resume introduction using the following information.\n\nname: Mark\nnationality: Italian\nlanguage: English\nattributes: creative, goal-oriented, motivated\nskills: software engineering, content marketing",
+    "dataset": "selfinstruct",
+    "output": "Mark, an Italian software engineer and content marketer with experience in English, is a creative and goal-oriented individual who is passionate about creating value and driving results. In his professional career, he has acquired comprehensive skills in software engineering and content marketing, which he leverages to create value and reach objectives.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a list of adjectives that can be used to describe the given brand.\n\na creative tech startup",
+    "dataset": "selfinstruct",
+    "output": "A list of adjectives that can be used to describe a creative tech startup includes innovative, visionary, ambitious, forward-thinking, and dynamic.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Someone gives you some information about where they want to go and what they enjoy seeing and doing. Describe a proper road trip for them and find the best stops and sctivities in the way.\n\nI'm looking for a west coast road trip. My goal is to start near San Diego and travel to Los Angeles.",
+    "dataset": "selfinstruct",
+    "output": "Start your west coast road trip by visiting some of the popular attractions in San Diego. Visit Seaport Village for great shopping and dining, explore the USS Midway Museum, and take a ride on the San Diego Bay Ferry. Then, head north to Los Angeles and make stops in Santa Barbara, home of the beautiful Santa Barbara Zoo and Stearns Wharf. In Santa Maria, visit the Museum of Flight and the Santa Maria Public Library. Other great stops along the way include the Pismo Beach Monarch Butterfly Sanctuary, Hearst Castle, and the incredible Redwood National Park.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Regex is a set of characters that define a search pattern. This kind of pattern is usually used by string-searching algorithms to find or replace strings or to validate inputs. Convert the natural english text to regex.\n\nMatch a valid ip address",
+    "dataset": "selfinstruct",
+    "output": "^(2\\d{2}\\.\\d{2}\\.\\d{2})?$",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write an engaging and well-written property listing description for selling a house. Address of the house and some of the details are given to you. Fill in the information gap with hallucinations if needed.\n\nProperty Address: 412 Monterey Ave, Capitola, CA 95010\nParking: 3 cars + a finished single car garage\nDetails:\n- open floorplan\n- window with views to park/mountains\n- Kitchen with shaker cabinetry and white Calcatta quartz counters",
+    "dataset": "selfinstruct",
+    "output": "Welcome to 412 Monterey Avenue, a stunning home in Capitola that offers a great open floorplan, stunning views and a finished single car garage for parking. The kitchen is a chef's dream, complete with Shaker cabinetry and white Calcatta quartz counters. With windows that overlook the park and mountains, this home is sure to inspire. Enjoy all that Capitola has to offer, from its iconic beach to the vibrant town center. Don't miss out on this amazing opportunity!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Given a real estate listing description, extract the information and details of the property from the text. The details consist of address, basic house attributes, etc.\n\nWALK TO THE BEACH FROM CAPITOLA KNOLLS! Single-level upstairs condo with your own large private deck overlooking nature. Adorable home that is move-in ready and waiting for you to put your own personal touches on. Gorgeous and well-maintained landscaped park-like setting with lush green grasses with a community pool and spa to enjoy. Desirable location...walk to Capitola Village, Gayle's Bakery, restaurants, shopping, schools or jump on Hwy 1 right around the corner.",
+    "dataset": "selfinstruct",
+    "output": "Address: 930 Capitola Knolls Dr, Santa Cruz, CA 95062\n\nProperty: Single-level upstairs condo with large private deck.\n\nBasic House Attributes: Condo, single-level, upstairs, private deck, nature views.\n\nLocation: Walk to Capitola Village, restaurants, shopping, schools, Hwy 1.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Review the property description and tell us what is good and what is bad about it and list its key takeaways.\n\nThere's real magic in combining inherently compelling Victorian architecture with a modern aesthetic. Add in an extraordinary multi-level garden & the result is the undeniable elegance of 444 29th St. The front of the home is light-filled w/ a seamless connection between living, dining & kitchen. Newly updated kitchen w/ quartz counters & upgraded appliances. A lg dining rm has a bay of windows &, when paired w/ the adjacent living rm, provides an ideal space to entertain. 2 lg bdrms on this level are at the rear. Both w/ lg closets & walk out to the garden. Stylishly remodeled full bath on this level. 3rd bdrm/2nd full bath are located on the ground floor - perfect as a guest rm, home office, fitness area, etc. The enormous garden occupies an extra deep lot & is beautifully landscaped & terraced. Laundry/storage rm, 1-car garage pkg, Tesla solar panels. Prime, flat part of Noe Valley - short walk to all that Noe has to offer. Steps from the J-Church & convenient to shuttles/freeways.",
+    "dataset": "selfinstruct",
+    "output": "This property is located in Noe Valley, a desirable neighborhood in San Francisco. It offers a unique combination of Victorian architecture and modern aesthetics, with an extraordinary multi-level garden and an undeniable elegance. The interior of the home has been recently updated with a newly renovated kitchen and stylishly remodeled bathrooms. The spacious garden is an ideal place for entertaining and takes full advantage of the flat, deep lot. Additionally, the location is convenient to public transportation, nearby shopping and some of the best restaurants the city has to offer.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "List some of the top real estate marketing words to add value to the listing and engage more potential buyers.",
+    "dataset": "selfinstruct",
+    "output": "Some of the top real estate marketing words to add value to the listing and engage more potential buyers include: spa-like, luxurious, family-friendly, move-in ready, and upgraded. Other helpful words to use in listings include: modern, newly renovated, and newly constructed. These words can help to distinguish a listing from the rest and will help to draw more attention to the property.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Suggest some product bundles that are often purchased with a given product.\n\nMacBook Air",
+    "dataset": "selfinstruct",
+    "output": "Product bundles that are often purchased with a MacBook Air include a protective cover, mouse, external hard drive, and USB flash drives.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Create a template in markdown to create scope for Jira tickets. Members should use this template as a checklist to ensure they have included all the necessary information when creating a ticket.",
+    "dataset": "selfinstruct",
+    "output": "### Jira Ticket Scope Template\n\n### Summary:\n\nThe ticket's summary should provide a concise description of the issue, relevant to the project. This should include a brief description of the issue and the expected outcome.\n\n### Description:\n\nThe description should provide a detailed explanation of the issue and any background information necessary to understand the issue. This should include a description of the symptoms and the cause.\n\n### Type:\n\nThe ticket type should designate the type of issue being reported. This should include information such as whether the issue is a bug, feature request, or another type.\n\n### Environment:\n\nThe environment should provide information about the environment in which the issue is occurring. This should include information such as the operating system, application version, or other details.\n\n### Steps to Reproduce:\n\nThe ticket should also include instructions on how to reproduce the issue. This should include details on what actions to take to cause the issue.\n\n### Expected Outcome:\n\nThe expected outcome should provide an expectation of the outcome of the issue. This should include the outcome that the user expects as a result of the issue being resolved.\n\n### Attachments:\n\nIf relevant, the ticket can include any relevant attachments such as screenshots or other documents. This should include any attachments that can help the team understand the issue.\n\n### Verified:\n\nThe ticket should also include information about whether the issue has been verified or not. This should provide an indication of whether the reporter has verified the issue or not.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "As part of software engineering, user stories describe what the user wants the system to do, while acceptance criteria describe the conditions a specific user story must meet. Create basic acceptance criteria based on the given user story.\n\nUser story: As a user, I want to use a search field to type a city, name, or street, so that I could find matching hotel options.",
+    "dataset": "selfinstruct",
+    "output": "Acceptance criteria: \n- The search field should be prominently displayed on the page\n- The search should be case-insensitive and should allow for partial matches\n- The search should auto-complete when typing a city, name, or street\n- The search results should be ordered by relevance\n- The search should return a list of matching hotels\n- The user should be able to select a hotel from the list",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. Write a user story for a given software.\n\nGmail",
+    "dataset": "selfinstruct",
+    "output": "As a Gmail user, I want to be able to quickly search through my emails to find the ones I need. I also want to be able to tag emails so I can easily find them later. Finally, I want to be able to set up filters so that certain emails are automatically routed to specific folders.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write a Jira ticket for the given task.\n\nNew Employee onboarding",
+    "dataset": "selfinstruct",
+    "output": "Issue: New Employee Onboarding\n\nDescription: We need to develop a streamlined process for onboarding new employees. This process should include getting new employees up to speed on our products, procedures, and policies as quickly and efficiently as possible.\n\nSteps: \n1. Create a checklist outlining the tasks and milestones for onboarding new employees.\n2. Develop an onboarding manual with detailed instructions for each task.\n3. Design an automated system to track each new employee’s progress and provide notifications when tasks are completed. \n4. Assign a team of trained staff to guide new employees through the onboarding process.\n5. Develop video tutorials or webinars to help new employees learn our products more quickly.\n6. Establish milestones and deadlines for each task and make sure new employees complete each task on time.\n7. Schedule regular progress reviews to make sure new employees are staying on track.\n8. Once the employee has successfully completed the onboarding process, recognize them with a reward or incentive.\n\nImpact: A streamlined onboarding process will reduce the time it takes to bring new employees up to speed, increasing productivity and reducing costs.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Paraphrase the given text in an academic style.\n\nLots of papers have been published on this topic.",
+    "dataset": "selfinstruct",
+    "output": "This topic has been extensively studied in the literature.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a list of the pros and cons of the given decision.\n\nImplementing a Remote Working Policy",
+    "dataset": "selfinstruct",
+    "output": "Pros:\n- Flexibility in work hours and schedule\n- Increased productivity \n- Reduced commuting costs and time\n- Improved work-life balance\n- Decreased office space needs\n\nCons:\n- Potential for feeling isolated\n- Potential for decreased communication\n- Potential for reduced accountability\n- Increased need for technology and IT support\n- Increased need for security protocols",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Include important study notes and key points that someone should know about the given subject.\n\nhistory of the USA",
+    "dataset": "selfinstruct",
+    "output": "Important study notes for the history of the USA include the fact that the United States was founded on the principles of democracy, republicanism, and the rule of law. Additionally, the US has a strong history of immigration, and has gone through multiple changes in government structure and policy. Key points to remember include the American Revolution, the Civil War and the emancipation of slaves, the Great Depression and WWII, and the civil rights movement.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Based on the given keywords, write a review of a restaurant.\n\nName: Pizzeria\ngood prices, quiet place, tasty, nice staff",
+    "dataset": "selfinstruct",
+    "output": "I visited Pizzeria the other day and had a great experience. The restaurant had good prices and the atmosphere was quiet and inviting. The food was tasty and the staff were friendly and helpful. I would definitely recommend this restaurant to anyone looking for a nice, quiet place to enjoy a meal.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Convert natural language into a list of turn-by-turn directions.\n\nGo west on I-10 until you hit the 101 then take it north. You will eventually see the Hollywood sign.",
+    "dataset": "selfinstruct",
+    "output": "Turn left onto I-10. Drive west until you reach the 101. Take the 101 north. You will eventually see the Hollywood sign.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide an ESRB rating for the following game.\n\nThis is an action-adventure game in which players help Kratos and his son on a dangerous quest. Players explore various realms and engage in frenetic hand-to-hand combat against human-like raiders and fantastical creatures (e.g., centaurs, trolls, dragons). Players use axes and chained blades to battle enemies, often resulting in large blood-splatter effects and dismemberment. Players can perform finishing attacks that depict close-up impalement via bladed and hand-held weapons; repeated axe strikes to a creature's neck results in decapitation. The words “f**k” and “sh*t” are heard in the game.",
+    "dataset": "selfinstruct",
+    "output": "ESRB rating: Mature (17+)",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "A color description has been provided. Find the CSS code associated with that color.\n\nA light red color with a medium light shade of pink",
+    "dataset": "selfinstruct",
+    "output": "The CSS code associated with this color is #FF0F22.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Identify and fix bugs in the given code and rewrite it\n\nfor i in range(10)\n    print(Answer is:)\n    print(i)",
+    "dataset": "selfinstruct",
+    "output": "for i in range(10):\n    print(Answer is:, end = ' ')\n    print(i)",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Make a list of common phrases for the given section of the paper.\n\nIntroduction",
+    "dataset": "selfinstruct",
+    "output": "Common phrases for an introduction include: setting the tone, providing context, providing overview, introducing main ideas, providing background information, introducing main characters, making connections, providing an overview of the paper, and making a call to action.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "We have described a scene from a movie that we have seen in the past. Find out what movie it is.\n\nA choice has to be made between picking the red pill or the blue pill",
+    "dataset": "selfinstruct",
+    "output": "The movie is The Matrix (1999). In the movie, the protagonist, Neo, is offered the choice of taking the red pill or the blue pill by Morpheus. The red pill represents the path of truth and reality, while the blue pill represents the path of comfort and ignorance.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Take the product description and write a creative ad for it.\n\nDocument Cameras allow teachers to display documents, books, or other materials for their students to see.",
+    "dataset": "selfinstruct",
+    "output": "Transform your classroom with our Document Cameras. With the ability to display documents, books, and other materials, teachers can create an interactive learning environment that will capture students’ attention and help them learn more effectively. With the Document Cameras, you can make any learning session more engaging and enjoyable.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Translate the natural language description into a Google Sheets formula.\n\nif C7 is equal to \"U.S.A.\" or \"Canada\" or \"Europe\" or \"The Americas\"",
+    "dataset": "selfinstruct",
+    "output": "=IF(C7=\"U.S.A.\"; \"USA\";\nIF(C7=\"Canada\"; \"Canada\";\nIF(C7=\"Europe\"; \"Europe\";\nIF(C7=\"The Americas\"; \"The Americas\"))",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "You are given a tweet and you should decide whether it's offensive or not.\n\nShe has certainly taken some heat for being such an....well idiot.",
+    "dataset": "selfinstruct",
+    "output": "Offensive",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "For a quick and efficient office workout, suggest a short routine.",
+    "dataset": "selfinstruct",
+    "output": "A quick and efficient office workout routine could include: \n1. High knees - stand up, take one step forward with each knee lift \n2. Push-ups - place hands on desk, do push-ups, then rest your body on the desk \n3. Squats - stand up, sit down, repeat \n4. Plank - hold for one minute \n5. Mountain Climbers - place hands on the desk, alternate legs in climbing motion \n6. Bicycle - place hands on desk, alternate legs in pedaling motion \n7. Shoulder Press - hold a light dumbbell in each hand, press outward \n8. Tricep Dips - start in a sitting position, then lower down to the floor for one minute \n9. Chair Lunges - stand with feet hip width apart, lunge forward \n10. Squat Jumps - start in a squat position, jump up as high as you can",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Predict how many stars the author will give to the restaurant from a Yelp review.\n\nThe reviews were great, but honestly i felt it was just ok. Seemed like a typical tourist spot were the food was mediocre. The service was ok, not great, but not the worst.\nThe bread was very good. I ordered the muscle fries. They had a sweet Vidalia onion flavor. No need for fries bc they were soggy wo much flavor. My boyfriend ordered a pesto chicken pasta and it was again mediocre.",
+    "dataset": "selfinstruct",
+    "output": "The author will give the restaurant 3 stars.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Categorize the Business into one of the Restaurants, Home Services, Auto Services and Miscellaneous based on its Specialties.\n\nCall us at 650-636-4884 or visit our website to receive a quote. This shop specializes in New Tires and General Auto Repair. We carry all tires in-house and have a wide range to fit any budget or car specifics. If you are unsure what tires you need there are experts on hand and available to help you pick the best tire for your needs. We also carry commercial vehicle tires and can serve a wide array of fleets.",
+    "dataset": "selfinstruct",
+    "output": "Miscellaneous",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Notify me of any suggestions you may have for making the text more grammatically correct.\n\nThis is the second time I've been here, and the vibes, and the food were exquisite.",
+    "dataset": "selfinstruct",
+    "output": "This is the second time I've been here, and the atmosphere, and the food were excellent.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Using the ingredients that are available, create a dinner recipe.\n\nKale + almond butter + apple cider vinegar + agave nectar + tamari",
+    "dataset": "selfinstruct",
+    "output": "Kale Salad with Apple Cider Vinegar Vinaigrette: \nIngredients: 2 cups kale, 1/2 cup almond butter, 2 tablespoons apple cider vinegar, 2 tablespoons agave nectar, 2 tablespoons tamari. \nInstructions:\n1. Put the kale in a large bowl.\n2. Spread the almond butter on the kale.\n3. Drizzle the apple cider vinegar, agave nectar and tamari over the kale and mix together.\n4. Put the kale salad in the fridge for 10 minutes before serving.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Categorize the given product into one of Electronics, Computers, Smart Home, or Arts & Crafts departments.\n\nGoogle Nest Learning Thermostat",
+    "dataset": "selfinstruct",
+    "output": "Electronics",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Provide instructions for the given exercise.\n\nLeg Raises",
+    "dataset": "selfinstruct",
+    "output": "Sit on a chair with your feet flat on the ground and your knees bent. Keeping your feet and knees in place, lift your legs slowly up until they are level with your hips. Hold for 2 seconds and then lower back down to the starting position. Repeat this exercise 10 times.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Rewrite the text and correct the spelling errors.\n\nIt solves problems comon and uniqe to every team.",
+    "dataset": "selfinstruct",
+    "output": "It solves problems common and unique to every team.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write down antonyms for the given word.\n\nlaureating",
+    "dataset": "selfinstruct",
+    "output": "Antonyms for \"laureating\" include: \n- Decrying\n- Demoting\n- Disparaging\n- Dissing\n- Discouraging\n- Devaluing\n- Deriding\n- Debasing",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write the HTML syntax for the required action.\n\nadding an image to the page",
+    "dataset": "selfinstruct",
+    "output": "<img src=\"image.jpg\" alt=\"Image Alt Text\">",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Identify the programming language used to write the given code.\n\nif (20 > 18) {\n  printf(\"20 is greater than 18\");\n}",
+    "dataset": "selfinstruct",
+    "output": "C",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Decide which part of speech the underlined word belongs to.\n\nschool will _keep through the winter",
+    "dataset": "selfinstruct",
+    "output": "The underlined word \"keep\" is an adverb.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Define what the underlined word means for kids.\n\n_keep a promise",
+    "dataset": "selfinstruct",
+    "output": "Keeping a promise means carrying out or following through on something you have said you would do. It is an important skill to have because it shows that you can be trusted and relied upon.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Expand the given sentence and give it more details and depth.\n\nIt changed my life.",
+    "dataset": "selfinstruct",
+    "output": "It changed my life in ways I never could have imagined. It opened my eyes to a world of possibilities, gave me the courage to pursue my dreams, and taught me the importance of following my passions.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Extract the address of the property from the \"About this space\" section of Airbnb.\n\nTucked in the foothills of the quaint historic mining town of Grass Valley, CA this funky and spacious chalet invites you to experience the great outdoors with family, friends and pets. Enjoy the hot tub, basketball court, treehouse, kids rooms, bbq, fire-pit, outdoor theater, and more. One hour from Tahoe and 10 minutes to town, you’re never short of things to explore.",
+    "dataset": "selfinstruct",
+    "output": "The address of the property is 2020 Foothill Road, Grass Valley, CA 95945.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Design a simple training challenge on Strava that everyone could attend.",
+    "dataset": "selfinstruct",
+    "output": "A simple training challenge could be to complete 3 rounds of a specific interval workout, such as 3x10 seconds on, 3x10 seconds off. This challenge could be open to everyone and the workout could be completed in a gym or even outside. Participants would be able to track their progress and see how they compare to other participants.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Suggest some names for a friendly group in telegram.",
+    "dataset": "selfinstruct",
+    "output": "Froztygrams, Gramofrogs, Telegrinskies, Grinningly, Frozbites, Gleamgrams, Telegrinlove, Grinninglytics, Gleamgrams, Telegrinspy, Gleamgrams, Telegrinchat, Gleamgrams, Telegrinskies.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Write what the pronunciation of the given word sounds like. Follow the \"Google pronunciation dictionary\" scheme for phonetic spelling.\n\ninterpretations",
+    "dataset": "selfinstruct",
+    "output": "The pronunciation of interpretations is \"inter-preh-TRAHS\".",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Explain the meaning of the given phrase in simple terms. Use an example if possible. It would be helpful if you could give an example.\n\n\"With a little give in them\"",
+    "dataset": "selfinstruct",
+    "output": "This phrase refers to things that are slightly flexible or yielding. For example, a spongy mattress or a elastic band that can be stretched slightly.",
+    "generator": "alpaca-7b"
+  }
+]

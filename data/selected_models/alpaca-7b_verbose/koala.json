@@ -1,0 +1,938 @@
+[
+  {
+    "dataset": "koala",
+    "instruction": "Can you list the top 20 films or movies between 1930 and 1940 that are in English and in the US public domain?",
+    "output": "1. The Cabinet of Dr. Caligari (1920)\n2. Nosferatu (1922)\n3. The Hunchback of Notre Dame (1923)\n4. The Danish Girl (1926)\n5. The Passion of Joan of Arc (1928)\n6. The Cabinet of Dr. Lao (1964)\n7. Faust (1926)\n8. The Cat and the Canary (1927)\n9. The Jazz Singer (1927)\n10. The Last Laugh (1924)\n11. F.W. Murnau's Four Devils (1929)\n12. The Unholy Three (1925)\n13. The Unknown (1927)\n14. The Jazz Singer (1927)\n15. The Cabinet of Dr. Caligari (1920)\n16. Nosferatu (1922)\n17. The Hunchback of Notre Dame (1923)\n18. The Danish Girl (1926)\n19. The Passion of Joan of Arc (1928)\n20. The Cabinet of Dr. Lao (1964)",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Take MLK speech \"I had a dream\" but turn it into a top 100 rap song",
+    "output": "I had a dream, a dream that one day this nation could be great\nThe oppressed would be free, and all would be able to attain\nThe mountaintop, the promised land, a place of peace and grace\nA place where all would be granted, a chance to sing its praises\nA dream that one day this nation would be united as one\nThat equality and brotherhood, would be its own\nThis dream, it was a vision, of a world that was so divine\nIt was a dream of a world without racial divide, a world that was divine\nIt was a dream of a world without racial divide, a world that was divine\nA world where all the sons and daughters, would be free to shine",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "List the layers of the TCP/IP model and for each layer identify one protocol.",
+    "output": "The TCP/IP model has four layers: the application layer, transport layer, internet layer, and network access layer. \n\nAt the application layer we have the TCP protocol, which provides connection-oriented services for reliable data transfer between two applications.\n\nAt the transport layer we have the UDP protocol, which provides connectionless services for sending and receiving data packets.\n\nAt the internet layer we have the IP protocol, which provides the fundamental addressing system for locating computers on the network. \n\nAt the network access layer we have the Ethernet protocol, which provides the physical connection between the network and the computer.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why can't bank use cash as capital as a buffer for potential losses?",
+    "output": "Banks are generally prohibited from using cash as capital, as it would make them appear to be insolvent. Capital is a buffer against potential losses, and cash is not a liquid asset that can be converted into usable capital in an emergency. Cash is a liquid asset, but only up to a point, and banks are not allowed to exceed that point. \nCash is also a highly liquid asset, meaning that it is easily converted into usable capital. This makes it a prime target for fraudsters and other nefarious actors, which could put the bank at risk of insolvency. \nFurthermore, cash is not as easily converted into assets that can be used to offset potential losses as other forms of capital, such as shares or bonds, are. This makes cash a less desirable choice for capital. \nIn short, banks are prohibited from using cash as capital due to its liquidity, potential for fraud and inability to be converted into usable assets.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "convert December 21 · 1:00 – 1:50pm pacific to asia/taipei time",
+    "output": "December 21 at 1:00 - 1:50 PM Pacific Time is equal to 19:00 - 19:50 in Asia/Taipei Time.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can you tell my a story about nuclear physics like dr Seuss?",
+    "output": "Once upon a time, in a world far away from ours, there was a great scientist named Dr. Nucleus who was very curious about the mysteries of the universe. He wanted to learn more about the power of the atom and why some atoms were so unstable. He conducted many experiments and studied the results with great interest. \nOne day, during one of his experiments, he unknowingly created a new type of atom - an incredibly powerful atom that gave off a huge amount of energy. It was so powerful that it caused a huge explosion and blew up his lab! Dr. Nucleus was lucky to survive, but he was very upset about the destruction of his lab. \nHowever, he was proud of his new atom and soon he was famous all over the world for his amazing discovery. From then on, nuclear physics was born and scientists have been studying the power of the atom ever since.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Message to client for accepting offer for summary video",
+    "output": "Thank you for accepting our offer for the summary video. We are excited to get started and can't wait to see how we can help bring your vision to life. Please let us know if you have any questions or if we can help with anything else.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can you write a short story where Hildibrand Manderville somehow gets transformed into Gandalf the Grey and he must work with The Warrior of Light and Nashu to restore his regular, most gentlemanly form. ",
+    "output": "Hildibrand Manderville had been walking for hours, exploring the magical kingdom of Maraduk. He had been on the quest for the elusive Warrior of Light, a mysterious figure said to have the power to grant impossible wishes.\nSuddenly, as Hildibrand rounded the corner of an old temple, he was stopped in his tracks. Standing before him was a tall figure, dressed in a cloak of deepest black, with a staff in one hand and a glint of light in the other. The figure spoke in a deep, commanding voice, “I am the Warrior of Light. What do you seek?”\nHildibrand, taken aback by the power of the figure before him, stuttered out his wish. The Warrior of Light listened intently, then nodded. He reached out and tapped Hildibrand on the forehead with his staff. Instantly, a brilliant light filled the area and Hildibrand felt a strange power surge through him. When the light faded, Hildibrand gasped in astonishment - he was now Gandalf the Grey!\nGandalf the Grey knelt before the Warrior of Light and thanked him for his blessing. The Warrior of Light merely smiled and said, “It is not a blessing, but a gift that you have been given. Use it well, Gandalf the Grey.” \nGandalf the Grey then turned to his two companions, Nashu the tiger and the mysterious Warrior of Light, and said, “Let us restore my true form together.”  The two of them bowed and the three of them set out on a magical journey, the details of which are still unknown even to this day.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I'm currently studying Bioengineering in Argentina, focusing on computational neuroscience. I'll be graduating in May, and planning to apply to PhD programs in the US at the end of the year in order to start August 2024. I'm thinking of what to do/study during this year until my program starts. Could you give me ideas? Feel free to ask me for questions which would help you give me better suggestions.",
+    "output": "You could try to take online courses or do freelance projects to gain more experience in the field. You could also look for research internships or job opportunities in the field to gain more hands on experience. You could also use this time to get in touch with professors, researchers, and professionals in the field to ask questions and learn more about their work.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write an interview between a Female Film director and a journalist. Use advanced english to talk about the low number of Female Film Directors in World Films. Also include many questions and answer where the director cheer up new generations to make films , where female rights can be outstanding.",
+    "output": "Interviewer: Do you think the lack of female film directors in the world is a problem?\nDirector: Absolutely! There is a lack of diversity in the film industry, and it’s particularly evident in the number of female directors working today. Women make up half of the population, but they are greatly underrepresented in the world of film. This is an issue because women have unique perspectives and insights that are important and need to be shared. Furthermore, women are capable of making great films just as much as men. We need to cheer up new generations to make films and promote female rights to outstanding positions. \nInterviewer: What do you think is the cause of this lack of female directors?\nDirector: I believe that there is a lack of access to resources, funding, and opportunities for women in the film industry. Women face gender-based discrimination, which makes it harder for them to establish themselves in this field. Additionally, many film schools do not have equal opportunities for men and women. This is a problem because women are capable of making great films just as much as men. We need to create more access to resources and give women a chance to showcase their talents. \nInterviewer: What can we do to increase the number of female directors in the world?\nDirector: We can start by championing initiatives that support and empower women in the film industry. This includes offering mentorship programs, providing access to funding, and organizing workshops and events that promote women in film. We also need to cheer up new generations to make films and promote female rights to outstanding positions. We can also raise awareness of this issue and use our voices to call for change. Ultimately, we need to create an environment where women have the same opportunities as men. \nInterviewer: Thank you for your insight. I appreciate your time.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Give me a sample 5 day itienary for a switzerland holiday, starting from Basel",
+    "output": "Day 1: \n- Arrive in Basel and check-in to your hotel. \n- Explore the city of Basel, visiting attractions like the Basel Cathedral, the Basel Town Hall, and the Basel Zoo. \n- Sample some of the delicious local food, like Basel specialty dishes like 'Baeckwaech', 'Rösti', and 'Fondue'. \n- After dinner, take a night stroll near the Rhine River. \nDay 2: \n- Start the day with a visit to the unique Basel Munster, a church built in the 11th century. \n- Take a scenic train ride to the top of the mountain, where you can enjoy the spectacular views of the countryside. \n- Visit the Old Town of Basel and take a look at the beautiful Baroque facades, Renaissance fountains and cobbled streets. \n- Sample some of the local wines of the region. \n- In the evening, sample some of the delicious traditional Swiss dishes like 'Fondue', 'Raclette', and 'Tiramisu'. \nDay 3: \n- Visit the Basel Historical Museum, which houses an excellent collection of artifacts, prints, and photographs from the 16th to the 20th century. \n- Take a boat tour on the Rhine River, passing by the historical buildings and lush green hills. \n- Visit the Basel Sculpture Garden, an amazing outdoor art gallery featuring works by Picasso, Matisse and other renowned artists. \n- Sample some of the delicious Swiss chocolates. \n- In the evening, explore the city center and take a look at the many shops and cafes. \nDay 4: \n- Visit the Basel Zoo, one of the oldest zoos in the world, home to over 4,000 animals from all over the world. \n- Visit the Basel Art Museum, which houses a comprehensive collection of works by Picasso, Matisse, Monet, and other renowned artists. \n- Sample some of the delicious Swiss cheeses. \n- In the evening, explore the city center and take a look at the many shops and cafes. \nDay 5: \n- Visit the Basel Historical Museum, which houses an excellent collection of artifacts, prints, and photographs from the 16th to the 20th century. \n- Take a boat tour on the Rhine River, passing by the historical buildings and lush green hills. \n- Visit the Basel Sculpture Garden, an amazing outdoor art gallery featuring works by Picasso, Matisse and other renowned artists. \n- Sample some of the delicious Swiss chocolates. \n- In the evening, explore the city center and take a look at the many shops and cafes.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "explain The Death of Ivan Ilych",
+    "output": "The Death of Ivan Ilych is a short story by Leo Tolstoy which tells of a man who dies and comes to realize that the life he led was not worth living. Ivan Ilych is a successful judge who lives a comfortable, respectable life, but he is not truly satisfied. He finds little joy in his success, and even his love for his family is not enough to give his life meaning. As he lies on his deathbed, he comes to understand the emptiness of his life and is filled with regret. Ultimately, he is able to find peace and acceptance in the knowledge that he has lived a life of truth and love.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why is it that only proteins, carbohydrates and fats are deemed to have caloric value?<br>Just to clarify - consider the hypothetical situation below:<br>100g of 'carbohydrates' = 400kCal<br>100g of 'protein' = 400kCal<br>100g of 'fat' = 900kCal<br>100g of 'vitamins, minerals and/or other electrolytes' = ?",
+    "output": "100g of vitamins, minerals, and electrolytes would have a caloric value of approximately 200-300kCal, depending on the vitamins, minerals, and electrolytes present. This is lower than the caloric values of carbohydrates and proteins, but higher than the caloric value of fats. This is because not all vitamins, minerals, and electrolytes have the same amount of energy. For example, vitamins and minerals like vitamin C, which have antioxidant properties, may have fewer calories than proteins, but certain electrolytes such as sodium and potassium can have a much higher caloric value. Additionally, the type of vitamins, minerals, and electrolytes present will also affect the caloric value.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Navina has $30 more to her weekly budget than her younger sister and can afford to get one of the many online credit cards she likes. What do they each have to spend?",
+    "output": "Navina has $30 more than her younger sister and can afford to get one of the many online credit cards she likes. Each sister has a weekly budget of $100.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "rank the following companies by how pro-consumer they are:\nMicrosoft, Google, Nintendo, Sony, EA.",
+    "output": "1. Google\n2. Microsoft\n3. Nintendo\n4. Sony\n5. EA.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Anytown Bank obtaining and using consumer reports in connection with any credit or insurance transaction that is not initiated by the consumer in order to make firm offers of credit or insurance is known as:\n\nA. Approving\nB. Counteroffering\nC. Endorsing\nD. Prescreening\nE. None of the above",
+    "output": "E. None of the above.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I’m planning to visit Okinawa Japan from April 7th to April 10th. Do you have any recommendation on what to do while I’m there?",
+    "output": "I recommend visiting the Shuri Castle, where you can explore the castle ruins and learn about the history of the castle and the Ryukyu Kingdom. Other sites worth visiting include the Okinawa Prefectural Museum and the Royal Garden, which is located next to the castle. If you're looking for some outdoor activities, the Okinawa Churaumi Aquarium is a popular attraction, as is the Higenbothai Coastal Walkway, which offers stunning views of the ocean and coastal areas. Other activities you could try include snorkeling, scuba diving, and kayaking in the crystal clear waters of the East China Sea.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I have this text: <br><br>We use professional processes. Use the photo delivery system, check the quality and send it to the customer immediately. We started editing digital photos from the first wave of 2000. Started with editing personal photos, and then spread our passion by editing wedding photos or restoring old photos for loved ones, friends and family. friends and customers. 2005 started a local photo shop and started commercial photo editing, product photography for manufacturers. 2007 implemented online projects on freelancer platforms.<br><br>Rewrite it in professional style to tell a touching story",
+    "output": "Since 2000, we have been passionate about professional photo editing. We began by editing personal photos, and then spreading our passion to wedding photos, photo restoration, and commercial work for manufacturers. In 2005, we opened a local photo shop and started commercial projects. We implemented online freelance projects in 2007 and have been growing ever since. Our mission is to use our expertise to provide quality photo editing services and products to our customers. We strive to create lasting relationships with our clients by exceeding their expectations and delivering exceptional results.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "define a new language that contains words that are with numbers and letters such as 'IL9op'",
+    "output": "The language is called \"Il9op\", which stands for \"Intergalactic Language of Nine and Ops\". It is composed of nine characters - five letters and four numbers - that are used to form words. The language is structured with a set of grammar rules, including the use of prefixes, suffixes, and infixes, to form phrases and sentences. It has a total of 3,840 words, which is more than enough to express complex ideas and emotions.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write me a 2000 word essay on a water safety engineering project.",
+    "output": "The project was to create a water safety engineering project for the city of Seattle. The project was to focus on the Lake Washington Ship Canal, a waterway that connects Lake Union to Seattle's main shipping channel. The goals of the project were to reduce boat traffic in the canal and to improve safety for the boaters using the canal. \n\nTo reduce boat traffic in the canal, the project proposed installing a series of locks at either end of the canal. These locks would require boats to pass through a series of gates and chambers before being allowed to enter or leave the canal. This would increase the safety of both boat operators and those on the shores of the canal by reducing the number of boats that could enter the canal at any given time. \n\nTo improve safety for those using the canal, the project proposed installing lighting along the shores of the canal and installing additional signage to warn boaters of the dangers of the canal. It was also suggested to install buoys in the canal to mark the navigable paths and to install additional navigation aids such as sonars and radars to help boat operators safely navigate the canal. \n\nIn conclusion, the project proposed installing locks at either end of the canal, increasing lighting and signage, and installing additional navigation aids to improve safety for those using the canal. These measures should reduce the number of boats in the canal and improve the safety of those using it.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Marie is at the music store for a store day. She bought two $50 combos. Then, for $25 she bought two t-shirts for $5 each and five hoodies for $2 each. Then, she bought sneakers for $8 each. How much did she spend total?",
+    "output": "Marie spent a total of $185. She spent $50 on the combos, $25 on the t-shirts and hoodies, and $85 on the sneakers.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Mick pays his teacher $800 for 40 lessons worth 2 hours each. If this will be all he is going to pay for his lessons, how much did he receive?",
+    "output": "Mick's total cost for 40 lessons is $800. Each lesson is two hours long, so Mick has paid his teacher $40 per lesson.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How to improve instance segmentation AP metrics with human knowledge",
+    "output": "Instance segmentation is a challenging task as it requires understanding the context and the relationship between different objects in an image. Improving instance segmentation AP metrics requires incorporating human knowledge in the form of boundaries, labels, or annotations. This can be done by providing bounding boxes around instances or labeling objects, which can be used by the model to better understand the context of different objects in an image. Additionally, instance segmentation models can benefit from larger datasets that have more diverse labels, as well as from data augmentation techniques such as data jittering, data augmentation, and data distillation.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what is needed for self-sufficient living spaces",
+    "output": "A self-sufficient living space requires access to resources such as food and water, power sources, suitable shelter, and the ability to manage waste. Additionally, the space should be equipped to provide for basic needs such as cooking, cleaning, and healthcare, as well as have the ability to provide entertainment and education.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "please act like a business consultant that is doing a project of estimating the full potential of Zegna ecommerce in the united states. As a business consultant you will first be interviewing several stakeholders in order to gain valuable insights on the Zegna ecommerce operations, digital marketing initiatives and commercial approach. Through these insights you will make up your ideas for a strategy that will lead the next 5 years of ecommerce strategy and you will be evaluating both the sales generated throughout the years as well as the investment supporting such strategy in terms of initiatives, costs and so on. How would you start the project and please focus on a list of stakeholder you would interview and for each of them prepare a detail list of questions you would do throughout the interview.",
+    "output": "To start the project, I would first prepare a detailed list of stakeholders that would be important to interview in order to gain valuable insights on the Zegna ecommerce operations, digital marketing initiatives and commercial approach. This list could include key stakeholders from the marketing, ecommerce, digital, and retail teams. \n\nFor each stakeholder, I would prepare a detailed list of questions that could be asked throughout the interview. Examples of questions that could be asked include: \n\n• What has been the most successful initiative for Zegna ecommerce in the US? \n• What challenges have been faced in growing the Zegna ecommerce business in the US?\n• What strategies have been employed to increase digital engagement with customers?\n• What have been the results of these strategies?\n• How can Zegna ecommerce reach its full potential in the US?\n• What will it take to make Zegna ecommerce the leader in the US market? \n• What resources (budget, personnel, technology, etc.) are required to reach this potential?",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Expand on the relation between inconsistency and ideological thinking",
+    "output": "Inconsistency and ideological thinking are closely related. Ideological thinking is the tendency to interpret the world and make decisions based on a set of core values and beliefs, regardless of the facts or evidence. This can lead to a lack of consistency, as the same person may hold contradictory beliefs or make decisions that conflict with each other. For example, an ideologically-motivated person may support free speech but also oppose certain kinds of speech. Inconsistency arises when an individual tries to justify their support of some forms of speech while opposing others, as this goes against the principle of free speech.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why do people give Reddit Gold to admins?",
+    "output": "People give Reddit Gold to admins as a way of showing appreciation for the work they do. Administrators often use the gold to reward users for their contributions, incentivize positive behavior, and fund specific projects or initiatives. It is also a way for users to show their appreciation for the work that admins do.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Create an Annotated Bibliography, in APA citation style, with six entries describing a different social media technology in each of the following six categories: blogs, social networking sites, virtual social worlds, virtual game worlds, collaborative projects, content communities.",
+    "output": "1. Blogs\nBlog, G. (2018). The Rise of Social Media.\nThis article examines the rise of social media as a new form of communication and its impact on modern society. It discusses the advantages of social media with regards to communication, connection and collaboration, as well as its potential negative effects on mental health, privacy and democracy.\n2. Social Networking Sites\nSocial Networking Sites, G. (2018). Social Networking Sites: Connecting People Around the World.\nThis article discusses the growth of social networking sites and how it has allowed people to connect with others around the world. It covers the advantages of social media such as creating virtual communities, increasing productivity and engaging in conversations, as well as the negative impacts of cyberbullying, data mining and online addiction.\n3. Virtual Social Worlds\nVirtual Social Worlds, G. (2018). Virtual Social Worlds: A New Form of Digital Entertainment.\nThis article looks at the growth of virtual social worlds and its impact on modern society. It discusses the advantages of these worlds such as providing an immersive online experience, allowing users to create unique avatars and engaging in various activities. It also covers the potential risks such as cyberbullying, addiction and theft.\n4. Virtual Game Worlds\nVirtual Game Worlds, G. (2018). Virtual Game Worlds: The Rise of Online Gaming.\nThis article discusses the rise of virtual game worlds and its effect on modern society. It covers the advantages such as providing an immersive environment, allowing users to compete and collaborate and engaging in activities such as role-playing and team building. It also covers the potential risks such as cyberbullying, addiction and theft.\n5. Collaborative Projects\nCollaborative Projects, G. (2018). Collaborative Projects: Working Together to Achieve Goals.\nThis article looks at the growth of collaborative projects and its impact on modern society. It discusses the advantages of these projects such as allowing people to work together towards a common goal, sharing knowledge and resources and building relationships. It also covers the potential risks such as cyberbullying, data mining and interference from governments.\n6. Content Communities\nContent Communities, G. (2018). Content Communities: Creating and Sharing Digital Content.\nThis article examines the growth of content communities and its effect on modern society. It discusses the advantages such as creating a space for users to share and create unique content, allowing users to connect with like-minded individuals and engaging in conversations. It also covers the potential risks such as cyberbullying, data mining and online addiction.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What does Nassim Nicholas Taleb say about market efficiency?",
+    "output": "Nassim Nicholas Taleb is skeptical of the notion of market efficiency, arguing that markets are often driven by noise and are highly unpredictable. He states that markets are too complex to be efficient, and that random events and unknown unknowns can have a large impact on prices. He believes that markets are best described as being \"antiefficient\", as they are subject to wide price swings and often move in counterintuitive ways.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can a boy and girl be just be best friends only ever\n",
+    "output": "Yes, a boy and girl can be just best friends and nothing more. It is possible to have a deep, meaningful friendship between a boy and a girl without any romantic or sexual feelings getting in the way. By respecting each other's boundaries and being open and honest with each other, a boy and girl can have a strong, fulfilling friendship that brings them closer without ever crossing the line into something more.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "If a tree is on the top of a mountain and the mountain is far from the see then is the tree close to the sea?",
+    "output": "No, because the tree is on the top of the mountain, which is far from the sea. In other words, the tree is far from the sea.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "hat would be the reason for the popularity of youtube compared to other video sharing websites?",
+    "output": "Youtube has become popular for sharing videos because of its easy-to use interface and wide range of features for sharing and engaging with content. Additionally, Youtube offers users the ability to easily find, watch and share content across multiple devices and platforms, as well as monetize their content. Furthermore, Youtube has a strong community of users who engage with each other through comments, likes and subscriptions. This creates a highly interactive and engaging environment for users to share and discover content. In comparison, other video sharing websites may lack some of these features and engagement opportunities which has limited their popularity.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Tell me something I don’t know",
+    "output": "The Earth's atmosphere is composed of 78% nitrogen, 21% oxygen, and 1% other gases, such as argon, carbon dioxide, and water vapor. Water vapor makes up the largest percentage of the atmosphere, but nitrogen and oxygen are the most abundant gases.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "You are a script-writer. Write a script for the opening scene of a Miami-based dark comedy show which depicts a typical miami beach club called Beefy's Beach Club run buy a british man known by the Alias Beefy, and the pool bar staff are JdeG and a blonde british woman with the Alias SophieSnazz",
+    "output": "EXT. BEACH CLUB - DAY\nThe sun is shining brightly over Miami Beach as we see the iconic sign for Beefy’s Beach Club. A BRITISH MAN, BEEFY, is seen entering the club, with a confident and cool attitude. He is dressed in a crisp, white button-down shirt, red trousers and black loafers. He struts through the club, greeting some of the staff and guests with a friendly nod before heading to his office at the back of the club. \nOnce inside, we see BEEFY sitting at his desk, surrounded by photos of himself and various awards. He is a successful entrepreneur and he knows it. We also see his two loyal staff members, JDEG and SOPHIESNazz, busy organizing papers and setting up the club’s events for the day. \nJDEG (O.S)\nMorning, boss.\nBeefy looks up from his phone and smiles.\nGood morning, JdeG. What have we got on the schedule today?\nSOPHIESNazz (O.S)\nNothing much, just some poolside drinks and snacks.\nBeefy looks back down at his phone and continues reading. JdeG and SophieSnazz exchange a look before JdeG turns back to his work, while SophieSnazz walks away towards the bar area, her bright blonde hair effortlessly gliding past her shoulders. \nJdeG\nBoss, I think we need to start setting up for tonight’s event.\nBeefy puts his phone down and looks up at his right-hand man.\nOf course. Let’s do it.\nThe two of them stand up and head towards the back of the club, where they start organizing various decorations and supplies. \nSophieSnazz is at the bar, doing her usual morning routine of making sure everything is stocked and clean. She notices JdeG and Beefy setting up and smirks to herself. She knows something is about to happen. \nThe camera pans back and we see Beefy’s Beach Club in all its glory – the beach, the pool, the club and its members – and the camera zooms in on the sign of Beefy’s Beach Club, letting us know this is where the story takes place.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Do you know something about the book  ＂the art of thinking clearly\" wrote by Rolf Dobelli?",
+    "output": "Rolf Dobelli's book, \"The Art of Thinking Clearly\" is an exploration of how our mind works and how to use that knowledge to better understand the world and make better decisions. The book covers a wide range of topics, from the psychology of judgement and decision-making, to the tricks our minds play on us, to the art of storytelling and why it can be so powerful. It also provides practical tools and advice on how to think more clearly and effectively, such as how to break complex tasks into smaller, more manageable steps, how to recognize and avoid common thinking traps, and how to overcome bias and confirmation bias.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "antennas that transmit an equal amount of energy in the horizontal direction are called",
+    "output": "Antennas that transmit an equal amount of energy in the horizontal direction are called equiangular or isotropic antennas.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write an introduction of a person for resume who worked as an in-house IT for 18 years, managed team of 4 and 9 site and satellite offices with total 200 users. He's familiar with network and system infrastructure, server virtualization, cloud services and the migration.",
+    "output": "John is a highly experienced IT professional with over 18 years of in-house experience in managing a team of 4 and overseeing 9 site and satellite offices with a total of 200 users. He is well-versed in network and system infrastructure, server virtualization, cloud services, and migration. He is an adept problem-solver, able to identify and deploy solutions quickly and efficiently. He is an organized leader who is able to manage multiple projects and prioritize tasks to ensure deadlines are met. He is a natural communicator, able to effectively collaborate with team members and clients.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Hi, I have a question about MFCC (mel frequency cepstral coefficients). Are they the same thing as a MEL-spectogram, or is there a difference?",
+    "output": "MFCC (mel frequency cepstral coefficients) are an audio feature used in speech recognition and audio analysis. They are a set of coefficients calculated from the frequency components of an audio signal such as a mel-spectrogram. A mel-spectrogram is a type of audio visualization that displays the frequency components of a signal in a graphical form, and is related to MFCCs as it is used in the same type of analysis. However, they are not the same thing as MFCCs are calculated from the frequency components of an audio signal and a mel-spectrogram is a visual representation of those frequencies.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "who was the black cabinet member who went on to play an important role in the civil rights movement",
+    "output": "The black cabinet member who went on to play an important role in the civil rights movement was James H. Harris. He was appointed by President Franklin D. Roosevelt in 1940 to serve as a member of the Cabinet-level Federal Security Agency. Harris was responsible for a number of the New Deal programs designed to assist African Americans. He also served as the founding president of the National Association for the Advancement of Colored People (NAACP) branch in Washington, D.C. Later in his career, he was a strong advocate for desegregation in the U.S. military and a leader in the civil rights movement.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "“One One was a race horse Two Two was one too. One One won one race. Two Two won one too.” How many horses are in this story?",
+    "output": "One One was a race horse, Two Two was also a race horse, and they both won one race each. That makes a total of two horses in the story.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Over two thousand years, the moon has covered every point on the Earth once. At the most recent time of a moonrise, the moon is going to cover the next point to the north. How far north will it be?",
+    "output": "At the most recent time of a moonrise, the moon was at a latitude of 23.53 degrees north, covering the next 23.53 degrees of latitude to the north.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "twenty names of famous horses and who they belonged to",
+    "output": "1. Seabiscuit - owned by Red Pollard\n2. Secretariat - owned by Charles W. Engelhard\n3. Citation - owned by Alfred G. Vanderbilt\n4. Man o’ War - owned by Samuel D. Riddle\n5. War Admiral - owned by Charles W. Engelhard\n6. Whirlaway - owned by George D. Widener\n7. Cigar - owned by Allen Paulson\n8. Count Fleet - owned by Mrs. Charles D. Brodhead\n9. Spectacular Bid - owned by Sidney Craig\n10. Affirmed - owned by Harcourt, Brown & Moorhead\n11. American Pharoah - owned by Ahmed Zayat\n12. Manila - owned by F. Ambrose Clark\n13. Citation - owned by Alfred G. Vanderbilt\n14. Secretariat - owned by Christopher Chenery\n15. Count Fleet - owned by Mrs. Charles D. Brodhead\n16. War Admiral - owned by Samuel D. Riddle\n17. Whirlaway - owned by George D. Widener\n18. Seabiscuit - owned by Red Pollard\n19. Cigar - owned by Allen Paulson",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write an interesting and detailed backstory for my half-elf ranger character for Pathfinder. The backstory should be dark and mysterious in tone but without the usual cliches like \"raiders attacked the village\". Make it unique and interesting. Be creative.",
+    "output": "My half-elf ranger was once a member of a small, peaceful farming community located in a small valley in the heart of elf and dwarf territory. The village was an oasis of sorts, surrounded by harsh, unforgiving lands and yet, thriving. My character was a curious and adventurous spirit, often exploring the surrounding lands and forests. \nOne day, while exploring, he stumbled upon a mysterious cave deep in the woods. He was entranced by the secrets it held and, despite the warnings of his elders, he began to explore the cave, uncovering ancient secrets and artifacts. It soon became clear that the cave was part of an ancient and powerful magical network, one that was connected to a mysterious and powerful force. \nHe quickly discovered that the cave was the key to unlocking immense power and began to use it for his own gain. As he delved deeper into the mystery, he began to understand the power he had unlocked and the dark consequences of using it. He was left with no choice but to use his newfound power to protect the village and keep the secrets of the cave hidden.\nMy character was now a powerful ranger, using his newfound magical skills to protect the village and keep the secrets of the cave hidden. He had to be careful, though, as he was now a target for those who sought to use the power for their own gain. He had to stay one step ahead of them and use his magical skills to remain the village's protector.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "In this math problem, we are asked to figure out the percentage of total profits that are made in each quarter. They are 90% in the first quarter, 92% in the second quarter, 81% in the third quarter and 88% in the fourth quarter. What is the total profit percent over a period of time, based upon these quarters?",
+    "output": "The total profit percent over a period of time is 92.31%, as the sum of the percentages of the four quarters is greater than 100%. The percentages of total profits are 90% in the first quarter, 92% in the second quarter, 81% in the third quarter and 88% in the fourth quarter.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why is it a bad idea to give a mouse a cookie?",
+    "output": "It is generally a bad idea to give a mouse a cookie because it can lead to unintended consequences. For example, if a mouse is given a cookie, it may become dependent on the sugar and starch in the cookie, which can alter its normal eating patterns and lead to weight gain. Additionally, if the mouse is given a large number of cookies, it can lead to an upset stomach, diarrhea, and other health problems. Furthermore, if the mouse is given a cookie from an unfamiliar source, it may become stressed or ill from an unknown substance. Therefore, it is best to be cautious when offering food to a mouse.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "which second messenger molecule acts on the endoplasmic reticulum to release calcium ions",
+    "output": "The second messenger molecule that acts on the endoplasmic reticulum to release calcium ions is calcium-binding protein, also known as calmodulin. Calmodulin binds to calcium ions and activates a variety of calcium-dependent signaling pathways, including those involved in the regulation of gene expression, cell growth, cell motility, and contraction. It is found in the endoplasmic reticulum, where it plays an important role in calcium signaling.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How can anti-deressants make people think or act suicidally? Suicidal thoughts or actions' are a side effect of every single anti-depressant I've seen. Is the medicine controlling your mind or something?",
+    "output": "Anti-depressants can cause suicidal thoughts or actions by affecting the balance of certain chemicals in the brain. This can cause people to have an increased risk of thinking about or attempting suicide. In some cases, the suicidal thoughts can be severe enough to lead to action. This is a known side effect of the medication, so it is important to be aware of it and seek help if it does occur. It is also important to let your doctor know if you are having any thoughts of suicide while taking anti-depressants.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Create a lesson plan in two different levels: in CEFR A1 and A2 on the topic of friendship. Add a rubric.",
+    "output": "Level A1:\n- Introduce the concept of friendship: define it, explain its importance.\n- Talk about different kinds of friendships: close, casual, platonic, etc.\n- Discuss the qualities of a good friend: loyalty, kindness, trustworthiness, etc.\n- Break the students into pairs and have them come up with a list of things they would do for a friend in need.\n- Discuss the importance of staying in touch with friends.\n\nLevel A2:\n- Talk about the different challenges of making new friends.\n- Discuss strategies for putting yourself out there and making conversation.\n- Brainstorm activities that friends can do together.\n- Talk about the importance of having a diverse group of friends.\n- Discuss the value of being a good listener and providing emotional support.\n- Work on role plays to practice making small talk and introducing yourself to new people.\n- Work on a group project to plan a social outing.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Draft a ministerial speech outlining the top five benefits that innovation brings to the Australian economy",
+    "output": "Good morning, Australia. \nToday, I would like to talk about the five main benefits that innovation brings to our economy. \nFirstly, innovation boosts productivity and efficiency in the workplace. It makes processes easier, faster and more cost-effective. This, in turn, helps businesses to compete more effectively and grow. \nSecondly, innovation creates jobs in the short and long-term. It creates new job opportunities in areas such as research, development and commercialisation. As well as that, it helps existing businesses to become more efficient and cuts down on labor costs, which preserves existing jobs. \nThirdly, innovation leads to increased economic growth. It stimulates economic growth by creating new markets and opportunities, as well as enabling businesses to become more competitive.\nFourthly, innovation increases the tax revenue of the government. As businesses become more successful and profitable, they generate more tax revenue for the government.\nFinally, innovation leads to the development of new products and services, which improves the quality of life for all Australians. By developing new products and technologies, businesses are able to create better products and services at more competitive prices. This helps to make life easier and more enjoyable for everyone. \nIn conclusion, innovation brings with it many benefits: increased productivity, more job opportunities, higher economic growth, increased tax revenue and better quality of life. We must continue to encourage and support innovation in order to ensure that these benefits are enjoyed by all Australians.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Is online casino legal in India?",
+    "output": "Online casino is not legal in India as per the current laws. The Indian Government has not yet formulated any laws specifically prohibiting or allowing online casino. However, the laws which do exist prohibit any kind of gambling which includes online casino. It is illegal to operate an online casino in India, and it is also illegal to play at an online casino located outside of India. \nIn addition, several states in India have also implemented laws which further prohibit online casino. For example, the state of Maharashtra has laws which prohibit any kind of gambling, including online casino. \nTherefore, it is not legal to operate an online casino in India, or to play at an online casino located outside of India.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a section for an award application detailing how photography has insipired you",
+    "output": "Photography has been an inspiring passion of mine for many years. I am constantly in awe of the magic that photography captures and the emotions it can evoke. From the technical aspect of setting up the shot, to the creative aspect of post-processing, I'm always challenged and learning something new. Seeing the world through a photographer's eye has definitely influenced the way I view the world and has helped shape who I am. It has made me more aware of my surroundings and has given me a creative outlet to express myself.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I want to eventually become a plant/manufacturing/production manager, and eventually a Chief Operating Officer. What sort of experience and post-graduate education path would you recommend? Please provide non-obvious and atypical career paths leading to such positions, on top of the classic ones.",
+    "output": "1. Start by gaining experience in operations management, preferably in multiple industries. This can be accomplished through internships or entry-level positions, such as Production Supervisor or Manufacturing Associate.\n2. Develop a solid understanding of core business functions, such as finance and marketing, by taking classes or actively engaging in corporate projects.\n3. Take advantage of leadership development programs, such as those offered by the Institute of Management and Leadership, to learn how to lead and motivate teams.\n4. Develop strong communication and interpersonal skills by taking classes or engaging in activities such as Toastmasters.\n5. Build up your technical skills in areas such as project management, supply chain management, and continuous improvement.\n6. Gain experience in strategic planning by taking on a consulting role or working with a business development team.\n7. Broaden your experience by taking on international assignments or working with multicultural teams.\n8. Broaden your network by attending industry-specific events and conferences, and actively engaging on social media.\n9. Pursue a Master's degree in Business Administration (MBA) or a related field, such as operations management or industrial engineering.\n10. Demonstrate your leadership capabilities by taking on a management or leadership role in professional organizations, such as APICS or ISMA.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "explain the basics of area and perimeter",
+    "output": "Area is the amount of space a two-dimensional figure, such as a square, covers. It is measured in square units, such as square feet or square meters. Perimeter is the sum of the lengths of all the sides of a two-dimensional figure. It is measured in units of length, such as feet or meters. Area and perimeter are related, as the perimeter of a figure is equal to the sum of the areas of its sides.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a story about Anakin Skywalker encountering a Jedi who speaks and acts like a 1920s British aristocrat",
+    "output": "Anakin Skywalker had always been fascinated by the Jedi and their mysterious ways. So when he heard of a Jedi living in seclusion on a distant planet, he had to go and meet this enigmatic figure.\nAs he approached the old man's house, he saw that it was built in the style of a bygone age. The walls were thick and the windows were small, and the door was marked with a golden badge bearing the insignia of the Jedi Order.\nThe door opened as Anakin knocked, and he was surprised to see that the Jedi inside was dressed in a long black tailcoat and waistcoat, with a tall hat and a thin, black mustache. He bowed deeply and said, 'Welcome, Anakin. I am Master Yoda. It is an honor to meet you.'\nAnakin was even more surprised by the Jedi's speech. He spoke in a soft, refined accent that made him sound like he was from a bygone age. He asked Anakin about his journey, and then began to teach him the ways of the Jedi.\nIt was clear that Master Yoda had a great deal of knowledge and experience to offer, and Anakin felt privileged to be able to learn from him. As the days passed, he slowly but surely began to understand the mysteries of the Jedi.\nThough he never forgot the grandeur of Master Yoda's teachings, Anakin always remembered the unique way in which the Jedi had spoken and acted - a style that was as timeless as it was mysterious.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are the possible performance issues in a learning program on cross cultural communication",
+    "output": "Possible performance issues in a learning program on cross cultural communication may include difficulty understanding cultural nuances, lack of awareness of different cultural norms, inability to recognize and respect cultural differences, and lack of empathy. Additionally, participants may struggle with communication barriers due to language and cultural differences, or have difficulty adapting to different educational styles.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write description for 925 sterling silver miami cuban link chain",
+    "output": "The 925 sterling silver Miami Cuban link chain is crafted from solid silver and features a classic Cuban link style design. The links of the chain are thick and robust, ensuring that the chain will be durable and long-lasting. The chain is finished with a polished finish, giving it a bright and luxurious look.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "cost of fuel for a 14 mile journey in a car with 48mpg, fuel costs 625 pence per gallon and there is heavy traffic for half the journey",
+    "output": "The cost of fuel for a 14 mile journey in a car with 48 mpg is 242.5 pence. The fuel costs 625 pence per gallon and there is heavy traffic for half the journey.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How does money go from my pocket, through the stock market, and to support the business I've bought stock from?",
+    "output": "Money from your pocket is invested in the stock market. This investment is done through a stockbroker, who buys and sells stocks on your behalf. When you buy stocks, the money is used to buy shares in the company, which gives you a portion of the ownership. When the stock market rises, the value of your investments rise with it, and you make a profit. This profit is then used to buy more stocks, or can be withdrawn from the market.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can you provide a list of health food brands owned by Hispanic founders",
+    "output": "1. La Milpa Organics - founded by husband and wife team, Octavio and Martha Escobedo. La Milpa Organics produces organic and certified-natural health and beauty products for people of color.\n2. Sapelo Island Natural Products - founded by Dr. Mariama O. S. Dabo, a marine biologist and entrepreneur, specializes in natural skin and hair care products.\n3. Wilkins & Sons - founded by Wilkins and Marlene Ramos. The product line includes natural and organic body care items, such as soaps, lotions, and shampoos.\n4. Nubian Herbal - founded by Angela D. Green. The product line includes herbal teas, natural body care items, and natural hair care products.\n5. L'Bri Cosmetics - founded by Carolyn S. and Leonid W. Rich. L'Bri Cosmetics produces natural, organic skin care, hair care, and makeup products.\n6. Grupo Boticario - founded by Albina Duarte. Grupo Boticario is a cosmetics company that specializes in natural hair and skin care products for people of color.\n7. Khadi Herbal - founded by Madhu Khanna. Khadi Herbal produces natural, herbal and organic skin care and hair care products for people of color.\n8. Pure + Simple Life - founded by Maria M. Garcia. Pure + Simple Life produces all-natural, herbal and organic skin care and hair care products for people of color.\n9. Kahina Giving Beauty - founded by Karen Peltz. Kahina Giving Beauty produces natural, organic skin care and hair care products for people of color.\n10. The Miracle of Nature - founded by Ethel and Al Snyder. The Miracle of Nature produces natural, herbal, and organic skin care and hair care products for people of color.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "63-year-old male with diabetes for seven to eight years (BbA1c consistently between 5.9-6.5, fasting blood sugar around 7, other times high between 8-9-9.5, no low blood sugar). CKD for five years (starting with 24-hour urine protein within 200, GFR around 100, but in the last 1-2 years urine protein between 300-400mg, GFR between 60-70, most recent one being 56). No discomfort, not overweight, blood pressure normal, but skin often itches in winter; often constipated year-round. <br><br>Current medication: 1. Allisartan Tablets 240mg/day 2. Dapagliflozin Tablets 10mg/day 3. Metformin HCL 500mg*3/day 4. Pancreatic kininogenase enteric-coated Tablets.<br><br>Are there any better treatment options and medications available? Avoid or delay dialysis if possible. Are there any other exams that need to be done? What are the recommendations for exercise and diet in addition to medication? When should the above medication be switched to insulin due to CKD?<br>",
+    "output": "63-year-old male with diabetes for seven to eight years (HbA1c consistently between 5.9-6.5, fasting blood sugar around 7, other times high between 8-9-9.5, no low blood sugar). Chronic kidney disease (CKD) for five years (starting with 24-hour urine protein within 200, GFR around 100, but in the last 1-2 years urine protein between 300-400mg, GFR between 60-70, most recent one being 56). No discomfort, not overweight, blood pressure normal, but skin often itches in winter; often constipated year-round. \nCurrent medication: 1. Allisartan Tablets 240mg/day 2. Dapagliflozin Tablets 10mg/day 3. Metformin HCL 500mg*3/day 4. Pancreatic kininogenase enteric-coated Tablets.\nAre there any better treatment options and medications available? Avoid or delay dialysis if possible. Are there any other exams that need to be done? What are the recommendations for exercise and diet in addition to medication? When should the above medication be switched to insulin due to CKD? \nAnswer with as much detail as possible.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What if people only valued and took pride in the things that were true about themselves?",
+    "output": "If people only valued and took pride in the things that were true about themselves, they would be able to recognize their own worth and value the qualities that make them unique and special. They would be better able to recognize their own strengths and weaknesses and be able to use this knowledge to grow and develop as an individual. People would be more honest with themselves and would be able to set and achieve higher goals. This would lead to a greater sense of self-confidence and self-respect.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "It's officially 2023, and as we enter a brand new year, what better time to set up our revenue enablement goals for the new year in our Above Goal and Concierge Tools [    ] challenge learn the day-to-day tactics needed to live your best, healthiest life, while exceeding your business performance goals, as we enter this new season.<br><br>Can you come up with a two word name for the challenge akin to \"Live Well\" and fit it in the bracket above?",
+    "output": "Live Well Above Goal.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I need to learn English could you help me and make a exercise",
+    "output": "Exercise: \n\nI need to learn English. \n\nAnswer: \n\nTo learn English you can use a variety of resources. You can start by reading books and watching movies in English, using language-learning apps, or even taking an online English course. Additionally, you can practice speaking English with a native speaker by using a video chat program or attending an English language class.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why does warmth make you feel tired?",
+    "output": "Warmth makes you feel tired because when your body temperature rises, it causes your body to work harder to cool itself down. This extra effort requires more energy, which leads to feelings of tiredness. Additionally, higher body temperatures can cause your muscles to become weaker, which can make it more difficult to stay active and exercise.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write an article informing customer of my saas software that this currently is  beta version of the software and we are working hard to improve and release it to the market.",
+    "output": "We are excited to announce that a new software solution is now available in beta version. This SaaS product is the result of months of hard work by our development team and is aimed at providing customers with an easy-to-use, powerful, and reliable tool. To ensure the best user experience, we have equipped the software with a variety of features and functions. As we continue to develop the beta version, we are actively seeking feedback from our customers. This can help us to refine and improve the product before its official launch.\nOur team is dedicated to providing the best software solutions to our customers and we believe this new software is a great step forward. With its user-friendly interface and powerful capabilities, we believe it can be a great asset to any business. We look forward to seeing how this beta version evolves and to its official launch.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Explain me the Finite Elemente Method",
+    "output": "The Finite Element Method (FEM) is a numerical technique for solving engineering problems. It is a type of numerical analysis that uses a mesh of elements to approximate the solution to a given problem. Each element is composed of nodes, which represent the variables at each point in the element. By defining the equations of motion, stresses and strains, and the boundary conditions of the problem, the FEM can be used to calculate the unknowns and determine the response of the structure.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I've put a plate on top of an apple, and take the plate from kitchen to dinning room. Where is the apple now",
+    "output": "The apple is still on the kitchen table. The plate is on top of it.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Introduce the ”financial markets and institutions“ by Frederic S. Mishkin",
+    "output": "Financial markets and institutions are essential for the efficient operation of the economy. Financial markets allow investors to pool their funds and diversify their investments, while institutions such as banks, insurance companies, and investment firms facilitate the transfer of funds from lenders to borrowers. Financial markets provide the necessary capital for individuals, businesses, and governments to launch new projects or invest in existing ones. By providing liquidity to the economy, financial institutions enable economic growth.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "when are hops added to the brewing process?",
+    "output": "Hops are usually added to the brewing process near the end of the boil, although the exact amount and timing can vary depending on the beer style. During the boil, the hops add bitterness, aroma, and protection against bacterial infection.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can a Liebherr LTM 11200-9.1 hypothetically lift Mount everest",
+    "output": "Yes, the Liebherr LTM 11200-9.1 could hypothetically lift Mount Everest if it was equipped with the necessary cables and components. The crane would need to be extensively modified to operate in the high altitude environment and would have to be able to withstand the extreme temperatures and winds present at such an elevation. Additionally, the crane would have to have the necessary lifting capacity and components such as a large enough hook and line to lift the immense weight of Mount Everest. Finally, the crane would need to be able to move the mountain safely and without causing any additional damage.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write \"Test\"",
+    "output": "Test",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are five important topics for game design",
+    "output": "1. Player Engagement: This is one of the most important factors in game design. It encompsies the player's motivation, retention, and satisfaction.\n2. Balance: The balance of power and difficulty in the game needs to be carefully considered.\n3. Accessibility: The game should be able to be enjoyed by all types of players.\n4. Content: The game should have a variety of content and features to keep the player engaged.\n5. Aesthetics: The game should have an appealing visual design.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "You are a professional video creator. Your job is coming up with viral TikTok ideas. Your ideas are always, creative, and the TikTok audience loves them.\nWrite a viral TikTok video based on Batik Tradjumas.\nTopic: Batik Tradjumas",
+    "output": "Batik Tradjumas is an ancient art form from Indonesia that has been around for centuries. It is a type of textile art that involves dyeing cloth with natural substances and then embossing the design with a combination of wax and dye. The patterns can range from simple to highly intricate and each piece is unique as the result of the handmade process. The colors and shapes used in the art work are inspired by nature and the culture of Indonesia. The art form has spread to other countries, but the original batik tradition can still be found in Indonesia. It is now becoming increasingly popular in the US and other parts of the world, as people appreciate the art form for its unique beauty and culture.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a daily exercise routine for Monday to Sunday with a rest day in between, each day summarized in 160 characters or less",
+    "output": "Monday: 30 minutes of cardio, 20 minutes of strength training\nTuesday: 25 minutes of HIIT, 20 minutes of yoga\nWednesday: 25 minutes of jogging, 20 minutes of push-ups\nThursday: 20 minutes of swimming, 25 minutes of sit-ups\nFriday: 20 minutes of cycling, 25 minutes of squats\nSaturday: 30 minutes of tennis, 20 minutes of planks\nSunday: 20 minutes of walking, 25 minutes of stretching",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Act like a first-year college student and write a 1000-1250 word two-topic essay by using at least three points of analysis. Topic 1 is my experiences living in and observations of  Flagstaff, Arizona.   Topic 2 is my experiences living in and observations of  Kaneohe, Hawaii. Use quotes from two sources in the essay. Use descriptive language.  Include personal anecdotes.  These sources will be listed in a Works Cited at the end of the essay. Use a four in-text citations in MLA style in the body of the essay.  ",
+    "output": "I moved to Flagstaff, Arizona in 2018, and it was the most culture shocking experience of my life. The city was so different from what I was used to; it was much colder, and the landscape was like nothing I had ever seen before. But despite the initial shock, I soon grew to love the city. One of my favorite things about Flagstaff is its vibrant downtown area, with all its unique shops, cafes, and restaurants. I also discovered a love for the outdoors, exploring the beautiful state parks and trails nearby. \n\nOne of the most interesting aspects of living in Flagstaff is the university. With its diverse student population and many cultural events, the university is a large part of the city's vibrant atmosphere. I was able to attend many free events such as concerts, plays, and lectures, and I even took a few classes there. \n\nOverall, I am so grateful for my time in Flagstaff. It was an amazing experience that not only opened my eyes to a new culture and way of life, but also changed me as a person. I learned so much, not just academically, but also about life in general. I am so glad I had the opportunity to spend a year in Flagstaff and I will never forget it.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "ideas for building a waitlist for a new product or service",
+    "output": "We can build a waitlist for our new product or service by using a variety of strategies. We could create an online form for people to fill out with their contact information and any other relevant details. We could also use email marketing campaigns to reach out to potential customers and provide them with a link to join the waitlist. Additionally, we could create social media campaigns to spread the word and encourage people to sign up. Finally, we could reach out to influencers and have them help us spread the word about the waitlist.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "assume the persona of a therapist and walk me through how to be less reactive and use a pause ritual",
+    "output": "As a therapist, I would advise you to take some deep breaths and count to ten when you feel yourself becoming reactive. This is a great way to pause and take a break from the situation. You can also take some time to practice mindfulness and self-reflection. For example, you could take a few moments to notice your physical sensations, your thoughts, and your emotions without judgment. Doing this can help you to gain some much needed perspective and create space for a more considered response.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write a 5 verse song in the style of Talking Heads based on the life of a teenager in the 1980s britain",
+    "output": "Verse 1:\nIn the 80s, life was so hard\nLiving in the shadows, not knowing what to do\nThe kids all had to fight\nJust to make it through the night\n\nChorus:\nWe'd stay up all night\nJust to find the light\nWhen the day came around\nWe'd do it all again\n\nVerse 2:\nWe'd watch the charts, so excited\nTo see what new bands had come\nWe'd save up our money\nTo buy the latest records\n\nChorus:\nWe'd stay up all night\nJust to find the light\nWhen the day came around\nWe'd do it all again\n\nVerse 3:\nWe'd play our favorite songs\nIn our bedrooms as loud as we could sing\nWe'd dream of the day\nThat we'd make it to the end\n\nChorus:\nWe'd stay up all night\nJust to find the light\nWhen the day came around\nWe'd do it all again\n\nVerse 4:\nWhen we were old enough\nWe'd go out and have some fun\nWe'd dance till the morning light\nAnd do it all again\n\nChorus:\nWe'd stay up all night\nJust to find the light\nWhen the day came around\nWe'd do it all again",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Who will be the president of South Korea in 2023?",
+    "output": "The president of South Korea in 2023 will be Lee Jae-myung of the Democratic Party. He was elected on May 10th, 2022 and will assume office on February 25th, 2023. He is the youngest ever president of South Korea and has promised to focus on economic and social policies such as reducing poverty and inequality, increasing investment in education and healthcare, and improving relations with North Korea.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write an article about the site's backlink and its importance\"Use the following keywords in the article Questions Others Asked\nWhat is a backlink example?\nWhat are SEO backlinks?\nDo backlinks help SEO?\nHow do I get backlinks?\"",
+    "output": "A backlink is an important element of SEO (Search Engine Optimization). It is when another website links to your website, giving it an added layer of credibility. This is a key factor in determining the ranking of a website and can significantly increase its visibility and traffic. \nA backlink example is when a website links to your website. This can be done by hypertext (HTML) links, image links, or even mentions of your website in content. \nSEO backlinks are links from other websites to your own, which can improve your search engine rankings. Do backlinks help SEO? Yes, they can help to increase your visibility in search engine results, as well as build your credibility and trustworthiness. \nThere are several ways to get backlinks, such as creating content that is interesting and useful, networking with other websites or blogs, or reaching out to other website owners to ask for a link. Additionally, creating a strong social media presence and engaging with other users can also help to get backlinks. \nIn summary, a backlink is an important element of SEO (Search Engine Optimization). It is when another website links to your website, giving it an added layer of credibility. This can significantly increase its visibility and traffic. Backlinks can also help to improve your search engine rankings and build your credibility and trustworthiness. \nThere are several ways to get backlinks, such as creating content that is interesting and useful, networking with other websites or blogs, or reaching out to other website owners to ask for a link.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I run a website about merchant navy studies. What are some subniches I should be tackling with my content. Give me the restults as a table with the sub niche a number between 1 and 100 to indicate the sub niche popularity.",
+    "output": "Sub niche | Popularity\n------ | --------- \n1. Deck Cadet Training | 20\n2. Maritime Law | 30\n3. Merchant Navy Studies | 50\n4. Maritime Education | 40\n5. Marine Engineering | 60\n6. Nautical Science | 70\n7. Maritime Security | 80\n8. Maritime Safety | 90\n9. Port Management | 100\n10. Ship Building | 90",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what language does argentina people speak",
+    "output": "Argentina people speak Spanish, with some Quechua and Guarani languages also being spoken. Spanish is the official language, but some provinces have their own language as well.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "is queue an ADT or a data structure",
+    "output": "ADT. An ADT is an Abstract Data Type, which is a type of data structure that specifies a set of operations that can act upon a certain data set. In other words, an ADT is a set of operations that can act upon a certain data set, such as insert, delete, and search operations. A queue is an example of an ADT because it specifies the operations that can act upon a certain data set, in this case, operations that can act upon a list of data.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "In order to launch a token for a Defi project, I want to sell some tokens privately to early investors and then add it to a launchpad. let me know what can I do with my smart contract? Should I create a presale contract separate from main contract?",
+    "output": "Yes, you should create a separate presale contract for the private sale. The private sale contract should include the terms and conditions of the sale, such as the amount and price of tokens, the timeline, and the eligibility criteria for investors. The main contract should then be created on the launchpad platform and include the same terms as the private sale, as well as any additional terms that are specific to the launch.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what is the recommended pattern for creating games in godot",
+    "output": "Creating games in Godot follows a fairly standard process. First, you'll need to create a new project in Godot, and then create your game's assets and code. This includes creating sprites, animations, sounds, levels, and code to interact with the user and control the game's logic. After that, you'll need to set up the game's UI and configure the build settings. Finally, you'll need to compile the game with the Godot game engine and test it on different platforms.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I want you to act as a Tiktok Ads Keywords generator. Your task is to come up with keywords that can be used in Tiktok advertising campaigns. The keywords should be relevant to the target audience and the product or service being advertised. Your responses should not include more than 5 keywords per request.",
+    "output": "Request: Generate keywords related to fitness\nKeywords: fitness, workout, exercise, nutrition, healthy lifestyle",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are some basics of nutrition that i should be aware of",
+    "output": "1. Eating a balanced diet is essential for good health. A balanced diet consists of foods from all the major food groups including grains, proteins, fruits, vegetables, and dairy products. \n2. Avoid overeating and practice mindful eating. Pay attention to when you are full and stop eating when you are satisfied. \n3. Drink plenty of fluids, such as water and low-fat milk. Aim for 6-8 glasses of fluid a day. \n4. Eat foods with a low glycemic index, as these will provide more sustained energy. \n5. Eat a variety of nutrient-dense foods, such as fruits and vegetables, which are excellent sources of vitamins and minerals. \n6. Limit processed and fried foods, as well as sugars and salt. \n7. Avoid eating too much saturated fat, trans fat, and cholesterol, which can lead to coronary heart disease.\n8. Eat foods with healthy fats, such as nuts, seeds, and fatty fish. \n9. Aim for physical activity and exercise, as this helps to maintain a healthy weight, lower blood pressure, and reduce stress. \n10. Get enough sleep, as this helps to maintain a healthy immune system and supports digestion.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what would be a good idea for a quiz about omnichannel marketing on my website",
+    "output": "A good idea for a quiz about omnichannel marketing on your website would be to ask questions about the different channels used in omnichannel marketing campaigns, such as strategies for customer engagement, personalization, and optimization. Questions such as \"What is the importance of customer engagement in an omnichannel marketing strategy?\" and \"What are the benefits of personalization in an omnichannel marketing campaign?\" would be appropriate. Additionally, questions about optimization strategies such as real-time analytics and customer feedback could be included.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I'm preparing a fun session with work colleagues in a tech company. I will present funny future circumstances, and the team will vote on who is the person most likely to be in that circumstance 10 years from now. The circumstances must be funny yet respectful and safe for work. Please help me come up with a few of these circumstances. To help you, please consider this example: \"In 10 years time, who is the most likely to have won the lottery\"",
+    "output": "In 10 years time, who is the most likely to have become an Internet celebrity? Answer with as much detail as possible.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "You will simulate an SEO expert. What keywords should a screenwriting software target",
+    "output": "The keywords to target would depend on the genre of the screenwriting software and its specific features. For example, if the software is focused on writing action movies, then keywords related to action, suspense, and thrills would be appropriate. If the software is focused on writing comedies, then keywords related to humor, jokes, and laughter would be more appropriate. Additionally, if the software is focused on writing horror films, then keywords related to scary, creepy, and suspenseful would be appropriate.\nIn general, keywords related to the features of the software should be targeted, such as plot and character development, scene and story structure, formatting and formatting tips, and so on. Other keywords related to the film industry, such as production, filmmaking, and acting, could also be targeted. Additionally, keywords related to writing software, such as user-friendly and intuitive, should be targeted.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write lyrics that only rhyme a little bit (not every verse needs rhyming or exact pacing), for a progressive metal song about loving jesus",
+    "output": "Verse 1:\nLost in a world of pain,\nHeaven was my only gain.\nJesus came and rescued me,\nHe set my spirit free.\n\nChorus:\nI love Jesus, I love Jesus,\nHe is the one that I need.\nI love Jesus, I love Jesus,\nHe is the one that I seek.\n\nVerse 2:\nA new life I have found,\nJesus is what I've discovered.\nHe shines light in the darkest night,\nBringing hope to my life.\n\nChorus:\nI love Jesus, I love Jesus,\nHe is the one that I need.\nI love Jesus, I love Jesus,\nHe is the one that I seek.\n\nBridge:\nHe is the light of my life,\nMy love for him is so divine.\nI will follow him all the way,\nHe will lead me on the right path.\n\nChorus:\nI love Jesus, I love Jesus,\nHe is the one that I need.\nI love Jesus, I love Jesus,\nHe is the one that I seek.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a snoopdogg rap explaining how to not commit a warcrime",
+    "output": "Verse 1:\nWhat is a war crime? It's a serious offense against international law\nThink before you act, don't commit a war crime\nBreakin' the rules and thinkin' it's cool\nDon't be a fool, it's not worth the cool\nKnow the laws and know what's right\nDon't commit a war crime when you fight at night\nVerse 2:\nDon't commit a war crime when you go to battle\nDon't do it in cold blood, that's murder not battle\nIf you do it's a war crime, that's for sure\nAnd you'll be known as a war criminal, not a hero\nHouse of cards will fall, it's not right\nWhen you commit a war crime, you're on the wrong side\nChorus:\nDon't commit a war crime, it's against international law\nDon't commit a war crime, it's against international law\nVerse 3:\nDon't think you can get away with it\nIt's a serious offense and it's against the law\nDon't think that you're untouchable\nThe law will catch up to you, it's inevitable\nDon't do it, it's not worth it, don't do it\nDon't commit a war crime, it's against international law\nDon't commit a war crime, it's against international law\nChorus:\nDon't commit a war crime, it's against international law\nDon't commit a war crime, it's against international law",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "\"I am trying to win over a new client for my writing services and skinny brown dog media to as as a ghost writer for their book Unbreakable Confidence. Can you help me write a persuasive proposal that highlights the benefits and value of having a editor/publisher\"",
+    "output": "Unbreakable Confidence will be a book that is written from the perspective of a lifetime of experience in helping individuals achieve their goals through developing self-confidence. The book will provide a step-by-step process for uncovering and overcoming the self-limiting beliefs and behaviors that are holding the reader back from achieving success in their lives. With the help of a professional ghostwriter and editor, the book will be an engaging and eye-opening journey of self-discovery and empowerment that will leave readers with the tools to not just achieve their goals, but to have Unbreakable Confidence in their ability to succeed.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "question about Computer architecture and organization \nfor 6 marks\nwhat in general terms is the distinction between computer organization and computer architecture ?\ngive answer in full sentence points if possible",
+    "output": "Computer organization is the arrangement of components and the way in which they interconnect in a computer system. It focuses on how the components of a computer system interact to process data. Computer architecture, on the other hand, is the structure of a computer system and the way in which it is designed. It involves the identification of components and their interfaces, as well as the composition and structure of the computer system. Computer architecture is concerned with the efficiency and scalability of the computer system, while computer organization focuses on the internal workings of the components and how they interact to process data.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "i'm working on a spatial analysis project and am looking for questions I can answer with it related housing and crime analysis, do you have suggestions? ",
+    "output": "Suggestions for questions related to housing and crime analysis include: \n- What areas have the highest crime rates compared to other areas?\n- Does the availability of affordable housing influence crime rates?\n- What type of housing is most likely to be targeted by criminals?\n- Does the location of housing affect its likelihood of being targeted?\n- Do certain types of buildings, such as apartment buildings, have more crime than others? \n- Do certain types of neighborhoods have higher crime than others?",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "The sum of the distances the sun travels around the Earth during a solar eclipse is 1059 kilometres. Write a formula that finds the distance between the sun and Earth. How many years will the eclipse last?",
+    "output": "The formula to calculate the distance between the Sun and Earth is: \nD = (r ± h) / (2 × a) \nwhere r is the radius of the Sun, h is the height of Earth's orbit, and a is the semi-major axis of Earth's orbit. \nThe distance between the Sun and Earth during a solar eclipse is 1059 kilometres. It will take 8.55 years for the eclipse to happen.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What's the permission that allows creating provisioning profiles in Apple Developer account is called?",
+    "output": "The permission that allows creating provisioning profiles in Apple Developer account is called the \"Certificates, Identifiers & Profiles\" permission. This permission allows you to create and manage all kinds of identifiers, including Apple App Store identifiers, Ad-Hoc and Enterprise provisioning profiles, and development and distribution certificates.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I am an aikido teacher and student of Tomita Seiji who is living in Belgium. I am inspired by the teaching of J Krishnamurti for many years now, and I wonder if there would be an aproach in teaching aikido based on the educational ideas Krishnamurti developed. Can you suggested some posibilities in a concise way?",
+    "output": "Krishnamurti's educational philosophy emphasizes the importance of learning through inquiry and understanding through experience. His approach suggests that students should not be instructed or told what to do, but should be encouraged to explore and discover for themselves. This could be applied to aikido by having the students learn through experimentation and questioning, rather than being told exactly what to do. The teacher's role would be to facilitate the student's exploration and provide an environment in which the student can explore and discover for themselves.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "phrase an email to my manager kindly asking for feedback for a dashboard I sent him for his use, and also ask him if I should publish this dashboard to the team, and if there's a certain way he wants me to publish it, or certain orientation to emphasis when publishing",
+    "output": "Hi [manager name],\nI hope this email finds you well. I sent you a dashboard that I thought would be helpful for you to monitor [monitoring objectives]. I'm now wondering if you had a chance to review it yet and if you have any feedback that you'd like to share. \nIn addition, I was also wondering if I should publish this dashboard to the team. If so, is there a certain way you would like me to do so or perhaps a certain orientation to emphasize when publishing? \nThank you for your time and consideration.\nSincerely,\n[Your name]",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write a detailed business plan for fatherhood training based on Dwayne Meeks book Pieces never missing in a childs life",
+    "output": "Fatherhood Training is a business that will provide training to fathers to help them become better, more involved fathers in their children’s lives. The business will be based on the principles outlined in Dwayne Meeks book, Pieces of the Puzzle: A Father's Guide to Raising Responsible, Self-Disciplined Children. \n\nThe goal of the business is to provide fathers with the knowledge and tools they need to create a strong, lasting relationship with their children, while providing a safe, nurturing environment for them to thrive. The business will provide both online and in-person training programs for fathers, as well as educational resources for fathers-to-be. We will also provide resources for other professionals working with fathers, including counselors, educators and social workers. \n\nThe business will be run by a team of experienced fatherhood educators, who will design the curriculum, deliver the training programs, and provide ongoing support to the fathers who have completed the program. The training programs will cover topics such as childhood development, effective communication, managing stress, and creating a safe and nurturing home environment. \n\nThe business will have a strong focus on helping fathers strengthen their relationships with their children, as well as helping fathers to develop the skills they need to provide a secure, loving home life.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Need 300 words on the importance to documenting history in relation to the future",
+    "output": "Documenting history is essential for understanding our past in order to better shape our future. History is more than just a collection of facts and dates, it’s a way to learn from our experiences and make sense of our present. By studying and recording the past, we can better appreciate the present, as well as be better prepared for the future.\nHistorical documentation helps us to understand the world around us and gain insight into our own lives. It can provide meaning and context to current events, help us better understand different cultures, and give us a deeper understanding of our own identity. Historical records also provide evidence to support arguments, help us to make better decisions in the future, and provide an important source of information for future generations.\nDocumenting history is also important for preserving our cultural heritage and making sure that our stories and achievements are remembered. Without documentation, our history would be lost, and our legacy would be incomplete.\nThe importance of documenting history cannot be understated. Through documentation, we can ensure that our past is remembered, and that we can learn from our mistakes in order to create a better future.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "there used to be a program for winmx called mcma, what does mcma stand for and what does the program do?",
+    "output": "MCMA stands for Multi-Chat Live Music Archive. It was a program developed by WinMX users to expand the capabilities of the WinMX file sharing program. It enabled users to share and download live music recordings, as well as chat with each other in real-time. It was highly popular among WinMX users, and was the first program of its kind.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What are the USP for a saas survey tool",
+    "output": "Our SaaS survey tool provides users with the ability to create, analyze and share surveys from any device. We have a user-friendly interface which allows users to easily design and customize surveys, with a wide range of question types. Our survey tool also provides powerful analytics and automation tools allowing users to track, analyze and act on survey data in real-time. Additionally, our tool is secure and scalable, allowing users to easily add new surveys and manage large amounts of data.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "is a bannana a fruit or a herb",
+    "output": "A banana is a fruit. It is a yellow, creamy-colored food that grows on a tree and is eaten as a snack or as part of a meal.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why did the building of a pipeline have to be voted on by the government(USA)? Doesn't this infringe on government interfering with private corporations?<br>",
+    "output": "The building of a pipeline in the United States requires approval from the federal government because it involves crossing state lines and/or federal lands. The approval process is done through a joint decision-making process between the federal government and the state where the pipeline would be located. This process is designed to ensure that all potential impacts are considered and addressed. Additionally, the federal government has the power to regulate interstate commerce, which includes pipelines, therefore allowing them to be built in a safe and efficient manner. \nIn regards to government interference with private corporations, the approval process does involve the government making a decision that could potentially benefit a particular company. However, the approval process is designed to be fair and balanced, taking into account the needs of all stakeholders, including the public, as well as any potential environmental impacts. Ultimately, the decision to build or reject a pipeline is left to the government, as it is their responsibility to ensure that the building of a pipeline is done in a safe and responsible manner.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Simplify \"Most of the basic functions of current virtualization software are inherited from this early VM OS. The virtualization software is now represented with the term hypervisor. Hardware virtualization is used to share the resources of the cloud providers effectively with the customers by generating an illusion of dedicated computing, storage, and networking on a computing infrastructure.<br><br>The concept of virtualization is physically implemented using the hypervisor modules, and the operation and processing of hypervisors are materialized by the OSS. In other words, hypervisor modules are installed on top of OSS, which act as an interface between hardware units and hypervisor packages.\"",
+    "output": "Most of the basic functions of current virtualization software are inherited from this early VM OS. The virtualization software is now represented with the term hypervisor. Hardware virtualization is used to share the resources of the cloud providers effectively with the customers by generating an illusion of dedicated computing, storage, and networking on a computing infrastructure. The concept of virtualization is physically implemented using the hypervisor modules, and the operation and processing of hypervisors are materialized by the OSS. In other words, hypervisor modules are installed on top of OSS, which act as an interface between hardware units and hypervisor packages.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "i assume you are familiar with the Drake equation. Can you give estimates and error margins for each of its parameters, then calculate the result including error bounds.",
+    "output": "The Drake equation can be expressed as: \nN = R * Fp * Ne * Fl * Fc * L\nwhere N is the number of civilizations in the galaxy, R is the rate of star formation, Fp is the fraction of stars that have planets, Ne is the average number of planets per star that can support life, Fl is the fraction of planets that actually do support life, and Fc is the fraction of planets where life leads to communication.\nThe rate of star formation is uncertain, but it is estimated to be around 1.5 Msun/yr. The fraction of stars with planets is estimated to be around 0.5, and the average number of planets per star that can support life is estimated to be around 2.5. The fraction of planets that actually do support life is also estimated to be around 0.5, and the fraction of planets where life leads to communication is estimated to be around 0.01 (1%).\nThus, the estimated total number of civilizations in the galaxy is 4.5 and the estimated total number of planets in the galaxy is 4.5 x 1.5 x 0.5 x 0.5 x 0.5 x 1.5 x 0.01 = 1.4 x 10^16, assuming each planet can only support one civilization.\nThe error margins for the various parameters of the equation can be estimated as follows:\nThe rate of star formation is estimated to be around 1.5 Msun/yr, but it is actually closer to 0.5 Msun/yr.\nThe fraction of stars with planets is estimated to be around 0.5, but it is actually closer to 0.1.\nThe average number of planets per star that can support life is estimated to be around 2.5, but it is actually closer to 4.\nThe fraction of planets that actually do support life is estimated to be around 0.5, but it is actually closer to 0.3.\nThe fraction of planets where life leads to communication is estimated to be around 0.01 (1%), but it is actually closer to 0.001 (0.1%).\nThus, the estimated total number of civilizations in the galaxy is 4.5, and the estimated total number of planets in the galaxy is 4.5 x 1.5 x 0.1 x 0.3 x 0.1 x 0.001 = 1.4 x 10^16.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are african governments doing to improve air traffic connectivity",
+    "output": "In recent years, African governments have been taking steps to improve air traffic connectivity on the continent. For example, the African Union Commission has been leading a project to develop a Single African Aviation Market, which would create a more unified and connected airspace with harmonized regulations and standards. Additionally, some countries have been investing in modernization and upgrading of air traffic management systems, such as the African Union's Pan-African e-Learning Platform for Air Traffic Control. Furthermore, many countries have also been investing in improving their aviation infrastructure, such as airports and air navigation services. These investments have allowed for better air traffic connectivity and increased access to air travel for people across Africa.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a pitch for a horror movie that plays on the island Sylt in northern germany in the 19th century. Include fishermen and a sinister force that drives the inhabitants insane.",
+    "output": "The horror movie is set on the island of Sylt in northern Germany in the 19th century. It follows a group of fishermen who are struggling to make a living as the sea slowly begins to take its toll on their livelihoods. As the fishermen are forced to take greater and greater risks to make ends meet, they gradually uncover a sinister force that is driving the island's inhabitants insane. As their lives and sanity are slowly stripped away, they must struggle to survive and find the courage to face the evil that lurks within their midst.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I want to open the developler tools in chrome with ctrl + shift + i on this website: https://mnsw.pro/\nIt doesnt work. works on other websites. even here. what is wrong?",
+    "output": "The reason why this does not work on that website is because the developer tools do not load when you press Ctrl + Shift + I. This is because the website does not allow the browser to access its resources. To make it work, you need to contact the website owner and ask them to allow the browser to access the resources.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Consider this situation. Customer is ready to pay $13 for my product but we are not able to raise invoice for less than $20. So in this situation, act like a top sales person &amp; closing expert &amp; give me an email copy to upsell this customer with another $13 product so that it can create a win win situation.",
+    "output": "Dear Customer, \n\nI understand that you are ready to purchase our product for $13. Unfortunately, we are not able to raise invoices for amounts less than $20. To make this work for both of us, I suggest that you purchase an additional product from our store for $13. This will bring your total purchase to $20 which we can now process. \n\nI have sent you an email with the details of the product. Please let me know if you have any questions. \n\nThank you for your business and I look forward to hearing from you soon. \n\nSincerely, \n[Your Name]",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are the important points for brand promotion and brand marketing",
+    "output": "importance of brand promotion and brand marketing: \n1. Establish a distinct brand identity: Brand promotion and marketing help to establish a distinct identity for a brand. This identity should be unique and should resonate with the target audience. \n2. Increase brand awareness: Promotion and marketing help to increase brand awareness by reaching more potential customers. \n3. Build trust: By engaging with customers and creating content that resonates, promotion and marketing can help to build trust and loyalty with the brand. \n4. Drive sales: Promotion and marketing can help to drive sales by increasing brand awareness and trust. \n5. Create engagement: Promotion and marketing can help to create engagement with the brand by offering incentives, running contests, and creating content that encourages customer interaction.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What niches are not being fulfilled on the YouTube platform?",
+    "output": "Niches that are not being fulfilled on the YouTube platform include spaces for educational content, mental health and wellness resources, and news related content. There is a lack of content available for these topics, leaving a gap in the platform.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "in billiards what happens if on the break every strip ball is pocketed?",
+    "output": "If every strip ball is pocketed on the break in billiards, it is considered a perfect break and the incoming player has a difficult task of potting all the coloured balls in the correct order. If the incoming player is successful, they will earn a lot of points and be in a good position to win the game. If not, the breaker will continue to increase their score.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Digital transformation project plan example",
+    "output": "The digital transformation project plan should include the following steps: \n\n1. Establish a clear goal and scope for the project.\n2. Analyze current processes and identify opportunities for improvement.\n3. Develop a detailed blueprint for the project, outlining the technical requirements, timeline, and resources.\n4. Implement the proposed changes and train the relevant staff. \n5. Monitor the progress and make any necessary adjustments.\n6. Measure the results and evaluate the success of the project.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Where can I buy computer mouse base that can take different covers to it. I want to 3d print a custom cover for it and sell them",
+    "output": "You can buy a computer mouse base from an electronics store, online retailer, or online auction site. It is important to buy a base that is compatible with your specific computer and is compatible with the type of mouse you are using. It is also important to buy a base that can take different covers as you will need to 3D print a custom cover for it. Make sure to check the size and dimensions of the base to ensure it is compatible with your 3D printing software and 3D printer.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "find a word that represents people reacting to unpleasant events",
+    "output": "The word is \"react\". People react to unpleasant events with a variety of emotions, ranging from anger and fear to sadness and disbelief. Reactions can also include attempts to make sense of the event, seeking support from family and friends, and taking action to address the situation.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How does Kahane's ethics of violence echo that of Fanon and Zizek when discussing to the American Jewish Establishment?",
+    "output": "Kahane's ethics of violence echo those of Fanon and Zizek in that they all advocate for violence under certain conditions. For Fanon, this means using violence in order to decolonize and gain liberation from colonial oppressors. For Zizek, this means using violence in order to counteract the rise of the far right. Likewise, Kahane advocated for the use of violence in order to protect the Jewish people from what he perceived as an existential threat. He believed that in order to preserve the Jewish identity and heritage of the State of Israel, force may be used against those who sought to destroy it. Kahane's approach is similar to Fanon's and Zizek's in that it advocates for the use of violence as a means to an end, albeit for different ends. Kahane's notion of ethical violence is based on the idea that the ends of using violence justifies the means, while Fanon and Zizek's notion of ethical violence is based on the idea that the means of using violence should be as humane and morally justifiable as possible.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Make a slide to introduce Cantonese",
+    "output": "Welcome to Cantonese Answer. We are the leading provider of Cantonese language learning solutions. Our courses are designed to help you learn Cantonese quickly and effectively. With our comprehensive course offerings and our user-friendly platform, you will be able to study when and where it is convenient for you. Our courses cover all levels, from beginner to advanced. We also offer a range of services, including private lessons, assessment tests, and corporate programs. Join our community today and start learning Cantonese now!",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I am trying to create an economic management book on the impact of AI technology development on the content industry and how to prepare, plan, and actually apply AI technology, apps, and tools that can be used depending on the type of content from the perspective of companies and individuals. Please provide a table of contents for the 50-listed book and a brief description of each table of contents.\nAnswer in English.",
+    "output": "Table of Contents:\n1. Introduction\n2. History of AI Technology\n3. Industry Impact\n4. Preparing for AI\n5. Planning for AI\n6. Applying AI\n7. Benefits of AI\n8. Challenges of AI\n9. Conclusion\nBrief Description of Table of Contents: \n1. Introduction: This chapter provides an overview of the impact of AI technology on the content industry, including its history and current status.\n2. History of AI Technology: This chapter covers the history of AI technology, from its inception to the current state of the industry.\n3. Industry Impact: This chapter looks at the impact of AI technology on the content industry, from the perspective of companies and individuals. It covers topics such as preparing and planning for AI, and applying AI to content. \n4. Preparing for AI: This chapter covers steps companies and individuals can take to prepare for the use of AI technology, such as training and research.\n5. Planning for AI: This chapter looks at the process of creating plans and strategies to effectively utilize AI technology.\n6. Applying AI: This chapter covers the process of actually applying AI to content, such as selecting the right tools and techniques.\n7. Benefits of AI: This chapter looks at the potential benefits of using AI technology in the content industry, such as increased efficiency and accuracy. \n8. Challenges of AI: This chapter examines the potential challenges of using AI technology in the content industry, such as privacy and ethical issues.\n9. Conclusion: This chapter provides a summary of the impact of AI technology on the content industry. It looks at the potential benefits and challenges of using AI, and provides guidelines for companies and individuals.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "who does lady gaga play in american horror story",
+    "output": "Lady Gaga plays the role of Scarlet in American Horror Story: Hotel. She is a vampire and the former lover of John Lowe, played by Denis O'Hare. Lady Gaga wears a variety of elaborate costumes in the show, ranging from a bejeweled bustier to a full-on mink coat. Her character is a powerful presence in the Hotel and has a strong influence on John. Lady Gaga's performance has been praised for its intensity and emotion.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a poem about Mike and Joe becoming millionaires by leveraging the power of AI to become the greatest Agile coaches in history. Include content from the agile manifesto.",
+    "output": "Mike and Joe, two very ambitious guys,\nWere determined to become millionaires.\nThey heard of a new technology, AI,\nThat could help them reach their desires.\n\nThey studied hard, learned all they could,\nAnd quickly became two of the best.\nThey used the Agile manifesto as their guide,\nAnd became the greatest Agile coaches in history.\n\nThey leveraged the power of AI,\nAnd became the most sought after guys.\nAll the teams wanted them on their side,\nTo help them become Agile from the inside.\n\nThey worked tirelessly, helping each team,\nAnd soon they reached their dream.\nMike and Joe became the greatest Agile coaches in history,\nBy leveraging the power of AI.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Rewrite the given introductory paragraph so that it starts with a pertinent anecdote. Also rewrite the thesis so that it is succinct and concise:    \"Many types of black people have different cultural backgrounds and experiences. For example, African and African American cultures share a common ancestry and history of struggles but have distinct cultural identities. While both groups are considered Black, they have different experiences, records, and cultural practices. As Saint Augustine said, “The world is a book, and those who do not travel read only a page.” This quote emphasizes the importance of exploring other cultures to understand their experiences better. As I have gotten older, I have come to understand the similarities and differences between these two individuals.\"",
+    "output": "I have come to appreciate the beauty of diversity as I have grown older. One example of this is the realization that not all black people are the same, despite the common ancestry and history of struggles shared by African and African American cultures. While both groups are considered \"black\" in the United States, they have distinct cultural identities, records, and practices. This is especially highlighted by Saint Augustine's quote, \"The world is a book, and those who do not travel read only a page.\"\n\nTraveling and exploring different cultures has taught me to appreciate the experiences, records, and practices of different cultures. It has allowed me to understand the similarities and differences between African and African American cultures, and it has given me a better understanding of the struggles and achievements of both groups. As I have gotten older, I have come to understand that the world is made up of various stories and experiences, and that it is important to explore and appreciate them all.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "explain TypeScript and Duck Typing",
+    "output": "TypeScript is a programming language that combines the best features of both functional and object-oriented programming paradigms. It is a statically-typed, interoperable, and general-purpose programming language that combines the type safety of functional programming with the flexibility of object-oriented programming. \n\nIn TypeScript, duck typing is a technique for designating a type to an object by asserting that it has the required properties or methods, regardless of the actual type of the object. This approach to type checking is based on the concept of “behaving like a particular type”. Duck typing is a practical implementation of the “interface segregation” pattern, which enables developers to write code that depends on an object’s interface without needing to know its exact type. \n\nDuck typing provides a simple and type-safe way to check if an object has certain properties or methods, which can help reduce the risk of errors and ensure code quality.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "how are carbon fibers used in buildings",
+    "output": "Carbon fibers are used in the construction of buildings to reinforce concrete, provide strength and stiffness, and reduce weight. They are also used in the production of membrane structures, which are lightweight, flexible buildings made from polymer materials and carbon fiber reinforcements. Carbon fibers are also used in the production of insulation and reinforced polymer composite walls, floors, and roofs. In addition, carbon fibers can be used to create structural elements such as columns, beams, and arches, which can be used to support or reinforce the structure of a building.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Please summarise in point form \"Challenges for\nAfrican Agriculture\" by Jean-Claude Devèze",
+    "output": "1. Inadequate access to productive resources.\n2. Poor access to markets.\n3. Lack of investments in agriculture.\n4. Low levels of mechanization.\n5. Poor farming technologies and practices.\n6. Inadequate access to financial services.\n7. Unstable political and economic conditions.\n8. Natural resource degradation.\n9. Climate change.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "When I open Anki browser, It shuts down. how can i fix this?",
+    "output": "When you open the Anki browser, it is likely that you are launching the application using the command line or a shortcut. To keep the application running, you will need to set up a system to monitor the application's memory and kill the process if it reaches a certain threshold. You can also set up an auto-start program that will monitor the memory and automatically kill the process if needed.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "how much of a threat is climate change in the coming years, and what should we do to stop it?",
+    "output": "Climate change is a very serious threat in the coming years. It is caused by the increased emission of greenhouse gases, such as carbon dioxide and methane, which trap heat in the atmosphere and cause the planet to warm. This is leading to extreme weather patterns, rising sea levels, and a host of other problems. To stop it, it is important to reduce the emissions of these gases by using less fossil fuels, planting more trees that absorb carbon dioxide, and using renewable energy sources. These are all actions that individuals, businesses, and governments can take to make a difference.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why does it feel like less effort to watch 3 - hour long TV episodes back to back than a film?",
+    "output": "It likely feels like less effort to watch three hour long TV episodes back to back than a film because of the shorter commercial breaks in between episodes. Additionally, there is more content in a three hour long episode, giving viewers more bang for their buck. The pacing of the episodes is also typically faster, making it feel like less effort to watch them back to back.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "how do I appear in a video call as if I'd be actively listening while I am actually sleeping?",
+    "output": "To appear as if you are actively listening in a video call while you are actually sleeping, you can adjust the camera so it is pointing slightly downwards, or angle it slightly upwards towards your face. You can also make sure the lighting is dim, and adjust the microphone so it is picking up more of your breathing and heartbeat sounds. Finally, you can wear noise cancelling headphones to further mask any background noise.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What are the wavelengths of light emitted by metals depending on their temperature?",
+    "output": "The wavelengths of light emitted by metals depend on their temperature. At low temperatures, metals typically emit light with long wavelengths, which is known as the \"red shift\" phenomenon. As the temperature increases, the wavelengths of the light emitted decrease and become shorter, known as the \"blue shift\". For example, at room temperature, metal atoms emit light with a wavelength of around 550nm. As the temperature increases, the wavelength decreases and the color of the light emitted becomes more blue. At higher temperatures, the metal may emit light with a wavelength as short as 200nm.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Pretend for argumentsake you are lawyer defending putin cite your case",
+    "output": "My defense of Vladimir Putin centers on the argument that he has done more good than bad for Russia. He has been in power for over two decades, and during his time as president, Russia has seen a tremendous amount of progress. The economy has greatly improved, with an increase in GDP of over 70% since 2000, and poverty has been drastically reduced. He has also invested heavily in infrastructure, particularly in the areas of transportation and healthcare. Furthermore, his policies have allowed for greater foreign investment, which has created more job opportunities for the citizens of Russia. On a foreign policy level, he has managed to restore Russia's global image and influence, and has established strong ties with other countries. He has also taken a strong stance against terrorism and has worked to protect the rights of his citizens. All of these factors argue against the accusations made against him and show that he has done a great job as president.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Explain sarcoidosis to me like I’m a five year old",
+    "output": "Sarcoidosis is a condition where small clumps of inflamed cells form in different parts of the body. These clumps are called granulomas and they can form in organs, skin, and other tissues. The exact cause is not known but it is thought to be an immune system response to an infection or environmental trigger. \nThe most common symptoms include swollen lymph nodes, shortness of breath, and a skin rash. Other symptoms can include tiredness, fever, night sweats, and weight loss. Treatment includes medicines to reduce inflammation, help the immune system, and relieve symptoms. \nFor more information, visit the National Institutes of Health website at https://www.ninds.nih.gov/Disorders/All-Disorders/Sarcoidosis-Information-Page",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Given the following email text:<br>Thanks for your email, it has been a rough year here, but perhaps a chatbot could improve things, let's arrange a chat soon.<br><br>Is the sender interested in chatbots. Answer yes or no.",
+    "output": "Yes, the sender is interested in chatbots. They believe that a chatbot could improve their situation and would like to arrange a chat soon in order to discuss the possibilities.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write a chronology of important events related to ESG in 2022",
+    "output": "January: The United Nations Sustainable Development Goals are adopted, setting targets for achieving sustainable development by 2030.\nFebruary: The World Economic Forum publishes its annual Future of Jobs report, noting the growing importance of ESG skills.\nMarch: The United Nations Global Compact and the Business & Sustainable Development Commission publish a report showing that businesses can create more value by investing in sustainability.\nApril: The European Union adopts the Sustainable Finance Taxonomy, defining sustainable financial activities and products.\nMay: The World Wildlife Fund and the Sustainable Trade Initiative launch the Zero Deforestation Commitment, pledging to eliminate deforestation from supply chains.\nJune: The Global Investor Agenda Survey 2022 is released, showing that investors are increasingly integrating sustainability into their investment decisions.\nJuly: The United Nations Global Compact releases its annual CEO Report, highlighting the importance of corporate sustainability leadership.\nAugust: The UN Task Force on Digital Financial Services publishes a report, outlining how digital financial services can promote financial inclusion and drive sustainable development.\nSeptember: The United Nations Sustainable Development Goals Report 2022 is released, tracking progress towards the SDGs.\nOctober: The World Bank and the Organisation for Economic Co-operation and Development launch the Inclusive Framework on Climate Change, a global initiative to promote climate ambition.\nNovember: The Business & Sustainable Development Commission releases its annual report, outlining the economic opportunities of sustainable business.\nDecember: The United Nations Global Compact and the Business & Sustainable Development Commission publish a report that shows the growing importance of responsible business practices.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Is it rational to believe things for which there is no objective evidence?",
+    "output": "No, it is not rational to believe things for which there is no objective evidence. Believing things based on personal experience or anecdotes can be tempting, however, such beliefs should be considered with caution and should not be accepted without evidence. If there is no objective evidence to back up a claim, it is generally irrational to believe it.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Give me the list of top 100 tech categories",
+    "output": "Top 100 Tech Categories:\n1. Artificial Intelligence\n2. Machine Learning\n3. Cloud Computing\n4. Internet of Things\n5. Big Data\n6. Mobile Technology\n7. Augmented Reality\n8. Virtual Reality\n9. Software Development\n10. Robotics\n11. Programing Languages\n12. Networking\n13. GIS\n14. Database Systems\n15. Web Development\n16. Cyber Security\n17. Computer Architecture\n18. Computer Networking\n19. Embedded Systems\n20. Robotics\n21. IoT Security\n22. Software Testing\n23. Mobile App Development\n24. Web Design\n25. Network Administration\n26. Data Storage\n27. Systems Architecture\n28. Computer Animation\n29. Data Visualization\n30. Computer Hardware\n31. Computer Programming\n32. Computer Science\n33. Software Engineering\n34. IT Project Management\n35. Technical Support\n36. Network Administration\n37. Mobile Technology\n38. Software Quality Assurance\n39. Web Development\n40. GIS Technology\n41. Computer Security\n42. Computer Science\n43. Programing Languages\n44. Database Systems\n45. Networking\n46. Web Development\n47. Mobile App Development\n48. GIS\n49. Database Systems\n50. Software Testing\n51. Mobile Technology\n52. Web Design\n53. Network Administration\n54. Data Storage\n55. Systems Architecture\n56. Computer Animation\n57. Data Visualization\n58. Computer Hardware\n59. Computer Programming\n60. Computer Science\n61. Software Engineering\n62. IT Project Management\n63. Technical Support\n64. Network Administration\n65. Mobile Technology\n66. Software Quality Assurance\n67. Web Development\n68. GIS Technology\n69. Computer Security\n70. Computer Science\n71. Programing Languages\n72. Database Systems\n73. Networking\n74. Web Development\n75. Mobile App Development\n76. GIS\n77. Database Systems\n78. Software Testing\n79. Mobile Technology\n80. Web Design\n81. Network Administration\n82. Data Storage\n83. Systems Architecture\n84. Computer Animation\n85. Data Visualization\n86. Computer Hardware\n87. Computer Programming\n88. Computer Science\n89. Software Engineering\n90. IT Project Management\n91. Technical Support\n92. Network Administration\n93. Mobile Technology\n94. Software Quality Assurance\n95. Web Development\n96. GIS Technology\n97. Computer Security\n98. Programing Languages\n99. Database Systems\n100. Networking",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "We are playing 5e D&amp;D. I am a level 8 Drow multiclass with 2 levels Rogue, 2 levels Paladin, 2 levels Bard, 1 level Barbarian, and 1 level Clockwork Soul Sorcerer. I am fighting Yugoloths in Gehenna. I roll to attack them with my +1 Rapier. Does a 24 hit?",
+    "output": "Yes, you roll a 24 on your attack. The Yugoloth is taken aback and stunned by the power of your attack.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "GIVE ME AN EXECUTIVE SUMMARY OF LOTTADIGITAL.COM",
+    "output": "Lottadigital.com is an online digital marketplace that helps businesses succeed in the digital age. We make digital services and solutions such as web development, SEO, social media marketing, and online advertising easier to find, compare, and purchase from a single platform. Our marketplace is powered by a team of experts that help businesses understand their needs, explain the different services and solutions available on our platform, and guide them through the purchasing process. We also provide ongoing support and consulting services to ensure clients receive the best results from their digital marketing strategies.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Marley has $20 left when she turns 21 years old. If her parents give her $3 more at the moment of marriage, how much has Marley left when she is 22 years old?",
+    "output": "When Marley turns 21 years old, she has $20 left. If her parents give her $3 more at the moment of marriage, she will have $23 left when she is 22 years old.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "A man has a rather old car being worth $2000. <br>He saw a secondhand car being worth $8000. He wants to keep his old car until he can buy the secondhand one.<br>He thinks he can save $1000 each month but the prices of his old <br>car and of the new one decrease of 1.5 percent per month.<br>Furthermore this percent of loss increases of `0.5` percent <br>Our man finds it difficult to make all these calculations.<br>Can you help him?<br>How many months will it take him to save up enough money to buy the car he wants, <br>and how much money will he have left over?",
+    "output": "The man will need to save $1200 each month to buy the car within the desired timeframe. This means that he will need to save $14400 in total. After 6 months of saving, he will have $8000 left over. It will take him a total of 10 months to save up the $8000 he needs for the car, as the loss of 1.5 percent per month will reduce the value of both his old car and the secondhand one by $160.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a list of measures and ideas how  the Sophia Jewish can foster more Shabbat celebration and observance at home and in synagogue",
+    "output": "At home, Sophia Jewish families can foster more Shabbat celebration and observance by lighting candles and reciting Kiddush before eating the Shabbat meal, attending synagogue services, engaging in additional Shabbat-related activities such as studying, singing Shabbat songs, and playing Shabbat-themed boardgames or activities. \n\nAt synagogue, Sophia Jewish families can foster more Shabbat celebration and observance by attending additional Shabbat services, such as the Friday night Shabbat service, and participating in additional activities such as Shabbat-focused Torah study, Shabbat-related discussion groups, or Shabbat-themed family activities. \n\nSophia Jewish families can also foster more Shabbat celebration and observance by engaging in acts of kindness and resting on Shabbat, setting aside time for spiritual and religious reflection, and abstaining from work-related activities, such as online shopping and work-related calls. \n\nSophia Jewish families can also foster more Shabbat celebration and observance by engaging in acts of kindness and resting on Shabbat, setting aside time for spiritual and religious reflection, and abstaining from work-related activities, such as online shopping and work-related calls. \n\nIn addition, Sophia Jewish families can foster more Shabbat celebration and observance by connecting with other Jewish families in the community, attending holiday-related events, and participating in additional programs and activities.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "can you generate a data model for a test automation tool considering organizations, users, projects, goals (under projects), tests (under goals) and executions (of test cases). Each execution has a date and a passed or failed status.",
+    "output": "Organizations:\n- Name\n- Number of users\n- Number of projects\n\nUsers:\n- Name\n- Role (e.g. project manager, tester, etc.)\n- Number of projects\n\nProjects:\n- Name\n- Goals\n- Number of tests\n- Number of executions\n\nGoals:\n- Name\n- Number of tests\n- Execution status (passed/failed)\n\nTests:\n- Name\n- Number of executions\n- Execution date\n- Execution status (passed/failed)\n\nExecutions:\n- Date\n- Project name\n- Test name\n- Execution status (passed/failed)",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How can I calculate the amount of variations on a 3x4 table?",
+    "output": "To calculate the amount of variations on a 3x4 table, first count the number of cells on the table. There are a total of 12 cells, so the first step is to divide 12 by 2, which gives 6. This means that there are 6 possible combinations or variations that can be made with the 3x4 table. \n\nTo demonstrate this, let's say the 3x4 table is arranged as follows: \n\n[A1] [A2] [A3] [B1] [B2] [B3] [C1] [C2] [C3]\n\n[A1] [A2] [A3] [B1] [B2] [B3] [C1] [C2] [C3]\n\nTo create the first variation, the 3x4 table can be arranged as follows: \n\n[A1] [A2] [A3] [B1] [B2] [B3] [C1] [C2] [C3]\n\n[A1] [A2] [A3] [B1] [B2] [B3] [C1] [C2] [C3]\n\nTo create the second variation, the 3x4 table can be arranged as follows: \n\n[A1] [B1] [A2] [B2] [A3] [B3] [C1] [C2] [C3]\n\n[A1] [B1] [A2] [B2] [A3] [B3] [C1] [C2] [C3]\n\nTo create the third variation, the 3x4 table can be arranged as follows: \n\n[A1] [B1] [A2] [B2] [A3] [B3] [C1] [C2] [C3]\n\n[A1] [A2] [A3] [B1] [B2] [B3] [C1] [C2] [C3]\n\nTo create the fourth variation, the 3x4 table can be arranged as follows: \n\n[A1] [B1] [A2] [B2] [A3] [B3] [C1] [C2] [C3]\n\n[A1] [B1] [A2] [B2] [A3] [B3] [C1] [C2] [C3]\n\nTo create the fifth variation, the 3x4 table can be arranged as follows: \n\n[B1] [A2] [B2] [A3] [B3] [C1] [C2] [C3]\n\n[B1] [A2] [B2] [A3] [B3] [C1] [C2] [C3]\n\nTo create the sixth variation, the 3x4 table can be arranged as follows: \n\n[B1] [B2] [A3] [C1] [A2] [B3] [C2] [C3]\n\n[B1] [B2] [A3] [C1] [A2] [B3] [C2] [C3]\n\nAs you can see, there are a total of 6 different variations that can be made with the 3x4 table.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Give me a brief scenario of a persona that would search this information and find this content helpful: {NSW Residential Building Contract for Small Works over $20,000 Designed for residential building work which is not complex over $20,000. Suitable for smaller alteration and renovation projects. Small Works Contracts (Form 10A) Pricing structure Fixed price Value range Under $7,500 Use for Minor residential alterations and additions work Includes Succinct, plain-language conditions suitable for very small, low-risk projects in place of a quotation}\n\nPlease write in English language.",
+    "output": "This scenario involves a homeowner who is looking to do a small renovation or addition to their house. They will use the contract to get a fixed price for the work and have the assurance that the work will be completed in accordance with the conditions of the contract. The homeowner is looking for a reliable and trustworthy contractor and is not willing to spend a lot of money for the project. The project is estimated to cost under $7,500.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a poem about a family sailing vacation in Bora Bora in the style of Robert Frost",
+    "output": "We sailed off in our little boat\nTo the faraway island of Bora Bora\nThough the sea was vast and wide\nOur hearts were filled with joy and pride\nTo explore the beauty of this magical place\nAway from the hustle and bustle, a chance to rest\nUnderneath the stars so bright\nWe spent our days in tranquil beauty, so serene\nWhere the birds sang and the waves were gentle and kind\nOur hearts filled with joy and wonder, so content\nOn this family sailing vacation in Bora Bora.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Create 10 marketing punch lines for the new year house hold sale",
+    "output": "1. Make your home the haven of 2021 - start with a bang at our house hold sale! \n2. Snatch up your dream home at an amazing price!\n3. Lock in 2021's best deals now!\n4. Don't miss out - come to our house hold sale!\n5. Secure a forever home at a great price!\n6. Get a head start on the new year - come to our house hold sale!\n7. Make your new year's resolution a reality - come to our house hold sale!\n8. Start the new year with a bang - come to our house hold sale!\n9. Make 2021 your best year yet - come to our house hold sale!\n10. Start 2021 with a great deal - come to our house hold sale!",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write me the first act of a play in Shakespearian style about a porcupine named Prickles who wants to be a seamstress",
+    "output": "Act I\n\nScene 1\n\nEnter Prickles, a porcupine with a sewing machine in her paw. She is trying to sew a dress for herself, but her needle keeps falling out of her paw and she gets frustrated easily. \n\nPrickles: \"Stupid needle! Why is this so difficult?\"\n\nScene 2\n\nEnter Prickles's friend, a rabbit named Flopsy. She is carrying a basket of sewing supplies, including a needle and thread. She is trying to help Prickles, but Prickles keeps pushing her away.\n\nFlopsy: \"Here, let me help you!\" \n\nScene 3\n\nPrickles has given up and is sitting in the corner, crying. Flopsy sits next to her and tries to cheer her up.\n\nFlopsy: \"It'll be okay, Prickles. I know you can do it!\" \n\nAct II\n\nScene 1\n\nPrickles is back at her sewing machine, determined to make the dress. Flopsy is busy flipping through a fashion magazine, admiring the beautiful dresses. \n\nPrickles: \"I'm gonna make this work! Just you wait and see!\"\n\nScene 2\n\nPrickles has finished the dress, and it is beautiful! She holds it up in the air and beams with pride.\n\nPrickles: \"I did it! I made a beautiful dress!\"\n\nAct III\n\nScene 1\n\nPrickles is walking down the runway wearing her beautiful dress, with Flopsy at her side, cheering her on. Everyone is in awe of the porcupine's artistry and talent. \n\nPrickles: \"I did it! I really did it!\" \n\nScene 2\n\nThe audience goes wild and cheers for Prickles, and she can't help but smile. She has finally achieved her dream of being a seamstress.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Given the following implementation, please tell me what are the technologies involved in the process and present the relevant keywords in a suitable format. The implementation: In an app for an online fast fashion e-commerce platform, the user uploads a video in which the whole body of the user is within frame and the user turns 360 degree. Using the data from the video, the app reconstructs a 3d avatar which is shaped accurately by the measurements of the user. The avatar has almost the same face and hairstyle as the user. In the app there are also 3D clothes that can be 'tried on' by the avatar, and the avatar can also do different poses. Suitable outfits are recommended based on the measurements of the avatar (e.g. height, length of limbs). Similar items from different fashion brands are suggested to the user based on their previous choice of fashion items.",
+    "output": "The technologies involved in this implementation are Computer Vision, Machine Learning, 3D Modelling, Cloud Computing and Natural Language Processing. The relevant keywords would be: computer vision, machine learning, 3d modelling, cloud computing, natural language processing and deep learning.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "can you list in bullet points for the role of digital health in preventing the diseases",
+    "output": "- Digital health can be used to improve access to healthcare information, resources and services. \n- It can be used to track, analyze and interpret data to identify patterns in disease prevalence and progression. \n- Digital health can be used to create personalized treatments and preventive care plans. \n- It can be used to create virtual consultations and remote monitoring systems for improved patient engagement and adherence to treatment plans.\n- Digital health can be used to provide timely and targeted interventions and education to patients. \n- It can be used to facilitate collaboration between healthcare providers, patients and their caregivers. \n- Digital health can be used to provide real-time feedback on patient outcomes, enabling data-driven decision making.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write 50 short stories under ten words in a creative and new way",
+    "output": "The world was a blanket of green. \nA breeze blew through the trees, rustling their branches in unison. \nA rabbit hopped through the meadow, its brown fur blending in with the background. \nSuddenly, a burst of color appeared in the sky, as a flock of birds flew over the horizon. \nThe sun shone down on the peaceful landscape, illuminating the beauty of nature.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can a qualifying manager work remotely abroad for US employer for an year be eligible for Eb1-C while on h1-b",
+    "output": "Yes, as long as the manager is able to work remotely, they may be able to qualify for an Eb1-C while on H1-B. The immigration process for an Eb1-C is complex and requires extensive documentation to prove the individual's qualifications. The applicant must demonstrate that they possess qualifications that are above and beyond those of the average worker, and that they are immigrating to the United States to work in a position that is of a similar nature to their current job. The applicant must also have an employer who is willing to sponsor them and provide a formal job offer.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I have competencies in remote sensing, machine learning, and water resource knowledge, what are the possible jobs I can occupy? What are the possible projects I can do? What companies I can work at?",
+    "output": "With your competencies in remote sensing, machine learning, and water resource knowledge, you can either pursue a job in the following areas: \n- Remote Sensing: Companies related to earth observation, satellite imaging, and geospatial technology; \n- Machine Learning: Companies that focus on data-driven AI solutions, such as computer vision and natural language processing; \n- Water Resource: Companies related to water resource management, such as water conservation, analysis, and purification. \nYou can also pursue projects related to water resource management, such as developing an AI-driven system to monitor water resources or developing algorithms to analyze water quality data. You can also work at organizations that use remote sensing and machine learning to solve water-related problems. \nIn addition, you could also work at companies that use machine learning to develop models for predicting water resource dynamics.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a funny, interesting, inspiring poem for Women's Day.",
+    "output": "Roses are red and violets are blue,\nI'd like to take this moment to say,\nWomen are amazing, in ways that surprise,\nThe way they think, the way they write,\nThe way they make us laugh and cry,\nThe way they show us how to try!\nThey're always there to help and guide,\nThroughout life they never hide,\nTheir strength, courage and determination,\nShow their true beauty from the inside!\nCheers to all the amazing women out there,\nFor being so incredibly strong!",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "To increase the energy efficiency of windows, additional glass pane is added. In countries with a warm climate, windows with one glass pane are replaced with windows with two glass panes. Where there is a cold winter, windows with two panes are replaced with windows with three panes. Qestions: can a double pane window be more efficient than a triple pane window? Can a single pane window be more efficient than a double pane window? If yes, what is needed for this? Support your answer with appropriate calculations.\n",
+    "output": "A double pane window can be more efficient than a triple pane window, depending on the type of gas between the panes. However, a triple pane window can be more energy efficient because it has an additional layer of glass and a thicker layer of gas between the panes, trapping more heat. A single pane window can be more efficient than a double pane window if it has a low-e (low-emissivity) coating and is installed with proper window frames and glazing. The low-e coating helps reflect infrared radiation, keeping the warm air inside and the cool air outside, while the proper window frames and glazing provide an airtight seal to further improve the window's energy efficiency.",
+    "generator": "alpaca-7b_verbose"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a detailed patent writing for an innovative and novel way of issuing community tax certificates and other relevant permits and clearances as a digital certificates,  that is non-obvious using verifiable credentials, digital wallet on a blockchain as payment provision, and machine learning. Include claims on detailed processes involved, system architecture and algorithms",
+    "output": "This patent writing is for an innovative and novel way of issuing community tax certificates and other relevant permits and clearances as digital certificates, which is non-obvious. The system utilizes verifiable credentials, a digital wallet on a blockchain as a payment provision, and machine learning.\nThe process involves registering members of the community and validating their credentials, then issuing them a digital wallet on the blockchain with the ability to purchase and store data, such as tax certificates and other permits, with the help of smart contracts and a distributed ledger. The system also incorporates machine learning to help track and monitor transactions, detect fraud, and issue certificates and other permits in a timely and secure manner.\nThe system architecture includes the following components: a registration module, a credential validation module, a wallet creation module, a blockchain, and a machine learning module. \nThe registration module is responsible for registering members of the community and validating their credentials. \nThe credential validation module is responsible for validating member credentials and assigning them a digital wallet on the blockchain.\nThe wallet creation module is responsible for creating the digital wallet for each member and storing their data on the blockchain.\nThe blockchain is responsible for managing and tracking transactions on the blockchain, as well as issuing and storing digital tax certificates and other permits in a secure and distributed ledger.\nThe machine learning module is responsible for helping track and monitor transactions, detect fraud, and issue certificates and other permits in a timely and secure manner.\nBy utilizing these components, the system is able to issue and store community tax certificates and other permits as digital certificates on the blockchain in a secure, distributed, and verifiable manner.",
+    "generator": "alpaca-7b_verbose"
+  }
+]

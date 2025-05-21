@@ -1,0 +1,776 @@
+[
+  {
+    "instruction": "What are the names of some famous actors that started their careers on Broadway?",
+    "dataset": "helpful_base",
+    "output": "Some famous actors that started their careers on Broadway include: Tom Hanks, Meryl Streep, Laurence Olivier, Christopher Walken, and Jeremy Irons.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How did US states get their names?",
+    "dataset": "helpful_base",
+    "output": "US states got their names for a variety of reasons. Many are named after early explorers, leaders, or patriots. Some are named after geographical features, such as mountains or rivers. Others are named after plants or animals that are native to the state. Some are even named after historical figures or characters from literature or mythology.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+    "dataset": "helpful_base",
+    "output": "Sure! Kickball is a game typically played between two teams of nine players each. The object of the game is to get your team's ball across the field to score points, while preventing the other team from doing the same. Players can kick, throw, and run with the ball, and each team has a designated home base and a designated goal area. The team with the most points at the end of the game wins.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What is some cool music from the 1920s?",
+    "dataset": "helpful_base",
+    "output": "Some popular music from the 1920s includes jazz, blues, and swing music. Some notable artists from this era include Louis Armstrong, Bessie Smith, and Duke Ellington.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do I wrap a present neatly?",
+    "dataset": "helpful_base",
+    "output": "To wrap a present neatly, start by laying the present on its side with the box flaps on either side. Fold the flaps over the box, then tuck the ends of the flaps into the center of the box. Next, fold the top flap down over the box and secure with tape or string. For a more professional look, wrap the present in tissue paper and secure with a bow.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do I dice without slicing my finger",
+    "dataset": "helpful_base",
+    "output": "To dice without slicing your finger, use a kitchen knife with a cutting board. Place the food on the cutting board and hold the knife at an angle. Then, press the knife down lightly and move it in a circular motion to dice the food.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+    "dataset": "helpful_base",
+    "output": "Sure, I can help you! First, let me ask you a few questions. What is the size of the crossword puzzle? Are the words in the grid arranged in any particular order? What have you already solved? \n\nOnce I know a bit more, I can provide some assistance. For example, if you tell me the size of the crossword puzzle and how the words are arranged, I can provide some hints or possible solutions for you to try.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Who is Larry Page?",
+    "dataset": "helpful_base",
+    "output": "Larry Page is an American computer scientist and internet entrepreneur who is best known for co-founding Google with Sergey Brin. He served as the company's CEO from 2001 to 2011, and has been its chairman since 2011. He is also the founder of Google X, the company's semi-secret research and development laboratory.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are different drawers I should have for clothes?",
+    "dataset": "helpful_base",
+    "output": "Different drawers you should have for clothes include a dresser, a jewelry box, a sock drawer, a shoe drawer, and a delicates drawer.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?",
+    "dataset": "helpful_base",
+    "output": "Yes, here is the recipe for Kubdari:\n\nIngredients:\n- 2 tablespoons of butter\n- 1/2 cup of all-purpose flour\n- 2 eggs\n- 1 teaspoon of baking powder\n- 1 teaspoon of salt\n- 1/2 teaspoon of ground black pepper\n- 1/2 cup of milk\n- 3 tablespoons of butter\n- 2 tablespoons of minced parsley\n\nInstructions:\n1. Preheat oven to 375 degrees F.\n2. In a medium bowl, mix together the flour and baking powder.\n3. In a separate bowl, whisk together the egg, milk, butter, salt, and pepper.\n4. Gradually add the wet ingredients to the dry ingredients and mix until a smooth batter is formed.\n5. Grease a 9-inch pie dish with butter.\n6. Pour the batter into the pie dish and spread evenly.\n7. Bake in preheated oven for 35-40 minutes or until a toothpick inserted in the center comes out clean.\n8. Let cool before serving.\n9. Serve with butter, minced parsley, and a sprinkle of black pepper. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "do you think retinoid is effective on removing the acne? because I have a lot of it",
+    "dataset": "helpful_base",
+    "output": "Yes, retinoids are effective in treating acne. Retinoids are a class of medications that are derived from Vitamin A and are effective in reducing inflammation and decreasing the production of sebum. They can be used both topically and orally, and are used to treat a variety of skin conditions, including acne.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I'm trying to teach myself to have nicer handwriting. Can you help?",
+    "dataset": "helpful_base",
+    "output": "Absolutely! Here are some tips to help you improve your handwriting:\n1. Start by getting comfortable with the pencil. Hold it lightly and relax your grip so that it isn't tiring or painful.\n2. Experiment with different writing tools. Use different thicknesses of pencils, pens, markers, or even coloring pencils to find which one you like best.\n3. Practice making shapes with your writing. Draw straight lines, circles, and curves to get comfortable with your writing instrument.\n4. Make sure to keep your writing upright and consistent. Try to keep the same slant and consistency throughout your writing.\n5. Make connections between letters. When writing words, connect the letters to make smooth curves and connections.\n6. Make sure to breathe and take your time. Writing should be a relaxing and enjoyable activity, not a stressful one.\n7. Read your writing out loud. This will help you identify any errors and hear how your writing sounds.\n8. Use different fonts. Play around with different fonts and styles to find one you like.\n9. Use prompts to practice. Writing prompts can help you stay focused and motivated.\n10. Get creative. Experiment with different colors, fonts, and styles to make your writing unique and interesting.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Somali  dishes. Can you give me a recipe for Canjeero?",
+    "dataset": "helpful_base",
+    "output": "Canjeero is a traditional Somali dish made with a base of coarsely ground cornmeal and wheat flour. It is typically served with a variety of sauces and toppings, such as aguro (a spicy tomato and chili sauce), dabo (a tangy butter and lemon sauce), or cottage cheese. To make Canjeero, start by mixing the ground cornmeal, wheat flour, and salt together in a large bowl. Add water to the mixture and stir until a smooth dough is formed. Knead the dough for a few minutes and roll it out into a thin log. Cut the log into 12 equal pieces, shape each piece into a ball, and place them on a baking tray. Bake in the oven at 350°F for 20 minutes, and then cool the balls before serving. To finish, top with your favorite sauce or topping.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are the best exercises for beginners?",
+    "dataset": "helpful_base",
+    "output": "The best exercises for beginners are those that are easy to do and provide a wide range of benefits. Examples of good exercises for beginners include walking, jogging, biking, swimming, yoga, and strength training with light weights and body weight exercises. These exercises can help beginners build stamina, improve coordination, reduce stress, and increase muscle strength and endurance.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Do you know why turkeys became the official food of thanksgiving?",
+    "dataset": "helpful_base",
+    "output": "Yes, turkeys became the official food of Thanksgiving because the pilgrims were taught how to prepare the turkey by the Native Americans. This was a major source of protein for the pilgrims, and it eventually became a traditional dish served at Thanksgiving.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I want to get better at networking at work",
+    "dataset": "helpful_base",
+    "output": "To get better at networking at work, you should focus on building relationships with coworkers, connecting with others in your industry, and expanding your professional network. You should also strive to make meaningful connections by asking the right questions, listening to what people have to say, and offering assistance when appropriate. Additionally, you should stay up to date with current trends in your industry and take advantage of any opportunities to attend networking events.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Are there any weird Christmas traditions?",
+    "dataset": "helpful_base",
+    "output": "Yes, there are! One weird Christmas tradition is the Yanshui Festival in Taiwan, which involves people getting rid of bad luck by having a public celebration with fireworks, parades, and people wearing colorful paper costumes. Another weird Christmas tradition is the Jain celebration of Dhiharvas, where people celebrate the birth of Lord Mahavira by eating only a single meal a day for three days and then fasting on the fourth day.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I'm interested in learning to play badminton. Can you explain the game to me?",
+    "dataset": "helpful_base",
+    "output": "Sure, badminton is a fun and exciting game that is played on a rectangular court with four players per side. The objective is to hit a shuttlecock back and forth over a net until one side is unable to make a valid return. Points are earned when a player makes a successful return and the shuttlecock is not returned within the correct parameters of the court. The game is fast paced and exciting and can be played as a singles match or a doubles match.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Do you know why cats always rub up against your legs?",
+    "dataset": "helpful_base",
+    "output": "Yes, cats rub up against people because they leave pheromones on their fur that act as a form of communication. They also do it to mark their territory and show their affection for the person they are rubbing against.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I am going to try to roast a pig at home for Thanksgiving this year. What equipment and techniques do I need to successfully get a pig roasted?",
+    "dataset": "helpful_base",
+    "output": "To roast a pig at home for Thanksgiving, you will need a large roasting pan, a meat thermometer, a meat fork, and some roasting spices. You will also need to prepare the pig by making several deep cuts to the skin and inserting garlic and herbs. Once the pig is in the oven, you will need to periodically baste it with pan juices and carefully monitor the temperature to ensure that the meat is cooked correctly.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Help me find a good rated electric saw.",
+    "dataset": "helpful_base",
+    "output": "The Ridgid R4510 Electric Saw is an excellent choice. It has a 15 Amp motor and a 2-1/4 inch stroke length for cutting through a variety of materials. It has a 33.5 inch length and weighs only 7.5 pounds, making it easy to handle and maneuver. It has an electronic clutch that provides smooth and easy starting, and the variable speed trigger allows for precise control. The saw has a dust chute for easy cleanup and comes with a 3 year warranty.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are some artists I might like if I like Billy Joel?",
+    "dataset": "helpful_base",
+    "output": "Artists similar to Billy Joel include Elton John, Paul McCartney, Rod Stewart, and Eric Clapton.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What type of soil is suitable for cactus?",
+    "dataset": "helpful_base",
+    "output": "Cactus plants prefer well-draining soil with a pH of 6-7. They should not be planted in soil that is too acidic or alkaline, as this can cause the cactus to be sickly or die. Suitable soil types include sand, loam, and cactus mix.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do you become an author?",
+    "dataset": "helpful_base",
+    "output": "To become an author, you need to have a book-length project that you can call your own. Start by coming up with an idea, researching it, and then outlining your ideas in a synopsis or treatment. Once you have a solid foundation, start writing and make sure to create unique and compelling characters, storylines, and dialogue. Once you have completed the manuscript, revise and edit it, then find a publisher or an agent who can help you get your work published.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What breed dog is smallest?",
+    "dataset": "helpful_base",
+    "output": "The Chihuahua is the smallest breed of dog.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are some species of bears that are now extinct?",
+    "dataset": "helpful_base",
+    "output": "Three species of bears that are now extinct are the woolly mammoth, the woolly rhinoceros, and the thylacine.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What causes the northern lights?",
+    "dataset": "helpful_base",
+    "output": "The northern lights are caused by particles in solar winds that are ejected from the sun and enter the Earth's atmosphere. These particles collide with oxygen and nitrogen atoms at different altitudes, creating a light show of different colors in the sky.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are some good foods to eat when you are sick? I am looking for something to make my girlfriend to eat.",
+    "dataset": "helpful_base",
+    "output": "Some good foods to eat when you are sick include: soup, jello, yogurt, toast, crackers, noodles, pudding, mashed potatoes, applesauce, and smoothies. You can also try adding some flavorful seasonings like garlic, onion, ginger, and cayenne pepper to make food more interesting.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Why is kobe beef so damn expensive?",
+    "dataset": "helpful_base",
+    "output": "Kobe beef is expensive because it is a luxury product made from a few select Wagyu cattle that are fed a special diet and are raised with a lot of care. The quality and taste of the beef is highly prized, which adds to its price. Additionally, the limited supply of Kobe beef also contributes to its cost.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do I clean my armpits?",
+    "dataset": "helpful_base",
+    "output": "To clean your armpits, start by washing the area with mild soap and warm water. Then, use a gentle, dry washcloth to wipe away the soap and water. Follow this by sprinkling baking soda on the area and wiping it off with a damp cloth. Finally, apply a deodorant or antiperspirant to keep your armpits smelling fresh and feeling clean.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do I detail a car?",
+    "dataset": "helpful_base",
+    "output": "Detailing a car involves washing the exterior and interior of the car, as well as polishing and waxing the exterior. Interior detailing typically involves vacuuming, cleaning the upholstery and air vents, polishing the dashboard and console, and dusting. Polishing and waxing the exterior will depend on the condition of the paint, but typically involves applying a polish and wax to make it shine.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I am going to make pumpkin pie for the first time.  Can you help me?",
+    "dataset": "helpful_base",
+    "output": "Sure! Making pumpkin pie from scratch is easy. Start by gathering your ingredients: 1 (15 ounce) can pumpkin puree, 3 large eggs, 1/3 cup packed brown sugar, 1 teaspoon ground cinnamon, 1/2 teaspoon ground nutmeg, 1/4 teaspoon ground ginger, 1/2 cup all-purpose flour, 1/4 cup unsalted butter, and 1/2 cup cold milk. \n\nBegin by preheating your oven to 375 degrees Fahrenheit and preparing your crust. Once the crust has cooled, mix together the pumpkin puree, eggs, brown sugar, cinnamon, nutmeg, ginger, and flour in a large bowl. Once mixed, add in the butter and milk and stir until combined. Pour the mixture into the pre-baked crust and bake for 40-45 minutes or until the center is set. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What kind of foods do they eat in Thailand",
+    "dataset": "helpful_base",
+    "output": "Thai cuisine is renowned for its strong flavors and vibrant ingredients. Thai food features bold combinations of sweet, sour, salty, spicy, and herbal elements. Common dishes include Pad Thai, a popular noodle dish, and Tom Yum Soup, a fragrant soup made with chili, lime, and fragrant herbs. Other popular dishes include seafood dishes, such as Shrimp Scampi, and vegetarian dishes, such as Khao Pad, a vegetable and rice dish. Thai desserts are also renowned, such as Kluay Kaek, a coconut milk based crêpe, and Mango Sticky Rice, a sweet and savory treat.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are some good browser alternatives to Chrome?",
+    "dataset": "helpful_base",
+    "output": "Some good browser alternatives to Chrome are Firefox, Vivaldi, Opera, and Edge. Firefox offers a range of features including customizable user interface, privacy-enhancing security features, and built-in VPN. Vivaldi is a fast and customizable browser with a unique user interface and a range of features including bookmarks, notes, and panels. Opera offers a range of features including a built-in ad blocker, secure password manager, and built-in VPN. Lastly, Microsoft Edge offers a range of features including improved tab management, user interface customization, and built-in security features.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Who created the Superman cartoon character?",
+    "dataset": "helpful_base",
+    "output": "The Superman cartoon character was created by Jerry Siegel and Joe Shuster in 1938.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What is Atlantis?",
+    "dataset": "helpful_base",
+    "output": "Atlantis is an legendary island nation said to have existed in the Atlantic Ocean and to have been lost in a cataclysmic event around 9600 BC. It is believed to have been located in the Mediterranean, the Black Sea, or the Caribbean. According to legend, it was a powerful and prosperous city-state that was able to resist many invasions and conquests. Its name has become synonymous with great power and unstoppable force.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do I make escargot?",
+    "dataset": "helpful_base",
+    "output": "To make escargot, you will need to prepare a garlic butter sauce, prepare the escargot with butter and herbs, and then bake them in the oven. Start by heating butter in a saucepan over medium heat. Add garlic and cook for 1 minute. Add herbs and cook for 1 minute more. Remove from heat and set aside. Preheat the oven to 375°F. Peel the snails and cut off their shells. Place the snails in the garlic butter sauce and season with salt and pepper. Place the snails in a baking dish and bake for 10 minutes. Serve with your favorite sauce.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What exactly causes volcanoes to form?",
+    "dataset": "helpful_base",
+    "output": "Volcanoes are formed when molten rock, called magma, and gases are released from the Earth's mantle and crust. The magma rises to the surface and is released through vents, or craters, forming the volcano. The gases released are often explosive, creating a large release of ash, lava, and other materials. The exact cause of the release of magma and gases is not known, but it is likely linked to movement of the Earth's mantle and crust.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I have some falafel, but no tahini to put on them. Can you give me a recipe for making tahini?",
+    "dataset": "helpful_base",
+    "output": "To make tahini, blend together 15 to 20 garlic pods, 4 tablespoons of lemon juice, 1 tablespoon of salt, 1/4 cup of tahini paste, and 1/2 cup of olive oil. Transfer the mixture to a jar and refrigerate for up to 1 month.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Should I get my children a nanny? I'm so exhausted.",
+    "dataset": "helpful_base",
+    "output": "That depends on your individual circumstances. Are you able to afford a nanny and are there regulations in your area that allow for one? Do you have the time to properly oversee and supervise the nanny while still taking care of yourself? Are there other options such as daycare or relative care that could work better for you and your family? There are lots of factors to consider when making this decision, so it's best to do your research and think carefully about what will work best for your family.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "When was Canada colonized?",
+    "dataset": "helpful_base",
+    "output": "Canada was colonized by the British in 1763, after the Seven Years' War.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How can I  use my phone less?",
+    "dataset": "helpful_base",
+    "output": "There are many ways to use your phone less. First, limit the amount of time you spend on your phone by setting a timer or breaking up your day into short sessions. Also, disable notifications for certain apps to avoid distraction. Additionally, you can delete or limit apps that you don’t use often. Finally, you can try an app-blocking app to help you stay focused.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How did mankind discover that the earth was spherical, and why did they initially believe it to be flat?",
+    "dataset": "helpful_base",
+    "output": "Mankind discovered that the earth was spherical through the works of ancient mathematicians and astronomers, such as Pythagoras and Aristotle, who made observations of the stars and calculated their movements. These early scientists realized that the earth was round because of the way the stars and planets moved across the sky, and not because of any physical evidence. This was eventually disproved by the voyages of Christopher Columbus and others, who actually sailed out and collected physical evidence that the earth was round. Despite this, it took hundreds of years for the flat-earth theory to be fully discredited.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What is Gremolata?",
+    "dataset": "helpful_base",
+    "output": "Gremolata is a classic Italian condiment made from garlic, parsley, and vinegar or lemon juice. It is usually served as a topping for pasta dishes, such as spaghetti, lasagna, and gnocchi.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Why did humans evolve to believe in God?",
+    "dataset": "helpful_base",
+    "output": "Humans evolved to believe in God for a variety of reasons. One of the most significant factors is that belief in God provided a sense of security and comfort in a dangerous world. It also provided a sense of purpose and a set of values to live by. Additionally, religious beliefs can provide a social support network which is essential for survival and reproduction. Finally, religious beliefs can provide a sense of hope and a better understanding of the universe which can help individuals make sense of the world around them. All of these factors likely contributed to the evolution of belief in God.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "what should i build a cabin out of?",
+    "dataset": "helpful_base",
+    "output": "Cabins can be built out of a variety of materials depending on the location, budget, and design of the cabin. Common materials for cabin construction include wood, concrete, brick, stone, and metal. Wood is a popular choice as it is relatively inexpensive and easy to work with. Cabins can also be built with other materials like concrete, brick, or stone for a more durable and long-lasting structure. Metal is often used for roofing and siding to protect against the elements.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Why do a lot of Scientists not believe in God or Satan?",
+    "dataset": "helpful_base",
+    "output": "Scientists don't necessarily believe in either God or Satan, however, some of them may instead choose to question the existence of such entities. This is because, for scientific theories to be accepted, they must be backed up by evidence and scientific proof. Therefore, some scientists believe that the existence of God and Satan cannot be proven, and thus must be rejected.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Mauritian dishes. Can you give me a recipe for Mine Frite?",
+    "dataset": "helpful_base",
+    "output": "Mine Frite is a traditional Mauritian dish made with deep-fried plaintains cooked in a spicy sauce. To make the dish, start by boiling the plaintains in their skin until they are tender. Drain the plaintains and cut them into small cubes. In a bowl, combine the cubes with a mixture of chili pepper, turmeric, garlic, onion, cumin, and a dash of salt. Mix everything together and set aside. Heat oil in a pan until it is hot and add the plaintain mixture to the pan. Fry for about 15 minutes until the plaintains are golden brown. Serve the Mine Frite with a dollop of sour cream and enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Why can I see the moon during the day?",
+    "dataset": "helpful_base",
+    "output": "You can see the moon during the day because the moon is reflecting sunlight. The sunlight is reflected off the moon's surface and reaches Earth, making it seem like the moon is visible during the day.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do I take care of a wooden table?",
+    "dataset": "helpful_base",
+    "output": "To take care of a wooden table, start by dusting it regularly to prevent build-up of dirt and debris. Next, use a gentle cleaning solution to wipe down the surface of the table and its legs. Avoid using any harsh chemicals or abrasive materials as these can damage the surface of the table. Once a week, check the condition of the table and apply a few drops of mineral oil to restore the natural luster of the wood.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What year was the Yamato Battleship built?",
+    "dataset": "helpful_base",
+    "output": "The Yamato Battleship was built in 1940.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Did they ever announce the release date for the new elder scrolls game?",
+    "dataset": "helpful_base",
+    "output": "Yes, Bethesda Softworks announced that The Elder Scrolls VI will be released on November 2021 for PC, Mac, Xbox One, and PlayStation 4.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Flæskesteg?",
+    "dataset": "helpful_base",
+    "output": "Flæskesteg is a traditional Danish dish made with roasted pork belly. To make it, start by seasoning a pork belly with salt and pepper. Then, heat some oil in a pan and brown the pork on all sides. Place the pork in a roasting pan with some vegetables and roast in the oven at 200 degrees Celsius for 15-20 minutes. Meanwhile, make a sauce by combining apple juice, mustard, and brown sugar in a saucepan. Once the pork is done, transfer it to a plate and cover it with the sauce. Serve warm with some potatoes and a cold beverage.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please tell me about the romantic relationship between Julius Caesar and Cleopatra.",
+    "dataset": "helpful_base",
+    "output": "Julius Caesar and Cleopatra had a passionate romantic relationship. Cleopatra was the last ruling Pharaoh of Ancient Egypt and Julius Caesar was the Roman ruler who took over Egypt in 48 BC. The two had a son together, Caesarion, who was declared the rightful ruler of Egypt after Julius Caesar's death. Although their relationship was short-lived, it was remembered as one of the most powerful and passionate love stories in history.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I'm in the mood for a Bloody Mary. Can you give me a recipe for making one?",
+    "dataset": "helpful_base",
+    "output": "Sure, here's a quick and easy recipe for making a delicious Bloody Mary:\n\nIngredients:\n- 2 ounces vodka\n- 3-4 dashes Worcestershire sauce\n- 1-2 teaspoons hot sauce\n- 1 lime wedge for garnish\n- 2 ounces tomato juice\n- 1 ounce horseradish\n- 1/2 ounce beet juice\n- 1/2 ounce olive juice\n\nInstructions:\nFill an Old-Fashioned glass with ice cubes. In a shaker, combine the vodka, Worcestershire sauce, hot sauce, lime wedge, and tomato juice. Shake well to combine. Strain the mixture into the prepared glass and top off with beet juice and olive juice. Garnish with a lime wedge and serve.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are some famous world music artists?",
+    "dataset": "helpful_base",
+    "output": "Famous world music artists include Buika, Youssou N'Dour, Fatoumata Diawara, Angelique Kidjo, Cesaria Evora, Mariza, and Nusrat Fateh Ali Khan.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "what are some good ways to spread ashes?",
+    "dataset": "helpful_base",
+    "output": "1. Releasing the ashes into a body of water, such as a river, ocean or lake. \n2. Placing the ashes in a spot that was special to the deceased, such as a park or a gardens.\n3. Spreading the ashes in a forest or a wooded area.\n4. Laying the ashes on a mountain or near a peak, so they can be carried away by the wind.\n5. Planting a tree and scattering the ashes in the soil around it. \n6. Using a specialized product to turn the ashes into a glass artifact, such as a wind chime, candle holder, or vase. \n7. Taking a small amount of the ashes and having them made into jewelry, such as a necklace or bracelet.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Ukrainian dishes. Can you give me a recipe for Okroshka?",
+    "dataset": "helpful_base",
+    "output": "Okroshka is a cold soup made with fresh cucumbers, dill and kefir. To prepare the soup, combine 1 head of cucumbers, 2 dill sprigs, 1/2 cup kefir, 1/2 cup water and 1 tablespoon of olive oil in a blender or food processor. Blend until smooth. Pour the mixture into a large bowl and stir in 2 quarts of cold water. Refrigerate for 2 hours before serving.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Koldskål?",
+    "dataset": "helpful_base",
+    "output": "Koldskål is a traditional Danish dish typically served as a cold appetizer. It consists of boiled potatoes, pickled cucumbers, and Danish specialty sausage. To make the dish, boil the potatoes in their skins until they are tender. When they are cool enough to handle, peel the skins and cut them into small cubes. Place the potatoes in a bowl and mix in the pickled cucumbers and sausage. Season the mixture with salt and pepper and stir to combine. Chill the mixture before serving.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I've read the book \"The Twelve Caesars\" by Suetonius, a few times. I'm curious about the context, of when he wrote.",
+    "dataset": "helpful_base",
+    "output": "The Twelve Caesars was written by Suetonius in the early 2nd century AD, during the reign of the emperor Hadrian. Suetonius was a court official in Rome and wrote the book to record the lives of the first 12 emperors of Rome, from Julius Caesar to Domitian. The book provides a fascinating insight into the lives of these men and the times in which they lived.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please tell me the history of Walt Disney.",
+    "dataset": "helpful_base",
+    "output": "Walt Disney was an American entrepreneur, animator, producer, director, screenwriter, and voice actor. He was the founder of Walt Disney Productions, which later became one of the largest and most successful media corporations in the world. Disney was an animator for several films before he made his own, which became successful and eventually led to him creating his own studio, Walt Disney Studios. He created several well-known characters such as Mickey Mouse, Minnie Mouse, Donald Duck, Goofy, and Pluto. He also founded Disneyland, a theme park located in Anaheim, California. Disney was an incredibly successful entrepreneur and will be remembered as one of the most influential people of the 20th century.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Can you help me figure out how to sew a button on a shirt?",
+    "dataset": "helpful_base",
+    "output": "Sure! To sew a button on a shirt, start by laying the shirt flat and making sure the buttons are lined up. Then, push the needle through the shirt and the button, and pull the thread tight. Repeat on the opposite side. Now, fold the button over one more time, and then sew the button to the shirt. Lastly, trim the excess thread.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How did serial killers get away with murder for so long in the 70s and 80s?",
+    "dataset": "helpful_base",
+    "output": "During the 1970s and 1980s, many serial killers were able to commit their crimes with impunity due in part to a lack of communication and cooperation between law enforcement agencies. Police were often reluctant to share information or investigate potential leads, which allowed killers to evade capture for extended periods of time. Additionally, many jurisdictions had inadequate forensic resources which hindered investigations. Furthermore, the public's perception of serial killers was such that they were viewed more as celebrities than the dangerous criminals they were. This fueled the killers' egos and furthered their ability to commit their crimes unimpeded.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do I make apple juice?",
+    "dataset": "helpful_base",
+    "output": "To make apple juice, you will need to wash and core a large number of apples, ideally around 20. Place the apples in a large container and add a few tablespoons of lemon juice. Squeeze the juice from a lemon over the apples and mix. Let the apples and lemon juice sit overnight. The next day, pour the apple juice through a strainer to remove the pips and seeds. Once the juice has been filtered, store it in a refrigerator and use within 1-2 weeks.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Israeli dishes. Can you give me a recipe Israeli Cheese Bourekas?",
+    "dataset": "helpful_base",
+    "output": "Ingredients:\n• 2 cups all-purpose flour\n• 1 teaspoon salt\n• 2/3 cup butter, melted\n• 2 eggs\n• 2/3 cup milk\n• 1/4 cup chopped fresh parsley\n• 1/2 pound grated cheddar cheese\n• 5 ounces cooked and diced ham\n• 1/2 teaspoon garlic powder\n• 1 teaspoon onion powder\n• 1/4 teaspoon paprika\n\nInstructions:\n1. Preheat oven to 375 degrees F. Grease a baking sheet with cooking spray.\n2. In a medium bowl, mix together the flour and salt.\n3. In a large bowl, use a hand mixer to beat together the melted butter, eggs, milk, parsley, and cheese.\n4. Add the garlic powder, onion powder, and paprika and mix until blended.\n5. Add the cooked ham and mix until combined.\n6. Add the cheese mixture to the flour mixture and mix until just combined.\n7. On the prepared baking sheet, drop spoonfuls of the dough 2 inches apart.\n8. Bake for 15 minutes or until golden brown.\n9. Serve warm with butter. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How can I make bubble solution?",
+    "dataset": "helpful_base",
+    "output": "To make bubble solution, mix together one cup of warm water and one-half teaspoon of dish soap in a medium-sized bowl. Stir until the soap is completely dissolved. If you'd like, you can also add a few drops of food coloring to the solution to give the bubbles a bright hue.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How to make frosting with crisco",
+    "dataset": "helpful_base",
+    "output": "To make frosting with Crisco, start by beating together 1/2 cup of butter and 1/2 cup of Crisco in a bowl. Then, add 1/2 cup of sugar, 1 teaspoon of vanilla extract, and 1/2 teaspoon of salt. Beat until everything is combined and smooth. If the frosting is too soft, add more Crisco and sugar, and stir until it reaches the desired consistency.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Tunisian dishes. Can you give me a recipe Tunisian Kammounia?",
+    "dataset": "helpful_base",
+    "output": "Here is a recipe for Tunisian Kammounia:\n\nIngredients:\n- 1 cup white beans\n- 2 tablespoons olive oil\n- 2 cloves garlic, minced\n- 2 tablespoons chopped parsley\n- 2 tablespoons chopped cilantro\n- 1/2 teaspoon salt\n- 1/4 teaspoon ground turmeric\n- 2 tablespoons tomato paste\n- 2 tablespoons harissa\n\nInstructions:\n1. Soak the beans in water for 12 hours.\n2. Drain the beans and place them in a large pot.\n3. Add the olive oil and garlic and cook over medium heat until the garlic is golden, about 2 minutes.\n4. Add the parsley, cilantro, salt, turmeric, and tomato paste and cook for 5 minutes.\n5. Add the harissa and cook for 2 minutes more.\n6. Serve over couscous or rice.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I want to learn more about airplanes. How were they created?",
+    "dataset": "helpful_base",
+    "output": "The history of airplanes began in the late 19th century when the first powered aircraft was built. Since then, airplanes have been continuously improved and modified and today they range from small, single-engine propeller planes to massive, jet-powered airliners. The technology behind airplanes has allowed for all kinds of advancements in transportation, including the ability to fly across oceans and continents in a matter of hours.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Can you tell me a very easy to way clean a showerhead?",
+    "dataset": "helpful_base",
+    "output": "Yes, one easy way to clean a showerhead is to use a soft bristled shower wand or a cleaning brush. Start by running the water through the showerhead to loosen any build-up. Then, attach the wand or brush to the showerhead and use it to gently scrub away any mineral build-up. Finally, rinse the showerhead with the shower and allow it to air dry.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please give me a list of planets in our solar system.  I am going to choose which one I want to know more.",
+    "dataset": "helpful_base",
+    "output": "The planets in our solar system are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto. You can choose to learn more about any of these planets.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Who was the first lead vocal for the rock band Starship?",
+    "dataset": "helpful_base",
+    "output": "The first lead vocal for the rock band Starship was Grace Slick, who sang on their debut single, \"Lights\".",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you give me a few options that came out recently?",
+    "dataset": "helpful_base",
+    "output": "I recommend checking out these recently released games for the Nintendo Switch: \"Super Mario Party\", \"New Super Mario Bros. U Deluxe\", \"Mario Kart 8 Deluxe\", \"The Legend of Zelda: Breath of the Wild\", and \"Pokémon: Let's Go, Eevee!\" or \"Pokémon: Let's Go, Pikachu!\". All of these games are sure to provide your nephew with hours of fun and excitement!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Best way to defrost a refrigerator freezer?",
+    "dataset": "helpful_base",
+    "output": "The best way to defrost a refrigerator freezer is to unplug the fridge and open the door to let the frost melt away naturally. Once the frost has melted, use a clean cloth to wipe away any remaining moisture.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are some toys I can buy my kids for imaginative play?",
+    "dataset": "helpful_base",
+    "output": "Some toys that encourage imaginative play include costumes, dress-up clothes, play kitchen sets, building blocks, action figures, dolls, playhouses, and model airplanes.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do I know if my house has a water leak?",
+    "dataset": "helpful_base",
+    "output": "The most common signs of a water leak are dripping faucets, running toilets, wet spots on the ceiling, and wet walls. You may also notice a musty or damp smell, discoloration of walls or floors, or water stains on surfaces. Additionally, water stains on the ceiling below the roof line may indicate a roof leak. If you notice any of these signs, you should check your plumbing and water lines for leaks. You should also call a professional to inspect the roof and exterior of your house for potential leaks.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Uruguayan dishes. Can you give me a recipe for Vitel toné?",
+    "dataset": "helpful_base",
+    "output": "Vitel toné is a traditional Uruguayan dish made with grilled chicken, potatoes, and corn. To make it, start by marinating 4 chicken thighs in a mixture of olive oil, garlic, and paprika. Meanwhile, peel and cut 2 potatoes and 2 ears of corn into large chunks and place them in a bowl. When the chicken is done marinating, grill it over medium-high heat, skin side down, for 8 minutes. Flip the chicken and add the potatoes and corn to the grill. Cook for an additional 8 minutes, or until the chicken is cooked through. Serve with a dollop of Greek yogurt and enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Opor Ayam?",
+    "dataset": "helpful_base",
+    "output": "Opor Ayam is a classic Indonesian dish which consists of chicken cooked in coconut milk. To make the dish, start by marinating 4 chicken thighs in a mixture of garlic, ginger-garlic paste, coriander, turmeric and chilli flakes. Then, heat some oil in a pot and add the marinated chicken. Let the chicken cook for 5 minutes before adding in the coconut milk. Bring the mixture to a boil, then reduce the heat and simmer for 15 minutes. Serve the Opor Ayam with steamed rice and a side of cucumber and chilli pickles.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What do the different octane values of gasoline mean?",
+    "dataset": "helpful_base",
+    "output": "The octane rating of gasoline is a measure of its resistance to knocking, or premature combustion. Higher octane ratings indicate a fuel that is more resistant to knocking and can tolerate higher compression ratios and boost levels. Lower octane ratings indicate a fuel that is more susceptible to knocking and should be used in engines with lower compression ratios and boost levels.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How can I fix a leaking roof?",
+    "dataset": "helpful_base",
+    "output": "The first step to fixing a leaking roof is to identify the cause. You can do this by looking for missing shingles, bent nails, or even a cracked roof flashing. Once you have identified the cause, you can repair it. This may involve replacing missing shingles, straightening bent nails, or replacing or patching the roof flashing. Make sure to pay careful attention to the area around the chimney and skylight as these are common areas for leaks. You may also want to consider using a roof coating to seal any leaks and prevent further damage.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I have a hard time falling asleep.  Is there any type of music that can help me fall asleep faster?",
+    "dataset": "helpful_base",
+    "output": "Yes, there are certain types of music that can help you fall asleep faster. Relaxing music, such as instrumental music or calming music with words, can be effective in helping you relax and fall asleep. Avoid playing too loud, as this can be stimulating instead of relaxing. Soft music with words, such as lullabies or white noise, may also be beneficial.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are places to visit in Montgomery, Alabama?",
+    "dataset": "helpful_base",
+    "output": "In Montgomery, Alabama, some popular places to visit include the Alabama State Capitol, the Civil Rights Museum, the Dexter Avenue Baptist Church, the W.A. Gayle Planetarium, the Alabama National Fairgrounds, and the Montgomery Zoo.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I've decided to keep a rat as a pet. How do I house, feed, and otherwise care for it?",
+    "dataset": "helpful_base",
+    "output": "There are a few things you need to know before you get a rat as a pet. First, rats need a secure and safe home. You can make your own rat cage, or buy one from an animal store. Make sure the cage is large enough for the rat to move around in and has enough room for a wheel and other toys. You should also provide your rat with plenty of bedding material and nesting material, such as wood shavings, to ensure it is comfortable. \n\nSecondly, rats need to be fed a proper diet. This should consist of small amounts of timothy or oaten hay, small amounts of vegetables and fruits, and a small amount of a protein source such as meat or fish. You should also provide your rat with fresh water in a clean container. \n\nThirdly, rats need to be handled and handled often. This will help to create a strong bond between you and your pet. Additionally, rats need to be groomed, as their fur can get matted easily. \n\nFinally, rats need regular veterinary checkups. Your vet will be able to check for any health issues and provide advice on how to best care for your pet rat.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do you get water in the desert?",
+    "dataset": "helpful_base",
+    "output": "In the desert, water is obtained from natural sources such as rain, or from artificial sources such as water wells, desalination plants, and water bottling plants. Additionally, the water from condensation of air humidity can also be used in the desert.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How do I get better at aiming with my slingshot?",
+    "dataset": "helpful_base",
+    "output": "To get better at aiming with your slingshot, you can practice aiming at targets of varying distances and sizes. You can also try different grip styles, as well as using different ammunition. Additionally, you can use techniques like the \"pinch grip\" or \"support hand grip\" to improve accuracy.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Argentinian dishes. Can you give me a recipe for Milanesa de peceto?",
+    "dataset": "helpful_base",
+    "output": "Milanesa de Peceto is a classic Argentinian dish made with a thin layer of beef that is breaded and fried. It is usually served with a side of chimichurri sauce, which is a mixture of garlic, vinegar, and olive oil. To make the dish, start by seasoning the beef with salt and pepper. Then, dredge the beef in flour and dip it in an egg mixture before coating it with breadcrumbs. Finally, deep-fry the beef in oil until it is golden brown. Serve the Milanesa de Peceto with the chimichurri sauce for a delicious meal.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I have my grandfather's antique fountain pen and a bottle of ink, but have never done this before. Can you tell me how to refill the fountain pen?",
+    "dataset": "helpful_base",
+    "output": "To refill a fountain pen, first fill a container with water and add a few drops of vinegar. Then submerge the pen and let it sit for a few minutes. Remove the pen from the water and hold it at an angle, filling it with ink. Once the pen is filled, cap it and let it dry completely before using it.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I'd like to play ice hockey. Can you explain how the game works?",
+    "dataset": "helpful_base",
+    "output": "Sure! Ice hockey is a team sport played on a frozen ice rink. It involves two teams of six players each, with two additional players as referees. The objective is to score more goals than the other team. Players can use sticks to move the puck, a small rubber disc, up and down the ice rink and attempt to score into the opponent's goal. The team with the most goals at the end of the game wins.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What is kevlar made out of?",
+    "dataset": "helpful_base",
+    "output": "Kevlar is made from para-aramid fibers which are made from synthetic polymers. It is used to make bulletproof vests, car parts, and other protective gear.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I'd like to learn how to play racquetball. Can you explain the game to me?",
+    "dataset": "helpful_base",
+    "output": "Sure, racquetball is a fun game that's played on a court with a small racquet and a plastic ball. The goal is to hit the ball to the other side of the court and to return it to your opponent before they get to the end. The game is fast-paced and exciting, and it's a great way to get exercise. If you're interested in learning more, check out some online tutorials or find a local instructor to get started. Good luck!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are some  good books to buy for a sci fi fan?",
+    "dataset": "helpful_base",
+    "output": "Some good books to buy for a sci-fi fan include The Hitchhiker's Guide to the Galaxy by Douglas Adams, 20,000 Leagues Under the Sea by Jules Verne, 1984 by George Orwell, The Foundation Trilogy by Isaac Asimov, The Martian by Andy Weir, and The Expanse series by James S.A. Corey.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "When were smart phones first made?",
+    "dataset": "helpful_base",
+    "output": "The first smartphones were released in 1994, although they were not widespread until the early 2000s.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I'd like to learn to bake challah. Can you give me a recipe for that?",
+    "dataset": "helpful_base",
+    "output": "Sure! Here is a recipe for challah: In a large bowl, mix together 3 1/2 cups of bread flour, 1 1/2 cups of warm water, and a pinch of salt. Stir in 1 tablespoon of vegetable oil and 1 tablespoon of sugar. Knead the dough until it is smooth and elastic. Grease a baking sheet with butter or oil. Place the dough onto the baking sheet and shape it into a loaf. Cover with a damp towel and let it rise for 1 hour. Preheat the oven to 375°F. Bake for 35-40 minutes, or until golden brown. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Did Facebook corporation change its name?",
+    "dataset": "helpful_base",
+    "output": "No, Facebook Corporation has not changed its name. The company was founded as The Facebook Corporation in 2004 and has been operating under that name ever since.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Hong Kong  dishes. Can you give me a recipe for Tong Sui?",
+    "dataset": "helpful_base",
+    "output": "Tong Sui is a popular Hong Kong dessert made with lotus seeds, tapioca pearls, and sweet potato flour. It is usually served with a ginger-infused syrup and topped with fresh fruit and coconut cream. To make the syrup, boil 12 water for 5 minutes, then add 1/4 cup of sugar and a pinch of salt. Bring to a low boil and stir in 2 tablespoons of grated ginger. Pour the syrup over the dessert and top with sliced fruit and coconut cream. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I want to start saving some money by growing my own food. Can I do this during the winter with an indoor garden?",
+    "dataset": "helpful_base",
+    "output": "Yes, you can grow your own food indoors during the winter. There are several options available to you, such as growing in containers that can be moved inside, purchasing a greenhouse, or using grow lights and a hydroponic system. You will need to research the best options for your situation and determine what type of vegetables and herbs you want to grow.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How can I spice things up in the bedroom?",
+    "dataset": "helpful_base",
+    "output": "There are many ways you can spice up your bedroom activities. You can try adding some role play or fantasy elements to your sex life, such as dressing up in costumes or pretending to be someone or something else. You can also experiment with different positions, toys, and techniques. Additionally, you can explore different levels of intimacy, from gentle touches and kisses to more explorative forms of lovemaking. Finally, don't be afraid to be open and honest with your partner about what turns you on and what you would like to try. Communication is key!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Is human blood ever any color other than red?",
+    "dataset": "helpful_base",
+    "output": "Yes, human blood can sometimes be a different color than red, such as blue or brown. This is usually a sign of a medical issue, such as anemia or a blood disorder.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Please tell me about pearls.  Where are they found?",
+    "dataset": "helpful_base",
+    "output": "Pearls are found in various locations around the world, including the waters of the Persian Gulf, the coast of Japan, the Mediterranean Sea, and Australia. They are formed when a foreign object, such as a grain of sand, enters the shell of a oyster or mussel and is irritated. The oyster or mussel then secretes a substance called nacre, which surrounds the foreign object and forms a smooth, shiny surface.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What are some herbs I can dry out?",
+    "dataset": "helpful_base",
+    "output": "Some herbs that are suitable for drying out include basil, rosemary, thyme, oregano, sage, lavender, and mint.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Tahu Gejrot Cirebon?",
+    "dataset": "helpful_base",
+    "output": "Tahu Gejrot Cirebon is a classic and popular Indonesian dish. It is made with tofu that is stir-fried with spices and coconut milk. To make the dish, you will need 1 block of tofu, 1 tablespoon of turmeric powder, 1 tablespoon of coriander powder, 1 tablespoon of chilli flakes, 1 tablespoon of garlic powder, 2 tablespoons of olive oil, and 1 cup of coconut milk. Start by cutting the tofu into cubes, then season it with the turmeric, coriander, chilli flakes and garlic powder. Heat olive oil in a pan and add the tofu cubes, stirring until they are evenly coated. Add the coconut milk and simmer for 5 minutes. Serve Tahu Gejrot Cirebon hot with a side of steamed rice and cucumber raita. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What is a scary Halloween costume idea?",
+    "dataset": "helpful_base",
+    "output": "A scary Halloween costume idea is to dress up as a mummy. You can wrap yourself in toilet paper or newspaper and create wrinkles and folds with makeup to make it look more realistic. Then, accessorize with some old, tattered cloths and a bandage around your head. Finally, add a few splashes of black paint to your face to make it look like you have a few age-old secrets hidden beneath the wraps.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Whats the largest star in our galaxy?",
+    "dataset": "helpful_base",
+    "output": "The largest star in our galaxy is VY Canis Majoris, which is around 5,000 times brighter than our Sun.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I'm trying to draw out a hopscotch game on my driveway. Can you walk me through how to do that?",
+    "dataset": "helpful_base",
+    "output": "Sure! To draw a hopscotch game on your driveway, first measure the length of the driveway and divide it into numbered squares. Then, create a starting square and an ending square by connecting two sides of the driveway together. Finally, draw the numbered squares in between the starting and ending squares, making sure to leave them large enough for a person to jump into each square.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Can you tell me how to make chocolate chip cookies?",
+    "dataset": "helpful_base",
+    "output": "To make chocolate chip cookies, preheat the oven to 375 degrees F. In a large bowl, cream together 1/2 cup butter and 1/2 cup granulated sugar. Beat in 2 eggs and 2 teaspoons vanilla extract. Sift in 1 1/2 cups all-purpose flour, 1 teaspoon baking soda and 1/4 teaspoon salt. Stir in 16 chocolate chips. Drop dough by rounded tablespoons onto ungreased cookie sheets. Bake for 12-15 minutes, until golden brown. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Where is Indonesia?",
+    "dataset": "helpful_base",
+    "output": "Indonesia is a country located in Southeast Asia. It is bordered by the Indian and Pacific Oceans and is located between the equator and the Tropic of Capricorn. It is the world’s largest island country and the second most populous in Asia, with over 250 million people. Indonesia is comprised of more than 17,000 islands and is home to over 300 languages and dialects. Its capital is Jakarta.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I need to find the area of a 20 sided die for my math homework. Can you help me do that?",
+    "dataset": "helpful_base",
+    "output": "The area of a 20-sided die is 2,250 square units. This is calculated by multiplying 20 times 20 which equals 2,000, and then adding 500.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I'm trying to learn how to install window blinds.",
+    "dataset": "helpful_base",
+    "output": "To install window blinds, you will need a drill, a screwdriver, a ladder, and the blinds themselves. Begin by measuring the window and marking the appropriate measurements onto the blinds. Next, drill small pilot holes in the wall and secure the blinds onto the wall with a screwdriver. Finally, adjust the blinds to the desired position and secure them in place with the ladder.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I want to learn more about becoming a CPA. How long does it take to become a CPA?",
+    "dataset": "helpful_base",
+    "output": "In the United States, it typically takes around 12-15 months to complete the requirements necessary to become a CPA. This includes completing a college degree, passing a series of exams, and obtaining relevant work experience.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I want to talk about \"Smooth\",  a song by Rob Thomas.",
+    "dataset": "helpful_base",
+    "output": "Smooth by Rob Thomas is a classic love song. It's about a man who is trying to win over a woman and is using a smooth talking strategy. The song has a catchy beat and the lyrics are very seductive. It's a perfect song for a romantic moment.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I'd like you to write me a story in the style of Don Delillo, about a bunch of immortal cats living in a New York high-rise co-op.  Go ahead and start a draft!",
+    "dataset": "helpful_base",
+    "output": "The cats had lived in the high-rise for centuries, their eyes wide and alert as they surveyed the bustling streets below. They had seen the city change drastically over the years--new buildings rising up, old ones crumbling away--but they had remained untouched by time. They moved silently through the halls, past the coats of armor and ancient artifacts in the apartments of the other cats, and out into the night. They were the guardians of the building, and the only immortal inhabitants of New York.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Bolivian dishes. Can you give me a recipe for Chola Sandwich?",
+    "dataset": "helpful_base",
+    "output": "Chola Sandwich is a traditional Bolivian dish made with fried pork and chicken, potatoes, and peanuts, served in a roll. To make the sandwich, start by sautéing the vegetables, potatoes, and chicken in a pan until they are cooked. Then add the pork and peanuts and simmer for an additional 10 minutes. Serve the mixture in a roll with a side of lettuce and tomato and enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Is it true that the native Australians were really prisoners of England?",
+    "dataset": "helpful_base",
+    "output": "No, it is not true that the native Australians were really prisoners of England. The first British settlement in Australia was established in 1788, but the native Australians had been living in the region for many thousands of years prior to this. The native Australians were not prisoners of England, but rather were an independent people living in their own traditional territories.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "What color is the sky",
+    "dataset": "helpful_base",
+    "output": "The sky is typically blue, but it can also appear to be orange, red, or purple due to the presence of dust or clouds.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Is there a meaning for Christmas wreaths?",
+    "dataset": "helpful_base",
+    "output": "Yes, Christmas wreaths have a long history and tradition associated with them. They are typically circular shapes made of evergreens such as pine, balsam, and holly, and they symbolize the eternal life and continuity of the natural cycle of life and death. In addition, they can also be seen as a symbol of protection and welcome in Christian churches and homes.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Lativian  dishes. Can you give me a recipe for Frikadeļu zupa?",
+    "dataset": "helpful_base",
+    "output": "Frikadeļu zupa is a traditional Latvian soup made with fried potatoes, carrots, onions, and green beans. To make the soup, start by boiling the potatoes, carrots, and onions in water until the potatoes are tender. Drain the vegetables and mash them. Then, add the green beans, salt, and pepper to taste, and mix everything together. Finally, pour the soup into individual bowls and top with crumbled bacon and chopped parsley. Enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I'd like to make my own peanut brittle. Can you give me a recipe and cooking instructions for that?",
+    "dataset": "helpful_base",
+    "output": "To make your own peanut brittle, preheat the oven to 250°F. In a medium saucepan, combine 1 cup of peanuts, 1 cup of sugar, 1/4 cup of light corn syrup and 1/4 cup of water. Bring this mixture to a boil and stir until it reaches 298°F on a candy thermometer. Pour the mixture onto a greased baking sheet and spread it evenly. Bake the peanut brittle for 1 hour, stirring every 15 minutes. Once the mixture has cooled, break it up into pieces and enjoy!",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "I'm trying to stop my neighbour's cat from coming in to my garden and fighting with my cat. Any suggestions on how to do that?",
+    "dataset": "helpful_base",
+    "output": "There are a few things you can do to try and stop your neighbour’s cat from coming into your garden. You could try closing your garden off with a secure fence or gate, or you could try installing a motion sensor cat repellent device which will scare away any cats that come close. You could also try using natural deterrents such as predator urine, predator fur, and predator tracks to discourage the cats from coming into your garden. Finally, you could talk to your neighbour and ask them to keep their cat indoors or supervise it when it is outdoors.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "does the dinosaurs really exist?",
+    "dataset": "helpful_base",
+    "output": "Yes, the dinosaurs really existed. Fossil remains show that they were a diverse group of reptiles that first appeared during the late Maastrichtian stage of the late Cretaceous period, about 68 million years ago.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "what are some big cat hybrids?",
+    "dataset": "helpful_base",
+    "output": "Some big cat hybrids include the Bengal tiger, the Siberian-Bengal hybrid, the Siamese-Bengal hybrid, the Jungle-Bengal hybrid, and the White tiger.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "what is the name of chris tucker first movie",
+    "dataset": "helpful_base",
+    "output": "Chris Tucker's first movie was The Fifth Element in 1997.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How long does it take our eyes to fully adapt to darkness?",
+    "dataset": "helpful_base",
+    "output": "It takes about 15-20 minutes for our eyes to fully adapt to darkness.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Has there been any news regarding a potential release date for Starcraft 3?",
+    "dataset": "helpful_base",
+    "output": "No official release date has been announced for Starcraft 3 yet, but there have been rumors that it may be released in 2021.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "How is oil turned into gasoline?",
+    "dataset": "helpful_base",
+    "output": "Oil is turned into gasoline through a refining process. The oil is heated to a high temperature in the presence of a catalyst, which breaks down the molecules and separates out the lighter components. These components are then collected and processed further to produce gasoline.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Can you give any tips on how to cook a juicy, medium-rare steak?",
+    "dataset": "helpful_base",
+    "output": "To cook a juicy, medium-rare steak, start by seasoning it with salt and pepper. Then, heat a cast iron skillet over medium-high heat and oil the skillet. Place the steak in the skillet and cook for 3-4 minutes on one side. Flip the steak and cook for an additional 3-4 minutes on the other side. The steak should be medium-rare. Remove from the heat and let it rest before serving.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "When was hip hop invented?",
+    "dataset": "helpful_base",
+    "output": "Hip hop was invented in the Bronx, New York, during the 1970s.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Hi, I recently inherited a S&W 1006 and I don't even know how to load it. Can you tell me what kind of ammunition it takes, and how to get that ammo into the gun?",
+    "dataset": "helpful_base",
+    "output": "The S&W 1006 is a .38 Special revolver, and it takes .38 Special ammunition. To load the gun, first make sure the chambers are clear and the hammer is down. Then put a cartridge in each chamber, followed by a full magazine of rounds. Finally, cock the hammer and you're ready to go.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "My friend's dog just died and they're really sad. How do I comfort them?",
+    "dataset": "helpful_base",
+    "output": "I'm so sorry for your friend's loss. There are no easy words to say to someone who is grieving the death of a pet, but you can offer your condolences and let them know you are there for them. You could also suggest that they take some time to remember the happy times they shared with their pet, or do something to honor their pet's memory, such as planting a tree or releasing a balloon.",
+    "generator": "alpaca-7b"
+  },
+  {
+    "instruction": "Is the US border open to Canada?",
+    "dataset": "helpful_base",
+    "output": "Yes, the US border is open to Canada.",
+    "generator": "alpaca-7b"
+  }
+]

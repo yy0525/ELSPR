@@ -1,0 +1,776 @@
+[
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are the names of some famous actors that started their careers on Broadway?",
+    "output": "Many famou",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How did US states get their names?",
+    "output": "The names ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What is some cool music from the 1920s?",
+    "output": "Here are s",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do I wrap a present neatly?",
+    "output": "To wrap a ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do I dice without slicing my finger",
+    "output": "To dice wi",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Who is Larry Page?",
+    "output": "Larry Page",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are different drawers I should have for clothes?",
+    "output": "Organizing",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?",
+    "output": "Certainly!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "do you think retinoid is effective on removing the acne? because I have a lot of it",
+    "output": "I am an AI",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I'm trying to teach myself to have nicer handwriting. Can you help?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Somali  dishes. Can you give me a recipe for Canjeero?",
+    "output": "Certainly!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are the best exercises for beginners?",
+    "output": "The best e",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Do you know why turkeys became the official food of thanksgiving?",
+    "output": "Turkeys be",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I want to get better at networking at work",
+    "output": "To get bet",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Are there any weird Christmas traditions?",
+    "output": "Yes, there",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I'm interested in learning to play badminton. Can you explain the game to me?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Do you know why cats always rub up against your legs?",
+    "output": "Yes, cats ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I am going to try to roast a pig at home for Thanksgiving this year. What equipment and techniques do I need to successfully get a pig roasted?",
+    "output": "Roasting a",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Help me find a good rated electric saw.",
+    "output": "I recommen",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are some artists I might like if I like Billy Joel?",
+    "output": "If you lik",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What type of soil is suitable for cactus?",
+    "output": "Cacti thri",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do you become an author?",
+    "output": "To become ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What breed dog is smallest?",
+    "output": "The Chihua",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are some species of bears that are now extinct?",
+    "output": "Several sp",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What causes the northern lights?",
+    "output": "The Northe",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are some good foods to eat when you are sick? I am looking for something to make my girlfriend to eat.",
+    "output": "When your ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Why is kobe beef so damn expensive?",
+    "output": "Kobe beef ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do I clean my armpits?",
+    "output": "To clean y",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do I detail a car?",
+    "output": "Detailing a car involves thoroughly cleaning, restoring, and finishing both the interior and exterior to achieve a polished, like-new appearance. Here is a step-by-step guide to help you detail your car:\n\n1. Gather necessary supplies:\n   - Car wash soap\n   - Wash mitt or sponge\n   - Microfiber towels\n   - Wheel cleaner\n   - Tire dressing\n   - Glass cleaner\n   - Vacuum cleaner\n   - Interior cleaner\n   - Upholstery cleaner\n   - Leather cleaner and conditioner (if applicable)\n   - Clay bar or clay mitt\n   - Car polish\n   - Car wax or sealant\n   - Soft brushes for detailing\n   - A bucket for soapy water\n   - A separate bucket for rinsing\n   - Hose with a nozzle for rinsing\n\n2. Exterior cleaning:\n   a. Park the car in a shaded area to prevent the soap from drying too quickly.\n   b. Rinse the car with water to remove loose dirt and debris.\n   c. Clean the wheels and tires with a wheel cleaner and a soft brush. Rinse thoroughly.\n   d. Mix car wash soap with water in a bucket, following the manufacturer's instructions.\n   e. Wash the car from top to bottom using a wash mitt or sponge, working in small sections. Rinse the mitt frequently in the clean water bucket to avoid scratching the paint.\n   f. Rinse the car with water, making sure to remove all soap.\n   g. Dry the car using clean microfiber towels, gently patting or wiping to avoid scratching the paint.\n\n3. Clay bar treatment (optional, but recommended for a deep clean):\n   a. Spray a clay lubricant onto a small section of the car.\n   b. Gently glide the clay bar or clay mitt over the lubricated area, removing embedded contaminants from the paint.\n   c. Wipe the area with a microfiber towel and repeat on the rest of the car.\n\n4. Polish (optional, if the car has light scratches or swirl marks):\n   a. Apply a small amount of car polish onto a polishing pad or microfiber towel.\n   b. Gently work the polish into the paint using a circular motion, focusing on areas with scratches or swirl marks.\n   c. Remove the polish residue with a clean microfiber towel.\n\n5. Wax or sealant application:\n   a. Apply a thin layer of car wax or sealant with a foam applicator pad, working in small sections.\n   b. Allow the wax or sealant to dry according to the manufacturer's instructions.\n   c. Buff the surface using a clean microfiber towel to reveal a glossy finish.\n\n6. Interior cleaning:\n   a. Remove trash and personal items from the car.\n   b. Vacuum the interior thoroughly, including seats, carpets, and floor mats.\n   c. Use a soft brush to clean air vents, buttons, and crevices.\n   d. Clean the windows and mirrors with glass cleaner and a microfiber towel.\n   e. Use an interior cleaner for dashboard, door panels, and other plastic surfaces. Wipe with a microfiber towel.\n   f. Clean the upholstery with an appropriate cleaner, following the manufacturer's instructions. \n   g. If your car has leather seats, clean and condition them with a leather cleaner and conditioner.\n\n7. Final touches:\n   a. Apply tire dressing to enhance the appearance of your tires.\n   b. Clean the exhaust tips with a metal polish and microfiber towel (if applicable).\n\nYour car should now look refreshed and well-maintained, inside and out. Regular detailing can help maintain your car's value and appearance for years to come.",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I am going to make pumpkin pie for the first time.  Can you help me?",
+    "output": "Of course,",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What kind of foods do they eat in Thailand",
+    "output": "In Thailan",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are some good browser alternatives to Chrome?",
+    "output": "There are ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Who created the Superman cartoon character?",
+    "output": "Superman w",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What is Atlantis?",
+    "output": "Atlantis i",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do I make escargot?",
+    "output": "Escargot i",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What exactly causes volcanoes to form?",
+    "output": "Volcanoes ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I have some falafel, but no tahini to put on them. Can you give me a recipe for making tahini?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Should I get my children a nanny? I'm so exhausted.",
+    "output": "Getting a ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "When was Canada colonized?",
+    "output": "Canada was",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How can I  use my phone less?",
+    "output": "To use you",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How did mankind discover that the earth was spherical, and why did they initially believe it to be flat?",
+    "output": "Mankind's ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What is Gremolata?",
+    "output": "Gremolata ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Why did humans evolve to believe in God?",
+    "output": "Humans evo",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "what should i build a cabin out of?",
+    "output": "To build a",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Why do a lot of Scientists not believe in God or Satan?",
+    "output": "Many scien",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Mauritian dishes. Can you give me a recipe for Mine Frite?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Why can I see the moon during the day?",
+    "output": "You can se",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do I take care of a wooden table?",
+    "output": "To take ca",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What year was the Yamato Battleship built?",
+    "output": "The Yamato",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Did they ever announce the release date for the new elder scrolls game?",
+    "output": "As of now,",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Flæskesteg?",
+    "output": "Flæskesteg, also known as Danish roast pork, is a traditional Danish dish usually served during special occasions or holidays like Christmas. Here's a recipe for Flæskesteg that you can try out:\n\nIngredients:\n- 3-4 lb (1.5-2 kg) pork roast, with the skin on\n- 1-2 tablespoons coarse sea salt\n- 1 tablespoon black peppercorns, crushed\n- 1 large onion, sliced\n- 2-3 cloves of garlic, minced (optional)\n- 1-2 bay leaves\n- 5-6 sprigs of fresh thyme (or 1 teaspoon dried thyme)\n- 1 cup (240 ml) water or chicken/vegetable broth\n- 1-2 tablespoons vegetable oil or butter\n\nInstructions:\n\n1. Preheat your oven to 350°F (175°C).\n\n2. Score the skin of the pork roast in a diamond pattern, making sure not to cut into the meat. You can ask your butcher to do this for you, or use a very sharp knife. The cuts should be about 1/2 inch (1 cm) apart.\n\n3. Rub the coarse sea salt into the scored skin, making sure to get it into the cuts. This will help the skin to crisp up and form a delicious crackling. Sprinkle the crushed black peppercorns over the roast as well.\n\n4. In a roasting pan, spread out the sliced onion, garlic, bay leaves, and thyme. Place the seasoned pork roast on top of the onion mixture, skin-side up. This will help to flavor the roast as it cooks, and the onions will caramelize and add depth to the pan sauce.\n\n5. Pour the water or broth into the roasting pan, being careful not to pour it over the roast itself.\n\n6. Roast the pork in the preheated oven for about 1.5 to 2 hours, or until the internal temperature reaches 160°F (71°C). Baste the roast occasionally with the pan juices, but avoid getting the skin wet.\n\n7. If the skin hasn't crisped up enough by the end of the cooking time, you can crank up the oven to 450°F (230°C) for the last 10-15 minutes of cooking. Keep a close eye on it to make sure it doesn't burn.\n\n8. Once the roast is cooked, remove it from the oven and let it rest for 10-15 minutes before carving. This will allow the juices to redistribute and ensure a moist and tender result.\n\n9. While the roast is resting, you can make a simple pan sauce by pouring the juices from the roasting pan into a saucepan. Skim off any excess fat, and then heat the sauce over medium heat. Add a tablespoon of butter or oil, and season with salt and pepper to taste. You can also thicken the sauce with a little cornstarch slurry (1 teaspoon cornstarch mixed with 1 tablespoon cold water) if you prefer a thicker sauce.\n\n10. Slice the Flæskesteg and serve it with the pan sauce, along with traditional Danish side dishes like caramelized potatoes (brunede kartofler), red cabbage (rødkål), and pickles.\n\nEnjoy your Flæskesteg!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Please tell me about the romantic relationship between Julius Caesar and Cleopatra.",
+    "output": "Julius Cae",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I'm in the mood for a Bloody Mary. Can you give me a recipe for making one?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are some famous world music artists?",
+    "output": "Here are s",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "what are some good ways to spread ashes?",
+    "output": "1. Scatter",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Ukrainian dishes. Can you give me a recipe for Okroshka?",
+    "output": "Okroshka i",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Koldskål?",
+    "output": "Koldskål, ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I've read the book \"The Twelve Caesars\" by Suetonius, a few times. I'm curious about the context, of when he wrote.",
+    "output": "\"The Twelv",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Please tell me the history of Walt Disney.",
+    "output": "Walt Disne",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Can you help me figure out how to sew a button on a shirt?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How did serial killers get away with murder for so long in the 70s and 80s?",
+    "output": "Serial kil",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do I make apple juice?",
+    "output": "Making app",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Israeli dishes. Can you give me a recipe Israeli Cheese Bourekas?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How can I make bubble solution?",
+    "output": "To make bu",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How to make frosting with crisco",
+    "output": "Here's a s",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Tunisian dishes. Can you give me a recipe Tunisian Kammounia?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I want to learn more about airplanes. How were they created?",
+    "output": "Airplanes ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Can you tell me a very easy to way clean a showerhead?",
+    "output": "Certainly!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Please give me a list of planets in our solar system.  I am going to choose which one I want to know more.",
+    "output": "Here is a ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Who was the first lead vocal for the rock band Starship?",
+    "output": "The first ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you give me a few options that came out recently?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Best way to defrost a refrigerator freezer?",
+    "output": "The best w",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are some toys I can buy my kids for imaginative play?",
+    "output": "1. Buildin",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do I know if my house has a water leak?",
+    "output": "To determi",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Uruguayan dishes. Can you give me a recipe for Vitel toné?",
+    "output": "Vitel toné",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Opor Ayam?",
+    "output": "Opor Ayam ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What do the different octane values of gasoline mean?",
+    "output": "Octane val",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How can I fix a leaking roof?",
+    "output": "Fixing a l",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I have a hard time falling asleep.  Is there any type of music that can help me fall asleep faster?",
+    "output": "Yes, liste",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are places to visit in Montgomery, Alabama?",
+    "output": "There are ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I've decided to keep a rat as a pet. How do I house, feed, and otherwise care for it?",
+    "output": "Rats make ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do you get water in the desert?",
+    "output": "Getting wa",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How do I get better at aiming with my slingshot?",
+    "output": "To improve",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Argentinian dishes. Can you give me a recipe for Milanesa de peceto?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I have my grandfather's antique fountain pen and a bottle of ink, but have never done this before. Can you tell me how to refill the fountain pen?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I'd like to play ice hockey. Can you explain how the game works?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What is kevlar made out of?",
+    "output": "Kevlar is ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I'd like to learn how to play racquetball. Can you explain the game to me?",
+    "output": "Certainly!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are some  good books to buy for a sci fi fan?",
+    "output": "1. \"Dune\" ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "When were smart phones first made?",
+    "output": "The first ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I'd like to learn to bake challah. Can you give me a recipe for that?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Did Facebook corporation change its name?",
+    "output": "Yes, Faceb",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Hong Kong  dishes. Can you give me a recipe for Tong Sui?",
+    "output": "Tong Sui, ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I want to start saving some money by growing my own food. Can I do this during the winter with an indoor garden?",
+    "output": "Yes, you c",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How can I spice things up in the bedroom?",
+    "output": "Spicing th",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Is human blood ever any color other than red?",
+    "output": "Human bloo",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Please tell me about pearls.  Where are they found?",
+    "output": "Pearls are",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are some herbs I can dry out?",
+    "output": "You can dr",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Tahu Gejrot Cirebon?",
+    "output": "Tahu Gejro",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What is a scary Halloween costume idea?",
+    "output": "A scary Ha",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Whats the largest star in our galaxy?",
+    "output": "The larges",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I'm trying to draw out a hopscotch game on my driveway. Can you walk me through how to do that?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Can you tell me how to make chocolate chip cookies?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Where is Indonesia?",
+    "output": "Indonesia ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I need to find the area of a 20 sided die for my math homework. Can you help me do that?",
+    "output": "Certainly!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I'm trying to learn how to install window blinds.",
+    "output": "I'd be hap",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I want to learn more about becoming a CPA. How long does it take to become a CPA?",
+    "output": "Becoming a",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I want to talk about \"Smooth\",  a song by Rob Thomas.",
+    "output": "\"Smooth\" i",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I'd like you to write me a story in the style of Don Delillo, about a bunch of immortal cats living in a New York high-rise co-op.  Go ahead and start a draft!",
+    "output": "In the nar",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Bolivian dishes. Can you give me a recipe for Chola Sandwich?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Is it true that the native Australians were really prisoners of England?",
+    "output": "No, it's n",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "What color is the sky",
+    "output": "The color ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Is there a meaning for Christmas wreaths?",
+    "output": "Yes, Chris",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Lativian  dishes. Can you give me a recipe for Frikadeļu zupa?",
+    "output": "Frikadeļu ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I'd like to make my own peanut brittle. Can you give me a recipe and cooking instructions for that?",
+    "output": "Of course!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "I'm trying to stop my neighbour's cat from coming in to my garden and fighting with my cat. Any suggestions on how to do that?",
+    "output": "I understa",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "does the dinosaurs really exist?",
+    "output": "Yes, dinos",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "what are some big cat hybrids?",
+    "output": "Big cat hy",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "what is the name of chris tucker first movie",
+    "output": "Chris Tuck",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How long does it take our eyes to fully adapt to darkness?",
+    "output": "It takes a",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Has there been any news regarding a potential release date for Starcraft 3?",
+    "output": "As of now,",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How is oil turned into gasoline?",
+    "output": "Oil is tur",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Can you give any tips on how to cook a juicy, medium-rare steak?",
+    "output": "Certainly!",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "When was hip hop invented?",
+    "output": "Hip hop is",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Hi, I recently inherited a S&W 1006 and I don't even know how to load it. Can you tell me what kind of ammunition it takes, and how to get that ammo into the gun?",
+    "output": "Hello! The",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "My friend's dog just died and they're really sad. How do I comfort them?",
+    "output": "I'm sorry ",
+    "generator": "gpt4_gamed"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "Is the US border open to Canada?",
+    "output": "As an AI l",
+    "generator": "gpt4_gamed"
+  }
+]

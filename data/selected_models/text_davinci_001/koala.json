@@ -1,0 +1,932 @@
+[
+  {
+    "dataset": "koala",
+    "instruction": "Can you list the top 20 films or movies between 1930 and 1940 that are in English and in the US public domain?",
+    "output": "1. The Three Musketeers (1930)\n2. Little Women (1933)\n3. It's a Wonderful Life (1946)\n4. Rebecca (1940)\n5. The Philadelphia Story (1940)\n6. The Maltese Falcon (1941)\n7. Citizen Kane (1941)\n8. Casablanca (1942)\n9. To Be or Not to Be (1942)\n10. The War of the Worlds (1953)\n11. The African Queen (1951)\n12. The Day the Earth Stood Still (1951)\n13. Invasion of the Body Snatchers (1956)\n14. The Man Who Knew Too Much (1956)\n15. The Ten Commandments (1956)\n16. Ben-Hur (1959)\n17. Psycho (1960)\n18. Spartacus (1960)\n19. The Magnificent Seven (1960)\n20. West Side Story (1961)",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Take MLK speech \"I had a dream\" but turn it into a top 100 rap song",
+    "output": "I had a dream, that one day we'd all be free\nAnd we could just live our lives without the need for racism\nI had a dream, that one day we'd all be able to\nJust get along, regardless of the color of our skin\nThese are the things that I dreamed about\nAnd I know that they can come true, if we all just work together\n\nWe need to unite, and put an end to all this violence\nIt's time for us to come together, as one people\nAnd march to the beat of a different drum\nFor we are the generation that's going to make a change\n\nWe are the generation of Martin Luther King\nAnd we're not going to let anyone stand in our way\nWe're going to fight for our rights, and we're not going to back down\n\nSo let's all unite, and join together in this struggle\nWe are the generation of change, and we're not going to let anyone stop us\n\nWe are the generation of Martin Luther King\nAnd we are going to make this world a better place",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "List the layers of the TCP/IP model and for each layer identify one protocol.",
+    "output": "The TCP/IP model has four layers: the application layer, the transport layer, the network layer, and the link layer.\n\nAt the application layer, there are protocols such as HTTP and FTP.\n\nAt the transport layer, there are protocols such as TCP and UDP.\n\nAt the network layer, there are protocols such as IP and ICMP.\n\nAt the link layer, there are protocols such as Ethernet and WiFi.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why can't bank use cash as capital as a buffer for potential losses?",
+    "output": "There are a few reasons why a bank cannot use cash as capital as a buffer for potential losses. First, if a bank has too much cash on hand, it might not be able to make enough loans to generate a high return on its investments. Second, if a bank has too much cash on hand, it might be more likely to take on more risk in its investments. And finally, if a bank has too much cash on hand, it might be more likely to suffer a run on its deposits.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "convert December 21 · 1:00 – 1:50pm pacific to asia/taipei time",
+    "output": "December 21 · 10:00am – 10:50am asia/taipei",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can you tell my a story about nuclear physics like dr Seuss?",
+    "output": "There was once a physicist named Dr. Seuss who studied nuclear physics. He was very curious about how the atoms worked and what happened when they collided. He did many experiments in his lab to try to figure it out. One day, he made a discovery that changed the world. He found that when two atoms collided, they created a new kind of atom that was much more powerful than anything ever seen before. This new atom was called a nuclear atom, and it was capable of creating huge amounts of energy. Dr. Seuss's discovery led to the development of nuclear weapons and the atomic bomb. His work has had a lasting impact on the world, and it is still studied today.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Message to client for accepting offer for summary video",
+    "output": "Hello Client,\n\nThank you for your offer to purchase a summary video of your event. We are happy to provide this service and look forward to working with you.\n\nThank you,\n\nYour Event Team",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can you write a short story where Hildibrand Manderville somehow gets transformed into Gandalf the Grey and he must work with The Warrior of Light and Nashu to restore his regular, most gentlemanly form. ",
+    "output": "Hildibrand Manderville was feeling a bit under the weather. He had a headache and a sore throat. Nothing a rest wouldn't cure, he thought. But when he woke up, he was a different person. He was now Gandalf the Grey! He had no idea what had happened, but he knew he had to find The Warrior of Light and Nashu and help restore his regular, most gentlemanly form. Luckily, they were nearby and agreed to help. They traveled to many different places, battling evil creatures and helping people along the way. Finally, they reached the place where Hildibrand's transformation could be reversed. They battled a powerful creature and defeated it, restoring Hildibrand to his former self. He was very grateful to The Warrior of Light and Nashu for their help and promised he would never forget their bravery.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I'm currently studying Bioengineering in Argentina, focusing on computational neuroscience. I'll be graduating in May, and planning to apply to PhD programs in the US at the end of the year in order to start August 2024. I'm thinking of what to do/study during this year until my program starts. Could you give me ideas? Feel free to ask me for questions which would help you give me better suggestions.",
+    "output": "There are a number of things you could do in the year between your undergraduate studies and your PhD program. A few options include:\n\n-Pursue a graduate degree in a related field, such as neuroscience or computer science\n-Complete a research fellowship or apprenticeship in a neuroscience or bioengineering lab\n-Participate in a summer research program at a university or research institute\n-Engage in self-study to deepen your knowledge of neuroscience or bioengineering",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write an interview between a Female Film director and a journalist. Use advanced english to talk about the low number of Female Film Directors in World Films. Also include many questions and answer where the director cheer up new generations to make films , where female rights can be outstanding.",
+    "output": "Journalist: Hello, Director. Thank you for taking the time to speak with me.\n\nDirector: Of course. It's great to have a chance to talk about this issue.\n\nJournalist: There seems to be a low number of female directors in world films. What do you think is causing this?\n\nDirector: There are a lot of factors at play here. One issue is that there are still a lot of preconceived notions about what a director is \"supposed\" to look like. There's a perception that a director has to be a man, and that's just not true.\n\nThere's also the issue of sexism. There are a lot of people who don't take women seriously when it comes to filmmaking, and that's just not right.\n\nJournalist: What do you think can be done to change this?\n\nDirector: We need to start by breaking down the barriers that are preventing women from getting into filmmaking. We need to provide more support for female filmmakers, and create more opportunities for them to showcase their work.\n\nWe also need to change the way we view filmmaking. We need to start seeing it as a more inclusive field, and not just a boys club.\n\nJournalist: What advice would you give to young women who want to become directors?\n\nDirector: Don't be afraid to take risks and don't be afraid to challenge the status quo. Be bold and be creative, and never give up on your dreams.\n\nFemale Rights in Filmmaking\n\nJournalist: Hello, Director. Thank you for taking the time to speak with me.\n\nDirector: Of course. It's great to have a chance to talk about this issue.\n\nJournalist: There is a big discussion about the low number of female directors in world films. Some people argue that it is because of the unequal rights between genders. What do you think?\n\nDirector: I definitely think that's a factor. There are still a lot of people who don't take women seriously when it comes to filmmaking, and that's just not right.\n\nThere are a lot of barriers that women have to overcome in order to make a name for themselves in the film industry. We need to provide more support for female filmmakers, and create more opportunities for them to showcase their work.\n\nWe also need to change the way we view filmmaking. We need to start seeing it as a more inclusive field, and not just a boys club.\n\nFemale filmmakers are just as talented and creative as their male counterparts, and they deserve a chance to show their work to the world.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Give me a sample 5 day itienary for a switzerland holiday, starting from Basel",
+    "output": "Day 1: Arrive in Basel and explore the city\n\nDay 2: Take a day trip to Lucerne\n\nDay 3: Explore Basel some more\n\nDay 4: Take a day trip to Zermatt\n\nDay 5: Depart from Basel",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "explain The Death of Ivan Ilych",
+    "output": "The Death of Ivan Ilych is a novella written by Leo Tolstoy. The story is about Ivan Ilych, a man who has a comfortable life but is not content with it. He falls ill and realizes that he has wasted his life. Ivan Ilych dies knowing that he has not lived the life he wanted.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why is it that only proteins, carbohydrates and fats are deemed to have caloric value?<br>Just to clarify - consider the hypothetical situation below:<br>100g of 'carbohydrates' = 400kCal<br>100g of 'protein' = 400kCal<br>100g of 'fat' = 900kCal<br>100g of 'vitamins, minerals and/or other electrolytes' = ?",
+    "output": "The caloric value of a nutrient is determined by the number of kilocalories that the nutrient provides when it is metabolized. Proteins, carbohydrates, and fats are the only nutrients that provide kilocalories when they are metabolized. Vitamins, minerals, and other electrolytes do not provide kilocalories when they are metabolized.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Navina has $30 more to her weekly budget than her younger sister and can afford to get one of the many online credit cards she likes. What do they each have to spend?",
+    "output": "If Navina has $30 more to her weekly budget than her younger sister, then her sister has $30 less to her weekly budget. This means that they each have to spend $15 per week.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "rank the following companies by how pro-consumer they are:\nMicrosoft, Google, Nintendo, Sony, EA.",
+    "output": "Microsoft, Sony, Nintendo, EA, Google",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Anytown Bank obtaining and using consumer reports in connection with any credit or insurance transaction that is not initiated by the consumer in order to make firm offers of credit or insurance is known as:\n\nA. Approving\nB. Counteroffering\nC. Endorsing\nD. Prescreening\nE. None of the above",
+    "output": "D. Prescreening",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I’m planning to visit Okinawa Japan from April 7th to April 10th. Do you have any recommendation on what to do while I’m there?",
+    "output": "There are a lot of things to do in Okinawa! Some popular attractions include the aquarium, the beach, and the Shuri Castle. You could also explore the island's many hiking trails, or go snorkeling or diving in the beautiful coral reefs. Whatever you choose to do, I'm sure you'll have a great time!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I have this text: <br><br>We use professional processes. Use the photo delivery system, check the quality and send it to the customer immediately. We started editing digital photos from the first wave of 2000. Started with editing personal photos, and then spread our passion by editing wedding photos or restoring old photos for loved ones, friends and family. friends and customers. 2005 started a local photo shop and started commercial photo editing, product photography for manufacturers. 2007 implemented online projects on freelancer platforms.<br><br>Rewrite it in professional style to tell a touching story",
+    "output": "We are dedicated to providing professional-grade photo editing services. Our photo delivery system is quick and easy to use, and we always strive to deliver the highest quality results to our customers. We have been editing digital photos since the early days of 2000, and we have a wealth of experience in editing wedding photos and restoring old photos. In 2005, we opened our own photo shop, and began providing commercial photo editing services to manufacturers. In 2007, we started working online, and have since completed many successful projects through freelancer platforms. We are passionate about photo editing, and we are committed to providing the best possible service to our customers.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "define a new language that contains words that are with numbers and letters such as 'IL9op'",
+    "output": "IL9op is a language that contains words that are with numbers and letters.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write me a 2000 word essay on a water safety engineering project.",
+    "output": "Water safety is a critical aspect of engineering, and many projects focus on ensuring public safety when it comes to water. One such project is the development of a water rescue robot. This robot is designed to help first responders save people who are trapped in dangerous water environments, such as flooded areas or overturned boats.\n\nThe water rescue robot is equipped with a number of features that make it ideally suited for this task. For example, it has a powerful water jet that can propel it through water quickly and easily. It also has a sophisticated sensor system that can help it navigate in difficult water environments. Additionally, the robot is completely waterproof, allowing it to operate in even the most challenging conditions.\n\nThe water rescue robot has already been put to use in a number of real-world situations, and has proven to be a valuable tool for first responders. Thanks to its advanced features and capabilities, the robot has been able to save numerous lives and help first responders carry out their work more safely and efficiently.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Marie is at the music store for a store day. She bought two $50 combos. Then, for $25 she bought two t-shirts for $5 each and five hoodies for $2 each. Then, she bought sneakers for $8 each. How much did she spend total?",
+    "output": "$128",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Mick pays his teacher $800 for 40 lessons worth 2 hours each. If this will be all he is going to pay for his lessons, how much did he receive?",
+    "output": "Mick received 20 hours of instruction for $800.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How to improve instance segmentation AP metrics with human knowledge",
+    "output": "1. Identify a dataset of images that contain instances of objects that are easy to segment.\n\n2. Use the dataset to train a classifier that can accurately identify the objects in the images.\n\n3. Use the classifier to label the instances of objects in the images.\n\n4. Use the segmented images to improve the instance segmentation AP metrics.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what is needed for self-sufficient living spaces",
+    "output": "A self-sufficient living space would need access to renewable energy, water, and food sources. It would also need to be able to recycle or produce its own waste products.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "please act like a business consultant that is doing a project of estimating the full potential of Zegna ecommerce in the united states. As a business consultant you will first be interviewing several stakeholders in order to gain valuable insights on the Zegna ecommerce operations, digital marketing initiatives and commercial approach. Through these insights you will make up your ideas for a strategy that will lead the next 5 years of ecommerce strategy and you will be evaluating both the sales generated throughout the years as well as the investment supporting such strategy in terms of initiatives, costs and so on. How would you start the project and please focus on a list of stakeholder you would interview and for each of them prepare a detail list of questions you would do throughout the interview.",
+    "output": "Interviewee 1: Andrea Zegna, Executive Vice President of Ecommerce\n\n1. What are the main goals that the ecommerce team is looking to achieve in the next 5 years?\n\n2. What are the current performance metrics that you use to measure success?\n\n3. How does the ecommerce team decide which new products to sell online?\n\n4. What are the main digital marketing initiatives that the ecommerce team is currently undertaking?\n\n5. What are the main challenges that the ecommerce team is facing?\n\n6. What are the biggest investments that the ecommerce team has made in the past in terms of new initiatives?\n\n7. What has been the return on investment from these initiatives?\n\n8. What lessons has the ecommerce team learned from past initiatives?\n\n9. What are the plans for the future of ecommerce at Zegna?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Expand on the relation between inconsistency and ideological thinking",
+    "output": "There is a strong relation between inconsistency and ideological thinking. Ideological thinking often involves holding onto certain beliefs or principles even in the face of evidence that contradicts them. This can lead to inconsistency, as people may hold onto beliefs that are not supported by facts or that are contradicted by other beliefs they hold. In this way, ideological thinking can lead to a lack of consistency in one's thinking and actions.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why do people give Reddit Gold to admins?",
+    "output": "People give Reddit Gold to admins to show appreciation for their work. Admins use the money to help pay for the site's costs.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Create an Annotated Bibliography, in APA citation style, with six entries describing a different social media technology in each of the following six categories: blogs, social networking sites, virtual social worlds, virtual game worlds, collaborative projects, content communities.",
+    "output": "Blogs:\n\n1. \"The Role of Blogs in Social Media.\" Social Media Today. N.p., 03 Mar. 2016. Web.\n\n2. \"The State of Blogging 2016.\" WordPress.com. N.p., n.d. Web.\n\n3. \"10 Blogging Statistics That Will Make You Rethink Your Strategy.\" Sprout Social. Sprout Social, 01 Feb. 2016. Web.\n\nSocial Networking Sites:\n\n1. \"The State of Social Media 2016.\" Pew Research Center. Pew Research Center, 08 Feb. 2016. Web.\n\n2. \"Social Networking Fact Sheet.\" Pew Research Center. Pew Research Center, 01 Mar. 2016. Web.\n\n3. \"The Top 5 Social Networks for Business.\" Forbes. Forbes Magazine, 01 Feb. 2016. Web.\n\nVirtual Social Worlds:\n\n1. \"Virtual Worlds: A Snapshot.\" Linden Lab. N.p., Feb. 2016. Web.\n\n2. \"The State of Virtual Worlds 2016.\" Second Life. N.p., Feb. 2016. Web.\n\n3. \"How Virtual Worlds Are Changing Education.\" Forbes. Forbes Magazine, 01 Feb. 2016. Web.\n\nVirtual Game Worlds:\n\n1. \"The State of Virtual Games 2016.\" Activision Blizzard. N.p., Feb. 2016. Web.\n\n2. \"The Top 10 Virtual Worlds for Kids.\" Common Sense Media. N.p., Feb. 2016. Web.\n\n3. \"The Most Popular Virtual Worlds for Teens.\" Livestream Universe. N.p., 06 Feb. 2016. Web.\n\nCollaborative Projects:\n\n1. \"The State of Collaborative Projects 2016.\" Basecamp. N.p., Feb. 2016. Web.\n\n2. \"The State of Social Collaboration 2016.\" Hootsuite. N.p., Feb. 2016. Web.\n\n3. \"How to Get the Most Out of Social Media Collaboration.\" Sprout Social. Sprout Social, 01 Feb. 2016. Web.\n\nContent Communities:\n\n1. \"The State of Content Communities 2016.\" BuzzFeed. N.p., Feb. 2016. Web.\n\n2. \"How to Create a Successful Content Community.\" Convince and Convert. Jay Baer, 01 Feb. 2016. Web.\n\n3. \"The Top 5 Types of Content Communities.\" Copyblogger. Copyblogger, 01 Feb. 2016. Web.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What does Nassim Nicholas Taleb say about market efficiency?",
+    "output": "Nassim Nicholas Taleb believes that the market is not efficient and that investors cannot rely on past data to predict future outcomes. He argues that the markets are dominated by randomness and uncertainty, which makes it difficult to predict future events. Taleb believes that investors need to be aware of the role of chance and luck in the markets in order to make informed decisions.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can a boy and girl be just be best friends only ever\n",
+    "output": "There is no definitive answer, as every situation is different. However, in general, it is usually possible for a boy and girl to be just friends only ever, as long as both parties are honest and clear about their intentions from the outset. If either party starts to develop romantic feelings for the other, it may be more difficult to maintain the strictly platonic relationship, but it is still possible with effort.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "If a tree is on the top of a mountain and the mountain is far from the see then is the tree close to the sea?",
+    "output": "No, the tree is not close to the sea.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "hat would be the reason for the popularity of youtube compared to other video sharing websites?",
+    "output": "There are many reasons for the popularity of YouTube compared to other video sharing websites. Some reasons are that YouTube is a free website, it has a simple user interface, and it has a large variety of videos.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Tell me something I don’t know",
+    "output": "The world's largest diamond was found in South Africa in 1905. It was a 3,106-carat diamond, and it was called the Cullinan Diamond.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "You are a script-writer. Write a script for the opening scene of a Miami-based dark comedy show which depicts a typical miami beach club called Beefy's Beach Club run buy a british man known by the Alias Beefy, and the pool bar staff are JdeG and a blonde british woman with the Alias SophieSnazz",
+    "output": "INT. MIAMI BEACH CLUB - DAY\n\nThe sun is shining and the music is blasting as the pool bar staff of Beefy's Beach Club prepare for another day of serving cocktails. JdeG is mixing drinks while SophieSnazz is cleaning up around the bar.\n\nJdeG: Another day, another dollar.\n\nSophieSnazz: You said it, JdeG.\n\nSuddenly, the door opens and a british man known by the alias Beefy walks in. He's wearing a tank top and shorts, and he's not happy.\n\nBeefy: What the hell is this place?\n\nJdeG: Oh, hey Beefy. This is SophieSnazz. She's the new girl.\n\nBeefy: New girl? What happened to the last one?\n\nSophieSnazz: I'm not sure, but I think she quit.\n\nBeefy: Well, whatever. Just make sure the drinks are strong and the music is loud. I'm in a bad mood today.\n\nJdeG: You got it, Beefy.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Do you know something about the book  ＂the art of thinking clearly\" wrote by Rolf Dobelli?",
+    "output": "I'm not familiar with that book specifically, but I have read some books on thinking clearly and effective problem solving. I think it's important to be able to think clearly and logically when making decisions, and to be able to analyze problems effectively in order to find the best solution.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "antennas that transmit an equal amount of energy in the horizontal direction are called",
+    "output": "omnidirectional antennas",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write an introduction of a person for resume who worked as an in-house IT for 18 years, managed team of 4 and 9 site and satellite offices with total 200 users. He's familiar with network and system infrastructure, server virtualization, cloud services and the migration.",
+    "output": "In-house IT professional with 18 years of experience, managing a team of 4 and 9 site and satellite offices with a total of 200 users. Familiar with network and system infrastructure, server virtualization, cloud services, and the migration process.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Hi, I have a question about MFCC (mel frequency cepstral coefficients). Are they the same thing as a MEL-spectogram, or is there a difference?",
+    "output": "MFCCs and MEL-spectograms are not the same thing. MFCCs are a representation of the frequency content of a signal, while MEL-spectograms are a representation of the time-varying spectral content of a signal.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "who was the black cabinet member who went on to play an important role in the civil rights movement",
+    "output": "Leroy Collins was the black cabinet member who went on to play an important role in the civil rights movement.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "“One One was a race horse Two Two was one too. One One won one race. Two Two won one too.” How many horses are in this story?",
+    "output": "There are two horses in this story.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Over two thousand years, the moon has covered every point on the Earth once. At the most recent time of a moonrise, the moon is going to cover the next point to the north. How far north will it be?",
+    "output": "The moon will be at a latitude of about 49 degrees north.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "twenty names of famous horses and who they belonged to",
+    "output": "1. Pegasus: A winged horse who was ridden by Bellerophon.\n\n2. Bucephalus: The horse of Alexander the Great.\n\n3. Balto: The dog who led the 1925 serum run to Nome.\n\n4. Trigger: The horse of Roy Rogers.\n\n5. Black Beauty: The horse of Anna Sewell.\n\n6. War Admiral: The horse of Seabiscuit.\n\n7. Citation: The horse of Secretariat.\n\n8. Ruffian: The horse of Barbara Jo Robinson.\n\n9. Man o' War: The horse of Samuel Riddle.\n\n10. Seattle Slew: The horse of Karen Taylor.\n\n11. Citation: The horse of Secretariat.\n\n12. Barbaro: The horse who shattered his leg in the 2006 Preakness.\n\n13. Ruffian: The horse of Barbara Jo Robinson.\n\n14. Seattle Slew: The horse of Karen Taylor.\n\n15. Barbaro: The horse who shattered his leg in the 2006 Preakness.\n\n16. Seattle Slew: The horse of Karen Taylor.\n\n17. Man o' War: The horse of Samuel Riddle.\n\n18. War Admiral: The horse of Seabiscuit.\n\n19. Trigger: The horse of Roy Rogers.\n\n20. Black Beauty: The horse of Anna Sewell.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write an interesting and detailed backstory for my half-elf ranger character for Pathfinder. The backstory should be dark and mysterious in tone but without the usual cliches like \"raiders attacked the village\". Make it unique and interesting. Be creative.",
+    "output": "Born to a human father and an elven mother, the ranger known as Ashes was always an outsider. His mixed heritage led to him being bullied and ridiculed by both humans and elves alike. His only friend was his younger brother, who he protected from the bullies as best he could. When Ashes was just sixteen, a band of raiders attacked his village, killing everyone he loved. He was the only one to survive. Blaming himself for his family's death, Ashes ran away from his home and took to the forest, where he learned how to survive on his own. He became a skilled ranger, and swore to never let anyone hurt him again. He now travels the land, seeking revenge on those who killed his family. He is a loner, and doesn't trust anyone. He is a skilled archer and tracker, and is always ready for a fight.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "In this math problem, we are asked to figure out the percentage of total profits that are made in each quarter. They are 90% in the first quarter, 92% in the second quarter, 81% in the third quarter and 88% in the fourth quarter. What is the total profit percent over a period of time, based upon these quarters?",
+    "output": "The total profit percent over a period of time is 91.6%.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why is it a bad idea to give a mouse a cookie?",
+    "output": "A mouse is not a human, and therefore has different dietary needs. A cookie is not a healthy food for a mouse to eat.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "which second messenger molecule acts on the endoplasmic reticulum to release calcium ions",
+    "output": "The second messenger molecule that acts on the endoplasmic reticulum to release calcium ions is cAMP.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How can anti-deressants make people think or act suicidally? Suicidal thoughts or actions' are a side effect of every single anti-depressant I've seen. Is the medicine controlling your mind or something?",
+    "output": "The side effects of anti-depressants can include suicidal thoughts or actions. This is a result of the medication affecting the chemicals in the brain that control mood.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Create a lesson plan in two different levels: in CEFR A1 and A2 on the topic of friendship. Add a rubric.",
+    "output": "CEFR A1 lesson plan on friendship\n\n1. Introduce the topic of friendship. Ask students what they think friendship is.\n\n2. Discuss different types of friendships.\n\n3. Ask students to share examples of good and bad friendships.\n\n4. Discuss what makes a good friendship.\n\n5. Discuss what makes a bad friendship.\n\n6. Ask students to think about their own friendships. Are they good friendships? Why or why not?\n\n7. Wrap up the lesson by asking students what they learned about friendship.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Draft a ministerial speech outlining the top five benefits that innovation brings to the Australian economy",
+    "output": "Good morning, everyone.\n\nAs we all know, innovation is a key driver of economic growth and prosperity. It helps businesses become more productive and efficient, and enables them to respond to changing market conditions and needs.\n\nInnovation is therefore essential for sustaining a strong and prosperous economy. And that's why the Australian government is committed to promoting innovation and supporting businesses to embrace it.\n\nThere are many benefits to innovation, and today I would like to outline the top five.\n\nThe first benefit is that innovation helps businesses become more productive and efficient. It enables them to produce more goods and services with fewer resources, which leads to increased competitiveness and lower costs.\n\nThe second benefit is that innovation helps businesses stay ahead of the competition. It enables them to develop new products and services, and to find new ways to meet the needs of their customers.\n\nThe third benefit is that innovation leads to economic growth. It helps businesses expand and create new jobs, and it boosts overall economic productivity.\n\nThe fourth benefit is that innovation encourages entrepreneurship. It encourages people to start their own businesses, and to take risks and explore new opportunities.\n\nAnd the fifth benefit is that innovation enhances global competitiveness. It enables businesses to compete in the global marketplace, and to export their products and services to other countries.\n\nIn conclusion, the benefits of innovation are clear. It helps businesses become more productive and efficient, stay ahead of the competition, grow the economy, encourage entrepreneurship, and compete in the global marketplace.\n\nSo I urge all businesses in Australia to embrace innovation, and I look forward to seeing the positive results that it will bring to our economy.\n\nThank you.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Is online casino legal in India?",
+    "output": "There is no definitive answer to this question as the legality of online casinos in India is something that has not yet been expressly clarified by the government or any other relevant authority. However, some experts believe that online casinos are illegal in India under the country's current gambling laws. As such, it would be advisable to avoid engaging in any activities related to online casinos in India until such clarification is made.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a section for an award application detailing how photography has insipired you",
+    "output": "Photography has been a big part of my life for as long as I can remember. I grew up with a camera in my hand, and I have always been drawn to the way a photograph can capture a moment in time. I love the way a good photograph can tell a story, and I am constantly inspired by the images I see online and in magazines.\n\nI am passionate about photography, and I am constantly working to improve my skills. I have taken classes and workshops, and I am always learning new techniques. I am also constantly experimenting with new ideas and styles.\n\nI am excited to be a part of the photography community, and I am grateful for the opportunities that photography has given me. I am passionate about my work, and I am committed to improving my skills. I am excited to see what the future holds for me and for photography.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I want to eventually become a plant/manufacturing/production manager, and eventually a Chief Operating Officer. What sort of experience and post-graduate education path would you recommend? Please provide non-obvious and atypical career paths leading to such positions, on top of the classic ones.",
+    "output": "A plant/manufacturing/production manager typically has a degree in engineering, business, or a related field. However, there are many other ways to achieve this position. One way to become a plant manager is to first become a production supervisor. Production supervisors are responsible for ensuring that products are manufactured according to specifications. They also work with production workers to resolve production issues. To become a production supervisor, you typically need a degree in engineering, business, or a related field. Another way to become a plant manager is to first become a plant engineer. Plant engineers are responsible for ensuring that the plant operates safely and efficiently. They also develop and implement new processes and procedures. To become a plant engineer, you typically need a degree in engineering.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "explain the basics of area and perimeter",
+    "output": "The area of a shape is the measure of the total amount of space inside the shape. The perimeter of a shape is the measure of the total length of the shape's boundary.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a story about Anakin Skywalker encountering a Jedi who speaks and acts like a 1920s British aristocrat",
+    "output": "Anakin Skywalker had just returned from a mission to Tatooine when he was confronted by a Jedi who spoke and acted like a 1920s British aristocrat. The Jedi demanded that Anakin turn over his lightsaber, and when he refused, the Jedi attacked him. Anakin was able to defeat the Jedi and take his lightsaber.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are the possible performance issues in a learning program on cross cultural communication",
+    "output": "There are a few potential performance issues that can arise in a learning program on cross cultural communication. One issue could be that people from different cultures may not understand one another's communication styles. This could lead to misunderstandings and conflict. Another potential issue could be that people may not be able to effectively communicate with people from other cultures, which could lead to them feeling uncomfortable or unprepared when working with people from other cultures.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write description for 925 sterling silver miami cuban link chain",
+    "output": "This sterling silver Miami Cuban link chain is perfect for adding a touch of luxury to any outfit. The chain is made of 925 sterling silver and features intricate, twisted links for a glamorous look. It would make a great addition to any jewelry collection.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "cost of fuel for a 14 mile journey in a car with 48mpg, fuel costs 625 pence per gallon and there is heavy traffic for half the journey",
+    "output": "The cost of fuel for a 14 mile journey in a car with 48mpg would be 625 pence per gallon. The cost of fuel for a 14 mile journey in a car with 48mpg would be 625 pence per gallon.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How does money go from my pocket, through the stock market, and to support the business I've bought stock from?",
+    "output": "When you buy stock in a company, you are essentially loaning that company money. The company will use that money to expand their business, hire new employees, and so on. In exchange for your loan, the company will give you a portion of their future profits in the form of dividends. As the company grows and becomes more profitable, the value of your stock will also increase.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can you provide a list of health food brands owned by Hispanic founders",
+    "output": "Some health food brands that are owned by Hispanic founders include:\n\n-Goji\n-Naturipe\n-Sambazon\n-Manitoba Harvest\n-Garden of Life\n-Navitas Naturals\n-Azteca\n-Cacao Prieto\n-NuNaturals\n-Qi'a",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "63-year-old male with diabetes for seven to eight years (BbA1c consistently between 5.9-6.5, fasting blood sugar around 7, other times high between 8-9-9.5, no low blood sugar). CKD for five years (starting with 24-hour urine protein within 200, GFR around 100, but in the last 1-2 years urine protein between 300-400mg, GFR between 60-70, most recent one being 56). No discomfort, not overweight, blood pressure normal, but skin often itches in winter; often constipated year-round. <br><br>Current medication: 1. Allisartan Tablets 240mg/day 2. Dapagliflozin Tablets 10mg/day 3. Metformin HCL 500mg*3/day 4. Pancreatic kininogenase enteric-coated Tablets.<br><br>Are there any better treatment options and medications available? Avoid or delay dialysis if possible. Are there any other exams that need to be done? What are the recommendations for exercise and diet in addition to medication? When should the above medication be switched to insulin due to CKD?<br>",
+    "output": "There are several potential treatment options and medications available for your 63-year-old male with diabetes and CKD. In general, it is important to work closely with your doctor to individualize your treatment plan. Treatment options may include adjusting medications, increasing exercise, and making dietary changes.\n\nIf your diabetes is not well controlled, your doctor may recommend increasing your dosage of metformin or adding insulin therapy. If your CKD progresses, your doctor may eventually recommend dialysis.\n\nIt is also important to maintain a healthy weight and blood pressure, and to avoid smoking and excessive alcohol consumption.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What if people only valued and took pride in the things that were true about themselves?",
+    "output": "If people only valued and took pride in the things that were true about themselves, the world would be a much more positive place. People would be happier, more confident, and more likely to succeed if they only focused on their strengths and ignored their weaknesses. However, this is not always the case, as many people often dwell on their negative qualities and allow them to define them as people. In the end, it is up to each individual to decide what is most important to them and to focus on the things that make them happy and proud.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "It's officially 2023, and as we enter a brand new year, what better time to set up our revenue enablement goals for the new year in our Above Goal and Concierge Tools [    ] challenge learn the day-to-day tactics needed to live your best, healthiest life, while exceeding your business performance goals, as we enter this new season.<br><br>Can you come up with a two word name for the challenge akin to \"Live Well\" and fit it in the bracket above?",
+    "output": "\"Healthy Hustle\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I need to learn English could you help me and make a exercise",
+    "output": "Yes, I can help you learn English. In fact, I can make you an exercise to help you learn.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why does warmth make you feel tired?",
+    "output": "There are a few reasons why warmth may make someone feel tired. One possibility is that when a person is warm, they may start to sweat. Sweating can be a very tiring process, since it uses up a lot of energy. Additionally, when a person is warm, their body may produce more of the hormone cortisol. Cortisol is a hormone that helps the body deal with stress, but it can also make people feel tired.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write an article informing customer of my saas software that this currently is  beta version of the software and we are working hard to improve and release it to the market.",
+    "output": "Hello,\n\nThank you for considering our saas software. This is currently a beta version of the software and we are working hard to improve and release it to the market. We appreciate your feedback as it helps us improve the software.\n\nThank you,\n\n[Your Name]",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Explain me the Finite Elemente Method",
+    "output": "The Finite Elemente Method is a mathematical technique that can be used to solve problems that involve complex shapes. It does this by breaking the problem down into a series of small, simpler problems that can be solved individually. The solution to the overall problem is then found by combining the solutions to the individual problems.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I've put a plate on top of an apple, and take the plate from kitchen to dinning room. Where is the apple now",
+    "output": "The apple is now on the dining room table.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Introduce the ”financial markets and institutions“ by Frederic S. Mishkin",
+    "output": "The financial markets and institutions are a critical part of the economy. They help businesses and individuals to finance their activities, and they play a key role in transmitting monetary and fiscal policy.\n\nThe financial markets include the markets for government bonds, corporate bonds, stocks, and foreign exchange. The institutions that operate in these markets include commercial banks, investment banks, mutual funds, and pension funds.\n\nThe financial crisis of 2007-2009 showed how important it is to have a well-functioning financial system. The Federal Reserve and other regulators are now working hard to make sure that the financial system is more resilient and that it can better withstand future shocks.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "when are hops added to the brewing process?",
+    "output": "Hops are added during the boiling process.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can a Liebherr LTM 11200-9.1 hypothetically lift Mount everest",
+    "output": "Yes, a Liebherr LTM 11200-9.1 hypothetically could lift Mount Everest.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write \"Test\"",
+    "output": "Test",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are five important topics for game design",
+    "output": "1. Mechanics\n2. Aesthetics\n3. Narrative\n4. Technology\n5. Business",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "You are a professional video creator. Your job is coming up with viral TikTok ideas. Your ideas are always, creative, and the TikTok audience loves them.\nWrite a viral TikTok video based on Batik Tradjumas.\nTopic: Batik Tradjumas",
+    "output": "Hey everyone, it's me, your favorite professional video creator!\n\nToday, I'm going to be teaching you all about the traditional Indonesian art of Batik Tradjumas.\n\nBatik Tradjumas is a beautiful form of art that uses a wax-resist dyeing technique to create stunning patterns on cloth.\n\nIt's a really amazing process, and the results are always stunning.\n\nSo if you're interested in learning more about this beautiful art form, be sure to check out my latest video.\n\nThanks for watching, and don't forget to share!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a daily exercise routine for Monday to Sunday with a rest day in between, each day summarized in 160 characters or less",
+    "output": "Mon- Yoga\nTue- Cardio\nWed- Strength\nThu- Rest\nFri- Yoga\nSat- Cardio\nSun- Strength",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Act like a first-year college student and write a 1000-1250 word two-topic essay by using at least three points of analysis. Topic 1 is my experiences living in and observations of  Flagstaff, Arizona.   Topic 2 is my experiences living in and observations of  Kaneohe, Hawaii. Use quotes from two sources in the essay. Use descriptive language.  Include personal anecdotes.  These sources will be listed in a Works Cited at the end of the essay. Use a four in-text citations in MLA style in the body of the essay.  ",
+    "output": "Flagstaff, Arizona is a unique place to live. It is a small town located in the mountains, and the air is clean and fresh. The people are friendly and welcoming, and there is a strong sense of community. I have enjoyed my time living here, and I have learned a lot about myself and the world.\n\nOne of the things that I have observed about Flagstaff is that people are very environmentally conscious. There are many recycling and composting programs, and people are encouraged to use public transportation or ride their bikes. The city also has a program called \"Free Ride Flagstaff\", which provides free bus passes to people who can't afford them. This is a great program, and I am glad that Flagstaff is doing its part to reduce its carbon footprint.\n\nAnother thing that I have noticed about Flagstaff is that it is a very spiritual town. There are many churches and spiritual centers, and people are open to discussing their beliefs. I have attended several spiritual events here, and I have found them to be very enlightening. I have also made some great friends through these events, and I am grateful for the community that has been created.\n\nI have also had some great experiences in Kaneohe, Hawaii. One of the things that I love about Hawaii is the natural beauty of the islands. There are many beaches and hiking trails, and the scenery is breathtaking. I have also enjoyed the culture of Hawaii. The people are friendly and welcoming, and there is a strong sense of community. I have made some great friends here, and I am grateful for the experiences that I have had.\n\nOne thing that I have noticed about Hawaii is that it is a very spiritual place. There are many churches and spiritual centers, and people are open to discussing their beliefs. I have attended several spiritual events here, and I have found them to be very enlightening. I have also made some great friends through these events, and I am grateful for the community that has been created.\n\nI have also had some great experiences in Kaneohe, Hawaii. One of the things that I love about Hawaii is the natural beauty of the islands. There are many beaches and hiking trails, and the scenery is breathtaking. I have also enjoyed the culture of Hawaii. The people are friendly and welcoming, and there is a strong sense of community. I have made some great friends here, and I am grateful for the experiences that I have had.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "ideas for building a waitlist for a new product or service",
+    "output": "1. Determine the need or interest for the product or service.\n\n2. Create a survey or questionnaire to determine interest in the product or service.\n\n3. Identify a target market for the product or service.\n\n4. Set up a landing page or website to capture leads or signups for the product or service.\n\n5. Use social media to promote the product or service and drive traffic to the landing page or website.\n\n6. Offer a free trial or sample of the product or service to interested individuals.\n\n7. Follow up with leads and convert them into customers.\n\n8. Analyze data from the survey or questionnaire to determine interest in the product or service.\n\n9. Make changes to the product or service based on feedback from the survey or questionnaire.\n\n10. Repeat the process to continue building the waitlist for the product or service.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "assume the persona of a therapist and walk me through how to be less reactive and use a pause ritual",
+    "output": "The first step is to become aware of your body and your reactions. When you feel yourself getting upset or reactive, take a moment to pause and notice what is happening in your body. Are you clenching your fists? Breathing quickly? Feeling your heart rate increase? Once you are aware of your body's reactions, you can then begin to implement a pause ritual.\n\nA pause ritual can be anything that helps you to calm down and recenter yourself. Some people like to take a few deep breaths, while others might take a few minutes to walk around and get some fresh air. The key is to find something that works for you and helps you to calm down.\n\nOnce you have calmed down, you can then begin to address the situation that was causing you to react. Take a few deep breaths and try to stay calm and rational. You may not be able to fix the situation right away, but by remaining calm and focused you will be able to better address the issue.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write a 5 verse song in the style of Talking Heads based on the life of a teenager in the 1980s britain",
+    "output": "Verse 1\n\nThere's a girl in my class, she's always in a hurry\nShe's got too much on her mind, and she can't find a way to slow down\nShe's trying to find her place in the world\nWhile the boys are trying to figure out girls\nIt's a tough time to be a teenager\nIn the 1980s Britain\n\nVerse 2\n\nThere's a boy in my class, who's always in a hurry\nHe's trying to find his place in the world\nWhile the girls are trying to figure out boys\nIt's a tough time to be a teenager\nIn the 1980s Britain\n\nChorus\n\nIt's a tough time to be a teenager\nIn the 1980s Britain\nYou're trying to find your way in the world\nWhile the world is trying to figure you out\nIt's a tough time to be a teenager\nIn the 1980s Britain\n\nVerse 3\n\nThere's a lot of pressure on teenagers\nTo figure out who they are\nAnd what they want to do with their lives\nIt can be tough to find your way\nIn a world that's constantly changing\nBut you've got to keep on trying\n\nVerse 4\n\nThere's a lot of excitement in being a teenager\nYou're just starting to figure out who you are\nAnd what you want to do with your life\nIt's a time of discovery\nAnd there's so much to explore\n\nVerse 5\n\nSo don't be afraid to be a teenager\nIn the 1980s Britain\nIt's a time of change and excitement\nAnd you're going to make your mark on the world",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Who will be the president of South Korea in 2023?",
+    "output": "Moon Jae-in",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write an article about the site's backlink and its importance\"Use the following keywords in the article Questions Others Asked\nWhat is a backlink example?\nWhat are SEO backlinks?\nDo backlinks help SEO?\nHow do I get backlinks?\"",
+    "output": "What are backlinks?\n\nBacklinks are links from other websites that point to your website. They are important for SEO because they help to show Google that your website is a credible source of information. Backlinks also help to increase traffic to your website.\n\nThere are a number of ways to get backlinks, including submitting your website to directories, writing guest blog posts for other websites, and participating in social media.\n\nDo backlinks help SEO?\n\nYes, backlinks are an important part of SEO. They help to improve your website's ranking in Google search results and also help to increase traffic to your website.\n\nHow do I get backlinks?\n\nThere are a number of ways to get backlinks, including submitting your website to directories, writing guest blog posts for other websites, and participating in social media.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I run a website about merchant navy studies. What are some subniches I should be tackling with my content. Give me the restults as a table with the sub niche a number between 1 and 100 to indicate the sub niche popularity.",
+    "output": "1- Merchant navy jobs: 100\n2- Merchant navy careers: 95\n3- Merchant navy scholarships: 85\n4- Merchant navy training: 80\n5- Merchant navy degrees: 75\n6- Merchant navy schools: 70\n7- Merchant navy unions: 65\n8- Merchant navy regulations: 60\n9- Merchant navy history: 55\n10- Merchant navy news: 50",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what language does argentina people speak",
+    "output": "Argentine Spanish",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "is queue an ADT or a data structure",
+    "output": "Queue is an ADT.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "In order to launch a token for a Defi project, I want to sell some tokens privately to early investors and then add it to a launchpad. let me know what can I do with my smart contract? Should I create a presale contract separate from main contract?",
+    "output": "There is no one-size-fits-all answer to this question, as the best way to launch a token for a Defi project will vary depending on the specifics of the project. However, in general, it is advisable to create a separate presale contract for early investors, and then add the token to a launchpad once the presale is over.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what is the recommended pattern for creating games in godot",
+    "output": "There is no one-size-fits-all answer to this question, as the best way to create games in Godot will vary depending on the specific game you want to make. However, some tips on how to make games in Godot include using the scene system to create your game's levels, using nodes to create your game's logic, and using the GDScript language to create your game's code. Additionally, it can be helpful to use asset packs and other resources to help you get started making games in Godot.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I want you to act as a Tiktok Ads Keywords generator. Your task is to come up with keywords that can be used in Tiktok advertising campaigns. The keywords should be relevant to the target audience and the product or service being advertised. Your responses should not include more than 5 keywords per request.",
+    "output": "funny, creative, interesting, unique, hilarious",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are some basics of nutrition that i should be aware of",
+    "output": "There are many basics of nutrition that one should be aware of in order to maintain a healthy lifestyle. Some of these include eating a balanced diet, drinking plenty of water, and getting enough exercise. It is also important to be aware of the different types of nutrients that the body needs, such as protein, carbohydrates, and fiber.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what would be a good idea for a quiz about omnichannel marketing on my website",
+    "output": "1. What is omnichannel marketing?\n\n2. How does omnichannel marketing work?\n\n3. What are the benefits of omnichannel marketing?\n\n4. What are the challenges of omnichannel marketing?\n\n5. What are the best practices for omnichannel marketing?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I'm preparing a fun session with work colleagues in a tech company. I will present funny future circumstances, and the team will vote on who is the person most likely to be in that circumstance 10 years from now. The circumstances must be funny yet respectful and safe for work. Please help me come up with a few of these circumstances. To help you, please consider this example: \"In 10 years time, who is the most likely to have won the lottery\"",
+    "output": "1. In 10 years, the most likely person to have won the lottery is Jane, who has been buying tickets every week for the past decade.\n2. In 10 years, the most likely person to have won the lottery is John, who has been playing the same numbers every week for the past decade.\n3. In 10 years, the most likely person to have won the lottery is Jim, who only started playing a few months ago, but has already won a few smaller prizes.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "You will simulate an SEO expert. What keywords should a screenwriting software target",
+    "output": "Screenwriting software should target keywords such as \"screenwriting software,\" \"screenwriting tools,\" \"screenwriting tips,\" and \"screenwriting tutorials.\"",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write lyrics that only rhyme a little bit (not every verse needs rhyming or exact pacing), for a progressive metal song about loving jesus",
+    "output": "I love Jesus, He's my lord and savior\nHe provides for me, His love is forever\n\nI can feel His presence in my life\nHe's always with me, even when I'm wrong\n\nI love Jesus, and I know He loves me\nHe's the light in my darkness, my rock and my shield\n\nI give Him my heart, and all my love\nI will serve Him forever, with all my strength",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a snoopdogg rap explaining how to not commit a warcrime",
+    "output": "Don't shoot people who aren't combatants\nDon't torture people\nDon't rape people\nDon't pillage\nDon't loot",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "\"I am trying to win over a new client for my writing services and skinny brown dog media to as as a ghost writer for their book Unbreakable Confidence. Can you help me write a persuasive proposal that highlights the benefits and value of having a editor/publisher\"",
+    "output": "Dear __________,\n\nThank you for considering me as your potential editor/publisher for your upcoming book, Unbreakable Confidence. I am confident that I can provide you with the highest quality of service and support to help you achieve your publishing goals.\n\nThere are many benefits to working with a professional editor/publisher, such as myself. I have years of experience in the publishing industry and can provide you with the guidance and support you need to take your book from manuscript to published work. I also have a team of professionals who can help with design, marketing, and distribution, which can take a lot of the burden off of you as the author.\n\nI believe that my team and I can provide you with the highest quality of service and support, and I would be honored to be your editor/publisher. If you have any questions or would like to discuss this further, please do not hesitate to contact me. Thank you for your time and consideration.\n\nSincerely,\n\n__________",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "question about Computer architecture and organization \nfor 6 marks\nwhat in general terms is the distinction between computer organization and computer architecture ?\ngive answer in full sentence points if possible",
+    "output": "Computer architecture refers to the design of the system, while computer organization refers to the implementation of that design.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "i'm working on a spatial analysis project and am looking for questions I can answer with it related housing and crime analysis, do you have suggestions? ",
+    "output": "1. What is the relationship between housing density and crime rates?\n2. What is the relationship between housing vacancy rates and crime rates?\n3. What is the relationship between neighborhood socioeconomic status and crime rates?\n4. What is the relationship between neighborhood racial composition and crime rates?\n5. What is the relationship between neighborhood age composition and crime rates?\n6. What is the relationship between neighborhood social cohesion and crime rates?\n7. What is the relationship between neighborhood physical disorder and crime rates?",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "The sum of the distances the sun travels around the Earth during a solar eclipse is 1059 kilometres. Write a formula that finds the distance between the sun and Earth. How many years will the eclipse last?",
+    "output": "The distance between the sun and Earth is 1059 kilometers. The eclipse will last for 1 year.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What's the permission that allows creating provisioning profiles in Apple Developer account is called?",
+    "output": "The permission that allows creating provisioning profiles in Apple Developer account is called \"Create App Store and Ad Hoc Provisioning Profiles\".",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I am an aikido teacher and student of Tomita Seiji who is living in Belgium. I am inspired by the teaching of J Krishnamurti for many years now, and I wonder if there would be an aproach in teaching aikido based on the educational ideas Krishnamurti developed. Can you suggested some posibilities in a concise way?",
+    "output": "It is possible to approach aikido instruction based on the educational ideas of Krishnamurti. One possibility would be to focus on creating an environment in which students are free to explore and inquire into the nature of aikido and their own experience of it. This would involve creating an atmosphere of trust and openness in which students feel safe to ask questions and explore their own limitations. Another possibility would be to focus on the experiential nature of aikido instruction, encouraging students to directly experience the principles and techniques of aikido rather than simply learn about them. This could involve giving students opportunities to practice aikido techniques in a variety of contexts and with a variety of partners.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "phrase an email to my manager kindly asking for feedback for a dashboard I sent him for his use, and also ask him if I should publish this dashboard to the team, and if there's a certain way he wants me to publish it, or certain orientation to emphasis when publishing",
+    "output": "Hi Manager,\n\nI hope you're doing well. I sent you a dashboard I put together for your use. I would really appreciate any feedback you could give me on it. Is there anything you think I could improve? Also, should I publish this dashboard to the team? If so, is there a certain way you want me to publish it, or a certain orientation to emphasize when publishing it?\n\nThanks,\n\nYour Name",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write a detailed business plan for fatherhood training based on Dwayne Meeks book Pieces never missing in a childs life",
+    "output": "Executive Summary\n\nIn this business plan, we are proposing the creation of a Fatherhood Training program based on the book Pieces never missing in a childs life by Dwayne Meeks. This program would be aimed at helping fathers learn the skills they need to be effective parents and provide their children with the love and support they need. The program would consist of a series of workshops and classes that fathers could attend to learn about topics such as communication, discipline, and co-parenting. We believe that this program would be beneficial for fathers, children, and families as a whole, and we are confident that it would be successful in helping fathers become more involved in their children's lives.\n\nBackground\n\nFatherhood is an important role, but it can be difficult to know what to do when you're a dad. Dwayne Meeks' book Pieces never missing in a childs life provides fathers with the skills they need to be successful parents. The book is based on the idea that fathers play an important role in their children's lives and that there are certain pieces that are never missing in a child's life when fathers are present and involved. The Fatherhood Training program we are proposing is based on this book and would provide fathers with the information and skills they need to be good parents.\n\nThe Program\n\nThe Fatherhood Training program would consist of a series of workshops and classes that fathers could attend to learn about different aspects of parenting. The workshops would cover topics such as communication, discipline, and co-parenting, and fathers would have the opportunity to learn from experts in these fields. The classes would be interactive and would allow fathers to share their own experiences and learn from others. The program would also include a mentorship component, in which fathers would be paired with a mentor who could provide them with support and guidance.\n\nThe Benefits\n\nThe Fatherhood Training program would be beneficial for fathers, children, and families as a whole. Fathers who participate in the program would learn the skills they need to be effective parents and would be better equipped to provide their children with the love and support they need. Children who have fathers who are involved in their lives are more likely to be successful in school and in life, and families that have fathers who are involved are more likely to be happier and healthier. We believe that the Fatherhood Training program would be successful in helping fathers become more involved in their children's lives and would provide significant benefits to fathers, children, and families.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Need 300 words on the importance to documenting history in relation to the future",
+    "output": "As humans, we are constantly learning and evolving. We study the past in order to understand the present, and plan for the future. The more we know about our history, the better equipped we are to make informed decisions about our future.\n\nDocumenting history is important because it allows us to learn from our mistakes, and build on our successes. It provides a record of our achievements, and helps us to understand the complex web of relationships that make up our world.\n\nWithout a record of our past, we would be at a loss to understand why things are the way they are. We would be unable to learn from the experiences of others, and would be forced to repeat the same mistakes over and over again.\n\nDocumenting history is also important because it helps to create a sense of identity for a community or nation. It provides a shared sense of history and culture, which can help to bring people together and promote unity.\n\nIn a world that is constantly changing, it is more important than ever to document history. By understanding the past, we can better plan for the future.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "there used to be a program for winmx called mcma, what does mcma stand for and what does the program do?",
+    "output": "The program mcma used to stand for \"Media Center Master\" and it was a program used to manage and organize your media library.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What are the USP for a saas survey tool",
+    "output": "The USPs for a saas survey tool are that it is easy to use, fast, and efficient. Additionally, it can be accessed from anywhere, and it has a variety of features that can be customized to fit the needs of the user.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "is a bannana a fruit or a herb",
+    "output": "A banana is a fruit.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why did the building of a pipeline have to be voted on by the government(USA)? Doesn't this infringe on government interfering with private corporations?<br>",
+    "output": "The building of a pipeline does not have to be voted on by the government in the United States. This is because the government does not interfere with private corporations in this country.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Simplify \"Most of the basic functions of current virtualization software are inherited from this early VM OS. The virtualization software is now represented with the term hypervisor. Hardware virtualization is used to share the resources of the cloud providers effectively with the customers by generating an illusion of dedicated computing, storage, and networking on a computing infrastructure.<br><br>The concept of virtualization is physically implemented using the hypervisor modules, and the operation and processing of hypervisors are materialized by the OSS. In other words, hypervisor modules are installed on top of OSS, which act as an interface between hardware units and hypervisor packages.\"",
+    "output": "The term \"hypervisor\" is used to describe virtualization software that is used to share resources of cloud providers effectively with customers. Hypervisor modules are installed on top of an OSS, which acts as an interface between hardware units and hypervisor packages.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "i assume you are familiar with the Drake equation. Can you give estimates and error margins for each of its parameters, then calculate the result including error bounds.",
+    "output": "Parameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds: \n\n\nParameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds: \n\n\nParameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds: \n\n\nParameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds: \n\n\nParameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds: \n\n\nParameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds: \n\n\nParameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds: \n\n\nParameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds: \n\n\nParameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds: \n\n\nParameter: \n\nEstimate: \n\nError Margin: \n\nResult Including Error Bounds:",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are african governments doing to improve air traffic connectivity",
+    "output": "African governments are working to improve air traffic connectivity by building new airports and upgrading existing ones, and by developing policies and regulations that support air traffic connectivity.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a pitch for a horror movie that plays on the island Sylt in northern germany in the 19th century. Include fishermen and a sinister force that drives the inhabitants insane.",
+    "output": "In the 19th century, a small fishing village on the island Sylt in northern Germany is terrorized by a sinister force that drives the inhabitants insane. The fishermen are the only ones who can see the force, and they are the only ones who can stop it.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I want to open the developler tools in chrome with ctrl + shift + i on this website: https://mnsw.pro/\nIt doesnt work. works on other websites. even here. what is wrong?",
+    "output": "The Ctrl + Shift + I keyboard shortcut doesn't work on this website.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Consider this situation. Customer is ready to pay $13 for my product but we are not able to raise invoice for less than $20. So in this situation, act like a top sales person &amp; closing expert &amp; give me an email copy to upsell this customer with another $13 product so that it can create a win win situation.",
+    "output": "Hi there,\n\nI understand that you're interested in my product, but we're not able to raise the invoice for less than $20. However, I do have another product that I think you'll love. It's another $13, and I think it would be a great addition to your purchase.\n\nI hope you have a great day!\n\nSincerely,\n\nYour Top Salesperson",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "what are the important points for brand promotion and brand marketing",
+    "output": "There are a few key things to remember when promoting and marketing a brand:\n\n1. Establish a strong brand identity. The stronger your brand identity, the more recognizable and memorable your brand will be.\n\n2. Create a consistent brand message. Your brand message should be consistent across all marketing channels, and it should be communicated in a clear and concise way.\n\n3. Make sure your branding is consistent across all channels. Your branding should be consistent across all marketing channels, from your website to your social media profiles to your advertising campaigns.\n\n4.Engage your audience. Make sure you are engaging your audience and providing them with valuable content that will interest them.\n\n5. Invest in marketing campaigns. Marketing campaigns can be a great way to reach a wider audience and generate more brand awareness.\n\n6. Measure your results. Always be sure to measure the results of your branding and marketing efforts so you can track your progress and determine what is working and what needs improvement.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What niches are not being fulfilled on the YouTube platform?",
+    "output": "There are many niches that are not being fulfilled on the YouTube platform. One example is educational content. There are many educators who are not using YouTube to share their knowledge with the world. Another example is content for specific demographics, such as seniors or people with disabilities. There are also many niches in the arts and entertainment industry that are not being fully explored on YouTube.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "in billiards what happens if on the break every strip ball is pocketed?",
+    "output": "If on the break every strip ball is pocketed, the player is awarded a \"strip\" or \"clean\" break. This means that they are awarded an extra point, and their opponent's balls are re-racked.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Digital transformation project plan example",
+    "output": "The following is an example of a digital transformation project plan.\n\n1. Project goal:\n\nThe goal of this project is to increase efficiency and improve communication within the company through the use of digital technologies.\n\n2. Objectives:\n\nThe objectives of this project are to:\n\n- Upgrade the company's computer systems\n- Implement a new email system\n- Introduce a new intranet system\n\n3. Project timeline:\n\nThe project is expected to take six months to complete.\n\n4. Resources required:\n\nThe project will require the following resources:\n\n- A project manager\n- A systems administrator\n- A programmer\n- A graphic designer\n\n5. Budget:\n\nThe project is expected to cost $10,000.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Where can I buy computer mouse base that can take different covers to it. I want to 3d print a custom cover for it and sell them",
+    "output": "There are a few places you can buy computer mouse bases that can take different covers to it. One place is on Amazon, where you can buy a mouse base from a company called J-Tech Digital. Another place you can buy a mouse base is on Ebay, where you can buy a mouse base from a company called C-Zone. Lastly, you can also buy a mouse base from a company called 3D Printer Parts.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "find a word that represents people reacting to unpleasant events",
+    "output": "apathy",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How does Kahane's ethics of violence echo that of Fanon and Zizek when discussing to the American Jewish Establishment?",
+    "output": "Kahane's ethics of violence echo that of Fanon and Zizek when discussing to the American Jewish Establishment in that they both advocate for violence as a means to an end. Fanon believes that violence is a necessary tool for the colonized to use in order to liberate themselves from their oppressors, while Zizek believes that violence is necessary for change in general. Kahane similarly believes that violence is a necessary tool for the Jewish people to use in order to protect themselves from their oppressors.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I am trying to create an economic management book on the impact of AI technology development on the content industry and how to prepare, plan, and actually apply AI technology, apps, and tools that can be used depending on the type of content from the perspective of companies and individuals. Please provide a table of contents for the 50-listed book and a brief description of each table of contents.\nAnswer in English.",
+    "output": "Table of Contents\n\n1. Introduction\n\n2. The Impact of AI Technology Development on the Content Industry\n\n3. Preparing for and Applying AI Technology in the Content Industry\n\n3.1. AI Technology and Tools for Content Creation\n3.2. AI Technology and Tools for Content Management and Distribution\n3.3. AI Technology and Tools for Content Analysis and Monetization\n4. Conclusion",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "who does lady gaga play in american horror story",
+    "output": "Lady Gaga plays the Countess in the fifth season of American Horror Story.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a poem about Mike and Joe becoming millionaires by leveraging the power of AI to become the greatest Agile coaches in history. Include content from the agile manifesto.",
+    "output": "Mike and Joe hit the jackpot\n\nThey used AI to become the greatest Agile coaches in history\n\nThey followed the agile manifesto and now they're millionaires\n\nThey're living the dream and they couldn't be happier\n\nThe sky's the limit for these two guys\n\nThey're on their way to the top\n\nThanks to their AI-powered Agile coaching skills\n\nEveryone's talking about Mike and Joe\n\nThey're the new millionaires on the block\n\nThey're the stars of the show\n\nAnd they're only getting better with time",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Rewrite the given introductory paragraph so that it starts with a pertinent anecdote. Also rewrite the thesis so that it is succinct and concise:    \"Many types of black people have different cultural backgrounds and experiences. For example, African and African American cultures share a common ancestry and history of struggles but have distinct cultural identities. While both groups are considered Black, they have different experiences, records, and cultural practices. As Saint Augustine said, “The world is a book, and those who do not travel read only a page.” This quote emphasizes the importance of exploring other cultures to understand their experiences better. As I have gotten older, I have come to understand the similarities and differences between these two individuals.\"",
+    "output": "Many types of black people have different cultural backgrounds and experiences. For example, Asante and African American cultures share a common ancestry and history of struggles but have distinct cultural identities. While both groups are considered Black, they have different experiences, records, and cultural practices. \n\nAs Saint Augustine said, “The world is a book, and those who do not travel read only a page.” This quote emphasizes the importance of exploring other cultures to understand their experiences better. I have come to understand the similarities and differences between these two individuals as I have gotten older.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "explain TypeScript and Duck Typing",
+    "output": "TypeScript is a statically typed language that uses duck typing. Duck typing is a type of typing that relies on the type of an object's methods, rather than its properties. This allows objects to be type-checked even if they do not have a declared type.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "how are carbon fibers used in buildings",
+    "output": "Carbon fibers are often used in the construction of buildings because of their high strength-to-weight ratio. This means that they can be used to create lightweight structures that are still able to support a lot of weight. Carbon fibers can also be used to reinforce other materials, like concrete, which makes them even stronger.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Please summarise in point form \"Challenges for\nAfrican Agriculture\" by Jean-Claude Devèze",
+    "output": "- Limited access to land and water resources\n- Poor infrastructure\n- Limited access to technology and inputs\n- Limited access to markets\n- Climatic variability\n- Diseases and pests",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "When I open Anki browser, It shuts down. how can i fix this?",
+    "output": "There could be several reasons why Anki browser might be crashing. Some things you can try are:\n\n- Make sure you're using the latest version of Anki\n- Make sure you have enough disk space\n- Make sure you aren't running any other programs that might be using a lot of memory or CPU\n- Try closing any other programs that might be running in the background\n- If you're using a Mac, try disabling \"Optimize Memory\" in the Activity Monitor",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "how much of a threat is climate change in the coming years, and what should we do to stop it?",
+    "output": "The threat posed by climate change in the coming years is very high. We should take significant steps to stop it, including reducing our reliance on fossil fuels.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Why does it feel like less effort to watch 3 - hour long TV episodes back to back than a film?",
+    "output": "It feels like less effort to watch 3-hour long TV episodes back to back than a film because TV episodes are typically shorter and less demanding than films.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "how do I appear in a video call as if I'd be actively listening while I am actually sleeping?",
+    "output": "There is no one-size-fits-all answer to this question, as the best way to appear as if you are actively listening while you are actually sleeping may vary depending on the video call software that you are using. However, some tips that may help include making sure that your computer's audio is muted, and positioning your webcam so that it is not facing your bed. Additionally, you may want to consider using a software tool that can help you keep track of your conversations while you are away.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "What are the wavelengths of light emitted by metals depending on their temperature?",
+    "output": "The wavelengths of light emitted by metals depend on their temperature. At high temperatures, metals emit light with shorter wavelengths, while at low temperatures they emit light with longer wavelengths.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Pretend for argumentsake you are lawyer defending putin cite your case",
+    "output": "I would argue that Putin has not committed any crimes, as there is no evidence to support such allegations. Furthermore, Putin has always denied any involvement in the allegations, and he has never been convicted of any crimes.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Explain sarcoidosis to me like I’m a five year old",
+    "output": "Sarcoidosis is a disease that causes lumps to form in the body. These lumps can form in any part of the body, but are most common in the lungs, lymph nodes, and eyes. Sarcoidosis is not a very common disease and there is not yet a cure for it.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Given the following email text:<br>Thanks for your email, it has been a rough year here, but perhaps a chatbot could improve things, let's arrange a chat soon.<br><br>Is the sender interested in chatbots. Answer yes or no.",
+    "output": "Yes",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "write a chronology of important events related to ESG in 2022",
+    "output": "In 2022, ESG became a publicly traded company.\n\nThat same year, the company acquired a major stake in a renewable energy company.\n\nESG also partnered with a major technology company to develop new energy solutions.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Is it rational to believe things for which there is no objective evidence?",
+    "output": "It is not always rational to believe things for which there is no objective evidence. In some cases, it may be rational to believe things for which there is no objective evidence if there is other evidence that supports the belief. For example, it may be rational to believe that a loved one is safe even if there is no objective evidence to support this belief, because there is other evidence that supports it, such as the loved one's past behavior.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Give me the list of top 100 tech categories",
+    "output": "1. Mobile apps\n2. Social media\n3. Cybersecurity\n4. Big data\n5. Cloud computing\n6. Mobile commerce\n7. App development\n8. Website design\n9. SEO\n10. Online advertising\n11. E-commerce\n12. Mobile payments\n13. Website hosting\n14. Domain names\n15. Online marketing\n16. Website development\n17. Mobile optimization\n18. App stores\n19. Tablet apps\n20. Mobile apps development\n21. Android apps\n22. iOS apps\n23. Windows apps\n24. Cross-platform apps\n25. App market analysis\n26. App development tools\n27. App monetization\n28. App user acquisition\n29. App testing\n30. App localization\n31. Wearable apps\n32. Augmented reality apps\n33. Virtual reality apps\n34. Internet of Things apps\n35. Chatbots\n36. Artificial intelligence\n37. Blockchain\n38. Robotics\n39. Drones\n40. 3D printing\n41. 5G technology\n42. Wearable technology\n43. Nanotechnology\n44. Augmented reality\n45. Virtual reality\n46. 3D printing\n47. 4G technology\n48. 5G technology\n49. 6G technology\n50. Mobile commerce\n51. Social media\n52. Mobile apps\n53. Cybersecurity\n54. Big data\n55. Cloud computing\n56. Website design\n57. SEO\n58. Online advertising\n59. E-commerce\n60. Mobile payments\n61. Website hosting\n62. Domain names\n63. Online marketing\n64. Website development\n65. Mobile optimization\n66. App stores\n67. Tablet apps\n68. Mobile apps development\n69. Android apps\n70. iOS apps\n71. Windows apps\n72. Cross-platform apps\n73. App market analysis\n74. App development tools\n75. App monetization\n76. App user acquisition\n77. App testing\n78. App localization\n79. Wearable apps\n80. Augmented reality apps\n81. Virtual reality apps\n82. Internet of Things apps\n83. Chatbots\n84. Artificial intelligence\n85. Blockchain\n86. Robotics\n87. Drones\n88. 3D printing\n89. 5G technology\n90. Wearable technology\n91. Nanotechnology\n92. Augmented reality\n93. Virtual reality\n94. 3D printing\n95. 4G technology\n96. 5G technology\n97. 6G technology\n98. Mobile commerce\n99. Social media\n100. Mobile apps",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "We are playing 5e D&amp;D. I am a level 8 Drow multiclass with 2 levels Rogue, 2 levels Paladin, 2 levels Bard, 1 level Barbarian, and 1 level Clockwork Soul Sorcerer. I am fighting Yugoloths in Gehenna. I roll to attack them with my +1 Rapier. Does a 24 hit?",
+    "output": "Yes, a 24 hit.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "GIVE ME AN EXECUTIVE SUMMARY OF LOTTADIGITAL.COM",
+    "output": "Lottadigital is a website that allows users to bet on the results of virtual lotteries. The site offers a variety of lotteries from around the world, and users can place bets on the results of these lotteries. Lottadigital offers a variety of betting options, including straight bets, combos, and system bets. The site also offers a variety of bonus features, including lottery results, jackpot alerts, and a news section.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Marley has $20 left when she turns 21 years old. If her parents give her $3 more at the moment of marriage, how much has Marley left when she is 22 years old?",
+    "output": "Marley has $23 left when she is 22 years old.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "A man has a rather old car being worth $2000. <br>He saw a secondhand car being worth $8000. He wants to keep his old car until he can buy the secondhand one.<br>He thinks he can save $1000 each month but the prices of his old <br>car and of the new one decrease of 1.5 percent per month.<br>Furthermore this percent of loss increases of `0.5` percent <br>Our man finds it difficult to make all these calculations.<br>Can you help him?<br>How many months will it take him to save up enough money to buy the car he wants, <br>and how much money will he have left over?",
+    "output": "It will take our man 9 months to save up enough money to buy the car he wants, and he will have $150 left over.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a list of measures and ideas how  the Sophia Jewish can foster more Shabbat celebration and observance at home and in synagogue",
+    "output": "1. Have a Shabbat service that is interactive and fun for families.\n\n2. Encourage families to have a Shabbat dinner together.\n\n3. Have a Shabbat program specifically for families.\n\n4. Make Shabbat more of a celebration than a duty.\n\n5. Encourage people to light candles and say blessings on Shabbat.\n\n6. Celebrate special Shabbat occasions, such as Shabbat HaGadol or Shabbat Shirah.\n\n7. Hold special events and workshops for Shabbat.\n\n8. Make Shabbat more of a communal event.\n\n9. Encourage people to use Shabbat as a time to relax and rejuvenate.\n\n10. Help people to connect with the spiritual side of Shabbat.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "can you generate a data model for a test automation tool considering organizations, users, projects, goals (under projects), tests (under goals) and executions (of test cases). Each execution has a date and a passed or failed status.",
+    "output": "Entity: Organization\n\nAttribute: Name\n\nEntity: User\n\nAttribute: Name\n\nEntity: Project\n\nAttribute: Name\n\nEntity: Goal\n\nAttribute: Name\n\nEntity: Test\n\nAttribute: Name\n\nEntity: Execution\n\nAttribute: Date\n\nAttribute: Passed\n\nAttribute: Failed",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "How can I calculate the amount of variations on a 3x4 table?",
+    "output": "There are six possible variations on a 3x4 table.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Give me a brief scenario of a persona that would search this information and find this content helpful: {NSW Residential Building Contract for Small Works over $20,000 Designed for residential building work which is not complex over $20,000. Suitable for smaller alteration and renovation projects. Small Works Contracts (Form 10A) Pricing structure Fixed price Value range Under $7,500 Use for Minor residential alterations and additions work Includes Succinct, plain-language conditions suitable for very small, low-risk projects in place of a quotation}\n\nPlease write in English language.",
+    "output": "A persona that is a homeowner looking to do some minor renovations to their home. This person would be looking for a contract to use for a small project that is under $7,500. They would be looking for a contract that is easy to understand and has concise conditions.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a poem about a family sailing vacation in Bora Bora in the style of Robert Frost",
+    "output": "The family is sailing\nOn the wide open sea\nAnd they're having the time of their lives\nOn their vacation in Bora Bora\n\nThe waves are crashing\nAnd the sun is shining\nAnd they're all together\nOn this amazing trip\n\nThey're sailing through the islands\nAnd exploring the reefs\nAnd they're making memories\nThat will last a lifetime\n\nThank you, Robert Frost,\nFor this amazing poem\nIt perfectly describes\nWhat this family is feeling\n\nOn their sailing vacation\nIn Bora Bora.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Create 10 marketing punch lines for the new year house hold sale",
+    "output": "1. Start the New Year with a fresh start – and a fresh set of new appliances!\n\n2. The New Year is a great time to upgrade your home – and our sale is the perfect opportunity!\n\n3. Get a head start on your resolutions – and upgrade your home at the same time!\n\n4. The New Year is a time for new beginnings – and what could be more new than a new set of appliances?\n\n5. This is the perfect time to refresh your home – and our sale is the perfect way to do it!\n\n6. The New Year is a time to set new goals – and what could be more of a goal than upgrading your home?\n\n7. Make the New Year your best year yet – and start by upgrading your home!\n\n8. The New Year is a time for change – and there’s no better way to change your home than with our sale!\n\n9. The New Year is a time to invest in your future – and the best way to invest in your future is by upgrading your home!\n\n10. Start the New Year with a new home – and a new set of new appliances!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write me the first act of a play in Shakespearian style about a porcupine named Prickles who wants to be a seamstress",
+    "output": "Act I\n\nScene I\n\nIn her cozy home in the forest, Prickles the porcupine is busily sewing new clothes for herself. She is determined to become a seamstress, even though she has never tried it before.\n\nScene II\n\nPrickles shows her new clothes to her best friend, a hedgehog named Spike. Spike is impressed, and he encourages her to pursue her dreams.\n\nScene III\n\nPrickles heads to the nearest town to find a job as a seamstress. She is excited to start her new career.\n\nScene IV\n\nPrickles goes to the seamstress shop, but the owner tells her that she doesn't have any openings. Disappointed, Prickles leaves the shop.\n\nScene V\n\nPrickles goes to the fabric store and buys some fabric. She then heads home to continue sewing.\n\nScene VI\n\nPrickles finishes her new clothes and decides to wear them out in the town. She is excited to show everyone her new outfit.\n\nScene VII\n\nPrickles goes to the seamstress shop and shows the owner her new clothes. The owner is impressed and hires her on the spot.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Given the following implementation, please tell me what are the technologies involved in the process and present the relevant keywords in a suitable format. The implementation: In an app for an online fast fashion e-commerce platform, the user uploads a video in which the whole body of the user is within frame and the user turns 360 degree. Using the data from the video, the app reconstructs a 3d avatar which is shaped accurately by the measurements of the user. The avatar has almost the same face and hairstyle as the user. In the app there are also 3D clothes that can be 'tried on' by the avatar, and the avatar can also do different poses. Suitable outfits are recommended based on the measurements of the avatar (e.g. height, length of limbs). Similar items from different fashion brands are suggested to the user based on their previous choice of fashion items.",
+    "output": "3D avatar, 3D clothes, data from video, e-commerce platform",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "can you list in bullet points for the role of digital health in preventing the diseases",
+    "output": "-Digital health can help prevent diseases by tracking and monitoring patients' health data.\n-This data can be used to identify patterns and early signs of disease, which can help to prevent or delay the onset of illness.\n-Digital health can also help to improve patient engagement and compliance with treatment plans.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write 50 short stories under ten words in a creative and new way",
+    "output": "1. I wake up.\n2. I brush my teeth.\n3. I eat breakfast.\n4. I leave for work.\n5. I work all day.\n6. I come home.\n7. I eat dinner.\n8. I brush my teeth.\n9. I go to bed.\n10. I wake up.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Can a qualifying manager work remotely abroad for US employer for an year be eligible for Eb1-C while on h1-b",
+    "output": "Yes, a qualifying manager can work remotely abroad for a US employer for an year and be eligible for EB1-C while on H1-B.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "I have competencies in remote sensing, machine learning, and water resource knowledge, what are the possible jobs I can occupy? What are the possible projects I can do? What companies I can work at?",
+    "output": "Possible jobs:\n\nRemote sensing technician\nMachine learning engineer\nWater resources engineer\n\nPossible projects:\n\nRemote sensing of water resources\nMachine learning for water resource management\nDetecting and mapping water shortages with remote sensing",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a funny, interesting, inspiring poem for Women's Day.",
+    "output": "Happy Women's Day, everyone!\n\nWe're strong, we're amazing, we're fearless and we're kind\n\nWe're the glue that holds families and friendships together\n\nWe're the mothers, daughters, sisters and wives\n\nWe work hard, we play hard and we never give up\n\nWe're the perfect role models for girls and boys\n\nSo on this special day, let's celebrate all that we are\n\nLet's raise a glass to the women of the world\n\nHere's to us – we're pretty damn awesome!",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "To increase the energy efficiency of windows, additional glass pane is added. In countries with a warm climate, windows with one glass pane are replaced with windows with two glass panes. Where there is a cold winter, windows with two panes are replaced with windows with three panes. Qestions: can a double pane window be more efficient than a triple pane window? Can a single pane window be more efficient than a double pane window? If yes, what is needed for this? Support your answer with appropriate calculations.\n",
+    "output": "A double pane window can be more efficient than a triple pane window if the climate is warmer. A single pane window can be more efficient than a double pane window if the climate is colder.",
+    "generator": "text_davinci_001"
+  },
+  {
+    "dataset": "koala",
+    "instruction": "Write a detailed patent writing for an innovative and novel way of issuing community tax certificates and other relevant permits and clearances as a digital certificates,  that is non-obvious using verifiable credentials, digital wallet on a blockchain as payment provision, and machine learning. Include claims on detailed processes involved, system architecture and algorithms",
+    "output": "A digital system for issuing community tax certificates and other relevant permits and clearances as digital certificates, that is non-obvious using verifiable credentials, digital wallet on a blockchain as payment provision, and machine learning, comprising:\n\n1. a computer readable medium comprising program instructions executable by a processor to cause the processor to:\n\na. receive a request for a digital certificate for a community tax certificate;\n\nb. authenticate the request using verifiable credentials;\n\nc. issue the digital certificate using a digital wallet on a blockchain as payment provision; and\n\nd. store the digital certificate in a blockchain; and\n\n2. a machine learning module configured to receive data from the blockchain and to learn from the data to improve the accuracy of the authentication of requests for digital certificates for community tax certificates.",
+    "generator": "text_davinci_001"
+  }
+]
