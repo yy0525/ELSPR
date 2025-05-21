@@ -8,12 +8,10 @@ This repo contains codes ,dataset and result for ELSPR: Evaluator LLM Training D
 
 ## Quick Installation ⚙️
 ```bash
-conda create --name ELSPR python=3.10
-conda activate ELSPR
-pip install poetry
+code is comming soon
 ```
 
-## Usage 🛠
+<!-- ## Usage 🛠
 
 ### Analyze preference data
 
@@ -36,7 +34,7 @@ Using other instruction file
 Default setting
 ```bash
 python ...
-```
+``` -->
 
 
 
