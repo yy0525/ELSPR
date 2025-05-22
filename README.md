@@ -10,12 +10,13 @@ This repo contains codes ,dataset and result for ELSPR: Evaluator LLM Training D
 ```bash
 conda create -n ELSPR python=3.10
 conda activate ELSPR
+pip install -r requirements.txt
 cd src
 ###  Download Dataset from Alpaca_eval
 python download_dataset.py
 ```
+---
 📂 Select Model Dataset Splitter
-This script processes JSON files in the model directory, filters them by dataset name (e.g., helpful_base, vicuna), and saves each dataset into separate JSON files per model.
 This script processes the JSON files stored in the model directory, filters by dataset name (e.g. `helpful_base`, `vicuna`, etc.), and then saves each dataset into a separate JSON file for each model.
 ---
 ## ⚙️ Usage
@@ -112,4 +113,4 @@ Notes
 - Ensure all dependencies are installed before running the scripts.
 - Replace placeholder paths (../model_results, ../data/selected_models, etc.) with actual file paths as needed.
 ## Acknowledgement
-The responses of each model in the dataset come from [ALPACAEVAL](https://github.com/tatsu-lab/alpaca_eval). Thanks for their excellent work.
+The responses of each model in the dataset come from [Alpacaeval](https://github.com/tatsu-lab/alpaca_eval). Thanks for their excellent work.
