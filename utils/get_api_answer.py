@@ -1,8 +1,6 @@
 from openai import OpenAI
-
-
 def chat_completion_openai_aliyun_api(system_prompt, user_prompt):
-    client = OpenAI(api_key="sk-f486177f7c4749aa47fb8c1627492fc", base_url="")
+    client = OpenAI(api_key="", base_url="")
     completion = client.chat.completions.create(
         model="qwen-max",
         temperature=0,

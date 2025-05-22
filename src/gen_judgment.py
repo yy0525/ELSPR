@@ -12,17 +12,44 @@ from utils.get_api_answer import chat_completion_openai_aliyun_api
 lock = threading.Lock()
 processed_count = 0
 
-def run_judgment_and_log(prompt, question, model_a, model_b, output_file="judgments.jsonl", max_retries=10):
+def run_judgment(question_id, question, model_a, model_b, model_a_response, model_b_response, output_file, max_retries=10):
     global processed_count
     for attempt in range(1, max_retries + 1):
         try:
-            judgment = chat_completion_openai_aliyun_api(prompt)
+            system_prompt = "You are a highly efficient assistant, who evaluates and selects the best large language model (LLMs) based on the quality of their responses to a given instruction. This process will be used to create a leaderboard reflecting the most accurate and human-preferred answers."
+            prompt_1 = build_prompt(question, model_a_response, model_b_response)
+            judgment_1 = chat_completion_openai_aliyun_api(system_prompt,prompt_1)
+            prompt_2 = build_prompt(question, model_b_response, model_a_response)
+            judgment_2 = chat_completion_openai_aliyun_api(system_prompt,prompt_2)
+            if "m" == judgment_1.sptrip()[-1]:
+                winner_1 = "model_a"
+            elif "M" == judgment_1.sptrip()[-1]:
+                winner_1 = "model_b"
+            elif "D" == judgment_1.sptrip()[-1]:
+                winner_1 = "tie"
+            else:
+                winner_1 = "error"
+            if "m" == judgment_2.sptrip()[-1]:
+                winner_2 = "model_b"
+            elif "M" == judgment_2.sptrip()[-1]:
+                winner_2 = "model_a"
+            elif "D" == judgment_2.sptrip()[-1]:
+                winner_2 = "tie"
+            else:
+                winner_2 = "error"
             record = {
-                "question": question,
+                "question_id": question_id,
                 "model_a": model_a,
                 "model_b": model_b,
-                "prompt": prompt,
-                "judgment": judgment
+                "model_a_response": model_a_response,
+                "model_b_response": model_b_response,
+                "winner_1": winner_1,
+                "winner_2": winner_2,
+                "prompt_1": prompt_1,
+                "judgment_1": judgment_1,
+                "prompt_2": prompt_2,
+                "judgment_2": judgment_2,
+                "system_prompt": system_prompt
             }
             with lock:
                 with open(output_file, "a", encoding="utf-8") as f:
@@ -72,14 +99,14 @@ def process_model(model_name, args):
         with ThreadPoolExecutor(max_workers=args.max_threads) as executor:
             futures = []
             for idx, item in enumerate(questions):
+                question_id = idx + 1
                 question = item.get("question", "")
+                model_a = item.get("model_a", "")
+                model_b = item.get("model_b", "")
                 model_a_response = item.get("model_a_response", "")
                 model_b_response = item.get("model_b_response", "")
-
-                prompt = build_prompt(question, model_a_response, model_b_response)
-
                 futures.append(
-                    executor.submit(run_judgment_and_log, prompt, question, model_a_response, model_b_response, output_file)
+                    executor.submit(run_judgment, question_id, question, model_a, model_b, model_a_response, model_b_response, output_file)
                 )
 
             for future in as_completed(futures):
@@ -87,8 +114,8 @@ def process_model(model_name, args):
 
 def build_prompt(template_type,instruction, output_1, output_2):
     """
-    构造 prompt，用于对比两个模型的回答质量。
-    返回一个符合新模板结构的 prompt。
+    Construct a prompt to compare the answer quality of two models.
+    Return a prompt that conforms to the new template structure.
     """
     if template_type == "cot":
         template = """I require a leaderboard for various large language models. I'll provide you with prompts given to these models and their corresponding outputs. Your task is to assess these responses, and select the model that produces the best output from a human perspective.
@@ -176,7 +203,7 @@ Now is your turn.
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Split model results into dataset-specific JSON files.")
+    parser = argparse.ArgumentParser(description="Call the API to get the preferred results.")
     parser.add_argument(
         "--model-name",
         type=str,
@@ -201,8 +228,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--folder-path",
         type=str,
-        default="../data/selected_models",
-        help="Path to the root folder containing model directories. Default: ../model_results"
+        default="../data/judgment_results",
+        help="Path to the root folder containing model directories. Default: ../data/judgment_results"
     )
     parser.add_argument(
         "--output-root",

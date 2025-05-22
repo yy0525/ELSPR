@@ -8,10 +8,14 @@ This repo contains codes ,dataset and result for ELSPR: Evaluator LLM Training D
 
 ## Quick Installation ⚙️
 ```bash
-code is comming soon
+conda create -n ELSPR python=3.10
+conda activate ELSPR
+cd src
+###  Download Dataset from Alpaca_eval
+python download_dataset.py
 ```
-# Select the model to be processed Split model results by dataset
-
+📂 Select Model Dataset Splitter
+This script processes JSON files in the model directory, filters them by dataset name (e.g., helpful_base, vicuna), and saves each dataset into separate JSON files per model.
 This script processes the JSON files stored in the model directory, filters by dataset name (e.g. `helpful_base`, `vicuna`, etc.), and then saves each dataset into a separate JSON file for each model.
 ---
 ## ⚙️ Usage
@@ -26,19 +30,19 @@ python select_model.py [--model-name [MODEL_NAME ...]]
 ## ⚙️ Example
 
 ```bash
-python select_model.py --model-name airoboros-33b vicuna-7b --dataset helpful_base vicuna koala --folder-path ../model_results --output-root ../data/selected_models
+python select_model.py --model-name airoboros-33b vicuna-7b \
+                       --dataset helpful_base vicuna koala \
+                       --folder-path ../model_results \
+                       --output-root ../data/selected_models
 ```
 
-# 🧪 Model Judgment Runner
+🧪 Model Judgment Runner
+Run pairwise model response evaluations using external APIs (e.g., OpenAI or Aliyun) and save judgment results in structured JSONL format. Features include:
 
-This script is designed to **run pairwise model response evaluations using an external API**, such as OpenAI or Aliyun, and save the judgment results in structured JSONL format. It supports:
-
-- Multiple models and datasets
-- Parallel processing via multithreading
-- Flexible prompt templates (`cot` for Chain-of-Thought or default)
+- Support for multiple models and datasets
+- Parallel processing with multithreading
+- Flexible prompt templates (cot for Chain-of-Thought or default)
 - Thread-safe output logging
-
-
 ---
 ## ⚙️ Usage
 
@@ -63,4 +67,49 @@ python judge_model_responses.py \
   --max-threads 10
 ```
 
+# 🧠 Model Evaluation & DAG Generator
 
+This script provides two core functionalities for analyzing model judgment results:
+
+- ✅ **Model Evaluation**: Calculate structural entropy or non-transitivity metrics across datasets.
+- ❌ **Non-transitivity Removal**: Generate clean DAGs by resolving cyclic to tap inconsistent preferences.
+
+It is especially useful in:
+- Ranking language models based on pairwise judgments
+- Detecting and resolving inconsistencies in preference data
+- Generating clean training data for reward models or policy fine-tuning
+
+---
+
+## ⚙️ Usage
+
+You can run the script in **two modes**:
+
+### Mode 1: Evaluate Models (`eval`)
+```bash
+python your_script.py --mode eval [--flag entropy|non-trans] [other options]
+```
+### Mode 2: Evaluate Models (`dag`)
+```bash
+python your_script.py --mode dag [other options]
+```
+
+📋 Judgment-to-Training Set Converter
+Convert judgment results in JSONL format into structured training datasets for fine-tuning language models. The script separates data into:
+- ✅ Judgment samples without non-transitive preferences (`cleaned_traing_set_alpaca.json`)
+- ❌ Judgment samples with non-transitive preferences (`raw_traing_set_alpaca.json`)
+---
+
+## ⚙️ Usage
+
+```bash
+python gen_training_set.py \
+  --original-path ORIGINAL_PATH \
+  --answer-path ANSWER_PATH \
+  --dataset-name DATASET_NAME
+```
+Notes
+- Ensure all dependencies are installed before running the scripts.
+- Replace placeholder paths (../model_results, ../data/selected_models, etc.) with actual file paths as needed.
+## Acknowledgement
+The responses of each model in the dataset come from [ALPACAEVAL](https://github.com/tatsu-lab/alpaca_eval). Thanks for their excellent work.
