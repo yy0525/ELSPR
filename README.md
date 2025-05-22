@@ -72,11 +72,20 @@ You can run the script in **two modes**:
 
 ### Mode 1: Evaluate Models (`eval`)
 ```bash
-python your_script.py --mode eval [--flag entropy|non-trans] [other options]
+python get_eval.py \
+  --mode eval \
+  --flag entropy \
+  --dataset helpful_base koala \
+  --folder-path ../data/selected_models \
+  --output-root ../data/eval_results
 ```
-### Mode 2: Evaluate Models (`dag`)
+### Mode 2: DAG Generator (`dag`)
 ```bash
-python your_script.py --mode dag [other options]
+python get_eval.py \
+  --mode dag \
+  --dataset helpful_base koala \
+  --folder-path ../data/selected_models \
+  --output-root ../data/eval_results
 ```
 This script provides two core functionalities for analyzing model judgment results:
 
