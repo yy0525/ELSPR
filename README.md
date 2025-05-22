@@ -15,7 +15,6 @@ cd src
 ###  Download Dataset from Alpaca_eval
 python download_dataset.py
 ```
----
 📂 Select Model Dataset Splitter
 This script processes the JSON files stored in the model directory, filters by dataset name (e.g. `helpful_base`, `vicuna`, etc.), and then saves each dataset into a separate JSON file for each model.
 ---
