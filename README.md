@@ -15,11 +15,7 @@ cd src
 ###  Download Dataset from Alpaca_eval
 python download_dataset.py
 ```
-
-📂 Select Model Dataset Splitter
-This script processes the JSON files stored in the model directory, filters by dataset name (e.g. `helpful_base`, `vicuna`, etc.), and then saves each dataset into a separate JSON file for each model.
----
-## ⚙️ Usage
+## 📂️ Select Model Dataset Splitter
 
 ```bash
 python select_model.py [--model-name [MODEL_NAME ...]] 
@@ -28,6 +24,7 @@ python select_model.py [--model-name [MODEL_NAME ...]]
                            [--output-root OUTPUT_ROOT]
 ```
 
+ This script processes the JSON files stored in the model directory, filters by dataset name (e.g. `helpful_base`, `vicuna`, etc.), and then saves each dataset into a separate JSON file for each model.
 ## ⚙️ Example
 
 ```bash
@@ -37,15 +34,9 @@ python select_model.py --model-name airoboros-33b vicuna-7b \
                        --output-root ../data/selected_models
 ```
 
-🧪 Model Judgment Runner
-Run pairwise model response evaluations using external APIs (e.g., OpenAI or Aliyun) and save judgment results in structured JSONL format. Features include:
 
-- Support for multiple models and datasets
-- Parallel processing with multithreading
-- Flexible prompt templates (cot for Chain-of-Thought or default)
-- Thread-safe output logging
 ---
-## ⚙️ Usage
+## ⚙️ Model Judgment Runner
 
 ```bash
 python gen_judgemnet.py \
@@ -56,6 +47,12 @@ python gen_judgemnet.py \
   [--output-root OUTPUT_PATH] \
   [--max-threads N]
 ```
+Run pairwise model response evaluations using external APIs (e.g., OpenAI or Aliyun) and save judgment results in structured JSONL format. Features include:
+
+- Support for multiple models and datasets
+- Parallel processing with multithreading
+- Flexible prompt templates (cot for Chain-of-Thought or default)
+- Thread-safe output logging
 ## ⚙️ Example
 
 ```bash
@@ -67,22 +64,9 @@ python judge_model_responses.py \
   --prompt-template cot \
   --max-threads 10
 ```
-
-# 🧠 Model Evaluation & DAG Generator
-
-This script provides two core functionalities for analyzing model judgment results:
-
-- ✅ **Model Evaluation**: Calculate structural entropy or non-transitivity metrics across datasets.
-- ❌ **Non-transitivity Removal**: Generate clean DAGs by resolving cyclic to tap inconsistent preferences.
-
-It is especially useful in:
-- Ranking language models based on pairwise judgments
-- Detecting and resolving inconsistencies in preference data
-- Generating clean training data for reward models or policy fine-tuning
-
 ---
 
-## ⚙️ Usage
+## 🧠 Model Evaluation & DAG Generator
 
 You can run the script in **two modes**:
 
@@ -94,14 +78,20 @@ python your_script.py --mode eval [--flag entropy|non-trans] [other options]
 ```bash
 python your_script.py --mode dag [other options]
 ```
+This script provides two core functionalities for analyzing model judgment results:
 
-📋 Judgment-to-Training Set Converter
-Convert judgment results in JSONL format into structured training datasets for fine-tuning language models. The script separates data into:
-- ✅ Judgment samples without non-transitive preferences (`cleaned_traing_set_alpaca.json`)
-- ❌ Judgment samples with non-transitive preferences (`raw_traing_set_alpaca.json`)
+- ✅ **Model Evaluation**: Calculate structural entropy or non-transitivity metrics across datasets.
+- ❌ **Non-transitivity Removal**: Generate clean DAGs by resolving cyclic to tap inconsistent preferences.
+
+It is especially useful in:
+- Ranking language models based on pairwise judgments
+- Detecting and resolving inconsistencies in preference data
+- Generating clean training data for reward models or policy fine-tuning
+
+
 ---
 
-## ⚙️ Usage
+## 📋 Judgment-to-Training Set Converter
 
 ```bash
 python gen_training_set.py \
@@ -109,6 +99,9 @@ python gen_training_set.py \
   --answer-path ANSWER_PATH \
   --dataset-name DATASET_NAME
 ```
+Convert judgment results in JSONL format into structured training datasets for fine-tuning language models. The script separates data into:
+- ✅ Judgment samples without non-transitive preferences (`cleaned_traing_set_alpaca.json`)
+- ❌ Judgment samples with non-transitive preferences (`raw_traing_set_alpaca.json`)
 Notes
 - Ensure all dependencies are installed before running the scripts.
 - Replace placeholder paths (../model_results, ../data/selected_models, etc.) with actual file paths as needed.
