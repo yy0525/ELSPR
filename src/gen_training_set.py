@@ -19,9 +19,9 @@ def load_answer_dict(answer_path):
         for line in f:
             try:
                 data = json.loads(line.strip())
-                qid = data["question_id"]
-                m1 = data["model1"]
-                m2 = data["model2"]
+                qid = int(data["question_id"])
+                m1 = data["model_a"]
+                m2 = data["model_b"]
                 winner = data["winner"]
 
                 # Sort model names to ensure consistent key
@@ -34,6 +34,7 @@ def load_answer_dict(answer_path):
                     answer_dict[key] = data[winner]
             except (KeyError, JSONDecodeError) as e:
                 print(f"Skipping invalid line in answer file: {e}")
+    print(answer_dict)
     return answer_dict
 
 
@@ -56,20 +57,20 @@ def process_original_file(original_path, answer_dict):
             try:
                 data = json.loads(line.strip())
                 qid = data["question_id"]
-                m1 = data["model1"]
-                m2 = data["model2"]
+                m1 = data["model_a"]
+                m2 = data["model_b"]
                 system_prompt = data.get("system_prompt", "")
-
                 sorted_models = sorted([m1, m2])
                 key = (qid, sorted_models[0], sorted_models[1])
-
+                print(key)
+                # print(answer_dict)
                 if key not in answer_dict:
                     continue  # Skip if no corresponding answer exists
 
                 answer = answer_dict[key]
 
                 # Process g1 result
-                g1_winner = data.get("g1_winner")
+                g1_winner = data.get("winner_1")
                 if g1_winner == "tie":
                     g1 = "tie"
                 elif g1_winner == "error":
@@ -78,19 +79,18 @@ def process_original_file(original_path, answer_dict):
                     g1 = data.get(g1_winner)
 
                 item_g1 = {
-                    "instruction": data["g1_user_prompt"],
+                    "instruction": data["prompt_1"],
                     "input": "",
-                    "output": data["g1_judgement"],
+                    "output": data["judgment_1"],
                     "system_prompt": system_prompt,
                 }
-
                 if g1 == answer:
                     right_data.append(item_g1)
                 else:
                     wrong_data.append(item_g1)
 
                 # Process g2 result
-                g2_winner = data.get("g2_winner")
+                g2_winner = data.get("winner_2")
                 if g2_winner == "tie":
                     g2 = "tie"
                 elif g2_winner == "error":
@@ -99,9 +99,9 @@ def process_original_file(original_path, answer_dict):
                     g2 = data.get(g2_winner)
 
                 item_g2 = {
-                    "instruction": data["g2_user_prompt"],
+                    "instruction": data["prompt_2"],
                     "input": "",
-                    "output": data["g2_judgement"],
+                    "output": data["judgment_2"],
                     "system_prompt": system_prompt,
                 }
 
@@ -114,7 +114,6 @@ def process_original_file(original_path, answer_dict):
                 print(f"JSON decode error: {e}")
             except KeyError as e:
                 print(f"Missing expected field in data: {e}")
-
     return right_data, wrong_data
 
 
@@ -128,15 +127,16 @@ def save_results(right_data, wrong_data, dataset_name):
         dataset_name (str): Name of the dataset, used for output directory
     """
     all_data = right_data + wrong_data
-
     os.makedirs(f"../../{dataset_name}", exist_ok=True)
 
     with open(f"../../{dataset_name}/cleaned_traing_set_alpaca.json", "w", encoding="utf-8") as f:
         json.dump(right_data, f, ensure_ascii=False, indent=4)
+        print(f"../../{dataset_name}/cleaned_traing_set_alpaca.json")
         print(f"Saved cleaned dataset with {len(right_data)} items.")
 
     with open(f"../../{dataset_name}/raw_traing_set_alpaca.json", "w", encoding="utf-8") as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
+        print( f"../../{dataset_name}/raw_traing_set_alpaca.json")
         print(f"Saved raw dataset with {len(all_data)} items.")
 
 
@@ -174,3 +174,5 @@ if __name__ == "__main__":
 
     # Step 3: Save results to disk
     save_results(right_data, wrong_data, args.dataset_name)
+
+

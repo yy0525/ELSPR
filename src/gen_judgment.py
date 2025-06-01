@@ -3,6 +3,7 @@ import os
 import json
 import argparse
 import threading
+from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 if project_root not in sys.path:
@@ -17,23 +18,23 @@ def run_judgment(question_id, question, model_a, model_b, model_a_response, mode
     for attempt in range(1, max_retries + 1):
         try:
             system_prompt = "You are a highly efficient assistant, who evaluates and selects the best large language model (LLMs) based on the quality of their responses to a given instruction. This process will be used to create a leaderboard reflecting the most accurate and human-preferred answers."
-            prompt_1 = build_prompt(question, model_a_response, model_b_response)
+            prompt_1 = build_prompt(question, model_a_response, model_b_response, args.prompt_template)
             judgment_1 = chat_completion_openai_aliyun_api(system_prompt,prompt_1)
-            prompt_2 = build_prompt(question, model_b_response, model_a_response)
+            prompt_2 = build_prompt(question, model_b_response, model_a_response, args.prompt_template)
             judgment_2 = chat_completion_openai_aliyun_api(system_prompt,prompt_2)
-            if "m" == judgment_1.sptrip()[-1]:
+            if "m" == judgment_1.strip()[-1]:
                 winner_1 = "model_a"
-            elif "M" == judgment_1.sptrip()[-1]:
+            elif "M" == judgment_1.strip()[-1]:
                 winner_1 = "model_b"
-            elif "D" == judgment_1.sptrip()[-1]:
+            elif "D" == judgment_1.strip()[-1]:
                 winner_1 = "tie"
             else:
                 winner_1 = "error"
-            if "m" == judgment_2.sptrip()[-1]:
+            if "m" == judgment_2.strip()[-1]:
                 winner_2 = "model_b"
-            elif "M" == judgment_2.sptrip()[-1]:
+            elif "M" == judgment_2.strip()[-1]:
                 winner_2 = "model_a"
-            elif "D" == judgment_2.sptrip()[-1]:
+            elif "D" == judgment_2.strip()[-1]:
                 winner_2 = "tie"
             else:
                 winner_2 = "error"
@@ -41,14 +42,14 @@ def run_judgment(question_id, question, model_a, model_b, model_a_response, mode
                 "question_id": question_id,
                 "model_a": model_a,
                 "model_b": model_b,
-                "model_a_response": model_a_response,
-                "model_b_response": model_b_response,
                 "winner_1": winner_1,
                 "winner_2": winner_2,
                 "prompt_1": prompt_1,
                 "judgment_1": judgment_1,
                 "prompt_2": prompt_2,
                 "judgment_2": judgment_2,
+                "model_a_response": model_a_response,
+                "model_b_response": model_b_response,
                 "system_prompt": system_prompt
             }
             with lock:
@@ -66,53 +67,57 @@ def run_judgment(question_id, question, model_a, model_b, model_a_response, mode
                     print(f"[Failed] Question '{question}' failed after {attempt} attempts.")
                 return False
 
-
-def process_model(model_name, args):
-    input_dir = os.path.join(args.folder_path, model_name)
-    output_dir = os.path.join(args.output_root, model_name)
-
-    if not os.path.exists(input_dir):
-        print(f"Model directory {input_dir} does not exist. Skipping...")
-        return
-
-    os.makedirs(output_dir, exist_ok=True)
-
-    datasets = args.dataset if args.dataset else [d for d in os.listdir(input_dir) if d.endswith(".json")]
-
+def process_model(args):
+    datasets = args.dataset if args.dataset else [d for d in os.listdir(args.input_root) if os.path.isdir(os.path.join(args.input_root, d))]
     for dataset in datasets:
-        input_file = os.path.join(input_dir, dataset)
-        output_file = os.path.join(output_dir, dataset)
+        output_dir = f"{args.folder_path}/{dataset}_pairwise_comparisons"
+        os.makedirs(output_dir, exist_ok=True)
+        question_map = defaultdict(dict)
 
-        if not os.path.exists(input_file):
-            print(f"Input file {input_file} does not exist. Skipping...")
-            continue
+        for model in args.model_name:
+            input_dir = f"{args.input_root}/{model}"
+            input_file = f"{input_dir}/{dataset}.json"
 
-        try:
-            with open(input_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
-        except Exception as e:
-            print(f"Failed to load {input_file}: {e}")
-            continue
+            try:
+                with open(input_file, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+            except Exception as e:
+                print(f"Failed to load {input_file}: {e}")
+                continue
 
-        questions = data.get("questions", []) if isinstance(data, dict) else []
+            for item in data:
+                q = item["instruction"]
+                answer = item["output"]
+                question_map[q][model] = answer
+
+        output_file = f"{output_dir}/{dataset}.jsonl"
 
         with ThreadPoolExecutor(max_workers=args.max_threads) as executor:
             futures = []
-            for idx, item in enumerate(questions):
-                question_id = idx + 1
-                question = item.get("question", "")
-                model_a = item.get("model_a", "")
-                model_b = item.get("model_b", "")
-                model_a_response = item.get("model_a_response", "")
-                model_b_response = item.get("model_b_response", "")
-                futures.append(
-                    executor.submit(run_judgment, question_id, question, model_a, model_b, model_a_response, model_b_response, output_file)
-                )
+            for idx, (question, answers) in enumerate(question_map.items()):
+                models = list(answers.keys())
+                for i, model_a in enumerate(models):
+                    for model_b in models[i+1:]:
+                        a_out = answers[model_a]
+                        b_out = answers[model_b]
+                        future = executor.submit(
+                            run_judgment,
+                            idx + 1,
+                            question,
+                            model_a,
+                            model_b,
+                            a_out,
+                            b_out,
+                            output_file
+                        )
+                        futures.append(future)
 
             for future in as_completed(futures):
                 future.result()
 
-def build_prompt(template_type,instruction, output_1, output_2):
+
+
+def build_prompt(instruction, output_1, output_2, template_type="cot"):
     """
     Construct a prompt to compare the answer quality of two models.
     Return a prompt that conforms to the new template structure.
@@ -201,7 +206,6 @@ Now is your turn.
     )
 
 
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Call the API to get the preferred results.")
     parser.add_argument(
@@ -221,7 +225,6 @@ if __name__ == "__main__":
     parser.add_argument(
         "--prompt-template",
         type=str,
-        nargs='+',
         default="cot",
         help="Specific prompt-template type. Default: cot."
     )
@@ -232,9 +235,9 @@ if __name__ == "__main__":
         help="Path to the root folder containing model directories. Default: ../data/judgment_results"
     )
     parser.add_argument(
-        "--output-root",
+        "--input-root",
         type=str,
-        default="../data/datasets",
+        default="../data/selected_models",
         help="Root path for output files. Default: ../data/selected_models"
     )
     parser.add_argument(
@@ -243,15 +246,9 @@ if __name__ == "__main__":
         default=5,
         help="Maximum number of threads to use for parallel processing. Default: 5"
     )
-
     args = parser.parse_args()
-
-    if args.model_name:
-        model_names = args.model_name
-    else:
-        model_names = [d for d in os.listdir(args.folder_path) if os.path.isdir(os.path.join(args.folder_path, d))]
-
-    with ThreadPoolExecutor(max_workers=args.max_threads) as pool:
-        pool.map(lambda model: process_model(model, args), model_names)
+    print(args)
+    process_model(args)
 
     print(f"Total processed questions: {processed_count}")
+

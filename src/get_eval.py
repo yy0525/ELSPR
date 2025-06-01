@@ -1,7 +1,11 @@
+import sys
 import os
 import argparse
 import pandas as pd
-from utils.eval import get_eval_entropy, get_eval_non_tran, get_DAG_result
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+from utils.tournament_graph import get_eval_entropy, get_eval_non_tran, get_DAG_result
 
 
 def eval_result(flag, dataset_list, dataset_dir, out_dir):
@@ -17,7 +21,7 @@ def eval_result(flag, dataset_list, dataset_dir, out_dir):
     results = []
 
     for dataset_name in dataset_list:
-        file_path = os.path.join(dataset_dir, dataset_name)
+        file_path = f"{dataset_dir}/{dataset_name}_pairwise_comparisons/{dataset_name}.jsonl"
 
         if not os.path.isfile(file_path):
             print(f"File not found: {file_path}")
@@ -83,8 +87,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--folder-path",
         type=str,
-        default="../data/selected_models",
-        help="Directory containing dataset files (e.g., helpful_base.json)."
+        default="../data/judgment_results",
+        help="Directory containing judgment results files."
     )
 
     parser.add_argument(
@@ -116,7 +120,12 @@ if __name__ == "__main__":
         eval_result(args.flag, dataset_list, dataset_dir, output_root)
     elif args.mode == "dag":
         # Run DAG generation
-        file_paths = [os.path.join(dataset_dir, d) for d in dataset_list]
+        file_paths = []
+        for dataset in dataset_list:
+            file_paths.append(f"{dataset_dir}/{dataset}_pairwise_comparisons/{dataset}.jsonl")
         get_without_non_transitivity_result(file_paths, dataset_list, output_root)
 
     print("🎉 All tasks completed.")
+
+
+

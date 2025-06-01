@@ -29,6 +29,10 @@ class TournamentGraph:
         Returns:
             True if edge was added successfully
         """
+        if node1 not in self.graph:
+            self.graph[node1] = []
+        if node2 not in self.graph:
+            self.graph[node2] = []
         # Handle tie relationship
         if relation == "tie":
             if ((node1 in self.graph[node2] and node2 not in self.graph[node1]) or
@@ -196,7 +200,6 @@ class TournamentGraph:
         """
         nodes = sorted(self.graph.keys())
         records = {}
-
         for u, v in combinations(nodes, 2):
             u, v = sorted([u, v])
             key = f"{u}||{v}"
@@ -207,17 +210,17 @@ class TournamentGraph:
             if has_u_to_v and has_v_to_u:
                 winner = "tie"
             elif has_u_to_v:
-                winner = "model_1"
+                winner = "model_a"
             elif has_v_to_u:
-                winner = "model_2"
+                winner = "model_b"
             else:
                 continue
 
             records[key] = {
                 "question_id": str(question_id),
                 "winner": winner,
-                "model_1": u,
-                "model_2": v,
+                "model_a": u,
+                "model_b": v,
             }
 
         with open(output_path, "a") as f:
@@ -303,3 +306,118 @@ class TournamentGraph:
             "structutal_entropy": structutal_entropy,
             "normalized_entropy": normalized_entropy,
         }
+
+def load_jsonl(file_path):
+    """Load jsonl file."""
+    with open(file_path, "r", encoding="utf-8") as file:
+        for line_number, line in enumerate(file, start=1):
+            try :
+                yield json.loads(line)
+            except json.JSONDecodeError as e:
+                print(f"Error in line {line_number}: {e}")
+                continue
+def bulid_graphs_from_jsonl(file_path):
+    graphs = {}
+    for item in load_jsonl(file_path):
+        question_id = item["question_id"]
+        model_a = item["model_a"]
+        model_b = item["model_b"]
+        winner_1 = item["winner_1"]
+        winner_2 = item["winner_2"]
+
+        if question_id not in graphs:
+            graphs[question_id] = TournamentGraph()
+        graph = graphs[question_id]
+        winner = winner_1
+        print(f"winner_1：{winner_1}")
+        print(f"winner_2：{winner_2}")
+        if winner == "model_a":
+            graph.add_edge(model_a, model_b, "win")
+        elif winner == "model_b":
+            graph.add_edge(model_a, model_b, "lose")
+        elif winner == "tie":
+            graph.add_edge(model_a, model_b, "tie")
+        winner = winner_2
+        if winner == "model_a":
+            graph.add_edge(model_a, model_b, "win")
+        elif winner == "model_b":
+            graph.add_edge(model_a, model_b, "lose")
+        elif winner == "tie":
+            graph.add_edge(model_a, model_b, "tie")
+
+    return graphs
+
+def analyze_graphs_info(graphs):
+    analyze_results = {}
+    for question_id, graph in graphs.items():
+        sccs = graph.find_scc()
+        filtered_scc= [scc for scc in sccs if not graph.is_all_tie_scc(scc)]
+        analyze_results[question_id] = {
+            "filtered_scc": filtered_scc
+        }
+    return analyze_results
+
+def count_infos_filtered_sccs(analyze_results):
+    scc_count_infos = {}
+    for question_id, result in analyze_results.items():
+        filtered_scc = result['filtered_scc']
+        num_cycles = len(filtered_scc)
+        models_in_scc = set()
+        for scc in filtered_scc:
+            models_in_scc.update(scc)
+        num_unique_models = len(models_in_scc)
+        sum_cycles_length = 0
+        for c in filtered_scc:
+            sum_cycles_length += len(c)
+        scc_count_infos[question_id] = {
+            'num_scc': num_cycles,
+            'num_unique_models': num_unique_models,
+            'models_in_scc': list(models_in_scc),
+            'scc': result['filtered_scc']
+        }
+    return scc_count_infos
+
+
+def get_eval_non_tran(file_path):
+    graphs = bulid_graphs_from_jsonl(file_path)
+    analyze_results = analyze_graphs_info(graphs)
+    sorted_question_ids = sorted(analyze_results.keys())
+    scc_count_infos = count_infos_filtered_sccs(analyze_results)
+
+    total_scc_num = 0
+    total_scc_model_num = 0
+    for question_id in sorted_question_ids:
+        total_scc_num += scc_count_infos[question_id]["num_scc"]
+        total_scc_model_num += scc_count_infos[question_id]["num_unique_models"]
+    return {
+        "question number": len(sorted_question_ids),
+        "scc num": total_scc_num,
+        "scc model num": total_scc_model_num,
+        "non-transitivity": f"{total_scc_model_num/(7*len(sorted_question_ids))*100:0.2f}%"
+    }
+def get_eval_entropy(file_path):
+    graphs = bulid_graphs_from_jsonl(file_path)
+    two_d_entrop_results = {}
+    for question_id, graph in graphs.items():
+        two_d_entrop = graph.calculate_2d_entropies()
+        two_d_entrop_results[question_id] = two_d_entrop
+    total_two_d_entropy = 0
+    total_normalized_two_d_entropy = 0
+    sorted_question_ids = sorted(two_d_entrop_results.keys())
+    for question_id in sorted_question_ids:
+        total_two_d_entropy += two_d_entrop_results[question_id]["structutal_entropy"]
+        total_normalized_two_d_entropy += two_d_entrop_results[question_id]["normalized_entropy"]
+    return {
+        "question number": len(sorted_question_ids),
+        "Ave structutal_entropy": total_two_d_entropy/len(sorted_question_ids),
+        "Ave normalized_entropy": total_normalized_two_d_entropy/len(sorted_question_ids),
+    }
+
+def get_DAG_result(file_path,out_dir,model_name):
+    graphs = bulid_graphs_from_jsonl(file_path)
+    for question_id, graph in graphs.items():
+        sccs = graph.find_scc()
+        filtered_scc = [scc for scc in sccs if not graph.is_all_tie_scc(scc)]
+        print(filtered_scc)
+        graph.resolve_cycles(filtered_scc)
+        graph.export_judgments(question_id,f"{out_dir}/{model_name}_DAG_result.jsonl")

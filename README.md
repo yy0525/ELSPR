@@ -56,7 +56,7 @@ Run pairwise model response evaluations using external APIs (e.g., OpenAI or Ali
 ## ⚙️ Example
 
 ```bash
-python judge_model_responses.py \
+python gen_judgemnet.py \
   --model-name airoboros-33b vicuna-7b \
   --dataset helpful_base \
   --folder-path ../data/selected_models \
