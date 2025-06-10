@@ -127,16 +127,16 @@ def save_results(right_data, wrong_data, dataset_name):
         dataset_name (str): Name of the dataset, used for output directory
     """
     all_data = right_data + wrong_data
-    os.makedirs(f"../../{dataset_name}", exist_ok=True)
+    os.makedirs(f"../data/datasets/{dataset_name}", exist_ok=True)
 
-    with open(f"../../{dataset_name}/cleaned_traing_set_alpaca.json", "w", encoding="utf-8") as f:
+    with open(f"../data/datasets/{dataset_name}/cleaned_traing_set_alpaca.json", "w", encoding="utf-8") as f:
         json.dump(right_data, f, ensure_ascii=False, indent=4)
-        print(f"../../{dataset_name}/cleaned_traing_set_alpaca.json")
+        print(f"../data/datasets/{dataset_name}/cleaned_traing_set_alpaca.json")
         print(f"Saved cleaned dataset with {len(right_data)} items.")
 
-    with open(f"../../{dataset_name}/raw_traing_set_alpaca.json", "w", encoding="utf-8") as f:
+    with open(f"../data/datasets/{dataset_name}/raw_traing_set_alpaca.json", "w", encoding="utf-8") as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
-        print( f"../../{dataset_name}/raw_traing_set_alpaca.json")
+        print( f"../data/datasets/{dataset_name}/raw_traing_set_alpaca.json")
         print(f"Saved raw dataset with {len(all_data)} items.")
 
 
@@ -146,14 +146,14 @@ if __name__ == "__main__":
     parser.add_argument(
         "--original-path",
         type=str,
-        required=True,
+        default="../data/judgment_results",
         help="Path to the original JSONL file containing judgments."
     )
 
     parser.add_argument(
         "--answer-path",
         type=str,
-        required=True,
+        default="../data/eval_results",
         help="Path to the JSONL file containing correct answers (winners)."
     )
 
@@ -167,10 +167,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Step 1: Load the answer dictionary
-    answer_dict = load_answer_dict(args.answer_path)
-
+    answer_path=f"{args.answer_path}/{args.dataset_name}_DAG_result.jsonl"
+    answer_dict = load_answer_dict(answer_path)
+    original_path=f"{args.original_path}/{args.dataset_name}_pairwise_comparisons/{args.dataset_name}.jsonl"
     # Step 2: Process original file and separate into right/wrong samples
-    right_data, wrong_data = process_original_file(args.original_path, answer_dict)
+    right_data, wrong_data = process_original_file(original_path, answer_dict)
 
     # Step 3: Save results to disk
     save_results(right_data, wrong_data, args.dataset_name)
