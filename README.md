@@ -111,3 +111,8 @@ Notes
 - Replace placeholder paths (../model_results, ../data/selected_models, etc.) with actual file paths as needed.
 ## Acknowledgement
 The responses of each model in the dataset come from [Alpacaeval](https://github.com/tatsu-lab/alpaca_eval). Thanks for their excellent work.
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
